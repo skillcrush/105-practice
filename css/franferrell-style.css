@@ -1,0 +1,46 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    width: auto;
+    margin: 10px 30px 0 30px;;
+    color: #2b2b2b;;
+}
+
+header a {
+    color: #098aa6;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+header a:hover {
+    color: #0cbce2;
+}
+h1 {
+    color: #5a6f29;
+}
+.franferrell-advice p {
+    font-size: 18px;
+    line-height: 26px;
+}
+.franferrell-advice span {
+    font-weight: bold;
+}
+.franferrell-advice h4 {
+    font-size: 22px;
+    color: #728c34;
+}
+.franferrell-advice #suzuki {
+    border-top: 2px solid #a1c64a;
+    padding-top: 25px;
+}
+.franferrell-advice h3 {
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    color: #0a9bba;
+    font-size: 26px;
+}
+footer {
+    padding-top: 30px;
+}
+footer #copyright {
+    font-size: 14px;
+    color: grey;
+}
