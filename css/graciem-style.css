@@ -1,0 +1,38 @@
+.graciem-advice {
+  background-color: #fdf6f6;
+  font-size: 16px;
+  line-height: 23px;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    line-height: 60px;
+    font-size: 46px;
+    margin: 0 0 23px 0;
+    }
+
+h4 {
+    font-family: 'Grand Hotel', cursive;
+    font-weight: normal;
+    font-size: 30px;
+    margin: 0 0 16px 0;
+    }
+
+p {
+    font-family: 'Lato', sans-serif;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    }
+
+a {
+    font-family: 'Grand Hotel', cursive;
+    font-weight: bold;
+    line-height: 30px;
+    margin: 0 0 30px 0;
+    }
+
+footer p {
+  color: #b2b2b2;
+  font-size: 14px;
+}
