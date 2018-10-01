@@ -1,0 +1,21 @@
+/** kelly's advice **/
+.kelly-advice {
+  text-align: center;
+  margin: 0 auto;
+  background: #f1ddc3;
+  width: 75%;
+}
+.kelly-advice h1 {
+  color: #9e6552;
+  border: 1px dotted #9e6552;
+}
+.kelly-advice p {
+  color: #5a5955;
+}
+.kelly-advice h4 {
+  color: #be976f;
+}
+.kelly-advice section {
+  border: 1px dotted #9e6552;
+  padding: 0 3% 0 3%;
+}
