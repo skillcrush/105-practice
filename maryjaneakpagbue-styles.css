@@ -5,7 +5,7 @@
 }
 
 h1{
-text-align:center;
+text-align:left;
 
 
 }
@@ -21,6 +21,7 @@ h4{
 }
 p{
 	font-size:15px;
+	font-style:oblique;
 
 }
 
