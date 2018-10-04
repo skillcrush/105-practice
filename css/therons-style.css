@@ -1,0 +1,59 @@
+body {
+    font-family: 'Slabo 27px', serif;
+    background-color: #7D1538;
+    height: auto;
+}
+/******HEADER*******/
+a {
+  border: solid black 2px;
+  text-decoration: none;
+  padding: 2px 4px 2px 4px;
+  margin: 10px 0px 0px 5px;
+  color: #D7DAE5;
+}
+
+header h1 {
+  text-align: center;
+  color: #B9CDDA;
+}
+/********FLOATS*******/
+
+.full-width {
+  width: 78.125em;
+  padding-top: 25px;
+  float: left;
+}
+
+.half-width {
+  width: 38.312em;
+  padding: 0em 0.313em 0em 0.313em;
+  height: 18.750em;
+  border: solid #5F7470 1px;
+  float: left;
+}
+
+/*******ADVICE*******/
+
+.advice h4 {
+  color: #A7ABDD;
+  text-align: center;
+}
+
+.advice p {
+  color: #B9CDDA;
+  text-indent: 3.125em;
+}
+
+/*******FOOTER******/
+
+footer {
+  margin-top: 25px;
+  padding-top: 25px;
+  text-align: center;
+  color: #B9CDDA;
+  clear: both;
+}
+
+footer span {
+  font-weight: bold;
+}
