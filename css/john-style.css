@@ -1,0 +1,97 @@
+/***** Main Styles *****/
+
+.john-advice 
+	{
+		background: #38eabd;
+		font-family: 'Crimson Text', serif;
+	}
+a:hover 
+	{
+    	text-decoration: underline;
+	}
+a:link, a:visited
+	{
+		text-decoration: none;
+	}
+/***** Grid *****/
+
+.full-width
+	{
+		margin: 0 auto;
+		width: 1240px;
+	}
+.third-width
+	{
+		float: left;
+		padding: 0 5px;
+		width: 400px;
+	}
+
+/***** Headers *****/
+
+.header1
+	{
+		font-family: 'Playfair Display', serif;
+	}
+.header2
+	{
+		font-family: 'Playfair Display', serif;
+		font-style: italic;
+		font-variant: small-caps;
+		text-align: center;
+	}
+#title1
+	{
+		background: #2eb996;
+		font-size: 30px;
+		font-variant: small-caps;
+		text-align: center;
+
+	}
+#title2
+	{
+		font-size: 20px;
+		font-variant: none;
+		font-style: italic;
+		background: white;
+		text-align: center;
+
+	}
+
+/***** Back to Previous Page Link *****/
+
+.return
+	{
+		color: #2eb996;
+		font-size: 15px;
+	}
+
+/***** Body *****/
+
+#advice2
+	{
+		border-left: 2px solid;
+		border-right: 2px solid;
+		border-color: #2eb996;
+	}
+#body
+	{
+		padding-bottom: 60px;
+	}
+p
+	{
+		text-indent: 20px;
+	}
+/***** Footer *****/
+
+#footer 
+	{
+		bottom: 0;
+		color: #2eb996;
+		font-style: italic;
+		height: 60px;	
+		position: absolute;
+		text-align: right;
+		width: 95%;
+
+	}
