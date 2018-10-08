@@ -1,0 +1,48 @@
+
+body {
+  background: #a6a6a6;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+header {
+  height:  150px;
+  margin: 0 auto;
+}
+
+header h1 {
+  float: left;
+  padding: 20px;
+  color: #990033;
+  font-size:  30px;
+  font-weight: bolder;
+  text-transform: uppercase;
+} 
+
+.section {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.mahall-advice h4 {
+  color: black;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.advice p { 
+  color: white;
+  font-size: 18px;
+}
+
+footer {
+  color: white;
+  height: 50px;
+  border-top: 3px solid white;
+  margin: 0 auto;
+  clear: both;
+  text-align: center;
+}
+
+footer p {
+  text-transform: lowercase;
+}
