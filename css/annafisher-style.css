@@ -1,0 +1,35 @@
+/***** HEADER *****/
+head {
+	font-family: 'Abel', sans-serif;
+}
+
+section, h1, body {
+background-color: #e6f7ff;
+}
+
+h1 {
+	font-family: 'Abel', sans-serif;
+	color: #0088cc;
+	font-size: 70px;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Dancing Script', cursive;
+	color: #0088cc;
+	font-size: 40px;
+	text-align: center;
+	letter-spacing: 3px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: black;
+	letter-spacing: 1px;
+}
+
+footer {
+	text-align: center;
+}
