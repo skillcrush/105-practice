@@ -1,0 +1,103 @@
+/**********************base style******************************************/
+
+body {
+    color: black;
+    background: #4baa90;
+}
+
+/******************Grid******************************************/
+
+#full-width {
+  width: 960px;
+  margin:0 auto;
+}
+
+ #half-width {
+   width: 440px;
+   float:left;
+ }
+
+
+
+/*****************header*****************************************/
+
+header a {
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: black;
+}
+
+header a:hover {
+}
+
+h1 h2 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+font-size: 60px;
+line-height:75px;
+font-weight: bolder;
+text-align: center;
+color:#d4f6ff;
+}
+
+/**********************confusion-suspened********************************/
+h2 {
+   font-size: 30px;
+   line-height:45px;
+   text-align:center;
+   font-weight:bold;
+}
+
+h3  {
+  font-size: 35px;
+  text-align: center;
+  font-family: 'EB Garamond:400i', serif;
+  font-style: italic;
+  font-weight:lighter;
+  line-height:1.4em;
+
+}
+
+h4  {
+  font-family: 'Alex Brush', cursive;
+  font-size: 30px;
+  text-align: center;
+  font-weight:lighter;
+}
+
+.confusion-suspended {
+  padding: 20px;
+  background:#d4f6ff;
+}
+
+.quote {
+  padding: 20px;
+  margin-top:70px ;
+  background: #4baa90;
+  color: #d4f6ff;
+  align-content: justify;
+  line-height: 2.0em;
+}
+
+.bottom  {
+  background:#4baa90;
+  padding-top: 55px;
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    line-height: 26px;
+    text-align:justify;
+
+}
+
+/***************************footer********************************/
+
+h5  {
+  font-family:'EB Garamond'
+  padding: 15px;
+  font-weight:lighter;
+}
