@@ -1,0 +1,26 @@
+a {
+  text-decoration: none;
+  text-transform: capitalize;
+
+
+}
+
+h1 {
+  text-variation: small-caps;
+}
+
+h4 {
+  text-weight: bold;
+  color: purple;
+
+}
+
+p {
+  color: #0F0F0F
+
+}
+
+span {
+  color: #373737;
+
+}
