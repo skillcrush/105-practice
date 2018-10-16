@@ -1,0 +1,23 @@
+body{
+	background: #ce99ff;
+	color: #420080;
+	font-family: 'Mali', cursive;
+	padding: 20px;
+}
+h4{
+	font-size: 1.5rem;
+}
+
+.footer, .thanks, span{
+	font-weight: bolder;
+}
+
+.footer:hover, .thanks:hover, span:hover, a:hover {
+	color: #ff1a8c;
+}
+
+.thanks, footer {
+	text-align: center;
+	padding-top: 25px;
+}
+
