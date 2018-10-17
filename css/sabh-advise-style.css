@@ -1,0 +1,56 @@
+/* BASICS*/
+
+
+.wrapper {
+  width: 900px;
+  background-image: linear-gradient(to bottom right, thistle, powderBlue);
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  padding: 75px;
+
+}
+section {
+  border: 5px dotted MidnightBlue;
+}
+.intro {
+  width: 600px;
+  margin: 0 auto;
+}
+ol li {
+    padding: 5px;
+    margin-left: 35px;
+}
+
+
+/* FONT STUFF
+font-family: 'Monoton', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Poiret One', cursive; */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+}
+
+h1 {
+  font-family: 'Monoton', cursive;
+  font-size: 3em;
+  text-align: center;
+  color: midnightBlue;
+  word-spacing: .25em;
+}
+q {
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: MediumVioletRed;
+}
+
+li {
+  font-style: oblique;
+}
+footer {
+  text-align: center;
+  font-size: .5em;
+  color: MediumVioletRed;
+
+}
