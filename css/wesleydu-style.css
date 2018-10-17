@@ -1,0 +1,29 @@
+.wesley-advice {
+  font-family: 'Slabo 27px', serif;
+
+}
+header {
+margin: 0px 150px 0px 80px;
+background-color:#ffd2a8;
+width: 1200px;
+border: 5px solid black;
+
+
+}
+h1 {
+  font-size: 48px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Dosis', sans-serif;
+  width: 1000px;
+  padding-left: 200px;
+
+}
+
+h4 {
+  text-align: center;
+  text-decoration-style: wavy;
+  color: #6b6259;
+}
