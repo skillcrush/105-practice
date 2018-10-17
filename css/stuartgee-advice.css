@@ -1,0 +1,47 @@
+
+
+.advice-whole {
+    font-family:'Heebo', sans-serif;
+    background-color: #f2f2f2;
+    margin: 150px;
+}
+
+
+#story {
+    width: 1000px;
+    margin: 20px 0 25px 0;
+    background-color: white;
+    padding: 20px 50px 20px 30px;
+}
+
+
+h1, h3 {
+    color: #204060;
+    text-align: center;
+
+}
+
+.story-one {
+    Width: 500px;
+    float: left;
+    font-size: 18px;
+    text-align: justify;
+    background-color: white;
+    padding: 20px 20px 61px 20px;
+}
+
+.story-two {
+    Width: 500px;
+    float: left;
+    font-size: 18px;
+    text-align: justify;    
+    background-color: white;
+    padding: 20px 20px 70px 20px;
+    
+}
+
+.clear {
+    clear: both;
+    text-align: center;
+    padding: 50px;
+}
