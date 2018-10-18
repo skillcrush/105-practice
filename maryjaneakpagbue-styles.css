@@ -1,0 +1,38 @@
+.maryjane-advice{
+
+	background:grey;
+	font-family:tahoma;
+}
+
+h1{
+text-align:left;
+
+
+}
+
+h4{
+    font-size: 20px;
+	font-weight:bold;
+	text-align: left;
+	text-transform:capitalize;
+	color:skyblue;
+
+
+}
+p{
+	font-size:15px;
+	font-style:oblique;
+
+}
+
+footer{
+	border:20px 10px 10px 15px;
+    color: blue;
+    font-weight:bolder;
+    font-size: 10px;  
+    
+}
+
+.advice{
+	border:20px 10px 10px 15px;
+}
