@@ -1,0 +1,25 @@
+body{
+  background-color: #b4d8c0;
+  color: black;
+  font-family: verdana;
+}
+
+h1{
+  text-align: center;
+
+}
+
+h1 span{
+  color: peachpuff;
+}
+
+.advice{
+  font-size: 20px;
+  text-align: justify;
+}
+
+.advice h4{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+}
