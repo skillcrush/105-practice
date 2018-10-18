@@ -1,0 +1,30 @@
+.mariahb-advice {
+  font-family: 'Mali', cursive;
+  color: #4d004d;
+}
+
+.half-width {
+  width: 600px;
+  height: auto;
+  float: left;
+  margin: auto;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-size: 20px;
+}
+
+footer {
+  clear:both;
+}
+
+.quote {
+  text-align: center;
+  font-size: 30px;
+}
