@@ -1,10 +1,8 @@
 
 
 /*****Susan's Styles*****/
-body {
-  background-image: url('../img/paper-bckgd.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+body  {
+  background-color: #dfbf9f;
   height: 1100px;
   margin: auto;
 }
@@ -21,7 +19,7 @@ a:hover {
 }
 
 .advice   {
-  width: 950px;
+  width: 1200px;
   margin-left: 150px;
   height: 900px;
   line-height: 30px;
@@ -52,6 +50,6 @@ p {
 }
 
 footer  {
-  margin-top: 40px;
-  margin-left: 470px;
+  margin-top: 20px;
+  margin-left: 600px;
 }
