@@ -1,0 +1,26 @@
+
+/******body******/
+
+body {
+  background: 	#ffe6e6;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  text-transform: upcase;
+  border: 10px solid white;
+}   
+
+h2 {
+  color: red;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}  
+
+#quote { 
+  margin-left: 500px;
+}  
