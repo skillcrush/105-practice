@@ -1,0 +1,37 @@
+.mssherilles-advice {
+	background-color: #ffffb3;
+}
+
+a {
+	color: #9E94CC;
+	font-family: 'Arial Narrow', sans-serif;
+}
+
+h1 {
+	color: #1F1060;
+	font-family: 'Amatic SC', cursive; 
+  word-spacing: 3px;
+}
+
+h4 {
+  color: #4424D6;
+  font-family: 'Amatic SC', cursive;
+  font-size: 26px;
+  word-spacing: 3px;
+}
+
+p {
+	color: #002266;
+	font-family: 'Arial Narrow', sans-serif;
+  font-size: 18px;
+  line-height: 26px;
+ }
+
+span {
+  color: #ff8080;
+}
+
+footer p {
+  color: #9E94CC;
+  font-size: 15px;
+}
