@@ -1,0 +1,137 @@
+
+/* 
+Google Fonts
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'IBM Plex Mono', monospace;
+*/
+
+html,body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* GRID */
+
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.half-width {
+    float: left;
+    font-weight: 200;
+    width: 600px;
+}
+
+/* GENERAL */
+
+.lighter-font {
+    font-weight: 200;
+    line-height: 18px;
+}
+
+nav {
+    color: #828282;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 18px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link,
+a:visited {
+    color: #918274;
+}
+
+a:hover {
+    color: #b7987b;
+    border-bottom: 1px solid #b7987b;
+}
+
+/* HEADER */
+
+header {
+    background: #e2e1e0 no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+header h1 {
+    color: #828282;
+    font-size: 30px;
+    margin: 0;
+    padding: 62px 0px 62px 60px;
+}
+
+header ul {
+    height: 40px;
+    list-style-type: none;
+    margin: 0;
+    padding: 62px 60px 62px 0;
+    text-align: right;
+    width: 540px;
+}
+
+header li {
+    display: inline-block;
+    margin: 11px 0;
+}
+
+header p {
+    clear: both;
+    color: #918274;
+    font-size: 72px;
+    line-height: 62px;
+    margin: 0;
+    padding: 20px 60px 20px 60px;
+}
+
+header p span {
+    color: #b7987b;
+}
+
+/* MAIN */
+
+main section h4 {
+    color: #918274;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 35px;
+    font-variant: small-caps;
+}
+
+main section p {
+    color: #b7987b;
+    font-size: 30px;
+}
+
+main section h4,
+main section p {
+    margin: 60px;
+    padding: 0;
+    text-align: justify;
+}
+
+/* FOOTER */
+
+footer {
+    background: #e2e1e0;
+    background-size: cover;
+    clear: both;
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer li {
+    display: inline-block;
+    margin: 21px 30px 21px 30px;
+}
