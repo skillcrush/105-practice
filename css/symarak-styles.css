@@ -1,0 +1,34 @@
+
+
+
+.symara-advice {
+	background-color: #ccffee;
+	text-align: center;
+
+}
+
+
+h1, header a {
+	font-family: 'Mali', cursive;
+	color: green;
+	font-weight: 100px;
+	color: #009999;
+}
+
+h4 {
+	font-family: 'Mali', cursive;
+	font-weight: 900px;
+	font-size: 25px;
+	color: #0086b3;
+}
+
+
+p {
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 23px;
+	color: #db70b8;
+}
+
+footer p {
+	color: #9999ff;
+}
