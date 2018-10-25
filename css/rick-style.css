@@ -1,0 +1,31 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+    background-color: #d9e6f2;
+    text-align: center;
+}
+
+body .rick-advice, h1, h4, a, footer {
+    font-family: 'Russo One';
+    color: #204060;
+}
+
+h1 {
+    font-size: 26px;
+    text-decoration: underline;
+}
+
+h4{
+    font-size: 18px;
+    font-variant: small-caps;
+}
+
+.advice p {
+    font-family: 'Kalam';
+    font-size: 20px;
+}
+
+.advice {
+border: 1px solid;
+}
+
