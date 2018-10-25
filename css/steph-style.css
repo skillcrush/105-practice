@@ -1,0 +1,27 @@
+/*BASE STYLES*/
+body{
+    font-family: sans-serif;
+    color: green;
+}
+
+
+/*GRID*/
+.half-width{
+    width: 500px;
+    float: left;
+    padding: 50px;
+}
+
+.steph-advice{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/*HEADER*/
+h1{
+    text-transform: uppercase;
+    
+}
+
+
+
