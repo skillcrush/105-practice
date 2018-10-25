@@ -1,0 +1,50 @@
+/**BASE STYLES**/
+
+body {
+    background-color: rgb(85, 76, 76);
+   
+}
+
+
+h1, p {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-variant: small-caps;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+
+.img {
+    opacity: 0.4;
+    height: 200px;
+    display: cover;
+    margin: 10px 10px; 
+    
+}
+/**top half of page**/
+
+#top {
+    background-image: url('../advice/images/greykitty.jpg');
+   
+  
+    
+}
+
+
+/**bottom half of page**/
+
+
+#bottom {
+    background-image: url('../advice/images/kittyunicorn.jpg');
+    padding-bottom: 20px;
+}
+
+
