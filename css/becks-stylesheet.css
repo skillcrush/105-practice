@@ -24,7 +24,7 @@ p {
 /**top half of page**/
 
 .top {
-    background: linear-gradient(rgb(31, 75, 58),rgba(255,255,255,.5)), url("../advice/images/greykitty.jpg");
+    background: linear-gradient(rgb(31, 75, 58),rgba(255,255,255,.5)), url("https://i.imgur.com/ifgxT62.jpg");
     padding-bottom: 10px;
 }
 
@@ -41,7 +41,7 @@ p {
 
 
 .bottom  {
-    background: linear-gradient(rgb(143, 84, 45),rgba(255,255,255,.5)), url("../advice/images/kittyunicorn.jpg");
+    background: linear-gradient(rgb(143, 84, 45),rgba(255,255,255,.5)), url("https://i.imgur.com/W48ppVY.jpg");
     padding-bottom: 5px;
    
 }
