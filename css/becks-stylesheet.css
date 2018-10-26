@@ -1,50 +1,48 @@
 /**BASE STYLES**/
 
 body {
-    background-color: rgb(85, 76, 76);
+    background-color: rgb(44, 42, 42);
    
 }
 
-
-h1, p {
-    font-family: 'Courier New', Courier, monospace;
-    color: black;
-    font-variant: small-caps;
-
-}
-
-h1 {
-    font-size: 40px;
-}
 
 p {
     font-size: 18px;
+    font-weight: bolder;
 }
 
 
-.img {
-    opacity: 0.4;
-    height: 200px;
-    display: cover;
-    margin: 10px 10px; 
-    
+
+.block {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-variant: small-caps;
 }
+
+
+
 /**top half of page**/
 
-#top {
-    background-image: url('../advice/images/greykitty.jpg');
-   
-  
-    
+.top {
+    background: linear-gradient(rgb(31, 75, 58),rgba(255,255,255,.5)), url("../advice/images/greykitty.jpg");
+    padding-bottom: 10px;
 }
+
+
+.top p {
+    font-size: 18px;
+    font-weight: bolder;
+  
+}
+
 
 
 /**bottom half of page**/
 
 
-#bottom {
-    background-image: url('../advice/images/kittyunicorn.jpg');
-    padding-bottom: 20px;
+.bottom  {
+    background: linear-gradient(rgb(143, 84, 45),rgba(255,255,255,.5)), url("../advice/images/kittyunicorn.jpg");
+    padding-bottom: 5px;
+   
 }
-
 
