@@ -1,0 +1,35 @@
+/***** BASE STYLES *****/
+
+body {
+    
+    background-image: url(https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAwMi83NTkvb3JpZ2luYWwvbGlnaHQtYnVsYi5qcGc=);
+
+    background-size: cover; 
+}
+h1 {
+    color:  #ff4d94; 
+    text-align: center;
+    
+}
+
+span {
+    font-variant: small-caps;
+    text-decoration: underline; 
+}
+
+h4 {
+    text-align: center; 
+    color:#660033;
+    font-size: 30px;
+
+
+}
+
+p {
+    color:#ff1a75;
+    padding: 20px; 
+    font-size:18px;
+    line-height:36px;
+    text-indent: 3em;
+    
+}
