@@ -1,0 +1,82 @@
+/* Body Styles */
+
+.tina-advice {
+  background-color: transparent;
+  font-family: "Sura", serif;
+  margin: 0;
+}
+
+/* Main Page Button Styles */
+
+a {
+  display: block;
+  background-color: #ff4339;
+  border-radius: 10px;
+  border-style: none;
+  color: white;
+  font-family: "Oxygen", sans-serif;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 10px;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px;
+  width: 100px;
+}
+
+/* Main Header Styles */
+
+header h1 {
+  color: #ff4339;
+  font-family: "Oxygen", sans-serif;
+  font-size: 72px;
+  margin-bottom: 0;
+  padding-top: 20px;
+  padding-left: 50px;
+
+}
+
+/* Tagline Styles */
+
+header p {
+  color: #ff3988;
+  font-family: 'Sura', serif;
+  font-size: 36px;
+  font-weight: bold;
+  padding-left: 500px;
+}
+
+/* Advice Section Styles */
+
+section {
+  background-color: #ff3988; 
+  height: 350px;
+}
+
+.third-width {
+  color: white;
+  font-family: "Sura", serif;
+  font-size: 20px;
+  text-align: center;
+  width: 418px;
+  float: left;
+  padding-top: 25px; 
+  padding-right: 40px;
+  padding-left: 40px;
+} 
+
+/* Footer Styles */
+
+.footer {
+  background-color: #ff4339;
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+.footer p {
+	font-family: "Sura", serif;
+	margin: 0 auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
