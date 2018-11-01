@@ -1,0 +1,27 @@
+
+a {
+  text-decoration: none;
+  text-transform: capitalize;
+
+
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+h4 {
+  font-weight: bold;
+  color: purple;
+
+}
+
+p {
+  color: #0F0F0F
+
+}
+
+span {
+  color: #373737;
+
+}
