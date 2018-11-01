@@ -1,0 +1,27 @@
+/*****Russell's Advice Styles****/
+h1{
+		font-size: 30px;
+		color: #4c9fff;
+		font-weight: bold;
+}
+
+h4{
+		font-size: 24px;
+		color: #003B7F;
+}
+
+body {
+	background: lavender;
+	font-family: sans-serif;
+	color: grey;
+	font-size: 20px;
+	text-align: center;
+}
+
+title {
+	font-family: Courier;
+	color: blue;
+	font-size: 40px;
+	text-transform: italic;
+}
+
