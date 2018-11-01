@@ -1,0 +1,55 @@
+
+
+/*****Susan's Styles*****/
+body  {
+  background-color: #dfbf9f;
+  height: 1100px;
+  margin: auto;
+}
+
+a   {
+  margin-left: 50px;
+  color: #663300;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f2e6d9;
+}
+
+.advice   {
+  width: 1200px;
+  margin-left: 150px;
+  height: 900px;
+  line-height: 30px;
+}
+
+h1  {
+  font-family: 'Great Vibes', cursive;
+  font-size: 60px;
+  color: #734d26;
+  line-height: 55px;
+  margin-left: 150px;
+}
+
+.advice h4 {
+  font-family: 'Great Vibes', cursive;
+  font-weight: bolder;
+  font-size: 30px;
+  color: #734d26;
+  margin-bottom: 0px;
+}
+
+p {
+  font-family: 'Lateef', cursive;
+  color: #4d2600;
+  font-size: 25px;
+  font-weight: bolder;
+  line-height: 25px;
+}
+
+footer  {
+  margin-top: 20px;
+  margin-left: 600px;
+}
