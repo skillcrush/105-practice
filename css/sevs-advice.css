@@ -1,0 +1,31 @@
+body {
+	background-color: #f9f4e5;
+}
+
+h1{
+	color: #335068;
+	font-size: 3em;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+h4{
+	color: #335068;
+	font-size: 2em;
+}
+
+h1, h4{
+	font-family: 'Fredericka the Great', cursive;
+}
+
+
+p {
+	color: #335068;
+	font-size: 1.3em;
+	font-family: 'Advent Pro', sans-serif;
+}
+
+a{
+	color: #335068;
+	font-size: 1.3em;
+	font-family: 'Advent Pro', sans-serif;
+}
