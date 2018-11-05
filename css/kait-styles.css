@@ -1,0 +1,48 @@
+
+body {
+  width: 900px;
+  background-color: mistyrose;
+  text-align: justify;
+  margin: 0 auto;
+  padding: 20px 150px 20px 150px;
+  font-family: sans-serif;
+}
+
+/***** HEADER *****/
+
+a {
+  text-decoration: none;
+  font-size: 13px;
+  color: black;
+  text-transform: uppercase;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 25px;
+  text-align: center;
+  font-family: fantasy;
+
+}
+
+h4 {
+  text-transform:capitalize;
+  padding-top: 30px;
+  font-size: 20px;
+  font-family:fantasy;
+  text-indent: 10px;
+
+}
+
+
+
+
+footer {
+  text-align: center;
+  padding-top: 30px;
+
+}
+
+footer p {
+  padding-top: 50px;
+}
