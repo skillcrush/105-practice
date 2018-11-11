@@ -1,0 +1,17 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.Bridget-advice{
+  background-color: blue;
+  color: white;
+}
+
+.advice{
+  background-color: white;
+  color: blue;
+}
+
+header{
+  height:400px;
+}
