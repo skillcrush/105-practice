@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color:  #ccffcc;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
+
+footer{
+    font-style: italic;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+h4{
+    text-transform: uppercase;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+
+p{
+    word-spacing: 3px;
+}
