@@ -1,0 +1,11 @@
+p {
+    font-family: Arial;
+    color: pink;
+    font-weight: bolder;
+}
+
+h1 {
+    font-family: Georgia;
+    color: gray;
+    text-transform: uppercase;
+}
