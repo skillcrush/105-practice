@@ -1,0 +1,26 @@
+body {
+	background-color: #fff7ee;
+}
+
+h1{
+	color: #5e6572;
+	font-size: 48px;
+	font-family: 'Lato', sans-serif;
+}
+
+h4{
+	color: #74583e;
+	font-size: 32px;
+	font-family: 'Lato', sans-serif;
+}
+
+p {
+	color: #444444;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+}
+
+a{
+	color: #e5bda7;
+	font-size: 16px;
+}
