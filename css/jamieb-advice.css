@@ -1,0 +1,118 @@
+
+/****** Global Styles ******/
+
+body {
+	font-family: 'Anonymous Pro', monospace;
+	color: #333;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h3 {
+	font-size: 24px;
+	margin: 0;
+	text-align: left;
+}
+
+h4 {
+	font-size: 14px;
+	margin: 5px;
+	text-align: right;
+}
+
+h6 {
+	font-size: 18px;
+}
+
+a {
+	color: #666;
+	text-decoration: underline;
+}
+
+.full-width {
+	width: 1200px;
+	border: 5px solid #666;
+	padding: 10px;
+	clear: both;
+}
+
+.advice-bubble {
+	margin: 10px 35px;
+	padding: 10px;
+	float: left;
+	width: 500px;
+}
+
+
+/****** HEADER ******/
+
+header {
+	background-color: #666666;
+	height: 200px;
+}
+
+/****** HTML ADVICE ******/
+
+#html-advice {
+	color: #666666;
+	background: #333;
+	overflow: auto;
+}
+
+#html-advice .advice-bubble {
+	border: 5px solid #999;
+	height: 280px;
+
+}
+
+/****** CSS ADVICE ******/
+
+#css-advice {
+	color: #333;
+	background: #666;
+	overflow: auto;
+}
+
+ #css-advice .advice-bubble {
+	 border: 5px solid #999;
+	 height: 210px;
+}
+
+/****** GENERAL ADVICE ******/
+
+#general-advice {
+	color: #666666;
+	background: #333;
+	overflow: auto;
+}
+
+#general-advice .advice-bubble {
+	border: 5px solid #999;
+}
+
+.general-top {
+	height: 200px;
+}
+
+.general-bottom {
+	height: 280px;
+}
+
+/******FINAL WORDS ******/
+
+#final-words {
+	color: #333;
+	background: #666;
+	overflow: auto;
+}
+
+/****** FOOTER ******/
+
+footer {
+	color: #666666;
+	background: #333;
+	overflow: auto;
+}
