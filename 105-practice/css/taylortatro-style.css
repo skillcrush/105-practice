@@ -1,0 +1,35 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: 2b2b2b;
+	background: tan;
+}
+
+#container {
+	margin: 0px 50px;
+	background: #efd9a7;
+}
+
+header {
+	border: 3px dotted red;
+}
+
+header h1 {
+	color: #ba8c23;
+}
+
+section {
+	background: #f4d58d;
+	border: 3px dotted blue;
+	padding: 10px 20px;
+}
+
+section .advice h4 {
+	margin-top: 2px;
+	font-size: 18px;
+	color: #9fb29d;
+}
+
+section .advice p {
+	font-size: 13px;
+	font-family: 'Satisfy', cursive;
+}

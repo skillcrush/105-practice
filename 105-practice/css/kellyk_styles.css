@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:radial-gradient(#FF3C6F, #03a9f4);
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	text-align: left;
+	color: #555;
+	font-size: 16px;
+}
+
+header {
+	width: 1000px;
+	margin: 50px auto 20px auto;
+	background-color: #fff;
+	padding: 20px;
+}
+
+header h1 {
+	text-align: center;
+	font-family: 'Satisfy', cursive;
+	font-size: 56px;
+	color: #FF3C6F;
+}
+
+section {
+	width: 1000px;
+	margin: 20px auto;
+	background-color: #fff;
+	padding: 20px;
+}
+
+section h2 {
+	color: #FF3C6F;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+footer {
+	width: 1000px;
+	padding: 20px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+footer a {
+	color: #FFF;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+footer a:hover {
+	color: #FF3C6F;
+}
+
