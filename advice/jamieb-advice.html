@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Jamie B's Advice for newbies</title>
+  <meta name="author" content="Jamie">
+	<!-- Normalize CSS
+	<link rel="stylesheet" href="css/normalize.css" type="text/css"> -->
+	<!-- My CSS -->
+	<link rel="stylesheet" href="../css/jamieb-advice.css" type="text/css">
+	<!-- Google Font Anonymous Pro -->
+	<link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+  </head>
+  <body>
+		<header class="full-width">
+			<h1>My name is Jamie, and, like you, I want to be a developer</h1>
+			<h2>Here's what I've learned so far...</h2>
+		</header>
+		<main>
+			<!-- HTML Advice section -->
+			<section id="html-advice" class="full-width">
+				<h2>When it comes to HTML:</h2>
+				<!-- HTML Advice 1 -->
+				<div class="advice-bubble">
+					<h3>Get all your content written before you try to style it...</h3>
+					<h4>...but have an idea of what style you want before you start.</h4>
+					<p>If you have a rough idea in your head of how you want your finished page to look, you'll have a much easier time creating your structure. Having to go back and reorganise an entire HTML doc into divs and sections and whatnot is a real trial, and one of the leading causes of breaking your code. If you're dividing up your content properly as you go, it also helps to create some classes for structural elements you're going to use a lot - e.g, creating columns etc - to save yourself some time later</p>
+				</div>
+				<!-- HTML Advice 2 -->
+				<div class="advice-bubble">
+					<h3>Use all the tools available...</h3>
+					<h4>...Nobody will give you a prize for struggling alone.</h4>
+					<p>Don't write code in a plain text editor, use one that will auto-fill element tags as you write, and flag mistakes. It's sort of pointless to memorise all the meta and head tags a page needs, so don't. Write them once, and save them as a blank boilerplate. Or use one of the thousands available free online. If your page doesn't look right, and you can't see your mistake, run your code through a validator. No point spending an hour painstakingly reviewing your code line-by-line, checking that all the tags are correctly nested, indented and closed, when you can immediately find the orphaned closing tag in seconds with a validator. Save your time and brainpower for writing code.</p>
+				</div>
+			</section>
+			<!-- CSS Advice Section -->
+			<section id="css-advice" class="full-width">
+				<h2>CSS, on the other hand:</h2>
+				<!-- CSS Advice 1 -->
+				<div class="advice-bubble">
+					<h3>Start general...</h3>
+					<h4>...Then get specific</h4>
+					<p>If you start by trying to style your really finicky columns with alternating fonts and colours before setting the main document's properties, all you're going to do is repeat yourself. If you want <em>most</em> things to have the same font, color and padding, set this as high up in the document as you can - if not the body, then a tag like Header or Main. Then work your way down the page</p>
+				</div>
+				<!-- CSS Advice 2 -->
+				<div class="advice-bubble">
+					<h3>Padding and margins...</h3>
+					<h4>...The invisible expanders</h4>
+					<p>It's super annoying when you have a div that just won't go where it's told. If you've set the width, and told it how to float, and fiddled with the text alignment, and it <em>still</em> isn't behaving, then you probably need to sort out the margins or the padding. The browser console is your friend for seeing what margins are being applied - this'll show you where the real edges of your element are, and let you play until you know what changes to make.</p>
+				</div>
+			</section>
+			<!-- General Advice Section -->
+			<section id="general-advice" class="full-width">
+				<h2>And in general:</h2>
+				<!-- General Advice 1 -->
+				<div class="advice-bubble general-top">
+					<h3>Don't aim for perfection right away...</h3>
+					<h4>...Do it right first, then do it nice.</h4>
+					<p>You're not going to write perfect, lightweight and elegant code straight off the bat. Focus on getting your page to look how you want it to look first of all, then tidy up your code. Sure, writing your margin properties on one line is best, but if you need to write each side on a new
+					line first of all, just to make sure you're doing it right, then do that.</p>
+				<!-- General Advice 2 -->
+				</div>
+				<div class="advice-bubble general-top">
+					<h3>Good coders borrow...</h3>
+					<h4>...Great coders steal</h4>
+					<p>T.S. Eliot may or may not have been serious when he said this about writing, but it doesn't mean we can't take it to heart. If you want to make your page look a certain way, but haven't a clue how to go about it, find a page that already looks that way. Inspect the elements and see what styles are being applied, then tweak that code to work with your content. Then, next time, you'll know what to do.</p>
+				</div>
+				<!-- General Advice 3 -->
+				<div class="advice-bubble general-bottom">
+					<h3>Always ask for help if you need it...</h3>
+					<h4>...From whoever you can</h4>
+					<p>If you have a problem you can't solve, google it. Chances are, someone else has had the same problem, and has been told how to solve it already. Stack Overflow, Github, and other coder forums are great resources. You might feel that your question is basic, but who cares? Everyone answering will, at one point, have needed to ask the same question. If it truly is easy, you'll find a solution in no time, and be a little wiser than you were before. But if it's a tricksy little problem, then there's even less reason to feel defeated.</p>
+				</div>
+				<!-- General Advice 4 -->
+				<div class="advice-bubble general-bottom">
+					<h3>Comment, comment, and comment some more...</h3>
+					<h4>...Future you will thank you.</h4>
+					<p>Even now, as a relatively novice developer, I'm finding comments insanely useful. "I'm the only one who reads or edits the code I'm writing, so what's the point in commenting? I know what I've written!"<br/> This is what I used to think to myself, and I'm glad that tutorials have stressed that it's not good practice to write no comments. Even a short page can have a hell of a lot of code, and it can be hard to see, at a glance, where you are and what it's doing. Using comments to divide up your CSS, and to preface HTML sections with a heading that stands out and is easy to read makes finding that one line you want to change much, much easier. </p>
+				</div>
+			</section>
+			<!-- Final Words Section -->
+			<section class="full-width" id="final-words">
+				<h2>Hopefully, this will be useful to you</h2>
+				<p>It is all certainly advice that others have given me, or things that I find useful to remember as I'm coding. I'm still new to this, so I'm forever making new mistakes, but I hope that I'm learning from them.
+			</section>
+		</main>
+		<!-- Footer - Copyright Me -->
+		<footer class="full-width">
+			<a href="../index.html">Back to Main Page</a>
+			<h6>Copyright &copy; Jamie B </h6>
+		</footer>
+  </body>
+</html>
