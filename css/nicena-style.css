@@ -1,9 +1,8 @@
 /* --- Base Styling --- */
 
 body {
-    background-color: #18121e;/* update colors later */
+    background-color: #18121e;
     max-width: 100%;
-    padding: auto;
     margin: auto;
     font-family: 'Catamaran', sans-serif;
     font-size: 14px;
@@ -119,4 +118,3 @@ footer p {
     font-size: 10px;
     line-height: 10px;
 }
-
