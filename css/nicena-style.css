@@ -90,6 +90,7 @@ main h2 {
     padding-top: 40px;
     font-size: 28px;
     font-style: italic;
+    color: #eac67a;
 }
 
 .close p {
@@ -105,6 +106,7 @@ main h2 {
 .emphasis {
     font-style: italic;
     font-weight: 600;
+    color: #984b43;
 }
 
 /* --- Footer --- */
