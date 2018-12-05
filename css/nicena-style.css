@@ -1,7 +1,7 @@
 /* --- Base Styling --- */
 
 body {
-    background-color: rgba(195, 111, 252, 0.808);/* update colors later */
+    background-color: #18121e;/* update colors later */
     max-width: 100%;
     padding: auto;
     margin: auto;
@@ -15,8 +15,8 @@ header {
     width: 90%;
     margin: auto;
     padding: 20px;
-    background-color: antiquewhite;/* update colors later */
     overflow: auto;
+    background-color: #984b43;
 }
 
 main {
@@ -24,6 +24,8 @@ main {
     margin: auto;
     padding: 20px 20px 20px 20px;
     clear: both;
+    background-color: #233237;
+    color: #ffffff;
 }
 
 main p {
@@ -46,29 +48,32 @@ footer {
     width: 90%;
     clear: both;
     text-align: center;
+    margin: auto;
     padding: 20px;
+    background-color: #233237;
+    color: #ffffff;
 }
 
 /* --- Header --- */
 
-header {
-    background-color: antiquewhite;/* update colors later */
-    overflow: auto;
-    padding: 20px;
+.return-link {
+    text-align: right;
+    line-height: 12px;
+}
+
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #18121e;
+    font-size: 14px;
+    font-weight: 600;
 }
 
 header h1 {
     font-size: 24px;
     line-height: 24px;
     text-align: center;
-}
-
-.return-link {
-    text-align: right;
-    font-size: 12px;
-    line-height: 12px;
-    text-transform: uppercase;
-    text-decoration: none;
+    color: #eac67a;
 }
 
 /* --- Main --- */
@@ -76,6 +81,7 @@ header h1 {
 main h2 {
     text-align: center;
     font-weight: 600;
+    color: #eac67a;
 }
 
 #quote {
