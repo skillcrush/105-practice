@@ -1,32 +1,114 @@
 /* --- Base Styling --- */
 
 body {
-    background-color: rgba(195, 111, 252, 0.808);
-    padding: 0;
-    margin: 0;
+    background-color: rgba(195, 111, 252, 0.808);/* update colors later */
+    max-width: 100%;
+    padding: auto;
+    margin: auto;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 14px;
 }
 
 /* --- Structure/Layout --- */
 
+header {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    background-color: antiquewhite;/* update colors later */
+    overflow: auto;
+}
+
 main {
-    width: 100%;
+    width: 90%;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
     clear: both;
 }
 
-.advice {
-    width: 50%;
-    margin: 0;
+main p {
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+.half-width {
+    max-width: 50%;
     float: left;
 }
 
 .close {
-    width: 100%;
+    width: 90%;
     clear: both;
 }
 
 footer {
-    width: 100%;
+    width: 90%;
     clear: both;
     text-align: center;
+    padding: 20px;
+}
+
+/* --- Header --- */
+
+header {
+    background-color: antiquewhite;/* update colors later */
+    overflow: auto;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.return-link {
+    text-align: right;
+    font-size: 12px;
+    line-height: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+/* --- Main --- */
+
+main h2 {
+    text-align: center;
+    font-weight: 600;
+}
+
+#quote {
+    overflow: auto;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.close p {
+    clear: both;
+    padding-left: 40px;
+    padding-right: unset;
+    text-align: center;
+    font-size: 22px;
+}
+
+/* --- text styling --- */
+
+.emphasis {
+    font-style: italic;
+    font-weight: 600;
+}
+
+/* --- Footer --- */
+
+footer p {
+    padding: 0;
+}
+
+.subtext {
+    font-size: 10px;
+    line-height: 10px;
 }
 
