@@ -9,13 +9,21 @@ body .whits-advice{
 }
 
 /***** HEADER *****/
-
+header h1{
+ 	float: left;
+ 	margin: 0;
+ 	padding: 38px 0;
+ }
 header nav {
 	float: right;
+	padding: 46px 0;
+}
+header nav ul{
+	margin: 0;
+	padding: 0;
 }
 header nav ul li a{
 	text-decoration: none;
+	display: inline;
 }
- header h1{
- 	float: left;
- }
+ 
