@@ -1,0 +1,21 @@
+/***** BASE STYLES *****/
+
+
+
+/***** GRID *****/
+body .whits-advice{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+/***** HEADER *****/
+
+header nav {
+	float: right;
+}
+header nav ul li a{
+	text-decoration: none;
+}
+ header h1{
+ 	float: left;
+ }
