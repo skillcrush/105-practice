@@ -9,23 +9,38 @@ body .whits-advice{
 }
 
 /***** HEADER *****/
-header h1{
- 	float: left;
- 	margin: 0;
- 	padding: 38px 0;
- 	width: 50%;
- }
+header{
+	height: 800px;
+	background-image: url("img/computer-bunny.jpg" alt="bunny");
+	
+}
+
 header nav {
 	float: right;
-	padding: 46px 0;
-	width: 50%;
+	padding: 25px 0;
 }
 header nav ul{
 	margin: 0;
 	padding: 0;
 }
-header nav ul li a{
-	text-decoration: none;
+header nav ul li{
 	display: inline;
 }
- 
+header nav ul li a{
+	text-decoration: none;
+}
+ header h1{
+ 	float: left;
+ 	margin: 0;
+ 	padding: 38px 0;
+ 	text-align: center;
+ 	color:;
+ }
+ header h1 span{
+ 	color:;
+ }
+
+ /***** TOP SECTION *****/
+ .advice{
+ 	clear: both;
+ }
