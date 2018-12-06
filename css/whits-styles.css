@@ -13,10 +13,12 @@ header h1{
  	float: left;
  	margin: 0;
  	padding: 38px 0;
+ 	width: 50%;
  }
 header nav {
 	float: right;
 	padding: 46px 0;
+	width: 50%;
 }
 header nav ul{
 	margin: 0;
