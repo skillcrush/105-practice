@@ -57,7 +57,7 @@ header nav ul li a {
  	color: #f27094;
  }
 
- /***** TOP SECTION *****/
+ /***** MAIN SECTION *****/
  .advice {
  	clear: both;
  	background-color: #635378;
@@ -66,7 +66,7 @@ header nav ul li a {
  	overflow: auto;
  }
 
-h4{
+h4 {
 	border-bottom: 10px double #91c499;
 	color: #f36f94;
 	font-family: 'Orbitron', sans-serif;
@@ -98,7 +98,7 @@ footer {
 	color:#92c59c;
 	font-family: 'Brawler', serif;
 	font-size: 20px;
-	font-weight: 300px;
+	font-weight: bolder;
 	letter-spacing: 3px;
 	text-align: center;
 	word-spacing: 5px;
