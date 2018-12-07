@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.brienne {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.advice {
+    margin: 0 auto;
+    width: 800px;
+}
+
+header  {
+    margin-top: 25px;
+}
+header h1 {
+	font: 30px 'Montserrat';
+	color: #483D8B;
+	margin-top: 50px;
+    text-align: center;
+}
+
+section h4 {
+    font: 22px 'Montserrat';
+    color: #483D8B;
+	margin-top: 50px;
+    text-align: center;
+}
+
+section p {
+	font: 16px 'Lora';
+	color: dark gray;
+	margin-top: 25px;
+}
+
+footer p {
+	font: 12px 'Open Sans';
+	margin-top: 100px;
+	text-align: center;
+}
