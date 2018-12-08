@@ -1,0 +1,51 @@
+
+font-family: 'Indie Flower', cursive;
+font-family: 'Inconsolata', monospace;
+
+
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: 2b2b2b;
+    background: darkslateblue;
+
+}
+
+#container {
+	margin: 0px 50px;
+	background: #efd9a7;
+}
+
+header {
+
+}
+
+header h1 {
+    color: darkslateblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+}
+
+section {
+	background: darkslateblue;
+	border: 3px dotted rgb(229, 245, 7);
+	padding: 10px 20px;
+}
+
+section .advice h4 {
+	margin-top: 2px;
+	font-size: 22px;
+    color: rgb(229, 245, 7);
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+section .advice p {
+	font-size: 18px;
+    font-family: 'Indie Flower', cursive; 
+    color: rgb(229, 245, 7);
+}
