@@ -31,7 +31,7 @@ header a{
     font-size: 1.5vw;
     padding: 5vw 9vw 1.2vw 2vw;
     height: 1vw;
-    
+    color: rgba(139, 81, 58, 0.651);
     
 }
 
@@ -50,6 +50,7 @@ header h1{
 .advice-half h4 {
 
     text-align: center;
+    text-decoration: underline;
     font-family: 'Dancing Script', cursive;
     font-size: 1.5vw;
     padding: 2vw 2vw 2vw 2vw;
