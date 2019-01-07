@@ -1,0 +1,22 @@
+body {
+	background-color: gray;
+}
+
+p {
+    font-family: Arial;
+    font-size: 14px;
+    color: white;
+    font-weight: bolder;
+}
+
+h1 {
+    font-family: Georgia;
+    color: black;
+    text-transform: lowercase;
+}
+
+h4 {
+    font-family: Helvetica;
+    color: black;
+    text-transform: uppercase;
+}
