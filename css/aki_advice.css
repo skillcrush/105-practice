@@ -1,0 +1,43 @@
+body{
+  color:#2b2b2b;
+}
+
+.Aki-advice {
+  width:1200px;
+  padding:10px;
+}
+/***header***/
+header {
+  height:100px;
+  text-transform:uppercase;
+}
+
+header h1 {
+    font-size:30px;
+    color:#bbc085;
+    text-align:center;
+}
+
+/***section***/
+.Advice {
+  height:500px;
+}
+
+section h4 {
+    font-size: 20px;
+    color:#bbc085;
+    text-align:center;
+}
+
+section p{
+    font-size: 16px;
+    color: #2b2b2b;
+}
+
+/***footer***/
+footer p{
+    height:100px;
+    font-size:15px;
+    color:black;
+    text-align:right;
+}
