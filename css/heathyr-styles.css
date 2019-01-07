@@ -1,0 +1,110 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #e6f2ff;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#container {
+  min-height: 100%;
+  position: relative;
+}
+
+header {
+  padding: 10px;
+}
+
+header a {
+  font-size: 12px;
+}
+
+#hi {
+  font-weight: bold;
+  font-size: 24px;
+  color: purple;
+}
+
+#name {
+  font-family: 'Dancing Script', cursive;
+  font-size: 26px;
+  color: purple;
+}
+
+section {
+  padding: 10px;
+  padding-bottom: 60px; /* height of footer */
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+
+.advice-box1 {
+    border: 2px dotted purple;
+    border-radius: 50%;
+    background-color: lightgreen;
+    width: 350px;
+	  height: 350px;
+    margin: 0 0 0 80px;
+	  padding: 30px 20px 0 20px;
+	  text-align: center;
+    float: left;
+    overflow: auto;
+}
+
+.advice-box2 {
+    border: 2px dotted purple;
+    border-radius: 50%;
+    background-color: #ffff99;
+    width: 200px;
+	  height: 200px;
+    margin: 0;
+	  padding: 30px 20px 0 20px;
+	  text-align: center;
+    float: left;
+    overflow: hidden;
+}
+
+.advice-box3 {
+    border: 2px dotted purple;
+    border-radius: 50%;
+    background-color: #80d4ff;
+    width: 350px;
+	  height: 350px;
+    margin: 0;
+	  padding: 30px 20px 0 20px;
+	  text-align: center;
+    float: left;
+    overflow: auto;
+}
+
+h4 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: purple;
+}
+
+.linebreak {
+  line-height: 5px;
+}
+
+.bold-italics {
+  font-style: italic;
+  font-weight: bold;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* same value as section padding-bottom */
+}
+
+footer span {
+  text-decoration: line-through;
+}

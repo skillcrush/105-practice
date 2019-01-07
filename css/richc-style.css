@@ -1,0 +1,78 @@
+
+
+/**base styles**/
+
+.richc-advice {
+
+    width:98%;
+    height: 40vw;
+    margin: 0 auto;
+    background: burlywood;
+
+}
+
+.advice-half {
+
+    width: 50%;
+    height: 35vw;
+    float:left;
+    background: rgb(153, 123, 85);
+    
+}
+
+/***styles for header****/
+
+
+header a{
+    
+    float: right;
+    text-decoration: none;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5vw;
+    padding: 5vw 9vw 1.2vw 2vw;
+    height: 1vw;
+    color: rgba(139, 81, 58, 0.651);
+    
+}
+
+header h1{
+
+    float: left;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2vw;
+    padding: 2vw 2vw 1.5vw 2vw;
+    height: 1vw;
+}
+
+
+/***style for body****/
+
+.advice-half h4 {
+
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5vw;
+    padding: 2vw 2vw 2vw 2vw;
+    
+}
+
+.advice-half p{
+
+    text-align: justify;
+    font-size: 1.4vw;
+    font-family: 'Shadows Into Light Two', cursive;
+    padding: 0vw 1vw 0vw 2vw;
+
+}
+
+
+/***footer style***/
+footer{
+
+    clear: both;
+    text-align: center;
+    font-size: .9vw;
+    padding: 2vw 0vw 0vw 0vw;
+    font-family: 'Shadows Into Light Two', cursive;
+}
