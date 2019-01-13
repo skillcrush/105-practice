@@ -6,16 +6,10 @@ body {
 }
 
 /***** HEADER *****/
-header {
- background-image: url('img/computerwoman.png');
- background-size: cover;
-}
-
 header a:link {
   text-decoration: none;
   font-weight: bold;
   color: #002266;
-  float: right;
   padding-top: 10px;
 }
 
@@ -35,11 +29,6 @@ h1 {
 
 h1 span {
   font-variant: small-caps;
-}
-
-img {
-max-width: 100%;
-  opacity: 0.85;
 }
 
 /***** ADVICE *****/
