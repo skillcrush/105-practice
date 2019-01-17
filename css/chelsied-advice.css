@@ -1,0 +1,28 @@
+
+body{
+  font-family:'PT Sans Narrow', sans-serif;
+  width: 700px;
+}
+
+
+h1{
+  text-align: center;
+  color: #990033;
+  font-family: 'Satisfy';
+}
+
+.advice{
+  border: solid 3px gray;
+  padding: 10px;
+  margin: 5px;
+}
+
+h2{
+  text-transform: uppercase;
+  text-align: center;
+  color: #ff80aa;
+}
+
+h4{
+  color: #cc0044;
+}
