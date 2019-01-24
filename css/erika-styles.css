@@ -1,0 +1,59 @@
+header {
+    height: 180px;
+    background-color: floralwhite;
+    border: 3px solid grey;
+    padding-top: 30px;
+}
+
+header button {
+    font-family: 'Vollkorn', serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: black;
+    padding-left: 10px;
+    border: 1px solid black;
+}
+
+header h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+    text-align: center;
+    overflow: auto;
+}
+
+h4{
+   font-family: 'Permanent Marker', cursive; 
+    font-size: 30px;
+    text-align: justify;
+    text-decoration: underline;
+}
+p {
+    font-family: 'Vollkorn', serif;
+    text-align: justify;
+}
+
+div {
+    width: 500px;
+    padding: 50px;
+}
+
+#first-advice {
+    float:left
+}
+
+#second-advice {
+    float: left;
+}
+
+footer {
+    height: 50px;
+    background-color: floralwhite;
+    border: 3px solid grey;
+    clear: both;
+}
+
+footer p{
+   font-family: 'Vollkorn', serif;
+    text-align: center;
+    clear: both;
+}
