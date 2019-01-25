@@ -1,0 +1,140 @@
+/***** BASE STYLES *****/
+body {
+  font-family: 'Coustard', serif;
+  color:#ffffe6;
+}
+
+
+/***** GRID *****/
+.full-width {
+  width: 1200px;
+  margin: auto;
+}
+
+.half-width {
+  width: 600px;
+}
+
+.third-width {
+  width: 400px;
+}
+
+.half-width, .third-width {
+  float:left;
+}
+
+/***** HEADER *****/
+header {
+    height:300px;
+
+}
+
+header h1 {
+  font-size: 90px;
+
+}
+
+nav {
+  float:right;
+  padding: 20px 20px 0 0px;
+}
+
+nav ul li {
+  display:inline-block;
+  margin-right:20px;
+}
+
+nav ul li a {
+  color: #77a466;
+  font-size:14px;
+  font-weight:bold;
+  text-decoration:none;
+  text-transform:uppercase;
+}
+
+/***** HERO *****/
+img {
+  border-top: 3px solid #77a466;
+  border-bottom: 3px solid #77a466;
+  margin: 0px;
+}
+
+/***** WELCOME *****/
+h2 {
+  color:#77a466;
+  text-transform:uppercase;
+}
+
+#welcome p {
+  line-height: 150%;
+  padding:0 0 25px 0px;
+}
+
+/***** INFO *****/
+#info .full-width {
+  border-top:1px solid #dedbdc;
+  border-bottom:1px solid #dedbdc;
+  height:230px;
+  padding:0px;
+}
+
+#info .third-width {
+  height:230px;
+  padding:0px;
+  width:399px;
+}
+
+#container-left h3 {
+  padding-left: 0px;
+  padding-top: 20px;
+}
+
+#container-center h3, #container-right h3 {
+  padding:20px 0 0 30px;
+}
+
+#info h3 {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+#info ul {
+  list-style: none;
+  padding:0px;
+}
+
+#info a {
+  color:#77a466;
+  font-size: 16px;
+  line-height: 200%;
+  padding:0px;
+  text-decoration: none;
+}
+
+#container-center {
+  border-left:1px solid #dedbdc;
+  border-right:1px solid #dedbdc;
+  height:230px;
+  padding:0px;
+  width:400px;
+}
+
+#info p {
+  font-size: 16px;
+  line-height: 150%;
+  padding:0px 30px;
+}
+
+/***** FOOTER *****/
+#footer h2 {
+  color:#000000;
+  font-size: 16px;
+  padding: 20px 0 0 0px;
+  text-align: center;
+}
+
+#footer span {
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+  text-transform: lowercase;
+}
