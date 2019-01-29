@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: #e6005c;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+h1{
+  margin-top: 30px;
+  font-style: italic;
+  color: #bfbfbf;
+}
+
+h4{
+  margin-top: 40px;
+  font-size: 20px;
+  color:  #8c8c8c;
+}
+
+p{
+  text-align: justify;
+  color: #404040;
+}
+
+#footer{
+  margin-top: 40px;
+  font-size: 14px;
+  color:  #e6005c;
+}
