@@ -13,26 +13,28 @@ h1, h2, h3, h4 {
 /***** HEADER *****/
 
 header {
-    background-color: #f8f8f2;
+    background-color: #ffd699;
     padding: 30px 40px;
 }
 
 header h1 {
     font-size: 72px;
     margin-bottom: 0;
-    color: #161616;
+    color: #ffffff;
+    letter-spacing: 3px;
 }
 
 header h1 span {
-    color: #a8aac0;
+    color: #ffad33;
     font-size: larger;
+    text-shadow: 2px 2px #000000;
 }
 
 header h2 {
     font-family: 'Assistant', 'Helvetica', sans-serif;
     margin-top: 0;
     margin-left: 20px;
-    color: #a8aac0;
+    color: #ffffff;
     letter-spacing: 1px;
 }
 
@@ -55,24 +57,25 @@ header a:hover {
 
 .advice {
     padding: 10px 40px;
-    background-color: #262730;
+    background-color: #ffffff;
 }
 
 .advice h4 {
-    font-size: 56px;
-    color: #a8aac0;
+    font-size: 40px;
+    color: #000000;
     margin-bottom: 0;
-    letter-spacing: 2px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
 }
 
 .advice h4 span {
-    color: #f8f8f2;
+    color: #ffad33;
 }
 
 .advice p {
-    font-size: 32px;
-    line-height: 42px;
-    color: #e4e4de;
+    font-size: 28px;
+    line-height: 36px;
+    color: #666666;
     font-weight: 200;
 }
 
