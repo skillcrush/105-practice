@@ -1,0 +1,37 @@
+/*** BODY ***/
+
+.evanar{
+    background:gainsboro;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    text-transform:uppercase;
+    color:indianred;
+    letter-spacing: 3px;
+    word-spacing:6px;
+}
+
+/*** SECTION ***/
+.advice{
+    width: 800px;
+    background:lavender;
+}
+
+h4{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:22px;
+    color:darkolivegreen;
+    font-weight:bold;
+    text-decoration: underline;
+    text-transform:capitalize;
+ }
+
+ p{
+     font-size: 16px;
+     color:black;
+     line-height:150%;
+
+ }
