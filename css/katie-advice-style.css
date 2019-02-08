@@ -1,0 +1,42 @@
+body {
+  background-color: #F0F0E8;
+}
+
+header {
+  font-size: 30px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: #12738B;
+}
+
+header a {
+  text-align: left;
+  font-size: 12px;
+}
+
+.advice {
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+
+h4 {
+  font-size: 25px;
+  font-style: oblique;
+  color: #5DA6BB;
+}
+
+p {
+  color: #18A0C8;
+  font-size: 20px;
+}
+
+p span {
+  color: #939DA0;
+  font-style: italic;
+}
+
+footer {
+  font-size: 10px;
+  font-weight: lighter;
+  text-align: center;
+}

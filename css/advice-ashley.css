@@ -1,0 +1,75 @@
+
+/* global fonts */
+
+body {
+	background: #f88379;
+	font-family: 'Merriweather', serif;
+	font-size: 100%;
+	color: #fff;
+	margin: 3em;
+	line-height: 1.25em;
+
+}
+
+#header-border {
+	background: #800080;
+	padding: 0.5em;
+	border: 0.05em solid #ffb347;
+	border-radius: 12px;
+}
+
+/******** font sizes *******/
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Raleway', sans-serif;
+	font-size-adjust: 0.5;
+}
+
+h1 {
+	font-size: 2em;
+	line-height: 1.25;
+
+}
+
+@media (min-width: 43.75em) {
+	h1 {
+		font-size: 2.5em;
+		line-height: 1.125;
+	}
+}
+
+@media (min-width: 56.25em) {
+	h1 {
+		font-size: 3em;
+		line-height: 1.05;
+	}
+}
+
+h4 {
+	font-size: 1.125em;
+	line-height: 1.11111111;
+	color: #800080;
+}
+
+@media (min-width: 43.75em) {
+	h4 {
+		line-height: 1.22222222;
+	}
+}
+
+a {
+	color: #fff;
+}
+
+/******** footer *******/
+
+footer {
+	padding: 0.25em;
+	text-align: center;
+}
+
+.heart {
+	color: #800080;
+}
+
+
