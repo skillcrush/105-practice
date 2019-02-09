@@ -1,0 +1,36 @@
+/********BASE STYLES********/
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #3D3636;
+}
+
+
+
+
+/*******HEADER*******/
+
+a {
+  color: white;
+}
+
+h1 {
+  color: crimson;
+  text-align: center;
+}
+
+
+/*******BODY*******/
+
+h4 {
+  color: tomato;
+  font-size: 18px;
+}
+
+p {
+  color: white;
+}
+
+.advice {
+  margin: 10px 50px 10px 50px;
+}
