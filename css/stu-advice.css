@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+    max-width: 90%;
+    width: 960px;
+    margin: 0 auto;
+
+    
+}
+h1, h4 {
+    color: orangered;
+    text-align: center;
+}
+
+h4{
+    line-height: 24px;
+}
+
+footer {
+    text-align: center;
+    color: orangered;
+}
