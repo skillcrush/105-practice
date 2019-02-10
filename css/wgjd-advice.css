@@ -1,0 +1,31 @@
+﻿/***** BASE STYLES *****/
+
+body {
+	font-family: Helvetica, sans-serif;
+}
+
+h1, h4 {
+	color: black;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+p {
+	font-size: 14px;
+	line-height: 21px;
+	padding: 0 30px;
+}
+
+header {
+	height: 110px;
+	border-bottom: 3px solid #000000;
+	margin: 0 auto;
+}
+
