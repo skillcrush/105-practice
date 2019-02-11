@@ -1,0 +1,88 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Noto Serif SC', serif;
+    width: auto;
+    margin: 0 auto;
+}
+
+
+
+/***** HEADER *****/
+
+header {
+    background-color: #cc6699;
+    padding: 30px 40px;
+    color: white;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #b3b300;
+    background-color :#333300;
+    border: 1px solid #333300;
+    padding: 10px 20px;
+}
+
+header a:hover {
+    color: #fff;
+}
+
+header h1 {
+    padding-top: 50px;
+    font-size: 52px;
+}
+
+header h1 span {
+    color: #333300;
+}
+
+header h2 {
+    font-size: 40px;
+    letter-spacing: 1px;
+    line-height: 10px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    background-color: #999933;
+    color: white;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.advice h3 {
+    font-size: 28px;
+    color: #333300;
+    padding-top: 30px;
+}
+
+.advice p {
+    font-size: 28px;
+    padding-bottom: 20px;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.advice p span {
+    color: #993333;
+    font-weight: bold;
+}
+
+/***** FOOTER *****/
+
+footer {
+    padding: 10px 40px;
+    background-color: #333300;
+}
+
+footer p {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
