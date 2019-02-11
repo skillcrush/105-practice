@@ -1,0 +1,4832 @@
+[33mcommit 77880b4e8d58fc086b8f9874393c02c908d2d34a[m[33m ([m[1;36mHEAD -> [m[1;32mtesting[m[33m)[m
+Author: anlemual <anlemual@gmail.com>
+Date:   Sun Feb 10 19:13:36 2019 -0600
+
+    Added a comment to practice pull amd push
+
+[33mcommit 3555850b359e6933b56d9e8bd5149483eff6ddab[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 7c00274 0d4b27c
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Feb 10 07:54:13 2019 -0700
+
+    Merge pull request #234 from brence2/garfild
+    
+    Emina's advice
+
+[33mcommit 0d4b27c8a563ab3922ce6edea12a65ac000d5ce7[m
+Merge: 5115c95 7c00274
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Feb 10 07:53:51 2019 -0700
+
+    Merge branch 'master' into garfild
+
+[33mcommit 7c002746e501f764d3ccf1ec2c16cc3bdeb8d1bf[m
+Merge: 6a18e69 1b18b1f
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Feb 10 07:52:27 2019 -0700
+
+    Merge pull request #233 from lwoodzz/lwoods-wisdom
+    
+    Lwoods wisdom
+
+[33mcommit 1b18b1f841501b58da9c3b9c2f09f136f85cc0e7[m
+Merge: 00f2378 6a18e69
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Feb 10 07:52:15 2019 -0700
+
+    Merge branch 'master' into lwoods-wisdom
+
+[33mcommit 6a18e6933d21296480551cd37baea949f5ba1892[m
+Merge: 15cafaf 003111a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Feb 10 07:51:33 2019 -0700
+
+    Merge pull request #232 from imanb17/imanb-105
+    
+    Iman's advice html and css with link to main index.html file added
+
+[33mcommit 15cafaf45c99bb288d849c43e52ef7651844b62e[m
+Merge: e9ad151 9875816
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Feb 10 07:46:20 2019 -0700
+
+    Merge pull request #227 from code-by-Stacie/experiments
+    
+    created index.html and styles.css
+
+[33mcommit 9875816aaf2c2ff6ead8840924ac29d24fe662d3[m
+Merge: ad78d31 e9ad151
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Feb 10 07:46:07 2019 -0700
+
+    Merge branch 'master' into experiments
+
+[33mcommit 00f23787b30386b0d6bae0f833010d4a156206aa[m
+Author: lwoods <lauren.woods.622@gmail.com>
+Date:   Sat Feb 9 13:40:06 2019 -0500
+
+    updated personal advice page and added link on main advice html page at the bottom
+
+[33mcommit a4183aa8b7bf6873a4ee596b32797e759dfaebc5[m
+Merge: b9122b6 e9ad151
+Author: lwoods <lauren.woods.622@gmail.com>
+Date:   Sat Feb 9 13:17:23 2019 -0500
+
+    syncing upstream master with my forked master
+
+[33mcommit b9122b6e2821e24399e6f277f7f165d3a2dee20b[m
+Author: lwoods <lauren.woods.622@gmail.com>
+Date:   Sat Feb 9 12:42:12 2019 -0500
+
+    updated html and css then linked them
+
+[33mcommit 5115c959d1beeba128dbc6adbd62705a72452dfc[m
+Author: brence <emina230@gmail.com>
+Date:   Sat Feb 9 00:09:53 2019 -0500
+
+    main html
+
+[33mcommit db1bf14b34d5051b9ef356493eb6895c0327f8d0[m
+Author: brence <emina230@gmail.com>
+Date:   Sat Feb 9 00:07:50 2019 -0500
+
+    garfilds branch
+
+[33mcommit 003111a7271925dd54eb35b084f2f755359b0d06[m
+Author: ImanWebDev <imanb@bigpond.com>
+Date:   Sat Feb 9 15:56:09 2019 +1100
+
+    Iman's advice html and css with link to main index.html file added
+
+[33mcommit ad78d31898adcdc77aa72b252104bdff269bed89[m
+Author: code-by-Stacie <stacie_music@outlook.com>
+Date:   Thu Feb 7 22:52:55 2019 -0500
+
+    Added link in root file to advice page.
+
+[33mcommit e9ad1514c3d526535508ac00c5bb672d3325a719[m
+Merge: 49f838e 4f68a92
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Feb 7 17:15:27 2019 -0700
+
+    Merge pull request #224 from mtthewedwards/experiments
+    
+    Experiments
+
+[33mcommit 4f68a92fa1100439e59af0d8c56571209c0dedd0[m
+Merge: 62897c5 49f838e
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Feb 7 17:14:52 2019 -0700
+
+    Merge branch 'master' into experiments
+
+[33mcommit 49f838e5e4d635748a5225375594d4611793a57b[m
+Merge: 3758d7f 599c923
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Feb 7 17:09:45 2019 -0700
+
+    Merge pull request #230 from juarezgd/advice-practice-html
+    
+    created and updated my individual advice-practice-html files
+
+[33mcommit 7743d2a64baecb34fc67277ef5225aaf24a232c1[m
+Author: code-by-Stacie <stacie_music@outlook.com>
+Date:   Wed Feb 6 22:21:28 2019 -0500
+
+     Moved advice file into advice folder and renamed it. Moved css file in the css folder and renamed it. Deleted unnecessary additional folders. Linked css and html stylesheets.
+
+[33mcommit 62897c5c2646db1add25da8bd8cda007c289478c[m
+Author: Matthew <mtthewedwards@gmail.com>
+Date:   Wed Feb 6 17:36:33 2019 -0800
+
+    Added a link to my advice page in index.html
+
+[33mcommit 3758d7fde46faed2c1881296185ec9c902f52428[m
+Merge: 735e145 af94462
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Feb 6 15:03:52 2019 -0700
+
+    Merge pull request #219 from kmilliner888/experiments
+    
+    Experiments
+
+[33mcommit af944623780b6bc501f2df276fd7be09fad98edd[m
+Merge: da6ac95 735e145
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Feb 6 15:03:39 2019 -0700
+
+    Merge branch 'master' into experiments
+
+[33mcommit 599c92327e8459f82b2b3d3ffeeffd4d4ee98adb[m
+Author: juarezgd <juarezgd@gmail.com>
+Date:   Thu Feb 7 05:45:48 2019 +0900
+
+    created and updated my individual advice-practice-html files
+
+[33mcommit da6ac951abf5a981021af2cacdf79b89ebaa8d9a[m
+Author: Kaylen Milliner <kaylen.milliner@gmail.com>
+Date:   Mon Feb 4 22:13:55 2019 -0500
+
+    made changes to html css and added link to main page
+
+[33mcommit 735e145d71bfe956d6f7714cfa0c3fc3c1e909ca[m
+Merge: eb73d54 0486c4e
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Mon Feb 4 17:58:00 2019 -0700
+
+    Merge pull request #226 from rryardley/add-advice
+
+[33mcommit eb73d548cd52775ef7e3d52e2f44675aab2ac86d[m
+Merge: d4acad7 11abfea
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Feb 4 17:28:30 2019 -0700
+
+    Merge pull request #228 from kcgott/experiments
+    
+    Add K.C.'s advice
+
+[33mcommit 11abfea36a6875e15f60f2b484df3d4460d10320[m
+Merge: 6a46f47 d4acad7
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Feb 4 17:28:10 2019 -0700
+
+    Merge branch 'master' into experiments
+
+[33mcommit 6a46f478bbcd7b91b0f23ac605b8f6f4c3a27a2b[m
+Author: kcgott <k.c.gott@gmail.com>
+Date:   Mon Feb 4 16:47:08 2019 -0500
+
+    adding kcgott advice
+
+[33mcommit 2273378d0d63185ddb4fafd8f93b102b25edd3db[m
+Author: code-by-Stacie <stacie_music@outlook.com>
+Date:   Mon Feb 4 01:46:25 2019 -0500
+
+    created index.html and styles.css
+
+[33mcommit d4acad7cf5c8c249734ffda51c95fd62f598196b[m
+Merge: d416b23 56bd95d
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Feb 3 20:06:35 2019 -0700
+
+    Merge pull request #222 from The-Jewell/josephjewelladvice
+    
+    adding my advice html and css page
+
+[33mcommit 51792cf250d1a0e6bb464de3cb493029221fcebd[m
+Author: Kaylen Milliner <kaylen.milliner@gmail.com>
+Date:   Sun Feb 3 22:04:21 2019 -0500
+
+    updated html and css
+
+[33mcommit 0486c4e174980d9b234554165a559706e310e78d[m
+Author: Rosemary <rryardley@gmail.com>
+Date:   Sun Feb 3 16:08:08 2019 -0500
+
+    Adding Rosemary-advice files
+
+[33mcommit 9d31f949e13410e3667082e55cbcc6a475b44bfb[m
+Author: Matthew <mtthewedwards@gmail.com>
+Date:   Fri Feb 1 17:07:03 2019 -0800
+
+    Added a link to my advice page in my html
+
+[33mcommit 56bd95de11c61f0453c23a2110aafcbb74e82fef[m
+Author: The Jewell <jjewell@gmail.com>
+Date:   Thu Jan 31 19:44:53 2019 -0600
+
+    added link to my advice to index
+
+[33mcommit 03a4228b7889373a52e28fdc049d5ca304a903f8[m
+Merge: f5f6133 d416b23
+Author: The Jewell <jjewell@gmail.com>
+Date:   Wed Jan 30 20:30:20 2019 -0600
+
+    merging to make sure updates are merged
+
+[33mcommit d416b236d2acfb38daec54526f05d16e9923d953[m
+Merge: 7f6db8e 075ae0d
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Jan 30 17:32:30 2019 -0700
+
+    Merge pull request #221 from ashleyboldin/advice_ashley
+    
+    Creating 'Ashley's Advice Page' for Skillcrush 105 project
+
+[33mcommit 7f6db8e9a7385f8cbb348bd47518e71801a2f29d[m
+Merge: 1821d98 b535830
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Jan 30 16:56:22 2019 -0700
+
+    Merge pull request #218 from boomboompowell/practice-branch
+    
+    first-jasonpowell-advice
+
+[33mcommit b5358309e4133cb5c472af0e8080c072d5448d12[m
+Merge: fca1983 1821d98
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Jan 30 16:56:11 2019 -0700
+
+    Merge branch 'master' into practice-branch
+
+[33mcommit 1821d9883564edd6ac6917283bbb3d7394946aa5[m
+Merge: 7e4009a 46e9fea
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Jan 30 16:52:16 2019 -0700
+
+    Merge pull request #213 from kwhitt78/advice
+    
+    Katie's advice changes
+
+[33mcommit fca1983b5197f242a6e5b269ee7eb1b0a07f9f6c[m
+Author: Jason <boomboompowell78@gmail.com>
+Date:   Wed Jan 30 17:30:10 2019 -0500
+
+    added link to main html
+
+[33mcommit f5f6133a4da8c9c2591c2d8c02ed9f0340d5d858[m
+Author: The Jewell <jjewell@gmail.com>
+Date:   Wed Jan 30 11:54:56 2019 -0600
+
+    adding my advice html and css page
+
+[33mcommit 5ac27558de0dd80a993ceba4139e9826acbc508c[m
+Author: Kaylen Milliner <kaylen.milliner@gmail.com>
+Date:   Wed Jan 30 05:27:52 2019 -0500
+
+    added html
+
+[33mcommit 17bca0905a83cffa89f3639830c182b89343b71b[m
+Author: Kaylen Milliner <kaylen.milliner@gmail.com>
+Date:   Wed Jan 30 05:24:57 2019 -0500
+
+    added html and css
+
+[33mcommit 075ae0d366e0689e83bb671a525bc5aa77e0f617[m
+Author: aboldin <ashleyboldin@icloud.com>
+Date:   Wed Jan 30 00:32:47 2019 -0600
+
+    Creating 'Ashley's Advice Page' for Skillcrush 105 project
+
+[33mcommit 7e4009a2751be5ce8e32d8ad8f297eee9a9faaec[m
+Merge: feac73a ff2081e
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Jan 29 22:22:31 2019 -0500
+
+    Merge pull request #217 from raynamecham/newbranch
+    
+    rayna advice files added
+
+[33mcommit feac73ad86487368e59890c5fd0b5acd8f6e6425[m
+Merge: b0463c5 0f16a1f
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Jan 29 22:16:31 2019 -0500
+
+    Merge pull request #207 from stulinden/advice
+    
+    Advice
+
+[33mcommit 0f16a1f2f0650888bd4406bc17261913610e0493[m
+Merge: f70fef4 b0463c5
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Jan 29 22:16:23 2019 -0500
+
+    Merge branch 'master' into advice
+
+[33mcommit f70fef4b7e5be8bf205012fa0820c098bd129131[m
+Author: stulinden <scljr38@outlook.com>
+Date:   Tue Jan 29 22:01:27 2019 -0500
+
+    added my advice page
+
+[33mcommit 1e40690f241c024a0fe40219555b14d5569dc17a[m
+Merge: 9cb8856 b0463c5
+Author: Jason <boomboompowell78@gmail.com>
+Date:   Tue Jan 29 20:59:30 2019 -0500
+
+    Merge branch 'master' into practice-branch
+
+[33mcommit 46e9feac915b89213f671e52c01e4cf8f89757a4[m
+Merge: 1fc5f8c b0463c5
+Author: kwhitt78 <47087355+kwhitt78@users.noreply.github.com>
+Date:   Tue Jan 29 18:53:09 2019 -0500
+
+    Merge branch 'master' into advice
+
+[33mcommit 1fc5f8c046f84e189a2db6370006a1dac5c3ffe9[m
+Author: Katie Whitt <katharinewhittington@gmail.com>
+Date:   Tue Jan 29 18:46:07 2019 -0500
+
+    changes to index.html
+
+[33mcommit 4a6f4aee6e796a691a26ff98960b9e5b4a730b81[m
+Merge: a81be30 b0463c5
+Author: Matthew <mtthewedwards@gmail.com>
+Date:   Tue Jan 29 13:45:26 2019 -0800
+
+    Merge branch 'master' into experiments
+    
+    Merging upstream to the repository
+
+[33mcommit ff2081e11d0c527dd6e766bdf5dc01e931b65b6c[m
+Author: Hermione Granger <rayna.mecham@gmail.com>
+Date:   Tue Jan 29 10:00:32 2019 -0700
+
+    rayna advice files added
+
+[33mcommit b0463c57cc9a0f9ae8e515fcec33f3c5ad74077d[m
+Merge: 4ca84c1 d42045f
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Jan 29 06:51:59 2019 -0700
+
+    Merge pull request #216 from heytherepeter/peters_advice
+    
+    Adding Peter's advice page
+
+[33mcommit d42045f069ab4f4421ccfed98b512a2625358637[m
+Merge: 25722de 4ca84c1
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Jan 29 06:51:46 2019 -0700
+
+    Merge branch 'master' into peters_advice
+
+[33mcommit 4ca84c171d3e793e75f805a4dedd19e70f3c1683[m
+Merge: b15cc32 fe7b038
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Jan 29 06:51:13 2019 -0700
+
+    Merge pull request #215 from cezarea/experiments
+    
+    Experiments
+
+[33mcommit fe7b038edfbc7365503da4a8b17d028a063b6315[m
+Merge: d60d622 b15cc32
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Jan 29 06:51:00 2019 -0700
+
+    Merge branch 'master' into experiments
+
+[33mcommit b15cc326197250e29d028551b2c953a15e6569c2[m
+Merge: b597479 536f70d
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Jan 29 06:49:26 2019 -0700
+
+    Merge pull request #212 from lyndseylew/advice
+    
+    adding files for lyndsey's advice page
+
+[33mcommit 9cb8856818d42aa01b2a91e3565e641202748ed4[m
+Author: Jason <boomboompowell78@gmail.com>
+Date:   Mon Jan 28 18:13:28 2019 -0500
+
+    first-jasonpowell-advice
+
+[33mcommit 25722de8fafe194bcf40de5c078658ccc69db5d8[m
+Author: Peter ONeill <jaretep@gmail.com>
+Date:   Mon Jan 28 13:23:45 2019 -0800
+
+    added style sheet and updated main index file
+
+[33mcommit d60d622a00c7aa1ae20d7947e8c9a920bb843f5d[m
+Author: K <cezarea@gmail.com>
+Date:   Mon Jan 28 12:03:56 2019 -0500
+
+    added link to K's advice
+
+[33mcommit 7e5be84c7bdfe903cbeac92f96f9e656ab047f82[m
+Author: K <cezarea@gmail.com>
+Date:   Mon Jan 28 12:03:20 2019 -0500
+
+    personalized css
+
+[33mcommit 6691fe46e5bd76ddb8070a9fb332f5c563f72cc6[m
+Author: K <cezarea@gmail.com>
+Date:   Mon Jan 28 12:02:51 2019 -0500
+
+    personalized advice
+
+[33mcommit a81be30106d6404dfec56e0be798d436cb832817[m
+Author: Matthew <mtthewedwards@gmail.com>
+Date:   Sun Jan 27 16:39:40 2019 -0800
+
+    Added CSS
+
+[33mcommit 4c70ff793be10ce3c0666f4c756354a13d30d4ad[m
+Author: Matthew <mtthewedwards@gmail.com>
+Date:   Sun Jan 27 16:38:21 2019 -0800
+
+    Added HTML
+
+[33mcommit 88250adfa36dfc2ab7985ffdde2e18eb9a657f0f[m
+Author: Peter ONeill <jaretep@gmail.com>
+Date:   Sun Jan 27 13:53:24 2019 -0800
+
+    adding peter's advice page
+
+[33mcommit 901ac486a3625ccb059833fba59081ff238733bc[m
+Author: Katie Whitt <katharinewhittington@gmail.com>
+Date:   Sun Jan 27 15:21:42 2019 -0500
+
+    Katie's advice changes
+
+[33mcommit 536f70d07cb9d935ac50565adfacfff862c376be[m
+Author: Lyndsey <lyndsey.a.lewis@gmail.com>
+Date:   Sun Jan 27 11:46:49 2019 -0500
+
+    adding files for lyndsey's advice page
+
+[33mcommit bd63fd47096e32b1d4eb1c3efcef4b836a2216f2[m
+Author: K <cezarea@gmail.com>
+Date:   Sat Jan 26 17:35:53 2019 -0500
+
+    pesonalized template and added a css file
+
+[33mcommit b597479a901625ff26596729d4b791b914446d07[m
+Merge: 3e2f260 87567c8
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Jan 26 17:32:23 2019 -0500
+
+    Merge pull request #209 from cristylk/cristy
+    
+    Adding cristy's advice page
+
+[33mcommit 54a2b51ee6eef8a8a2f07d6a9a40f96502d095b8[m
+Author: K <cezarea@gmail.com>
+Date:   Sat Jan 26 17:23:46 2019 -0500
+
+    copied template
+
+[33mcommit 87567c8d8ce30ab67435b070a039170d6223d449[m
+Author: cristylk <cristy.koebler@gmail.com>
+Date:   Fri Jan 25 14:02:13 2019 -0500
+
+    Adding cristy's advice page
+
+[33mcommit a6cdadd6e968806708623428c4d1859ab8cb2033[m
+Author: stulinden <scljr38@outlook.com>
+Date:   Thu Jan 24 08:53:52 2019 -0500
+
+    css/stu-advice.css
+
+[33mcommit 0b4f13cd2fedbc659b3f9f18e9be4fb20de651fa[m
+Author: stulinden <scljr38@outlook.com>
+Date:   Thu Jan 24 08:51:57 2019 -0500
+
+    advice/stu-advice.html
+
+[33mcommit 3e2f26024cf3cf779682aced6417491aff247a89[m
+Merge: 23f8997 3aa86dd
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Jan 23 18:08:37 2019 -0700
+
+    Merge pull request #203 from znapfel/advice
+    
+    Added Zach N advice page and CSS styles
+
+[33mcommit 3aa86dd745463e4e40e9068b16d84d221ecb0b41[m
+Author: Zachary Napfel <znapfel@gmail.com>
+Date:   Tue Jan 22 12:48:32 2019 -0500
+
+    added link to advice on index.html
+
+[33mcommit f0f13f703bf2e332c9711efd0e5b6ef32aaa67ec[m
+Author: Zachary Napfel <znapfel@gmail.com>
+Date:   Mon Jan 21 23:06:17 2019 -0500
+
+    added advice page
+
+[33mcommit 23f89973e0c3e628882446fc071c3539bf774689[m
+Merge: cdeebcf c543d3c
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Jan 21 13:03:16 2019 -0500
+
+    Merge pull request #200 from genevievej/my-advice
+    
+    Add Genevieve's advice
+
+[33mcommit c543d3c0c0518497c4c4adc0077b0e73eaeb515b[m
+Merge: c4ba052 cdeebcf
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Jan 21 13:03:04 2019 -0500
+
+    Merge branch 'master' into my-advice
+
+[33mcommit cdeebcf77fbd946bc945b140039e9e1668807d57[m
+Merge: af837e9 4b1c6d8
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Jan 21 13:01:42 2019 -0500
+
+    Merge pull request #199 from AEFitzGerald/anna-branch
+    
+    Anna branch
+
+[33mcommit 4b1c6d80569c285df31a15ef343da8f7cda18585[m
+Merge: 66fd4e1 af837e9
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Jan 21 13:01:31 2019 -0500
+
+    Merge branch 'master' into anna-branch
+
+[33mcommit af837e9c7fc9640b88e82b5fc91a8d67c9dd157e[m
+Merge: d831a32 c3aee4e
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Mon Jan 21 12:55:27 2019 -0500
+
+    Merge branch 'advicemelanie' of github.com:Lilith9/105-practice
+
+[33mcommit d831a321e1c0de0bf708fe8a5d38f4f741774ebf[m
+Merge: e43ea9b a882ac3
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Jan 21 12:50:20 2019 -0500
+
+    Merge pull request #201 from mhuang512/testing123
+    
+    michellejen-commit
+
+[33mcommit a882ac343c854867e21d8d456901b239f0fa09e2[m
+Author: mhuang512 <mhuang512@gmail.com>
+Date:   Mon Jan 21 02:14:21 2019 -0800
+
+    michellejen-commit
+
+[33mcommit c4ba05261491062a42673b37e9d755c457e70c93[m
+Merge: 742194e e43ea9b
+Author: Genevieve J <genjohnsen@gmail.com>
+Date:   Sat Jan 19 14:55:24 2019 -0600
+
+    Fix merge conflict with upstream
+
+[33mcommit 66fd4e11860eda7daba9766e017f2d6248366fb3[m
+Author: AnnaE <annaefitzgerald@gmail.com>
+Date:   Sat Jan 19 11:03:48 2019 -0700
+
+    anna added link to her page
+
+[33mcommit e43ea9b7d9ab244a85941ae67fd3783a5d365074[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Sat Jan 19 07:37:51 2019 -0700
+
+    Clean up index.html
+
+[33mcommit ea1445978bfaceedbe2070a36b4790ebc4e93436[m
+Merge: 6d5968a 8289f34
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Sat Jan 19 07:18:47 2019 -0700
+
+    Merge pull request #198 from esmada/mybranch
+
+[33mcommit 6d5968a6f0eb5fdf3aa9b3bc6485b4b7da820b76[m
+Merge: 8e9dc32 51f1bbe
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Sat Jan 19 07:12:22 2019 -0700
+
+    Merge pull request #196 from v79val/changes
+
+[33mcommit 8e9dc325065d3e9401fd896c675743f24d7fd1c9[m
+Merge: e5dfbeb 9dfc1fe
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Sat Jan 19 07:05:55 2019 -0700
+
+    Merge pull request #195 from tanzerdragon/advice
+
+[33mcommit e5dfbebee0c4b7f8f172c8cd875c768428922c6f[m
+Merge: 4c8bcdf c008ab6
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Sat Jan 19 07:03:17 2019 -0700
+
+    Merge pull request #188 from ml-nguyen/new-advice
+
+[33mcommit 4c8bcdf522fb39bb5a8f497769b253e06d39c38c[m
+Merge: be1b9c1 5d164ac
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Sat Jan 19 06:58:21 2019 -0700
+
+    Merge pull request #175 from raqescar/practiceabout
+
+[33mcommit 583534d7787f42bcd36817a4cda05e8ae2b76ffb[m
+Author: AnnaE <annaefitzgerald@gmail.com>
+Date:   Fri Jan 18 23:31:09 2019 -0700
+
+    anna fitzgeralds new css-style for advice page
+
+[33mcommit 1321b991ffa15a74930caa9bda957b7daf673d0b[m
+Author: AnnaE <annaefitzgerald@gmail.com>
+Date:   Fri Jan 18 23:19:17 2019 -0700
+
+    New Advice Index from Anna FitzGerald
+
+[33mcommit 8289f3431f06c6b00388cf07e567b723d29cf3e8[m
+Author: Sparkles <33esmada@gmail.com>
+Date:   Fri Jan 18 17:28:02 2019 -0800
+
+    My Files
+
+[33mcommit 742194ed3dd01342e8fcc6fb10e74146aee24020[m
+Author: Genevieve J <genjohnsen@gmail.com>
+Date:   Fri Jan 18 17:18:40 2019 -0600
+
+    Add my advice and link on index page
+
+[33mcommit 5d164ace7d208cfa1ad2eca276760e166e70defe[m
+Author: Raq <raqescar@gmail.com>
+Date:   Fri Jan 18 15:51:59 2019 -0700
+
+    merging practice branch
+
+[33mcommit 51f1bbe7e8e52e61b0f4bfbfa00b096d4393c8dd[m
+Author: v79val <v79val@hotmail.com>
+Date:   Fri Jan 18 22:24:39 2019 +0200
+
+    my advice aded
+
+[33mcommit c0744e1d30dfbe79b17807bae50324e763eac071[m
+Author: v79val <v79val@hotmail.com>
+Date:   Fri Jan 18 21:49:38 2019 +0200
+
+    Valerias files added
+
+[33mcommit be1b9c12d926e2c0eecfd47f99431d5faa273e9c[m
+Merge: 86af064 89bfb09
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 18 06:50:51 2019 -0700
+
+    Merge pull request #194 from mello4yello/first-repo-edit
+    
+    add-mel
+
+[33mcommit 89bfb09c0d4eed72017d109da2e0f3a9c7ea4331[m
+Merge: cfb7696 86af064
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 18 06:50:29 2019 -0700
+
+    Merge branch 'master' into first-repo-edit
+
+[33mcommit 86af064e3831303c2dbdb94209722600d9f3e549[m
+Merge: 36b2c0f b67bc53
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 18 06:48:46 2019 -0700
+
+    Merge pull request #192 from DmitriKom/experiments
+    
+    Experiments
+
+[33mcommit cfb76964f580c49e180d677f24290ca1bfc59b72[m
+Author: melloyello <melfuentes0812@gmail.com>
+Date:   Thu Jan 17 21:20:51 2019 -0600
+
+    add-mel
+
+[33mcommit b67bc53894802f52b0f88a3615b912e6b1835117[m
+Author: Dmitri Komarovski <Dmitri.Komarovski@gmail.com>
+Date:   Thu Jan 17 11:44:27 2019 +0200
+
+    add a link to Dmitri's advice on the main page
+
+[33mcommit 9dfc1fe0870fc95eae0a31b1243750a418e1fa97[m
+Author: TDragon <t.duong800@gmail.com>
+Date:   Wed Jan 16 17:21:28 2019 -0800
+
+    added advice html and css and updated a link to the page in the index file
+
+[33mcommit 36b2c0f996f43dc43ac5f9c449621ef36b320641[m
+Merge: d9ebd9e e2ee805
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Wed Jan 16 13:26:24 2019 -0500
+
+    Merge branch 'branch_by_aki' of github.com:akiiwata/105-practice
+
+[33mcommit 32e5881d0be3faa445ef291eaa1d0cadf34774e1[m
+Author: Dmitri Komarovski <Dmitri.Komarovski@gmail.com>
+Date:   Wed Jan 16 12:58:42 2019 +0200
+
+    Dmitri's Advice
+
+[33mcommit 1b9252dfd3ca51698e9a3b0c88985b68807fb9ce[m
+Author: Dmitri Komarovski <Dmitri.Komarovski@gmail.com>
+Date:   Wed Jan 16 12:11:31 2019 +0200
+
+    Edit Title
+
+[33mcommit c008ab67dc54c99afd6c6b3e32fb841ad0a40c36[m
+Merge: 1c46dfc 55a70df
+Author: Michelle Nguyen <d_whitesilver@hotmail.com>
+Date:   Tue Jan 15 11:10:55 2019 -0800
+
+    fixed merge conflicts
+
+[33mcommit 1c46dfc7921959087847544d890d6ceea43f5eea[m
+Author: Michelle Nguyen <d_whitesilver@hotmail.com>
+Date:   Tue Jan 15 10:37:34 2019 -0800
+
+    added link to michelle advice back into index.html
+
+[33mcommit 0cfc89097d8d23218b196dc8a6ec621d415ffaf2[m
+Merge: bbedb31 d9ebd9e
+Author: Michelle Nguyen <d_whitesilver@hotmail.com>
+Date:   Tue Jan 15 10:35:24 2019 -0800
+
+    fixed merge conflicts, added julian advice to forked repo
+
+[33mcommit bbedb31f4112539e14d2db39d159d079ca487df1[m
+Author: Michelle Nguyen <d_whitesilver@hotmail.com>
+Date:   Tue Jan 15 10:30:59 2019 -0800
+
+    removed link to michelle advice from index.html
+
+[33mcommit 55a70df8e4d30c655656a047ac3e37031d281a0a[m
+Author: Michelle Nguyen <d_whitesilver@hotmail.com>
+Date:   Mon Jan 14 22:40:09 2019 -0800
+
+    updated index.html to include link to michelle advice
+
+[33mcommit c3aee4e383eeb5c37d6c081a5423dae28a3ca25b[m
+Author: Lilith9 <melanie.noah@t-online.de>
+Date:   Mon Jan 14 21:43:15 2019 +0100
+
+    removed extra folder
+
+[33mcommit d9ebd9e74dae93f2a8c4cd195488f5431c0971b5[m
+Merge: 1408c61 f7c9c80
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Jan 14 09:17:41 2019 -0700
+
+    Merge pull request #185 from JulianBurns1995/Julians
+    
+    Julian's Pull Request
+
+[33mcommit f7c9c800a7e4409ec6822e9970bfa40402fe5eab[m
+Merge: c8f2aa5 1408c61
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Jan 14 09:15:30 2019 -0700
+
+    Merge branch 'master' into Julians
+
+[33mcommit e2ee805602e077e749676b15aa5aaf908f0b50b9[m
+Author: A.I <akie.i@hotmail.co.jp>
+Date:   Mon Jan 14 15:43:08 2019 +0900
+
+    modifiedindex.html
+
+[33mcommit c8f2aa5a0ee3e37c2cec91fb202ab90aff93156c[m
+Author: Mind_Warp <Julian95@live.ca>
+Date:   Sun Jan 13 17:29:39 2019 -0800
+
+    index-changed
+
+[33mcommit d4928bf5562e90a1558a294e7310d7009c0c324c[m
+Merge: d3284ab 1408c61
+Author: Michelle Nguyen <d_whitesilver@hotmail.com>
+Date:   Sun Jan 13 13:26:00 2019 -0800
+
+    Merge branch 'master' into new-advice
+
+[33mcommit 810a8a4597d4400e096fcef26245297de184da58[m
+Author: Lilith9 <melanie.noah@t-online.de>
+Date:   Sun Jan 13 20:21:20 2019 +0100
+
+    made the required changes
+
+[33mcommit 1408c613345fb9a8dc494be76658107dcbe1e4bb[m
+Merge: 1f035c5 84fecc5
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Jan 13 11:49:01 2019 -0700
+
+    Merge pull request #186 from masahx/mybranch
+    
+    Masha's advice
+
+[33mcommit d3284aba22b53623ecceef1143e3c8c35008061b[m
+Author: Michelle Nguyen <d_whitesilver@hotmail.com>
+Date:   Sun Jan 13 00:13:48 2019 -0800
+
+    added michelle advice
+
+[33mcommit 84fecc5b4ee99aa0745666a6f79160618b5ce967[m
+Author: masha <spamovski@yahoo.co.uk>
+Date:   Sat Jan 12 16:22:41 2019 +0100
+
+    finished 1
+
+[33mcommit eed07d6328fdd309a045817ed39e783b37e68109[m
+Merge: 9c18ff2 1f035c5
+Author: Mind_Warp <Julian95@live.ca>
+Date:   Fri Jan 11 17:20:41 2019 -0800
+
+    Merge remote-tracking branch 'upstream/master' into Julians
+    
+    necessary
+
+[33mcommit 1f035c584cad1d1055ca0d00ae99579fe12d33c5[m
+Merge: 5417ba4 c908549
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Jan 11 14:31:55 2019 -0500
+
+    Merge pull request #180 from ArtemisMyself/master
+    
+    created artemis advice page
+
+[33mcommit 5417ba4281dd3c19740ef25b86b3de9478f4a940[m
+Merge: e21b472 e69d6e0
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Jan 11 14:31:18 2019 -0500
+
+    Merge pull request #179 from rosanye/experiments
+    
+    Experiments
+
+[33mcommit e69d6e0aa6ac380703be6b580290898e2099dd80[m
+Merge: 95f345e e21b472
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Jan 11 14:31:11 2019 -0500
+
+    Merge branch 'master' into experiments
+
+[33mcommit e21b472abd27717dea8338ef1af3047db79b758c[m
+Merge: b7faec1 0eea932
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Jan 11 14:29:45 2019 -0500
+
+    Merge pull request #178 from gabucino/gabucinos
+    
+    gabucinos advice added
+
+[33mcommit 8d03d7c0181c275d60a31bdfff6b573914f2c524[m
+Author: Lilith9 <melanie.noah@t-online.de>
+Date:   Fri Jan 11 18:35:32 2019 +0100
+
+    changed HTML and CSS
+
+[33mcommit 95f345e180783e525730c9a0b3cb17cba1259e72[m
+Merge: cee530c b7faec1
+Author: Ro <rosanyespinal@gmail.com>
+Date:   Wed Jan 9 14:21:46 2019 -0500
+
+    adding index.html
+
+[33mcommit cee530c672b17a0b50cc89f49cb7f375143215b4[m
+Author: Ro <rosanyespinal@gmail.com>
+Date:   Wed Jan 9 14:18:56 2019 -0500
+
+    adding index
+
+[33mcommit c90854923c4f06f3eb255285051a5d1c235e4c1c[m
+Author: lalaland <lalaland@gmail.com>
+Date:   Wed Jan 9 20:17:13 2019 +0200
+
+    created artemis advice page
+
+[33mcommit 0eea932e7e80e994772e5568ec7af4a01f289f55[m
+Author: gabucino <gabriella@meggy.es>
+Date:   Wed Jan 9 09:53:11 2019 +0100
+
+    gabucinos advice added
+
+[33mcommit 9c18ff2b6b43dff75368cd8a0550e05a759cb671[m
+Author: Mind_Warp <Julian95@live.ca>
+Date:   Tue Jan 8 22:45:07 2019 -0800
+
+    Julian
+
+[33mcommit b7faec1cba6db6e4d00d256a72aa78294886647f[m
+Merge: ea81773 3f0707c
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Jan 8 22:13:34 2019 -0500
+
+    Merge pull request #177 from annikawirth/myadvice
+    
+    Add Annika's Advice
+
+[33mcommit 7918d0feea5ef77a5f6bcced9b1d9421cc21604d[m
+Author: Ro <rosanyespinal@gmail.com>
+Date:   Tue Jan 8 21:12:18 2019 -0500
+
+    I added an advice html and css stylesheet to the 105-practice file
+
+[33mcommit 3f0707c61b399a594c276a81a3072d4e9627947a[m
+Merge: 09aca33 ea81773
+Author: Annika <annikawirth@aol.com>
+Date:   Tue Jan 8 21:46:32 2019 +0000
+
+    fixed merge conflict
+
+[33mcommit 09aca33d36bd0f3556a584211adf39fe651582f9[m
+Author: Annika <annikawirth@aol.com>
+Date:   Tue Jan 8 13:10:29 2019 +0000
+
+    added advice html and css and included link on index.html
+
+[33mcommit e5b560e02b70257a559cb264703b4ec9690e1b43[m
+Author: A.I <akie.i@hotmail.co.jp>
+Date:   Tue Jan 8 15:08:30 2019 +0900
+
+    link added
+
+[33mcommit ea817738997a38e873a6e5ce3c8180a22fa70c4c[m
+Merge: e0b4994 afce9b0
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Jan 7 14:01:26 2019 -0700
+
+    Merge pull request #173 from Heathyr/heathyr-advice2
+    
+    fixed footer & cleaned up CSS
+
+[33mcommit e0b4994ade3b530cf274659fb1334d7553b8c108[m
+Merge: 64a74c1 8b39f00
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Jan 7 14:01:06 2019 -0700
+
+    Merge pull request #172 from amandagav/advice
+    
+    Advice
+
+[33mcommit 64a74c1c1d74016a57f2a394d314592fe3209c6f[m
+Merge: 5b7ab43 4fc13f1
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Jan 7 14:00:39 2019 -0700
+
+    Merge pull request #171 from phoebeosterhout/phoebes-advice
+    
+    Add Phoebe's advice
+
+[33mcommit 4fc13f1babce19c2f672a2c14ff6583e324d95f6[m
+Merge: d106e4c 5b7ab43
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Jan 7 14:00:13 2019 -0700
+
+    Merge branch 'master' into phoebes-advice
+
+[33mcommit 79e481a1bcc13be9b37add4d99907995cb5a50bf[m
+Merge: 2f621b0 2f86086
+Author: Raq <raqescar@gmail.com>
+Date:   Mon Jan 7 13:55:23 2019 -0700
+
+    Merge branch 'master' into practiceabout
+
+[33mcommit 5b7ab4302a6b9bf94cefdb7cb83e07a4d9ebad4a[m
+Merge: 2f86086 a3327f8
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Jan 7 13:55:05 2019 -0700
+
+    Merge pull request #168 from CodenameTam/tamsbranch
+    
+    Adding Tam's advice
+
+[33mcommit 2f621b0c523d489680e6c5d163bb6b94bb045681[m
+Author: Raq <raqescar@gmail.com>
+Date:   Mon Jan 7 13:20:30 2019 -0700
+
+    adding raquel html and style
+
+[33mcommit 0b947180e9d8db9de8ee3900eb7ae0f00d586b12[m
+Author: A.I <akie.i@hotmail.co.jp>
+Date:   Mon Jan 7 23:05:47 2019 +0900
+
+    html and css created in branch
+
+[33mcommit afce9b0184163979c841a22e49a134929bcd5c7d[m
+Author: Heathyr <iojove@yahoo.com>
+Date:   Sun Jan 6 12:42:46 2019 -0500
+
+    fixed footer
+
+[33mcommit 8b39f00771cdca79ad1ea54890feea839739e3af[m
+Author: amandagav <amandagav@gmail.com>
+Date:   Sat Jan 5 14:56:32 2019 -0800
+
+    added link to amandaw
+
+[33mcommit 888e06747de499d1a7386c5dfbd67f07001ee5dd[m
+Author: amandagav <amandagav@gmail.com>
+Date:   Sat Jan 5 14:56:13 2019 -0800
+
+    created file
+
+[33mcommit 45993eca43f43ef669de74b2073b09db7cd069c0[m
+Author: amandagav <amandagav@gmail.com>
+Date:   Sat Jan 5 14:55:52 2019 -0800
+
+    created file
+
+[33mcommit a3327f849519bb04c6b1b2e55cb182fe3d727593[m
+Author: CodenameTam <t.harris2010@yahoo.com>
+Date:   Sat Jan 5 08:42:54 2019 -0500
+
+    Added link to index.html file
+
+[33mcommit 2f86086569c1ba5c6dd35031761bf7fc548c9ba4[m
+Merge: a0b17e9 429ac06
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 4 15:55:59 2019 -0700
+
+    Merge pull request #169 from porcupinesdream/experiment
+    
+    created magali files and updated main html
+
+[33mcommit 429ac06798deb2298fea16c5a85e8d57c8fcf147[m
+Merge: 56708fb a0b17e9
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 4 15:55:46 2019 -0700
+
+    Merge branch 'master' into experiment
+
+[33mcommit a0b17e9c8e2952a5f33c18f773b107d37644ed44[m
+Merge: 6216d10 78c099e
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 4 15:54:09 2019 -0700
+
+    Merge pull request #167 from damnshutup/maureen-advice
+    
+    Maureen advice
+
+[33mcommit 78c099e5c9a3ad2b64aff06ca1945f46315524dd[m
+Merge: 434064f 6216d10
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 4 15:53:37 2019 -0700
+
+    Merge branch 'master' into maureen-advice
+
+[33mcommit 6216d1094da213cd3f229f2c0de3598c086dd890[m
+Merge: d466f5e 2ad010a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 4 15:53:08 2019 -0700
+
+    Merge pull request #160 from joyago/joys-advice
+    
+    joys-advice
+
+[33mcommit 2ad010a019a952fdb70da6b0fa93b6904cd37933[m
+Merge: 5d8ca89 d466f5e
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Fri Jan 4 15:52:52 2019 -0700
+
+    Merge branch 'master' into joys-advice
+
+[33mcommit 56708fbb896e0b4be617dbed8af588735c470306[m
+Author: porcupinesdream <magali.schoulguine@gmail.com>
+Date:   Fri Jan 4 22:26:26 2019 +0100
+
+    created magali files and updated main html
+
+[33mcommit 8976664ee98f8a513956b392a9555cb3ee7171f9[m
+Author: CodenameTam <t.harris2010@yahoo.com>
+Date:   Fri Jan 4 01:00:56 2019 -0500
+
+    Created my own advice page that I am very proud of!
+
+[33mcommit 434064ffb839c31f6f7914bd51d5c90f57a382a9[m
+Author: damnshutup <damnshutup@gmail.com>
+Date:   Wed Jan 2 17:41:19 2019 -0800
+
+    added link to index
+
+[33mcommit 5d8ca892187b14678f0b5ae2765f49101885e115[m
+Author: Ana-Joy <joyagonz@gmail.com>
+Date:   Wed Jan 2 16:46:21 2019 -0500
+
+    add link to Joy's advice
+
+[33mcommit d466f5eefb937546f9c6b8247bb845eedf5fcdd7[m
+Merge: 14e2e6c 4a6e39c
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Jan 2 11:27:21 2019 -0700
+
+    Merge pull request #166 from Heathyr/advice-page
+    
+    adding heathyr's advice
+
+[33mcommit 4a6e39ca184f0889111a5efffd07d850c23b536e[m
+Author: Heathyr <iojove@yahoo.com>
+Date:   Wed Jan 2 10:57:26 2019 -0500
+
+    adding heathyr's advice
+
+[33mcommit 97ee80cb981688b3d4006b0d960f20feee185f35[m
+Merge: 2672a11 14e2e6c
+Author: damnshutup <damnshutup@gmail.com>
+Date:   Tue Jan 1 22:02:08 2019 -0800
+
+    added link to index.html
+
+[33mcommit d106e4c91c677f33fb36081ca95817c38c62180f[m
+Author: Phoebe Osterhout <osterhoutphoebe@gmail.com>
+Date:   Tue Jan 1 12:03:05 2019 -0500
+
+    phoebe advice page added
+
+[33mcommit b55356852d4daa93c8c8af610f3bbdb812e4f116[m
+Author: Phoebe Osterhout <osterhoutphoebe@gmail.com>
+Date:   Tue Jan 1 11:55:22 2019 -0500
+
+    adding phoebes advice page
+
+[33mcommit 14e2e6c493c3c2d7e26ad618166d56e9a4cfcdba[m
+Merge: 7a0ac87 2da0b0a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Jan 1 07:11:02 2019 -0700
+
+    Merge pull request #164 from Elysehmyers/master
+    
+    Check out my advice for newbies.
+
+[33mcommit 2da0b0a93779482ac7db8a6c11766e71887fd526[m
+Author: Elyse Myers <elysehmyers@gmail.com>
+Date:   Mon Dec 31 15:26:39 2018 -0600
+
+    added my advice into the main index.html
+
+[33mcommit 144387624e29a0ad646cfa897aa50c478cfc4abc[m
+Author: Elyse Myers <elysehmyers@gmail.com>
+Date:   Mon Dec 31 15:21:21 2018 -0600
+
+    deleted elyse-myers-advice duplicate that didn't have an .html extension
+
+[33mcommit 0ff218dc13bc706a55e4d88f1934b6e05b172520[m
+Author: Ana-Joy <joyagonz@gmail.com>
+Date:   Mon Dec 31 14:32:28 2018 -0500
+
+    deleted tilde documents
+
+[33mcommit 7f2d99add1c4d6d9735adce0d652db2e94cc5882[m
+Author: Ana-Joy <joyagonz@gmail.com>
+Date:   Mon Dec 31 14:29:50 2018 -0500
+
+    delete tilde documents
+
+[33mcommit 7a0ac878817c7a4d34ba82c9c7c19220d3e0094e[m
+Merge: 991df2b 308eb63
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Dec 31 11:04:26 2018 -0500
+
+    Merge pull request #163 from firecatcreations/newbranch
+    
+    Add Alanna's advice
+
+[33mcommit 85ffedf383dcd1bb5e0e8629a1c9d5d72d7da12e[m
+Author: Elyse Myers <elysehmyers@gmail.com>
+Date:   Mon Dec 31 03:21:59 2018 -0600
+
+    Tried to change format, and undid my changes.
+
+[33mcommit b33095e2fd4630d9c786ec6f2ad5565751e52172[m
+Author: Elyse Myers <elysehmyers@gmail.com>
+Date:   Mon Dec 31 03:09:34 2018 -0600
+
+    Added font sizes, background color, borders, and grid.
+
+[33mcommit ac895313f85961296e6cd903f96dc35a20fb80df[m
+Author: Elyse Myers <elysehmyers@gmail.com>
+Date:   Mon Dec 31 02:43:47 2018 -0600
+
+    Add font in css
+
+[33mcommit 29b833be48202090906e1e8de043ad384d03216a[m
+Author: Elyse Myers <elysehmyers@gmail.com>
+Date:   Mon Dec 31 02:33:15 2018 -0600
+
+    I wrote the content out in html
+
+[33mcommit e2463f706355a38cb42c1a6a9a90f6fe0394304b[m
+Author: Elyse Myers <elysehmyers@gmail.com>
+Date:   Mon Dec 31 02:09:51 2018 -0600
+
+    First commit for advice page
+
+[33mcommit 308eb639969a9de83812f7c0c3350000ea840a75[m
+Merge: 29774cd 991df2b
+Author: FireCat <firecatcreations@gmail.com>
+Date:   Sun Dec 30 17:10:32 2018 -0700
+
+    new changes merged
+
+[33mcommit 29774cd0e7c0d3dd582fc2241d1dd16021328b8b[m
+Author: FireCat <firecatcreations@gmail.com>
+Date:   Sun Dec 30 16:47:59 2018 -0700
+
+    made changes for css
+
+[33mcommit 89c038f3e5045214c1f2ef3b59b29bcbbef37d7f[m
+Author: FireCat <firecatcreations@gmail.com>
+Date:   Sun Dec 30 16:44:23 2018 -0700
+
+    updated
+
+[33mcommit e9f293df234085a6b298aea8005d7c7633a27f34[m
+Author: FireCat <firecatcreations@gmail.com>
+Date:   Sun Dec 30 16:25:14 2018 -0700
+
+    added alanna moya advice
+
+[33mcommit 991df2bb17209ae8a63582fc7441c62a0aa445ee[m
+Merge: 8ccd8f0 e2953f0
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 30 10:25:36 2018 -0700
+
+    Merge pull request #161 from justinlyeary/justinedits
+    
+    Justinedits
+
+[33mcommit e2953f02235924b136b249633add0b9fbc2b9825[m
+Merge: 1601a6a 8ccd8f0
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 30 10:25:17 2018 -0700
+
+    Merge branch 'master' into justinedits
+
+[33mcommit 2672a1193916d49c7fd5d8c28742e370b38e8c28[m
+Author: damnshutup <damnshutup@gmail.com>
+Date:   Sat Dec 29 18:09:53 2018 -0800
+
+    maureen-advice
+
+[33mcommit 1601a6a912c05e2cb855e51231cfda0b0b80e59c[m
+Author: Justin Yeary <justinlyeary@gmail.com>
+Date:   Sat Dec 29 18:15:34 2018 -0600
+
+    justin advice page
+
+[33mcommit 614606ecebf33d7e53e163e9d8964568a7920e62[m
+Author: Justin Yeary <justinlyeary@gmail.com>
+Date:   Sat Dec 29 18:14:39 2018 -0600
+
+    added justin advice to home page
+
+[33mcommit 4220dbaf01c588fba83fb7f03496712ad9f6d2d1[m
+Author: Ana-Joy <joyagonz@gmail.com>
+Date:   Sat Dec 29 16:57:43 2018 -0500
+
+    joys-advice
+
+[33mcommit 8ccd8f02fd16c975ad7697bdd3fb9361d11228e3[m
+Merge: b694c78 02f5381
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Dec 27 06:41:03 2018 -0700
+
+    Merge pull request #157 from emedwards/edit
+    
+    Add Emily's advice
+
+[33mcommit 02f53817047346b3fb2842757f4c5bf533e903a5[m
+Author: Emily E <edwardscommaemily@gmail.com>
+Date:   Sun Dec 23 20:40:46 2018 +1300
+
+    Added link to my advice page and a missing forward slash
+
+[33mcommit f314c980b994e47edd61559c7421dab9e0df5e1b[m
+Author: Emily E <edwardscommaemily@gmail.com>
+Date:   Sun Dec 23 20:37:09 2018 +1300
+
+    added Emily's advice and styles
+
+[33mcommit b694c78acefa602a6d577e1d02ad316e4f997a17[m
+Merge: ab811f1 1f0eda8
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Dec 22 16:48:35 2018 -0500
+
+    Merge pull request #155 from mrsdanacole/mrsdanacole
+    
+    added css file
+
+[33mcommit 1f0eda853ab1b88a599517791bd9e288ea1d42bd[m
+Merge: 0b7b2b2 ab811f1
+Author: mrsdanacole <mrsdanacole@gmail.com>
+Date:   Fri Dec 21 12:51:38 2018 -0500
+
+    Merge remote-tracking branch 'upstream/master' into mrsdanacole
+
+[33mcommit 0b7b2b22a523346b567c7e8371c93b973b2a491a[m
+Author: mrsdanacole <mrsdanacole@gmail.com>
+Date:   Fri Dec 21 12:32:47 2018 -0500
+
+    Update index.html
+    
+    Updated index.html to include Dana's advice link.
+
+[33mcommit b89aba14bfa8e7f9b4294e1ee620b3f9cf9b3b6b[m
+Author: mrsdanacole <mrsdanacole@gmail.com>
+Date:   Fri Dec 21 12:25:43 2018 -0500
+
+    Create danacole-advice.html
+
+[33mcommit ab811f161ef8f04c330938074a63d8da9adff191[m
+Merge: bc5d56a 8d20a31
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Dec 21 11:21:41 2018 -0500
+
+    Merge pull request #154 from rich-caceres/master
+    
+    My advice page
+
+[33mcommit bc5d56a52de8b4251546f359e6cb0d0ea35a9da2[m
+Merge: 068cdca b09adac
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Dec 21 11:20:26 2018 -0500
+
+    Merge pull request #152 from ealmario/edit
+    
+    Added my index.html in the advice page and the corresponding css in t…
+
+[33mcommit b09adacfb42f2f84c7acb9eac78bea45c92384de[m
+Merge: 59f1e07 068cdca
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Dec 21 11:20:19 2018 -0500
+
+    Merge branch 'master' into edit
+
+[33mcommit fd7bb5c225ba479ddf35c434f7a3b68761a16bff[m
+Author: mrsdanacole <mrsdanacole@gmail.com>
+Date:   Fri Dec 21 10:25:13 2018 -0500
+
+    added css file
+
+[33mcommit 59f1e07bdb6cae9e816976c2ab1a56986b208835[m
+Author: Eli Almario <ee.almario@gmail.com>
+Date:   Fri Dec 21 18:33:47 2018 +0800
+
+    Added my html to the main html page.
+
+[33mcommit 8d20a31d8f88075a4904f3dc7340747a695e8ade[m
+Author: rich-caceres <richard.caceres22590@outlook.com>
+Date:   Thu Dec 20 12:57:29 2018 -0500
+
+    a little addition to the final paragraph in confusion is your friend.
+
+[33mcommit 87e026ed7815ee860716c793aee5ab452abe5fd4[m
+Author: rich-caceres <richard.caceres22590@outlook.com>
+Date:   Thu Dec 20 12:33:07 2018 -0500
+
+    text underline added
+
+[33mcommit 545bfe65a5da76e412296a4ad2d6519f70916443[m
+Author: rich-caceres <richard.caceres22590@outlook.com>
+Date:   Thu Dec 20 12:30:04 2018 -0500
+
+    footer style
+
+[33mcommit 26c6804128385d5bc33c565d981204ac2164005f[m
+Author: rich-caceres <richard.caceres22590@outlook.com>
+Date:   Thu Dec 20 12:27:13 2018 -0500
+
+    My advice page added to index
+
+[33mcommit a8881d10ff4e411ff2fdb0f833c7390d3a39e52a[m
+Author: rich-caceres <richard.caceres22590@outlook.com>
+Date:   Thu Dec 20 12:23:14 2018 -0500
+
+    Here is my advice page
+
+[33mcommit 068cdcadeb211f5b385eb33a7a2aef7094f13706[m
+Merge: 67ce28c 5522311
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Thu Dec 20 11:15:19 2018 -0500
+
+    Merge branch 'master' of github.com:aarondanielsmith/105-practice
+
+[33mcommit 67ce28c48d370c2619e370788c18f424bde9b8a6[m
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Thu Dec 20 11:12:55 2018 -0500
+
+    Remove duplicates in main index.html file
+
+[33mcommit 1fbfff1199bdf7929508d190258d19c10669d491[m
+Author: Eli Almario <ee.almario@gmail.com>
+Date:   Thu Dec 20 01:54:57 2018 +0800
+
+    Added my index.html in the advice page and the corresponding css in the css folder.
+
+[33mcommit 5522311f6873a89146d0874e76bba5eaddd7abde[m
+Author: Aaron Smith <aaron@soundsmith.me>
+Date:   Mon Dec 17 15:35:59 2018 -0600
+
+    removed duplicate advice page links from index.html
+
+[33mcommit 47459d0d4aa2e3521792bc23a19fd330420bbbd0[m
+Author: Aaron Smith <aaron@soundsmith.me>
+Date:   Mon Dec 17 15:35:01 2018 -0600
+
+    added a line break
+
+[33mcommit 352cc4c97614cf39b61e7b21fd7770505fb9b549[m
+Author: Aaron Smith <aaron@soundsmith.me>
+Date:   Mon Dec 17 15:33:52 2018 -0600
+
+    added my advice page
+
+[33mcommit 3b71b25a3eca6a4a14ab010cb8450f692810f81e[m
+Author: Aaron Smith <aaron@soundsmith.me>
+Date:   Mon Dec 17 15:32:52 2018 -0600
+
+    cleaned up various syntax errors and indentation
+
+[33mcommit 07347e70c6c0531332a06f4bcbb32007b5479792[m
+Merge: aa63dbe 8cfa007
+Author: Aaron Smith <aaron@soundsmith.me>
+Date:   Mon Dec 17 15:24:55 2018 -0600
+
+    synced with upstream repo and fixed merge conflicts
+
+[33mcommit 8cfa0076c61aa6a41341c2d5a8399707bf5edd07[m
+Merge: 0e950b5 4bae1fa
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 22:04:09 2018 -0700
+
+    Merge pull request #150 from geoshannon/shannonm-advice
+    
+    Shannonm advice
+
+[33mcommit 4bae1fad242635058996f8403989d544fba85776[m
+Merge: 7c65189 0e950b5
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 22:03:50 2018 -0700
+
+    Merge branch 'master' into shannonm-advice
+
+[33mcommit 0e950b5d0b92f9470df70e2248d6157ca4c0e080[m
+Merge: 179ec4b 1635741
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 22:00:29 2018 -0700
+
+    Merge pull request #149 from Nakita730/edits
+    
+    Edits
+
+[33mcommit 179ec4b07507108bc9a95fca31e212511f33b35b[m
+Merge: b00d678 f871090
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 21:59:55 2018 -0700
+
+    Merge pull request #140 from whitneyd87/advice
+    
+    Advice
+
+[33mcommit f871090816268ea0fd9ca3187a889532eeb9aa3b[m
+Merge: 7529795 b00d678
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 21:59:39 2018 -0700
+
+    Merge branch 'master' into advice
+
+[33mcommit 75297954d177a73e583fb5bb738c5f0d277761e2[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Sun Dec 16 17:30:35 2018 -0600
+
+    added link to advice page
+
+[33mcommit 7c65189593de0e5dace9530094740cac04af6463[m
+Author: geoshannon <geoshannon@outlook.com>
+Date:   Sun Dec 16 15:14:17 2018 -0800
+
+    added in my advice link
+
+[33mcommit e92dd3410142da3ef895298a653c9dd7981eb465[m
+Author: geoshannon <geoshannon@outlook.com>
+Date:   Sun Dec 16 15:10:59 2018 -0800
+
+    changed header and paragph styling
+
+[33mcommit d5907009da63d57044d0ce6fe9919fd1bed98add[m
+Author: geoshannon <geoshannon@outlook.com>
+Date:   Sun Dec 16 15:09:50 2018 -0800
+
+    fixed links in html file
+
+[33mcommit 457172236e67389c05ef0c61871e29a69b077e20[m
+Author: geoshannon <geoshannon@outlook.com>
+Date:   Sun Dec 16 14:37:05 2018 -0800
+
+    changed paragraph content
+
+[33mcommit 25c38fbd7221cf275fe8a5dacc25387c11f7f374[m
+Author: geoshannon <geoshannon@outlook.com>
+Date:   Sun Dec 16 14:36:20 2018 -0800
+
+    added h1 and p styles
+
+[33mcommit b00d678da0538709b95b23ad7775854155782025[m
+Merge: 48f8c53 92b1c7a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 13:59:54 2018 -0700
+
+    Merge pull request #148 from JPannewitz/julias-advice
+    
+    created julia's advice and added a touch of style
+
+[33mcommit 92b1c7a9bcb442aa671c17e254135aa49e4c848c[m
+Merge: cda7b2c 48f8c53
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 13:59:37 2018 -0700
+
+    Merge branch 'master' into julias-advice
+
+[33mcommit 48f8c53d44467430d58095dd2a34224c6cfca38a[m
+Merge: 9c7bc61 d1f4c35
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 13:57:49 2018 -0700
+
+    Merge pull request #144 from Courtney-Marie/courtney
+    
+    Courtney Advice
+
+[33mcommit d1f4c3583f9afc53a837c88e8d5d7bd43c219744[m
+Merge: 4a1bd50 9c7bc61
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 16 13:57:26 2018 -0700
+
+    Merge branch 'master' into courtney
+
+[33mcommit aa63dbe33eaa7a8be4c8681278d3a05c51ea32d6[m
+Author: Aaron Smith <aaron@soundsmith.me>
+Date:   Sun Dec 16 14:56:47 2018 -0600
+
+    added aaron-advice page
+
+[33mcommit 16357415469152e4542b6689ce04d7b8e2763bc3[m
+Author: Nakita <nalps730@gmail.com>
+Date:   Sun Dec 16 10:19:57 2018 -0700
+
+    new advice html
+
+[33mcommit e290429adeea25471aa7f6fbb233c8185d698c14[m
+Author: Nakita <nalps730@gmail.com>
+Date:   Sun Dec 16 10:15:16 2018 -0700
+
+     new css advice
+
+[33mcommit a4b3d5efa0daff6d7f85bab34caaa00248ec0dd6[m
+Author: Nakita <nalps730@gmail.com>
+Date:   Sun Dec 16 10:13:30 2018 -0700
+
+    added link
+
+[33mcommit 9c7bc611e040d8ab1555ed54da7e07d01bed457d[m
+Merge: ff6ae58 293be7f
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Sat Dec 15 14:52:51 2018 -0500
+
+    Merge branch 'advice' of github.com:Rahina2/105-practice
+
+[33mcommit 293be7ff532c44fb210ac6aff0471125f83f057a[m
+Author: Rahina2 <hinah2000@gmail.com>
+Date:   Sat Dec 15 18:43:49 2018 +0100
+
+    my final correction
+
+[33mcommit 4a1bd501a8186e76e02f298101ac5976e98e4c44[m
+Merge: ec311c9 ff6ae58
+Author: Courtney-Marie <45722305+Courtney-Marie@users.noreply.github.com>
+Date:   Fri Dec 14 17:22:27 2018 -0500
+
+    Merge branch 'master' into courtney
+
+[33mcommit ec311c9998be4fd9ca7abe95de463234f252d4c0[m
+Author: Courtney Marie <courtneymporter@ymail.com>
+Date:   Fri Dec 14 17:19:39 2018 -0500
+
+    Added link to my advice page
+
+[33mcommit ff6ae58985730ef038ae1434975922dc078ded5d[m
+Merge: 30ec7b9 4fc7bb8
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Dec 14 15:08:08 2018 -0500
+
+    Merge pull request #145 from stevenjetton/experiments
+    
+    added my advice files
+
+[33mcommit 30ec7b930c09411d5b17e1f5de20b48947e8bde8[m
+Merge: ae45651 62e41e2
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Dec 14 15:07:01 2018 -0500
+
+    Merge pull request #146 from Olgatech/experiments
+    
+    adding my advice
+
+[33mcommit 4fc7bb83f8ae3ef2314779e6b823ce410e425929[m
+Author: Steven Jetton <stevenjetton@gmail.com>
+Date:   Thu Dec 13 23:16:56 2018 -0800
+
+    added my advice files
+
+[33mcommit cda7b2c80020564e444949032ec811fed8572bdf[m
+Author: Mermaid Princess <juliapannewitz@gmail.com>
+Date:   Thu Dec 13 21:13:23 2018 -0800
+
+    created julia's advice an added a touch of style
+
+[33mcommit 62e41e289d939b8f0baecd856e62ee05464fd28b[m
+Author: olga <olga.brailovski@gmail.com>
+Date:   Thu Dec 13 23:31:18 2018 -0500
+
+    adding my advice
+
+[33mcommit 1438b131886601042688845be91de2448685a721[m
+Author: Courtney Marie <courtneymporter@ymail.com>
+Date:   Thu Dec 13 16:56:31 2018 -0500
+
+    Courtney Advice
+
+[33mcommit ae45651c19dff67f5ad3ac2592d77096cf1169d0[m
+Merge: 8b2672a dc813fc
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Thu Dec 13 14:12:23 2018 -0500
+
+    Merge pull request #143 from infinitful/advice
+    
+    Advice
+
+[33mcommit dc813fccfbea9d3e0ffa0264c634bc36aa7ad7ce[m
+Merge: 842bac7 8b2672a
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Thu Dec 13 14:12:16 2018 -0500
+
+    Merge branch 'master' into advice
+
+[33mcommit 8b2672a01ea9994c8ffd9a0f5ed2d1dfe2e935cf[m
+Merge: b8455cd d84e06d
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Thu Dec 13 14:10:42 2018 -0500
+
+    Merge pull request #142 from melrey/experiments
+    
+    Add Melissa's advice
+
+[33mcommit b8455cdbc04e986d7a11164f69341a8dbf271824[m
+Merge: 97edc5c ff11186
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Thu Dec 13 14:10:08 2018 -0500
+
+    Merge pull request #141 from zacharytruong/new-advice
+    
+    adding Zachary's advice
+
+[33mcommit 842bac7a149488a0c7d93e011bfe7dbac0cbc78a[m
+Author: meli <melinicole19@gmail.com>
+Date:   Wed Dec 12 20:55:45 2018 -0500
+
+    created an html and css file to create an advice page. Also added a link that leads to my advice ppage to the index.html file.
+
+[33mcommit d84e06d1797f053cc1f536ae26dd92e9e9816c07[m
+Author: melrey <melisreyes@gmail.com>
+Date:   Wed Dec 12 17:08:31 2018 -0800
+
+    Committing my advice files
+
+[33mcommit 43dd6c52a8ff1efb717ca16fdeee81fc196b1dfd[m
+Author: meli <melinicole19@gmail.com>
+Date:   Wed Dec 12 18:11:52 2018 -0500
+
+    set up html and css files
+
+[33mcommit ff111865e0b2cfbc357ace889240a72a22c67ea9[m
+Author: Zachary Truong <zachary.truong@zenclouds.life>
+Date:   Sun Dec 9 17:10:51 2018 -0500
+
+    adding Zachary's advice
+
+[33mcommit d16669e060704d9be1dafddb03f4f99246ef7d36[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Sat Dec 8 09:54:38 2018 -0600
+
+    add git ignore file to correct directory
+
+[33mcommit af1cfb7a3c1861e7994005db04b047dcf76e69b2[m
+Merge: 8173b01 6ddc0ed
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Sat Dec 8 09:43:22 2018 -0600
+
+    Merge branch 'master' into whitsedits
+    stop with the meaages
+
+[33mcommit 6ddc0edd3347b5275b813d3fbe698bc1e8c5a14c[m
+Merge: 46878f1 97edc5c
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Sat Dec 8 09:39:26 2018 -0600
+
+    Merge remote-tracking branch 'upstream/master'
+    
+     something
+
+[33mcommit 8173b0179dfad219df89756281aa903b86251505[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Sat Dec 8 09:34:30 2018 -0600
+
+    adding gitignore file back
+
+[33mcommit 97edc5ce07acb1505affbe4f278cfa2d2ea683ea[m
+Merge: ee3a813 1bd8c16
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sat Dec 8 01:32:18 2018 -0700
+
+    Merge pull request #138 from jdcrollpark/experiments
+    
+    Experiments
+
+[33mcommit ee3a813c12fe22c450ca4a495e01c8085fdfe401[m
+Merge: e35222d d0e85e4
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sat Dec 8 01:28:33 2018 -0700
+
+    Merge pull request #136 from amhouel/alice-houel
+    
+    Add Alice's advice
+
+[33mcommit e35222d0e2fe329ac1b570abdb80f625092c9b07[m
+Merge: 4bcd977 da540ef
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sat Dec 8 01:18:11 2018 -0700
+
+    Merge pull request #130 from AldenisBroke/alden
+    
+    aldens advice page
+
+[33mcommit da540ef1d3eddc217aa950341e0956d985399bed[m
+Author: Alden Fitzpatrick <fitzpatrick.codes@gmail.com>
+Date:   Fri Dec 7 21:46:17 2018 -0800
+
+    hoping this works
+
+[33mcommit 4ee499b7416dcf7f5d8e43c5a0726d7fa31b52bb[m
+Merge: 779c51c 4bcd977
+Author: Alden Fitzpatrick <fitzpatrick.codes@gmail.com>
+Date:   Fri Dec 7 21:43:08 2018 -0800
+
+    Merge branch 'master' into alden
+
+[33mcommit 779c51c3daed02c0141ca1809ca2d4233888c0fb[m
+Author: Alden Fitzpatrick <fitzpatrick.codes@gmail.com>
+Date:   Fri Dec 7 21:31:14 2018 -0800
+
+    Adlen's addition to advice page
+
+[33mcommit 78f7990cdf8507e5c6a4975b76d12dda985978bb[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Fri Dec 7 10:53:00 2018 -0600
+
+    removed unsafe characters in font links
+
+[33mcommit 1bd8c16e644a753a82affd347b206f6c5bf875c8[m
+Merge: 11b70e7 4bcd977
+Author: JoCrolPark <joannedeborahparkhouse@gmail.com>
+Date:   Fri Dec 7 14:38:04 2018 +0000
+
+    resolution of merge conflict
+
+[33mcommit 46878f1561980fbd6fc18c056d825d9b14d9d52c[m
+Merge: 20128a8 4bcd977
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Thu Dec 6 19:52:16 2018 -0600
+
+    Merge remote-tracking branch 'upstream/master'
+    
+    i this is silly:wq
+
+[33mcommit 20128a8c1194b8e44744a0c90aac8baa61097197[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Thu Dec 6 19:46:57 2018 -0600
+
+    overwrite
+
+[33mcommit ad721a1339001218bdb1bcc57cf49863d696ef95[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Thu Dec 6 19:02:55 2018 -0600
+
+    final style updates
+
+[33mcommit 1d8b612e6a7bd7f2fdba8794187eb0a645914d61[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Thu Dec 6 15:57:56 2018 -0600
+
+    changes to header
+
+[33mcommit d0e85e402932be90cb7e15ac932670d1689f621e[m
+Author: amhouel <amhouel@gmail.com>
+Date:   Thu Dec 6 15:54:35 2018 -0500
+
+    alice-houel.html and .css files created and linked to index.html
+
+[33mcommit 4bcd977787f8878dc33084a1be2a2a19ccd302b5[m
+Merge: 1686bf8 0950443
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Dec 6 11:47:16 2018 -0700
+
+    Merge pull request #132 from brooklynsprkl/experiments
+    
+    Add Brook's advice page
+
+[33mcommit 0950443bd5e71bff2177e1b7c0012525060fd2ca[m
+Merge: 2f10440 1686bf8
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Dec 6 11:46:34 2018 -0700
+
+    Merge branch 'master' into experiments
+
+[33mcommit 1686bf8e3f045d2e83fb0a86d92aec87ffdb02bf[m
+Merge: e5ade3d 3ef0791
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Dec 6 09:57:29 2018 -0700
+
+    Merge pull request #134 from pinkgeekette18/v2.0
+    
+    Added Meghan Irish's advice page
+
+[33mcommit e5ade3d5c0c128545614516b2c572321b41a0ac8[m
+Merge: c86f91d 3487ff9
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Dec 6 09:55:05 2018 -0700
+
+    Merge pull request #104 from carlarsmendes/carlarsmendes-patch-1
+    
+    Added files with changes
+
+[33mcommit 3487ff983358555f425175426baef535895316ce[m
+Merge: d687320 c86f91d
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Dec 6 09:54:36 2018 -0700
+
+    Merge branch 'master' into carlarsmendes-patch-1
+
+[33mcommit 2f104405a6318b00aa66b1887bea8f93f8ea3f54[m
+Author: Brook Landry <brooklynsprkl@gmail.com>
+Date:   Thu Dec 6 11:54:23 2018 -0500
+
+    added link to index.html
+
+[33mcommit d687320e3b59e45e9b15fe6da511a138d0e3519a[m
+Author: Carla <38359702+carlarsmendes@users.noreply.github.com>
+Date:   Thu Dec 6 16:46:56 2018 +0000
+
+    Corrected- Renamed the css file
+    
+    After correction by Sharon - Corrected- Renamed the css file
+
+[33mcommit 688643d6cb4e1ae025fe208ecb798a582a50234e[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Wed Dec 5 23:07:57 2018 -0600
+
+    changes to header
+
+[33mcommit 40db803b35c6e40d831bbdb6d97a3158add35b50[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Wed Dec 5 23:06:01 2018 -0600
+
+    deletes ignore
+
+[33mcommit 5fb46650c92d869de9c0400e709b0365e3551bd0[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Wed Dec 5 23:05:27 2018 -0600
+
+    changes to styles
+
+[33mcommit 67f7ee315f4619210d8c6641c6d5dbd6b5d22382[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Wed Dec 5 23:04:24 2018 -0600
+
+    added to header style
+
+[33mcommit a318b36cc8e7a7c4bafeee5ffcb6bacb81130e55[m
+Author: WhitneyD <whitney.dubourg@outlook.com>
+Date:   Wed Dec 5 22:59:48 2018 -0600
+
+    added styles
+
+[33mcommit 3ef07916c0c3b4beafa6546d77b7f7cf13fc1cc2[m
+Author: Princess Unicorn <meghan.irish318@gmail.com>
+Date:   Wed Dec 5 20:25:28 2018 -0500
+
+    Added Meghan Irish's addvice page
+
+[33mcommit c86f91d25ba6fe5660e53e2aae2f88355ef13a30[m
+Merge: 73ca44a 3e20f95
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Dec 5 11:39:51 2018 -0700
+
+    Merge pull request #133 from nfountain/my-advice
+    
+    Nicena's advice
+
+[33mcommit 3e20f95f3e298038b5889ac9fd9fa57eb1a331c9[m
+Author: Nicena Fontaine <nicenas.email@gmail.com>
+Date:   Wed Dec 5 13:27:13 2018 -0500
+
+    Clean up comments and padding: auto error.
+
+[33mcommit 124efaf8810c4854e783436508a70e410ca026bc[m
+Author: Nicena Fontaine <nicenas.email@gmail.com>
+Date:   Wed Dec 5 13:11:10 2018 -0500
+
+    Update colors for emphasized elements.
+
+[33mcommit ab2aef4773bc422644cd34294325b087b38c1087[m
+Author: Nicena Fontaine <nicenas.email@gmail.com>
+Date:   Wed Dec 5 12:41:50 2018 -0500
+
+    Add colors for dark theme.
+
+[33mcommit 263ba5e76558ab9fc5ff1aedbd76d2d6bef9b807[m
+Author: Nicena Fontaine <nicenas.email@gmail.com>
+Date:   Wed Dec 5 12:18:47 2018 -0500
+
+    Fine-tune layouts and update text styling.
+    
+    Update classes, ids, and fonts to fine-tune the layout and text styles.
+
+[33mcommit 07890d8b119be13246c6ddcf520bfaf1bcf46963[m
+Author: Nicena Fontaine <nicenas.email@gmail.com>
+Date:   Wed Dec 5 11:15:59 2018 -0500
+
+    Add container styling to create general layout.
+
+[33mcommit c0d43344c57fe91017a5ad56d760e896b3dde329[m
+Author: Nicena Fontaine <nicenas.email@gmail.com>
+Date:   Wed Dec 5 10:41:17 2018 -0500
+
+    Update links and content.
+    
+    Link stylesheet to my advice html document, create links between
+    my advice page and the main page. Add some content to my html document.
+
+[33mcommit 365aae838bcfa1871aaab374aa1e5ce9fe5dddec[m
+Author: Nicena Fontaine <nicenas.email@gmail.com>
+Date:   Wed Dec 5 10:40:46 2018 -0500
+
+    Create initial stylesheet and add background color for testing.
+
+[33mcommit e9529a19d6c73dc07c9a00c29d8630cb70f2c362[m
+Author: Nicena Fontaine <nicenas.email@gmail.com>
+Date:   Wed Dec 5 10:22:06 2018 -0500
+
+    Create html document for my advice.
+
+[33mcommit 140bcb30ab144baeca24b3ed9482344a3bcaaf06[m
+Merge: 4f889e8 73ca44a
+Author: Brook Landry <brooklynsprkl@gmail.com>
+Date:   Wed Dec 5 10:10:47 2018 -0500
+
+    Merge branch 'master' into experiments
+
+[33mcommit 73ca44ac0946a0943e7797b05669265c4e485b97[m
+Merge: 884a97d 0e7a426
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Dec 4 09:44:48 2018 -0700
+
+    Merge pull request #129 from Breeinn/practice
+    
+    Practice
+
+[33mcommit b727f21add3ecf21c7c5239f0205f6d978d7e7b5[m
+Merge: 1c3a12e 884a97d
+Author: Alden Fitzpatrick <fitzpatrick.codes@gmail.com>
+Date:   Tue Dec 4 01:01:04 2018 -0800
+
+    Merge branch 'master' into alden
+
+[33mcommit 1c3a12e5a5232f1c5eca9737728720295490cc8f[m
+Author: Alden Fitzpatrick <fitzpatrick.codes@gmail.com>
+Date:   Mon Dec 3 15:30:38 2018 -0800
+
+    aldens adive page
+
+[33mcommit 0e7a42645bdc4e87d84ada53de47aeff03b4e584[m
+Author: Brienne <brienne.vandenboom@gmail.com>
+Date:   Mon Dec 3 18:12:55 2018 -0500
+
+    inserted my name in places
+
+[33mcommit 27dcb3a821da8f268fcb7c3a69ac66f3fec3df36[m
+Author: Brienne <brienne.vandenboom@gmail.com>
+Date:   Mon Dec 3 18:11:41 2018 -0500
+
+    created new css file
+
+[33mcommit 91b3936139156417fe5e966fc00a76911bd32880[m
+Author: Brienne <brienne.vandenboom@gmail.com>
+Date:   Mon Dec 3 18:09:49 2018 -0500
+
+    created new html file
+
+[33mcommit 884a97db1e2b8cfe2bab7bcc2f5664026c62ea90[m
+Merge: 7d48036 b63c93c
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Dec 3 12:56:53 2018 -0700
+
+    Merge pull request #127 from penthief54/v2.0
+    
+    Adding Reggie's Advice
+
+[33mcommit 7d4803615bde883109666fd88b3672dcdb3d0d91[m
+Merge: f0ba414 a3f2d2d
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Dec 3 12:51:58 2018 -0700
+
+    Merge pull request #123 from elmeigou/v2.0
+    
+    created an advice page and linked into the main pag
+
+[33mcommit b63c93cbeabec1e4d356c5fa33fc383cd906e9c3[m
+Author: Pen Thief <illusive37@gmail.com>
+Date:   Sun Dec 2 17:56:53 2018 -0500
+
+    adding advice
+
+[33mcommit a3f2d2d2138e84b40abf1fe6476d4ae9432c0314[m
+Author: Meigou <elmeigou@outlook.es>
+Date:   Sun Dec 2 21:49:29 2018 +0100
+
+    img folder deleted replace it with a host link
+
+[33mcommit f0ba4140004eea181478ec4a7798e2216df04661[m
+Merge: f83a730 4adbd01
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Dec 2 09:06:27 2018 -0700
+
+    Merge pull request #124 from perfect-designz/master
+    
+    updates
+
+[33mcommit a66efa1c7642887a83509f1718943b38de747dd0[m
+Author: Meigou <elmeigou@outlook.es>
+Date:   Sun Dec 2 14:45:51 2018 +0100
+
+    adding img folder
+
+[33mcommit 4adbd015ef60c41247e6006b53ae6ae9774471aa[m
+Author: perfect-designz <45518818+perfect-designz@users.noreply.github.com>
+Date:   Sat Dec 1 21:09:58 2018 -0600
+
+    update html-css
+
+[33mcommit c58e6f2d9c3cdea720237724a6d0db38afb4ecf9[m
+Author: perfect-designz <45518818+perfect-designz@users.noreply.github.com>
+Date:   Sat Dec 1 21:08:31 2018 -0600
+
+    create nadvise.css
+
+[33mcommit 27563a4bbfd6830864bdaf7ff4b9faaa41fc06d2[m
+Author: perfect-designz <45518818+perfect-designz@users.noreply.github.com>
+Date:   Sat Dec 1 21:07:30 2018 -0600
+
+    create nadvise
+
+[33mcommit 5a31d4d0eb5ff3f62d234727cb1ede5a84effbf2[m
+Author: Meigou <elmeigou@outlook.es>
+Date:   Sun Dec 2 01:48:39 2018 +0100
+
+    created an advice page and linked into the main pag
+
+[33mcommit f83a73054ae3972140aa1c3bacfe1325df8b58ba[m
+Merge: 23f4d04 99928c7
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Dec 1 11:53:22 2018 -0500
+
+    Merge pull request #114 from WannaLiveTilliDie/experiments
+    
+    Add AmberC's Advice
+
+[33mcommit 99928c734f082a465ec03e2ea9c3520da0074a89[m
+Merge: a0abac1 23f4d04
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Dec 1 11:52:51 2018 -0500
+
+    Merge branch 'master' into experiments
+
+[33mcommit 23f4d04d84200ccc84025210c6f78cdb93612353[m
+Merge: 1e07515 4bd96eb
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Dec 1 11:48:40 2018 -0500
+
+    Merge pull request #120 from little-silk/experiments
+    
+    add 2 files
+
+[33mcommit 4bd96eb187e8e95075077c7dac6fdd4bd5a1cdc0[m
+Author: little-silk <gabbyalvarez@comcast.net>
+Date:   Fri Nov 30 09:34:44 2018 -0800
+
+    added advice in index
+
+[33mcommit 1e07515c783a37d08bf136987c7299ee3e0b4bda[m
+Merge: e76b9aa e41142b
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Nov 30 12:11:42 2018 -0500
+
+    Merge pull request #109 from kellybk/kellys-code
+    
+    Adding Kelly Kobarda's code
+
+[33mcommit e76b9aa4bf8ded6c22e1c4c502e28227e1034631[m
+Merge: cdaa368 ab1eee4
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Nov 30 12:08:51 2018 -0500
+
+    Merge pull request #122 from sporontinno/abara
+    
+    Abara
+
+[33mcommit cdaa368d43b5134879550316989519757095416a[m
+Merge: 5fa9cea 4a297df
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Nov 30 12:08:03 2018 -0500
+
+    Merge pull request #121 from kfry33/experiments2
+    
+    added kasandras advice
+
+[33mcommit 4a297dfb049a116a1b064d5ac6e6d7fe6f54d538[m
+Merge: 69b00cd 5fa9cea
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Nov 30 12:07:56 2018 -0500
+
+    Merge branch 'master' into experiments2
+
+[33mcommit 69b00cdf6129a33c5a55bdaa8b43b1d54ec354ef[m
+Author: Kasandra Fry <kasandrafry@gmail.com>
+Date:   Thu Nov 29 15:35:45 2018 -0500
+
+    added kasandras advice
+
+[33mcommit e41142bc3cd3c57fb2d5f2a4ce3ee2f60b4e3097[m
+Author: kellybk <kellybk@hotmail.com>
+Date:   Wed Nov 28 19:48:58 2018 -0500
+
+    fixing git added code
+
+[33mcommit ab1eee4cbdc0a02626219aff1bfe0ebf3ffea348[m
+Author: sporontinno <temtemtheone@gmail.com>
+Date:   Wed Nov 28 16:48:02 2018 -0800
+
+    created an advice page and linked into the main page
+
+[33mcommit 9fd62d2d423de30b3ad9edf6b3e5dea4c3de5648[m
+Author: sporontinno <temtemtheone@gmail.com>
+Date:   Wed Nov 28 16:43:59 2018 -0800
+
+    created an advice page and linked into the main page
+
+[33mcommit a0abac1afa4cb606107b9af3e7b7f46021f6b26b[m
+Author: BrokeAtty <amber.camio@gmail.com>
+Date:   Wed Nov 28 19:03:50 2018 -0500
+
+    Adding code inadvertently deleted during previous conflict resolution attempt
+
+[33mcommit 5fa9ceaebda37deb072973cdf9dfce9dc73c42f1[m
+Merge: 596fdb0 d7d68a4
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Nov 28 16:58:14 2018 -0700
+
+    Merge pull request #118 from jbats3108/master
+    
+    Jamie B's Advice page
+
+[33mcommit d7d68a4bd3387537007d54c32beae6db798c8a70[m
+Merge: e1b3cb8 596fdb0
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Nov 28 16:57:59 2018 -0700
+
+    Merge branch 'master' into master
+
+[33mcommit 596fdb0b14b38b540b10cfe205400628aa4acbcf[m
+Merge: 400e328 87a6f8b
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Nov 28 16:57:14 2018 -0700
+
+    Merge pull request #117 from cazden-code/cazden-carbon
+    
+    added advice from cazden
+
+[33mcommit 69a3f6f54a602ae707575e2cdcb6cf63a73fc556[m
+Author: little-silk <gabbyalvarez@comcast.net>
+Date:   Wed Nov 28 11:06:44 2018 -0800
+
+    add 2 files
+
+[33mcommit e1b3cb8c17275a145c7fd012d6e178710f0de974[m
+Author: jbats3108 <jamiebatabyal@gmail.com>
+Date:   Wed Nov 28 18:26:06 2018 +0800
+
+    Link to jamie's advice page on main
+
+[33mcommit 87a6f8b40d01201d12e86ace419b241c6507ec89[m
+Author: cazden-code <cazden@cazdencode.com>
+Date:   Tue Nov 27 23:58:11 2018 -0800
+
+    added advice from cazden
+
+[33mcommit f027de1c190fa22999fa972ca461252ed5e6b80a[m
+Author: jbats3108 <jamiebatabyal@gmail.com>
+Date:   Wed Nov 28 15:29:31 2018 +0800
+
+    link back to main
+
+[33mcommit 6c84b73207565534af3fe4811a0bd364ccbdd773[m
+Author: jbats3108 <jamiebatabyal@gmail.com>
+Date:   Wed Nov 28 15:26:48 2018 +0800
+
+    commit jamie css and html
+
+[33mcommit 188d04799beb68456ee792058cdcaa1bdf7d39df[m
+Author: jbats3108 <jamiebatabyal@gmail.com>
+Date:   Wed Nov 28 14:47:21 2018 +0800
+
+    google font
+
+[33mcommit ccce815c0f0955773694c7be5c85cc9ee7546729[m
+Author: jbats3108 <jamiebatabyal@gmail.com>
+Date:   Wed Nov 28 13:48:48 2018 +0800
+
+    Wrote HTML doc
+
+[33mcommit 970ed4d59b6a03b5010f082ba4f671fbc7de104d[m
+Author: jbats3108 <jamiebatabyal@gmail.com>
+Date:   Wed Nov 28 12:18:14 2018 +0800
+
+    create jamieb-advice html & css files
+
+[33mcommit 597c1856adbfb3be70ab1a3f27004d8dedbfef94[m
+Merge: 73b59e8 400e328
+Author: kellybk <kellybk@hotmail.com>
+Date:   Tue Nov 27 20:36:33 2018 -0500
+
+    updating master files
+
+[33mcommit 73b59e8549c86a633d8d3d1b1bcb39e27752da8c[m
+Author: kellybk <kellybk@hotmail.com>
+Date:   Tue Nov 27 20:20:05 2018 -0500
+
+    code corrections asked by Skillcrush
+
+[33mcommit 400e3289b369d0e5e7e01243105ccfd336535cf5[m
+Merge: 10668fc a0fd9a5
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 27 15:05:15 2018 -0500
+
+    Merge pull request #116 from codequeening/practice
+    
+    Adding Joi's Advice to the Remote Repo
+
+[33mcommit a0fd9a5fbd813ac2cf3d3267492678ab23702f34[m
+Merge: 600409f 10668fc
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 27 15:05:06 2018 -0500
+
+    Merge branch 'master' into practice
+
+[33mcommit 10668fc733d5bf9e7c0306a76e82b67eaca4c96a[m
+Merge: 8f058b7 d31ed9a
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 27 15:04:10 2018 -0500
+
+    Merge pull request #115 from katherinerosa812/v2.0
+    
+    Add Katherine's advice
+
+[33mcommit d31ed9aeb4449edac20b5bc614cd589985e4317a[m
+Merge: 324cac4 8f058b7
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 27 15:04:03 2018 -0500
+
+    Merge branch 'master' into v2.0
+
+[33mcommit 8f058b796d3f4026c64b3fdf00f1c0e0d13a80d4[m
+Merge: cad7fac 0f9a1e2
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 27 15:02:45 2018 -0500
+
+    Merge pull request #113 from Candib80/experiments
+    
+    adding my own advice and updating index.html with link to my page
+
+[33mcommit 0f9a1e2ea6ee7717314ea0602bd45670b669ce97[m
+Merge: c072044 cad7fac
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 27 15:02:38 2018 -0500
+
+    Merge branch 'master' into experiments
+
+[33mcommit cad7facf2e9c405835aff163474077cbda0dfdd8[m
+Merge: 86a3792 d0fd46b
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 27 15:01:27 2018 -0500
+
+    Merge pull request #111 from Pascalschoof/exercise
+    
+    added my personal advice site.
+
+[33mcommit 86a37927b0f544f64e96c7b58db9c1da652ffd8c[m
+Merge: 0b10aaf fe74368
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 27 14:57:29 2018 -0500
+
+    Merge pull request #107 from thomlincreative/experiments
+    
+    adding my advice
+
+[33mcommit 4f889e81e641856999053b5f29d6134aa728a29c[m
+Author: Brook Landry <brooklynsprkl@gmail.com>
+Date:   Tue Nov 27 00:02:21 2018 -0500
+
+    added css to advice page
+
+[33mcommit 11b70e75b373e218c7c8af412f44380bc22ee599[m
+Author: JoCrolPark <joannedeborahparkhouse@gmail.com>
+Date:   Mon Nov 26 17:15:30 2018 +0000
+
+    creation of own advice page
+
+[33mcommit 99c3264d19198d4982902390568f49ef6d10c410[m
+Author: BrokeAtty <amber.camio@gmail.com>
+Date:   Sun Nov 25 18:29:58 2018 -0500
+
+    Made edit to index.html
+
+[33mcommit f833b89bf2dda326fe917fd408501420c131133e[m
+Merge: b8247a7 0b10aaf
+Author: BrokeAtty <amber.camio@gmail.com>
+Date:   Sun Nov 25 18:14:54 2018 -0500
+
+    Merge branch 'master' into experiments
+
+[33mcommit b8247a7e487e20f7b6e2eea0566669410db0cad2[m
+Author: BrokeAtty <amber.camio@gmail.com>
+Date:   Sun Nov 25 17:48:07 2018 -0500
+
+    Created new amberc-advice.html and amberc-style.css files and modified index.html to link to new advice page
+
+[33mcommit 600409fcbb8f7d4a9d471a6003f5ab303d118e0a[m
+Author: Code Queen <thesadiegagency@gmail.com>
+Date:   Sun Nov 25 13:32:56 2018 -0500
+
+    Adding Joi's Advice to the Remote Repo
+
+[33mcommit c072044bcfd9ec6b846c1ad0f17b7dd6e51eabf1[m
+Author: CandiB80 <candib80@gmail.com>
+Date:   Sat Nov 24 13:49:14 2018 -0500
+
+    adding my own advice and updating index.html with link to my page
+
+[33mcommit d0fd46b391493505fe459ae8e3d269e431c6d0ae[m
+Author: pschoof <pascal.schoof@gmx.net>
+Date:   Fri Nov 23 20:19:40 2018 +0100
+
+    added my personal advice site.
+
+[33mcommit f896f5f08a17f50fd14e66f3c08fa93730abe720[m
+Merge: d2f974d 0b10aaf
+Author: kellybk <kellybk@hotmail.com>
+Date:   Thu Nov 22 20:50:13 2018 -0500
+
+    merge from upstream
+
+[33mcommit d2f974d22db7b3ee9c412d79041870b5b6f0a82f[m
+Author: kellybk <kellybk@hotmail.com>
+Date:   Thu Nov 22 20:24:47 2018 -0500
+
+    Adding Kelly Kobarda's code
+
+[33mcommit 324cac463f0adf1b92af2027aab3c697c03cd705[m
+Author: Katherine812 <katherinerosa812@gmail.com>
+Date:   Wed Nov 21 19:58:52 2018 -0800
+
+    added Katherine's advice
+
+[33mcommit 0b10aafa6b9c958abfc740eb7fd14779d0afc892[m
+Merge: 06ea4f5 d704c02
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Wed Nov 21 12:02:09 2018 -0500
+
+    Merge pull request #103 from danimanzotti/advice
+    
+    Advice
+
+[33mcommit d704c026009bc5435d6eaa2bde463db8caa51614[m
+Merge: a51c217 06ea4f5
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Wed Nov 21 12:02:01 2018 -0500
+
+    Merge branch 'master' into advice
+
+[33mcommit 06ea4f5acfbb98488b3c3b9a51e7279b13cc5736[m
+Merge: 987d254 e870431
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Wed Nov 21 12:01:00 2018 -0500
+
+    Merge pull request #102 from rachelpeddie/advice-updates
+    
+    added my advice page and styled it
+
+[33mcommit 987d254257a607b5add757e25c690c20ab5bbb14[m
+Merge: aacfb04 97bbacf
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Wed Nov 21 12:00:05 2018 -0500
+
+    Merge pull request #101 from taty2010/changes
+    
+    tatyana's changes
+
+[33mcommit 0ed0ca30d950f6a48529ec68a8603a7d8a6ac094[m
+Author: Carla <38359702+carlarsmendes@users.noreply.github.com>
+Date:   Tue Nov 20 10:34:12 2018 +0000
+
+    Added files with changes
+    
+    Added files with changes
+
+[33mcommit fe74368756968ce9e5b786f89272a3406b2f8bbb[m
+Author: Ganja Goddess <cncapasso@yahoo.com>
+Date:   Mon Nov 19 14:28:34 2018 -0800
+
+    adding my advice
+
+[33mcommit a51c217a43763726d5ef867185c8e9de39d1dcef[m
+Merge: 4279f02 aacfb04
+Author: Daniela Manzotti <daniela.manzotti@gmail.com>
+Date:   Mon Nov 19 15:38:41 2018 -0300
+
+    fix conflict
+
+[33mcommit 4279f02d5730fc1235de93a6edf17aa528eea022[m
+Author: Daniela Manzotti <daniela.manzotti@gmail.com>
+Date:   Mon Nov 19 15:09:16 2018 -0300
+
+    added link to my advice
+
+[33mcommit e87043109eade9d27b56eea245ec6a283980d3e7[m
+Author: Rachel Peddie <rachel.peddie.915@gmail.com>
+Date:   Mon Nov 19 11:00:49 2018 -0600
+
+    added my advice page and styled it
+
+[33mcommit 97bbacf9d4060259a99f7c95d6b7bd6001fe18a8[m
+Author: taty2010 <shydalys123@gmail.com>
+Date:   Sun Nov 18 23:25:29 2018 -0600
+
+    tatyana's changes
+
+[33mcommit aacfb0407ee2a3d5161b2ba640915e79eb89d84f[m
+Merge: 310e50c 0caac63
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Nov 16 15:05:48 2018 -0500
+
+    Merge pull request #99 from raemoord/experiments
+    
+    added rmoord advice to html and css
+
+[33mcommit 0caac6371839b388117a00ab6a5874e133d70235[m
+Author: Rae Moord <rmoord@gmail.com>
+Date:   Fri Nov 16 12:59:08 2018 -0500
+
+    added rmoord advice to html and css
+
+[33mcommit 310e50c3ff994e7ce15c4b97b2eb7c8cfedb6630[m
+Merge: 8acd239 462ed17
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 13 13:44:40 2018 -0500
+
+    Merge pull request #97 from bridgetmcar/experiments
+    
+    bridgetmcar advice
+
+[33mcommit 462ed17f6de4362273fe8f8839e38caa77f7b5d0[m
+Merge: 9f93c07 8acd239
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Nov 13 13:44:31 2018 -0500
+
+    Merge branch 'master' into experiments
+
+[33mcommit 9f93c0766c584b3a199971c5edfd3affd6967c6b[m
+Author: bridget <bridgetmcarson@gmail.com>
+Date:   Tue Nov 13 07:12:14 2018 +1100
+
+    update styles
+
+[33mcommit 52f583cb94c3e9448704f8f11ef390a7f8620738[m
+Author: bridget <bridgetmcarson@gmail.com>
+Date:   Mon Nov 12 15:45:17 2018 +1100
+
+    add link to html file
+
+[33mcommit 8acd239510f2d10cc5bac8d410eadee9622ae2a1[m
+Merge: dbc06f9 08e80a1
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Nov 11 08:17:06 2018 -0700
+
+    Merge pull request #96 from thecoderjimmy/jimmy-edit
+    
+    Jimmy edit
+
+[33mcommit 08e80a15e0683f33477e1ea57bfa23af1c31e907[m
+Author: Jimmy <thecoderjimmy@gmail.com>
+Date:   Sun Nov 11 14:18:07 2018 +0900
+
+    added Jimmy's Advice link
+
+[33mcommit 092b74a4b8bf4209e35277e28bf6ffc9fb276778[m
+Author: Jimmy <thecoderjimmy@gmail.com>
+Date:   Sun Nov 11 14:13:31 2018 +0900
+
+    added jimmy-advice.html and jimmy-style.css
+
+[33mcommit d2cc1449c5a8d8f7f18480ebc184042b05b4b1f1[m
+Author: bridget <bridgetmcarson@gmail.com>
+Date:   Sun Nov 11 15:03:26 2018 +1100
+
+    html code
+
+[33mcommit 296b0debda7388dda6fdec63d0463b40ca554fc4[m
+Author: bridget <bridgetmcarson@gmail.com>
+Date:   Sun Nov 11 15:02:07 2018 +1100
+
+    css font style
+
+[33mcommit dbc06f95d6ca1d1a0b163fc39278284a4d715059[m
+Merge: 54f3e70 2d065e7
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Nov 9 13:36:58 2018 -0500
+
+    Merge pull request #95 from jeverapon/jever-edit
+    
+    Jever's Advice
+
+[33mcommit 2d065e74a20607d4c94df7999f2dff23689cb7c8[m
+Author: jeverapon <jvdapo@gmail.com>
+Date:   Thu Nov 8 19:37:43 2018 -0800
+
+    Jever's Advice
+
+[33mcommit 54f3e701426c4cc1a0678a46bddd58519fd043fe[m
+Merge: e62e656 bdd29b4
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 8 06:19:54 2018 -0700
+
+    Merge pull request #94 from JWYC/customize-advice
+    
+    please add JWYC advice
+
+[33mcommit bdd29b4891edc5ed582d72ebb91b8343c3492f40[m
+Merge: f63273a e62e656
+Author: jwychan <janis.wy.chan@gmail.com>
+Date:   Tue Nov 6 00:29:09 2018 -0800
+
+    Merge branch 'master' into customize-advice
+
+[33mcommit f63273a0ef77e2cdc990a50a643efec7384cee5e[m
+Author: Janis Chan <janis.wy.chan@gmail.com>
+Date:   Mon Nov 5 23:50:56 2018 -0800
+
+    used flex box to create columns, colorized page, modiftied typography
+
+[33mcommit 7e0aab9a20b61de665b30920262c508729846205[m
+Author: Janis Chan <janis.wy.chan@gmail.com>
+Date:   Mon Nov 5 23:49:58 2018 -0800
+
+    personalized advice page
+
+[33mcommit 5d3982e803f504214c9362361c6436cce276c828[m
+Author: Janis Chan <janis.wy.chan@gmail.com>
+Date:   Mon Nov 5 23:49:19 2018 -0800
+
+    added link jwycadvice to main index page
+
+[33mcommit 1fe377ab52e24d1b56062b897281ee6db97f2e85[m
+Merge: 2fd9c10 e62e656
+Author: Daniela Manzotti <daniela.manzotti@gmail.com>
+Date:   Mon Nov 5 20:54:46 2018 -0300
+
+    Merge branch 'master' into advice
+
+[33mcommit 2fd9c1060e9444adbfb62a7dd26e43b8ec4549df[m
+Author: Daniela Manzotti <daniela.manzotti@gmail.com>
+Date:   Mon Nov 5 19:56:26 2018 -0300
+
+    customized version
+
+[33mcommit e62e6563e514970263ef04ba036bc335993a4417[m
+Merge: 1875c95 75e2d8b
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Nov 4 13:25:13 2018 -0700
+
+    Merge pull request #82 from chelseakriya/firstpractice
+    
+    styled up my advice
+
+[33mcommit 1875c9522be29815029ebf2f4f439ab7fa165f00[m
+Merge: 818dc8d 436555d
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sun Nov 4 09:39:03 2018 -0500
+
+    Merge pull request #90 from spottypoppy/master
+    
+    Added Kait's Advice page
+
+[33mcommit 818dc8dc8d0c3f1783c17675789521f399eab37f[m
+Merge: 7efed5f 7085dcf
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Sun Nov 4 09:35:43 2018 -0500
+
+    Merge branch 'experiments' of github.com:caseyhur/105-practice into test
+
+[33mcommit 436555dbb4e3b74075fe254b9d32b46906cdca12[m
+Author: spottypoppy <hi@spottypoppy.com>
+Date:   Sun Nov 4 15:24:20 2018 +1100
+
+    Added Kait's Advice page
+
+[33mcommit 7efed5fd44df0797a68ec60cf4f0316705e12a0b[m
+Merge: 600bad3 dc58820
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Nov 3 20:25:37 2018 -0400
+
+    Merge pull request #89 from jacob-wick/lesson-changes
+    
+    Add Jacob's advice
+
+[33mcommit dc58820a14b3c1d9d578e14f55686d0128fd00fe[m
+Merge: 5c1fd71 600bad3
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Nov 3 20:25:25 2018 -0400
+
+    Merge branch 'master' into lesson-changes
+
+[33mcommit 5c1fd71b9c14a6379e3cd7a08438e80269c65e0d[m
+Author: jacob wick <jacob.wick@gmail.com>
+Date:   Sat Nov 3 17:22:29 2018 -0500
+
+    jacob's advice
+
+[33mcommit 75e2d8b6aa54f409e47e325de728567d391117b2[m
+Author: chelseakriya <chelseakriya@gmail.com>
+Date:   Sat Nov 3 13:58:25 2018 -0700
+
+    added my advice link to main html doc
+
+[33mcommit 600bad3acf99664035612ae111a67eed8847db86[m
+Merge: 0220841 bb323e8
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sat Nov 3 06:47:33 2018 -0600
+
+    Merge pull request #88 from thegreatsevrini/experiments
+    
+    Experiments
+
+[33mcommit 0220841ac084ed6037f68c97f22284f671ec0624[m
+Merge: e6361e5 15b224c
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sat Nov 3 06:46:59 2018 -0600
+
+    Merge pull request #84 from bentta/experiments
+    
+    Ugly advice page edits
+
+[33mcommit bb323e81e36af37e515a30d08ff6195ec7c32d69[m
+Author: sev <sevwelker@gmail.com>
+Date:   Fri Nov 2 08:45:45 2018 -0700
+
+    changed <h4> and <p> to my own advice
+
+[33mcommit 6f27903487d49d18e7733a96fc2a93e29f5867ca[m
+Author: sev <sevwelker@gmail.com>
+Date:   Thu Nov 1 23:10:13 2018 -0700
+
+    styled my advice page
+
+[33mcommit 15b224c7085437324e6852d9303f539668bf5078[m
+Merge: eb12f4d e6361e5
+Author: bentta <codenamebentta@gmail.com>
+Date:   Thu Nov 1 22:42:17 2018 -0400
+
+    fixed conflict in index.html
+
+[33mcommit eb12f4d6f6ab3a713c3149f11aeade7f3023132a[m
+Author: bentta <codenamebentta@gmail.com>
+Date:   Thu Nov 1 22:26:23 2018 -0400
+
+    Added link in index.html
+
+[33mcommit e6361e55d08a8a4ea41012fa4b6a6d47b0586dd5[m
+Merge: 019ff17 c9f1e14
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:49:40 2018 -0600
+
+    Merge pull request #87 from kskalva/advice
+    
+    added Kranthi-advice.html and Kranthi-style.css
+
+[33mcommit c9f1e144d1b45f33435a39c907e359e831042473[m
+Merge: 36140ba 019ff17
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:49:19 2018 -0600
+
+    Merge branch 'master' into advice
+
+[33mcommit 019ff17c524750e6b4d0393cc3d1991d09bece21[m
+Merge: 0b8395a 02bdc55
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:47:53 2018 -0600
+
+    Merge pull request #86 from cbolton27/experimenting
+    
+    Experimenting
+
+[33mcommit 02bdc553ac6677119e91879631f02cdcc1fb287d[m
+Merge: cfa0274 0b8395a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:47:41 2018 -0600
+
+    Merge branch 'master' into experimenting
+
+[33mcommit 0b8395ad720041f7233fa77025bffb7720f9545b[m
+Merge: b433276 9e859a8
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:47:03 2018 -0600
+
+    Merge pull request #85 from commitmetomemory/tests
+    
+    changed header fonts and colors
+
+[33mcommit 9e859a84ef8e5873261a1824b323ec1e606ec805[m
+Merge: d3f988e b433276
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:46:44 2018 -0600
+
+    Merge branch 'master' into tests
+
+[33mcommit b4332768251fc178c57188f73b661484880632d7[m
+Merge: b5703fe d6c95f2
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:43:57 2018 -0600
+
+    Merge pull request #71 from jpaola98/advice
+    
+    julearenas advice html/css
+
+[33mcommit d6c95f2d5346a3ae256dd82f344b86d895fad934[m
+Merge: 2603916 b5703fe
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:43:34 2018 -0600
+
+    Merge branch 'master' into advice
+
+[33mcommit b5703fe83a91cff230985167f9470c5ebd59b915[m
+Merge: de269ce ff52802
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:42:00 2018 -0600
+
+    Merge pull request #70 from awithall/version1
+    
+    Version1
+
+[33mcommit ff52802c8dcac4eee2dcffef34f90ec09f5f4c86[m
+Merge: 3e726a0 de269ce
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:41:39 2018 -0600
+
+    Merge branch 'master' into version1
+
+[33mcommit de269ce9da1ec8a39b6d89f85f8c4b1d344eab9f[m
+Merge: 6d014ca 6de1f84
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:39:37 2018 -0600
+
+    Merge pull request #79 from meiland28/experiments
+    
+    Add Mei's advice
+
+[33mcommit 6de1f849f0dc1ffce871b5153b3402ed59dbc62a[m
+Merge: dc234b5 6d014ca
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Nov 1 17:39:18 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit 36140bab7378b070f88441a43bee3142e37da422[m
+Author: kkalva <kskalva@gmail.com>
+Date:   Thu Nov 1 14:57:15 2018 -0400
+
+    added Kranthi-advice.html and Kranthi-style.css
+
+[33mcommit 6d014ca82fbf5a86034ac87138a66c2974cf4a31[m
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Thu Nov 1 13:47:42 2018 -0400
+
+    Update index.html
+    
+    Adding a few more breaks in the index.html file
+
+[33mcommit 026e02ba6d886c524bc2558a748ebe0f038b5d60[m
+Merge: 5641c60 c024584
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Thu Nov 1 13:43:15 2018 -0400
+
+    Merge branch '105-experiment' of github.com:mbsgolden/105-practice into test
+
+[33mcommit cfa0274981c4fe91b9bbe4f0de5338687bd21687[m
+Author: cbolton <cbolton@freshperspectiveservices.com>
+Date:   Thu Nov 1 13:01:43 2018 -0400
+
+    Added link to new advice page
+
+[33mcommit 8c1b72397a4529494204b3249ca5a999ab15f531[m
+Author: cbolton <cbolton@freshperspectiveservices.com>
+Date:   Thu Nov 1 13:00:54 2018 -0400
+
+    Styles for new advice page
+
+[33mcommit 05f1ab5ab1e1159c82e7cb530ec264acb17de4f7[m
+Author: cbolton <cbolton@freshperspectiveservices.com>
+Date:   Thu Nov 1 12:59:42 2018 -0400
+
+    New advice page
+
+[33mcommit 7085dcf77149edaae021a04b0e0f71b19a6d0fcf[m
+Author: Queenest <caseyehurlburt@gmail.com>
+Date:   Wed Oct 31 15:03:18 2018 -0500
+
+    added link to my advice page on main index.html file
+
+[33mcommit 827a0786c182b8b9fe238754fde13d22ef01fe47[m
+Author: bentta <codenamebentta@gmail.com>
+Date:   Wed Oct 31 14:01:14 2018 -0400
+
+    ugly advice page edits
+
+[33mcommit 3e726a0cc99abfca50d5b887beaaea30519f2715[m
+Merge: 4f7496c 5641c60
+Author: awithall <44389836+awithall@users.noreply.github.com>
+Date:   Tue Oct 30 21:34:03 2018 -0700
+
+    Merge branch 'master' into version1
+
+[33mcommit 2603916bc9fee3548a9614dcd913cd1f11524399[m
+Author: Jules <jpaola98@yahoo.com>
+Date:   Tue Oct 30 20:25:41 2018 -0500
+
+    Added advice page link to index.html
+
+[33mcommit dc234b526b75857f11c12119cda66a4c0bcb9799[m
+Author: meiland28 <meiland28@gmail.com>
+Date:   Tue Oct 30 16:51:29 2018 -0600
+
+    Mei's advice
+
+[33mcommit adca8dbc0ed69e9543bda63f1bc93ea68d0946f5[m
+Merge: 7cf2502 5641c60
+Author: chelseakriya <chelseakriya@gmail.com>
+Date:   Tue Oct 30 14:03:47 2018 -0700
+
+    Merge branch 'master' into firstpractice
+    
+    Practice Merging
+
+[33mcommit 5641c601b02bff4bed753bdf814f422d49b65722[m
+Merge: b2dc257 35dee7c
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 30 05:42:47 2018 -0600
+
+    Merge pull request #80 from susangrundner/susans-advice
+    
+    Susans advice
+
+[33mcommit 35dee7ca6c035650f9aa452869eaeeeb58773977[m
+Merge: 4897e90 b2dc257
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 30 05:42:14 2018 -0600
+
+    Merge branch 'master' into susans-advice
+
+[33mcommit 7cf2502ff16178e0e8089125b02754c8aba5bc26[m
+Author: chelseakriya <chelseakriya@gmail.com>
+Date:   Mon Oct 29 21:26:34 2018 -0700
+
+    styled up my advice
+
+[33mcommit 79547a09d084fbc83b117e35277303668f29e4f7[m
+Author: Jules <jpaola98@yahoo.com>
+Date:   Mon Oct 29 19:40:56 2018 -0500
+
+    added link to html
+
+[33mcommit 1c6d92f9e7793c6623cca860c6fd276475491af8[m
+Author: meiland28 <meiland28@gmail.com>
+Date:   Mon Oct 29 18:13:16 2018 -0600
+
+    my advice and styling
+
+[33mcommit b2dc257ea6af1140aa84f29ac91bb462a81c32e7[m
+Merge: a597931 aefcdfc
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 29 15:25:23 2018 -0600
+
+    Merge pull request #54 from pandaspanda/practique
+    
+    Add Panda's advice
+
+[33mcommit aefcdfc27eb9f536cd6fc79953f97bc08205bea5[m
+Merge: 8878803 a597931
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 29 15:24:54 2018 -0600
+
+    Merge branch 'master' into practique
+
+[33mcommit 887880391337fc4ffcbf91f52955a0d6a8da526a[m
+Author: Panda <christine.treuhold@gmail.com>
+Date:   Mon Oct 29 16:45:21 2018 -0400
+
+    tried to identify my add-on as the only merge conflict
+
+[33mcommit a45a35fc2d482368a71b96dc2c61f18d5d978327[m
+Author: Panda <christine.treuhold@gmail.com>
+Date:   Mon Oct 29 16:43:15 2018 -0400
+
+    fixed merge conflict
+
+[33mcommit c8641bf152b19cfc3ff567a653dcf2d92adab9da[m
+Author: Panda <christine.treuhold@gmail.com>
+Date:   Mon Oct 29 16:37:01 2018 -0400
+
+    added link to my advice page, advice-panda.html
+
+[33mcommit a597931ce3688b3f31c228c56d7bba3b3d98395c[m
+Merge: 3f3054e f8e9046
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 29 14:10:43 2018 -0600
+
+    Merge pull request #75 from summit-coder/experiments
+    
+    my skillcrush repo css and html and css edits
+
+[33mcommit 4897e90df355d48ea91c329010a96bb2d39fe016[m
+Author: Redheaded Coder <sgrundner999@gmail.com>
+Date:   Sun Oct 28 22:50:07 2018 -0400
+
+    removed image from css
+
+[33mcommit 4f7496c677acafb1849616aff286fd364cc185d1[m
+Merge: ca0160c 3f3054e
+Author: FracturedFocus <ashleigh.withalln@gmail.com>
+Date:   Sun Oct 28 15:36:01 2018 -0700
+
+    resolved
+
+[33mcommit f8e9046ba0ec8509dfef9d9e7940796f7e489fec[m
+Merge: 61a0489 e27142f
+Author: Summit Coder <jillhertel@gmail.com>
+Date:   Sun Oct 28 16:30:48 2018 -0600
+
+    added my advice page link to html file
+
+[33mcommit ca0160cb8ff6f0e3837451c3cf208a591db2beae[m
+Author: FracturedFocus <ashleigh.withalln@gmail.com>
+Date:   Sun Oct 28 14:56:28 2018 -0700
+
+    advice page link added
+
+[33mcommit 3f3054e1fa0b5b680bb01022c1d0da1c9de8696e[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Sun Oct 28 10:56:38 2018 -0600
+
+    Fixed small errors
+
+[33mcommit 9f67379957f1f3efaef6457ab4120bffbc664d9d[m
+Merge: 5fdcb20 d7766c4
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 28 10:51:44 2018 -0600
+
+    Merge pull request #72 from roisabreuer/personal
+    
+    Personal
+
+[33mcommit 5fdcb203850564f9ffdeaca9a8d69d2c36184c47[m
+Merge: e27142f 7fc4e18
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 28 10:49:13 2018 -0600
+
+    Merge pull request #74 from LifesTooShort/my-advice
+    
+    Add Erin P's advice
+
+[33mcommit 7fc4e1828210dc875a8ffb105c0116700a216a3b[m
+Merge: b46f6b4 e27142f
+Author: LifesTooShort <epenner0522@gmail.com>
+Date:   Sun Oct 28 10:47:13 2018 -0400
+
+    fixed merge conflicts
+
+[33mcommit b46f6b43ba1baeba3669859f8b5ff8c834e0e02d[m
+Author: LifesTooShort <epenner0522@gmail.com>
+Date:   Sun Oct 28 10:31:43 2018 -0400
+
+    Added my advice to the 105 Practice site.
+
+[33mcommit e27142f371f7786613b05b8095c3a8d14cc58617[m
+Merge: 2e1697d fe158f5
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 28 08:31:36 2018 -0600
+
+    Merge pull request #68 from meganwillard/new-changes
+    
+    added new file
+
+[33mcommit d3f988e774d07ee0f72ec851f188196d08e0bed0[m
+Author: Nicole <nrwilliams19@gmail.com>
+Date:   Sun Oct 28 10:30:59 2018 -0400
+
+    changed header fonts and colors
+
+[33mcommit d7766c46d7587495c8e9e84c542ba8dc22e7ddc9[m
+Merge: c0022f7 2e1697d
+Author: roisa <roisadiamant@gmail.com>
+Date:   Sun Oct 28 12:40:22 2018 +0000
+
+    merged
+
+[33mcommit 10d651b0a9633b1a5b400ed3bdc73aad5aa4ccd0[m
+Author: Jules <jpaola98@yahoo.com>
+Date:   Sat Oct 27 23:32:50 2018 -0500
+
+    julearenas advice html/css
+
+[33mcommit bc38e8e33bc1d99a38e7700924f47962288acd83[m
+Author: FracturedFocus <ashleigh.withalln@gmail.com>
+Date:   Fri Oct 26 16:10:17 2018 -0700
+
+    styles added
+
+[33mcommit 9a8ae33f208c05acc80d3f4cf3282daabd4fc0d7[m
+Author: FracturedFocus <ashleigh.withalln@gmail.com>
+Date:   Fri Oct 26 16:08:49 2018 -0700
+
+    content added
+
+[33mcommit 61a0489721e13c7c83581d99e2d843c3a4884b3b[m
+Author: Summit Coder <jillhertel@gmail.com>
+Date:   Fri Oct 26 15:00:08 2018 -0600
+
+    my skillcrush repo css and html and css edits
+
+[33mcommit fe158f5374684ef4828ed534d9088ae3fdf70ed2[m
+Merge: 706bfc2 65dd73a
+Author: meganwillard <megan.e.buckingham@gmail.com>
+Date:   Fri Oct 26 06:28:44 2018 -0700
+
+    Merge branch 'master' into new-changes
+    
+    i "added Megan's advice"
+
+[33mcommit 65dd73a0e6560d521a453a10fb9fded6ca8d5d44[m
+Merge: eab5e0f 2e1697d
+Author: meganwillard <megan.e.buckingham@gmail.com>
+Date:   Fri Oct 26 06:26:32 2018 -0700
+
+    fixing merge conflict
+
+[33mcommit eab5e0fe0bbccfb04d7c95ff929ca4238197d19f[m
+Author: meganwillard <megan.e.buckingham@gmail.com>
+Date:   Fri Oct 26 06:17:23 2018 -0700
+
+    added new file
+
+[33mcommit 2e1697dbb0503352760d775dd7b5068dc59f66d7[m
+Merge: 69a2558 74fd9e9
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 25 14:43:19 2018 -0600
+
+    Merge pull request #66 from RickR89/master
+    
+    Added Rick's advice
+
+[33mcommit 74fd9e9dd99fa671f35944e623508b4824fd3c1f[m
+Merge: 09245b5 69a2558
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 25 14:42:52 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 69a255843868979dda3b5ff6aa2d6ef1c2a4483e[m
+Merge: 6db5dda ffd2245
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 25 14:41:56 2018 -0600
+
+    Merge pull request #65 from steph-ao/steph
+    
+    Adding Steph's advice
+
+[33mcommit 09245b5d5d529618afb56332d624d629b2d4bf5b[m
+Author: RickR89 <rickman87658@gmail.com>
+Date:   Thu Oct 25 16:06:48 2018 -0400
+
+    linked advice html to index
+
+[33mcommit b9d51764ceffe89611334a7a91d1d8c2ad9a6fde[m
+Author: Queenest <caseyehurlburt@gmail.com>
+Date:   Thu Oct 25 16:00:27 2018 -0400
+
+    Hopefully this time changed css
+
+[33mcommit dd40550bfbbe75b6b609eb809669533f4547b1fa[m
+Author: RickR89 <rickman87658@gmail.com>
+Date:   Thu Oct 25 15:56:14 2018 -0400
+
+    Linked stylesheets and main.css, added main.css structure
+
+[33mcommit 2ebd116b03ff2bbd1bc114a122251c13eca4a873[m
+Author: Queenest <caseyehurlburt@gmail.com>
+Date:   Thu Oct 25 15:53:25 2018 -0400
+
+    added my own advice
+
+[33mcommit 01d1dfe51245d0f57d9acd3ccad0d4779a3bb06d[m
+Author: Queenest <caseyehurlburt@gmail.com>
+Date:   Thu Oct 25 15:47:39 2018 -0400
+
+    added advice to html file
+
+[33mcommit fdb154ff786af83174acb9ff3892f366b57b7b38[m
+Author: RickR89 <rickman87658@gmail.com>
+Date:   Thu Oct 25 15:23:11 2018 -0400
+
+    edited html with name
+
+[33mcommit 22c4b994e39377b7906f6a1f2c38307c00ffccd8[m
+Author: RickR89 <rickman87658@gmail.com>
+Date:   Thu Oct 25 15:21:49 2018 -0400
+
+    created html structure
+
+[33mcommit d4840e56d1935dd46710d939b5e525bb504dbeab[m
+Author: RickR89 <rickman87658@gmail.com>
+Date:   Thu Oct 25 15:21:11 2018 -0400
+
+    created html structure
+
+[33mcommit c0022f7a7e4bd08bbbc1ae492c0d1d945e32a240[m
+Author: roisa <roisadiamant@gmail.com>
+Date:   Thu Oct 25 19:45:49 2018 +0100
+
+    added ink to main index page
+
+[33mcommit d8903a965c5f57def215f360d47b944a2a3a27bf[m
+Author: roisa <roisadiamant@gmail.com>
+Date:   Thu Oct 25 19:41:45 2018 +0100
+
+    added html and css content
+
+[33mcommit e12154e7f97c17b32131021d652d1db327d0681a[m
+Author: roisa <roisadiamant@gmail.com>
+Date:   Thu Oct 25 19:12:37 2018 +0100
+
+    created html and css files
+
+[33mcommit 706bfc2b0d33e1dd4e78e1cc3f1fd39814cc6df5[m
+Author: meganwillard <megan.e.buckingham@gmail.com>
+Date:   Thu Oct 25 06:53:58 2018 -0700
+
+    added new file
+
+[33mcommit ffd2245c16222b2bf63856bcda9ac50a2962d7ea[m
+Author: stephao <saaube13@gmail.com>
+Date:   Thu Oct 25 05:21:03 2018 -0400
+
+    Adding Steph's advice
+
+[33mcommit 6db5dda9bc5afd94a656ef337c48b594060bb3d8[m
+Merge: 85c9d1f 01cf33a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 24 17:23:59 2018 -0600
+
+    Merge pull request #64 from SymaraKaslov/experiments
+    
+    Experiments
+
+[33mcommit 01cf33a03a8aa898f53c240139c6a793b60fd8f7[m
+Merge: f74e733 85c9d1f
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 24 17:23:46 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit 85c9d1fca7fa2599c32522acb1b2923bd816884d[m
+Merge: 3a61124 e6ac8c7
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 24 17:23:12 2018 -0600
+
+    Merge pull request #63 from hahansen04/advice
+    
+    Added Heidi H advice page
+
+[33mcommit e6ac8c756861b29538fbde4c3115b38b49e0883b[m
+Merge: 2439d58 3a61124
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 24 17:22:55 2018 -0600
+
+    Merge branch 'master' into advice
+
+[33mcommit 3a611243744cb2a56c8326f175faf19192bd6f4c[m
+Merge: f31e071 9e0ee1b
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 24 17:21:56 2018 -0600
+
+    Merge pull request #59 from andrekolmeijer/master
+    
+    Added andrekolmeijer and adjusted .gitignore
+
+[33mcommit 9e0ee1bc0bab8df8108d175092f7da4cb711e372[m
+Merge: 4dfb526 f31e071
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 24 17:19:56 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 2439d58bd587129b751c6fced1acaf21458ee94c[m
+Author: Heidi H <hahansen04@gmail.com>
+Date:   Wed Oct 24 14:43:54 2018 -0400
+
+    Added Heidi H advice page
+
+[33mcommit f74e7337fc4e94e3892ea3498e27c370d8e000c3[m
+Author: Symara Aramys <symara.aramys@gmail.com>
+Date:   Wed Oct 24 14:29:32 2018 -0400
+
+    added link to html page
+
+[33mcommit fb5a3eab2469d8e9f06b3e0493c00acab53aad6b[m
+Author: Symara Aramys <symara.aramys@gmail.com>
+Date:   Wed Oct 24 14:28:38 2018 -0400
+
+    created html page
+
+[33mcommit f31e071fac5d40eceb7b4c6a3726120e201f9640[m
+Merge: 95ef709 ea38b5b
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:55:23 2018 -0600
+
+    Merge pull request #62 from mirelacretiu/experimental
+    
+    Experimental
+
+[33mcommit ea38b5baa473607b82fa2b2129d15d2a03b97286[m
+Merge: a7dcc3c 95ef709
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:55:09 2018 -0600
+
+    Merge branch 'master' into experimental
+
+[33mcommit 95ef709272cd0ea1b4956f03a934094bd53be177[m
+Merge: ba88867 0df6679
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:54:14 2018 -0600
+
+    Merge pull request #61 from Web-Dev-Rich/richs-advice
+    
+    Add richs-advice branch
+
+[33mcommit 0df6679cceb287108d22da53a452525c5d74cd54[m
+Merge: bd6cdf0 ba88867
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:54:05 2018 -0600
+
+    Merge branch 'master' into richs-advice
+
+[33mcommit ba888670f1434a8fe127623bc5c1c417a3538224[m
+Merge: 0697365 ddd50fa
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:53:16 2018 -0600
+
+    Merge pull request #60 from rebthemaker/experiments
+    
+    created advice HTML page, added styles file, added link to index.html
+
+[33mcommit ddd50fa92f98cedb749255b9b1c4291aa86e2e71[m
+Merge: c2789f6 0697365
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:52:57 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit 06973652304f06889fd82d9c5770bb7a434af28d[m
+Merge: 6fccdf2 2b49e69
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:51:48 2018 -0600
+
+    Merge pull request #58 from kymie9899/v2.0
+    
+    Making some Kim Pascoe Changes
+
+[33mcommit 2b49e692cacc78342cb0bcf8a0d83e1c01756fd0[m
+Merge: bb6de55 6fccdf2
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:51:23 2018 -0600
+
+    Merge branch 'master' into v2.0
+
+[33mcommit 6fccdf27ea6446d7c900ce4201268a78125cd35b[m
+Merge: 4fbef71 4296491
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:50:28 2018 -0600
+
+    Merge pull request #57 from wymans32/practice
+    
+    Added my advice
+
+[33mcommit 4fbef710b783cd51123a930e61202f516a814a3b[m
+Merge: d36e450 d1803f2
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:49:31 2018 -0600
+
+    Merge pull request #55 from mssherille/my-advice
+    
+    Add my advice
+
+[33mcommit d1803f225a22abfb59f53b4e150e347d90b9c07d[m
+Merge: 216783b d36e450
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 23 14:49:21 2018 -0600
+
+    Merge branch 'master' into my-advice
+
+[33mcommit a7dcc3c27fba9a262d6218b6e7cff2d8337dd312[m
+Merge: a1acdd1 d36e450
+Author: Minimalist_Geek1 <mirela.cretiu@gmail.com>
+Date:   Tue Oct 23 21:11:53 2018 +0100
+
+    another change
+
+[33mcommit bd6cdf0eba418fd44b31838acd846aa0fd6cb370[m
+Author: Rich Keyzor <web_dev_rich@keyzor.net>
+Date:   Tue Oct 23 20:09:35 2018 +0100
+
+    Add richs-advice branch
+
+[33mcommit c2789f6dae729672cbd79441ca44e314a53b05db[m
+Author: Rebecca Morris <rebthemaker@gmail.com>
+Date:   Tue Oct 23 12:12:36 2018 -0500
+
+    created advice HTML page, added styles file, added link to index.html
+
+[33mcommit bb6de55b7a7bb080c2b64c798e75f6423f08f10c[m
+Author: Kim Pascoe <kymie9899@hotmail.com>
+Date:   Mon Oct 22 20:47:38 2018 -0400
+
+    Making some Kim Pascoe Changes
+
+[33mcommit 4296491586ca06b83404230bba12aec5428e9e88[m
+Author: IamSieWyWy <wymans30@gmail.com>
+Date:   Mon Oct 22 17:36:04 2018 -0700
+
+    Added my advice
+
+[33mcommit 4dfb5260388b82ebcb1bcd90b83a3017195b5a5d[m
+Author: ndr <andrekolmeijer@gmail.com>
+Date:   Tue Oct 23 01:30:23 2018 +0200
+
+    created my html and css files
+
+[33mcommit 740a3fcbcee238562798045f3498cf86096a2150[m
+Author: ndr <andrekolmeijer@gmail.com>
+Date:   Tue Oct 23 01:27:53 2018 +0200
+
+    added my link and cleaned up the file
+
+[33mcommit d386b748df9001df5eb8b689cf6c9883710af788[m
+Author: ndr <andrekolmeijer@gmail.com>
+Date:   Tue Oct 23 01:26:29 2018 +0200
+
+    modified it to ignore google drive icons
+
+[33mcommit a1acdd1aaf9d02b33a4f4c17cabe51b2ed867ff8[m
+Author: Minimalist_Geek1 <mirela.cretiu@gmail.com>
+Date:   Sun Oct 21 23:49:05 2018 +0100
+
+    mirela-advice-link
+
+[33mcommit de5987762743aa003f3f14b5c6afde024387be91[m
+Author: Minimalist_Geek1 <mirela.cretiu@gmail.com>
+Date:   Sun Oct 21 23:46:09 2018 +0100
+
+    mirela-advice-css
+
+[33mcommit a7dd86175a45ee148be78d10b0f627d9f964aabb[m
+Author: Minimalist_Geek1 <mirela.cretiu@gmail.com>
+Date:   Sun Oct 21 23:45:29 2018 +0100
+
+    mirela-advice
+
+[33mcommit d36e450e8ef690f1d61f1f4253fb2e165c3f2f13[m
+Merge: cc6e070 c74fa9a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 21 12:35:00 2018 -0600
+
+    Merge pull request #51 from eric-pinero/practice-branch
+    
+    inserted my name and change paragraph font
+
+[33mcommit c74fa9a85d0c94c2fd729c3a3394d4e31af469da[m
+Merge: 46da0d4 cc6e070
+Author: eric-pinero <34456998+eric-pinero@users.noreply.github.com>
+Date:   Sun Oct 21 13:57:50 2018 -0400
+
+    Merge branch 'master' into practice-branch
+
+[33mcommit 46da0d417b8054279bffe57919c2c7820e39b32d[m
+Author: eric.pinero <ericpinero@gmail.com>
+Date:   Sun Oct 21 13:19:24 2018 -0400
+
+    added link to index and renamed advice file
+
+[33mcommit 216783b6f2ca6d59b8ca20778640eac236f8c591[m
+Author: Che Sangalang <thebeancountercodes@gmail.com>
+Date:   Sun Oct 21 09:22:02 2018 -0700
+
+    fixed to my custom css
+
+[33mcommit cc6e07039bf568c6317afa0ffececf93b21b5e8e[m
+Merge: d676adc 14676cc
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 21 10:12:15 2018 -0600
+
+    Merge pull request #49 from shoeke/playaround
+    
+    add SH advice files
+
+[33mcommit 14676cce885babd2de0845e367319d900874a5d0[m
+Merge: f81b8e3 d676adc
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 21 10:11:45 2018 -0600
+
+    Merge branch 'master' into playaround
+
+[33mcommit d676adc9a65d4865decf8bf1b9976e1d8422214d[m
+Merge: cde9402 3421f61
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 21 10:08:00 2018 -0600
+
+    Merge pull request #53 from maryammirahmadi/advice
+    
+    do over advice page
+
+[33mcommit 3421f61fc89da34d42720895cb2d2cce6e30f915[m
+Merge: d878568 cde9402
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 21 10:07:21 2018 -0600
+
+    Merge branch 'master' into advice
+
+[33mcommit cde9402946b3ec514a92dcb1c63cf49331dcaf32[m
+Merge: 95a4817 48239a5
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 21 10:01:34 2018 -0600
+
+    Merge pull request #52 from rfuller4468/experiments
+    
+    Experiments
+
+[33mcommit 95a4817a5a4dede9e78f431f17f84aaabd8b9c30[m
+Merge: fc11d8d b05f248
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 21 09:57:04 2018 -0600
+
+    Merge pull request #35 from ju-l/experiments
+    
+    color
+
+[33mcommit b05f24854ab6a92a3a6b5b99db183e0bbfadfae9[m
+Merge: 0d3590e fc11d8d
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sun Oct 21 09:56:19 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit 1ebebc639a8eb58ad05c2a2fa7fbd6ccbe500cba[m
+Author: Che Sangalang <thebeancountercodes@gmail.com>
+Date:   Sun Oct 21 07:38:19 2018 -0700
+
+    added my advice and css styles
+
+[33mcommit d878568b1ebcd0e175c90c342b1e296a53e8d70b[m
+Merge: fd16144 fc11d8d
+Author: maryammirahmadi <44213144+maryammirahmadi@users.noreply.github.com>
+Date:   Sat Oct 20 19:25:27 2018 -0700
+
+    Merge branch 'master' into advice
+
+[33mcommit f7b375913d59b24a31434d7a414d8aebb85e0f5c[m
+Author: Panda <christine.treuhold@gmail.com>
+Date:   Sat Oct 20 22:15:35 2018 -0400
+
+    I think I did it
+
+[33mcommit fd161444dcf95e071cede7c723a70466ab245e9f[m
+Author: Maryam <maryammirah@gmail.com>
+Date:   Sat Oct 20 19:05:47 2018 -0700
+
+    do over advice page
+
+[33mcommit 48239a52fd2fde7bad0d4dbd30df5e38ee9e0974[m
+Author: rfuller4468 <rfuller4468@gmail.com>
+Date:   Sat Oct 20 19:08:46 2018 -0400
+
+    add style page
+
+[33mcommit 4c92ec605460288cffc932b41f111f50a22c5b25[m
+Author: rfuller4468 <rfuller4468@gmail.com>
+Date:   Sat Oct 20 19:08:22 2018 -0400
+
+    add advice
+
+[33mcommit 1dd9b3013253b88e9f79b181869f0e09594644f7[m
+Author: rfuller4468 <rfuller4468@gmail.com>
+Date:   Sat Oct 20 19:07:32 2018 -0400
+
+    add link to list to my advice
+
+[33mcommit 758a864fddd622b40e432337a82de7d7cd2e839d[m
+Author: eric.pinero <ericpinero@gmail.com>
+Date:   Sat Oct 20 17:21:45 2018 -0400
+
+    inserted my name and change paragraph font
+
+[33mcommit 0d3590e307570e4d2b300d9edd8cf3f4c2e01a5f[m
+Author: Ju <blanchettejulie9@gmail.com>
+Date:   Fri Oct 19 16:25:24 2018 -0400
+
+    natalie-advice-fix
+
+[33mcommit fc11d8d50734a384e95aa6cb190e04764463aad4[m
+Merge: 1f20e45 0be891d
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Oct 19 16:04:11 2018 -0400
+
+    Merge pull request #45 from kristingrigsby/modifications
+    
+    kristin grigsby's advice
+
+[33mcommit 0be891db6148b8cfeb892d411bb5daff68c477a7[m
+Merge: 38444a1 1f20e45
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Fri Oct 19 16:04:03 2018 -0400
+
+    Merge branch 'master' into modifications
+
+[33mcommit c024584d977ea81cd172631c2722229f4f503e62[m
+Author: Molly Golden <mollybsgolden@gmail.com>
+Date:   Thu Oct 18 08:32:17 2018 -0800
+
+    adding .gitignore
+
+[33mcommit 38444a1bf875123f60d997635c536d864ad730a1[m
+Author: Kristin Grigsby <kristingrigsby@yahoo.com>
+Date:   Thu Oct 18 10:03:15 2018 -0400
+
+    adding kristin's advice link to index.html
+
+[33mcommit 1f20e4531fa05bd2dd823da947264733c1b91f80[m
+Merge: 40de83a 8e4767e
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 18 06:58:28 2018 -0600
+
+    Merge pull request #41 from TinaJuren/master
+    
+    Add Tina Jurén's advice
+
+[33mcommit 8e4767ed050b8bb3b8997e9734d57d9e292d7ffa[m
+Merge: b3f590e 40de83a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 18 06:58:00 2018 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 40de83a386e1fd480bd0bb6dab2805a93590ce8a[m
+Merge: fb45a41 7bdea36
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 18 06:55:39 2018 -0600
+
+    Merge pull request #38 from UnsweetT/experiments
+    
+    Personalized html and css files
+
+[33mcommit 7bdea3627295a5fb4019cadeb2514faa7ea7f352[m
+Merge: 24486b7 fb45a41
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 18 06:55:11 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit fb45a41d9b7d505c5d8c9c84e07a01f599921cf1[m
+Merge: 13c4b6f 5d32fb6
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 18 06:53:11 2018 -0600
+
+    Merge pull request #36 from kscali/skillcrush-branch
+    
+    added koy's advice page
+
+[33mcommit 5d32fb6413f310f7ca32703f67f0fc04b09f4a13[m
+Merge: 2e8de0d 13c4b6f
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 18 06:52:39 2018 -0600
+
+    Merge branch 'master' into skillcrush-branch
+
+[33mcommit b3f590e2bd29fe4e18850b312c037eb3f3522e86[m
+Author: Tina <tina.juren@gmail.com>
+Date:   Thu Oct 18 13:47:16 2018 +0200
+
+    added a link to my advice page in index.html
+
+[33mcommit 4b84c0166e273f2e4fbebbb0405d42191cebbec9[m
+Author: Molly Golden <mollybsgolden@gmail.com>
+Date:   Wed Oct 17 20:36:31 2018 -0800
+
+    remove .gitignore
+
+[33mcommit 73ecfc9cb915dd9cbffff3593f522f81cf0bbf8a[m
+Author: Redheaded Coder <sgrundner999@gmail.com>
+Date:   Thu Oct 18 00:15:17 2018 -0400
+
+    remove image folder and contents
+
+[33mcommit 0e821855fba5cf5c542375fc6a35b689ebf2f64e[m
+Author: Redheaded Coder <sgrundner999@gmail.com>
+Date:   Thu Oct 18 00:09:39 2018 -0400
+
+    remove image folder and contents
+
+[33mcommit 2e8de0de3ddb2afd9215ad728f72ee3a38e92982[m
+Author: Koychian Saeteurn <kosatun@aol.com>
+Date:   Wed Oct 17 20:48:31 2018 -0700
+
+    deleted image folder in advice folder
+
+[33mcommit 24486b76ce1b3c2b7460f3934d10292085e04dfe[m
+Author: Nancy T <taylortots@bellsouth.net>
+Date:   Wed Oct 17 22:27:49 2018 -0400
+
+    Corrected index.html name
+
+[33mcommit 13c4b6ff52cbfb3a3bc096b9f7890ed9c8542986[m
+Merge: a2fab47 6c3a90a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 17 18:55:31 2018 -0600
+
+    Merge pull request #46 from mbranem2/advice
+    
+    quote and style
+
+[33mcommit 6c3a90afc9f9b05fb612611668d95c22fe4a36a8[m
+Merge: 231860d a2fab47
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 17 18:54:58 2018 -0600
+
+    Merge branch 'master' into advice
+
+[33mcommit 231860d3037bf7af28970c5462cb3ba2171cab77[m
+Author: MB <mm.lawson81@gmail.com>
+Date:   Wed Oct 17 20:40:21 2018 -0400
+
+    add link
+
+[33mcommit 02da07f7d18d7bbe48efef35923e9f784fbb23c4[m
+Author: Molly Golden <mollybsgolden@gmail.com>
+Date:   Wed Oct 17 14:35:45 2018 -0800
+
+    added my link  to index.html
+
+[33mcommit 65512942f88224892b6e76eaf996bdfb54a4712f[m
+Author: Nancy T <taylortots@bellsouth.net>
+Date:   Wed Oct 17 17:53:28 2018 -0400
+
+    Remaned index.html
+
+[33mcommit a2fab473b205107065a3fea1407c2857bfd806bf[m
+Merge: 5d31fde 30d29eb
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 17 15:39:05 2018 -0600
+
+    Merge pull request #48 from indigo28/experiments
+    
+    Experiments
+
+[33mcommit 30d29eb706e3253d5f5db0a0f505555bbd0f39ab[m
+Merge: c950be9 5d31fde
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 17 15:38:42 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit 5d31fde3f2b7cd89eea671582b3db872c67b89ee[m
+Merge: 419759b 5fdd96e
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 17 15:32:16 2018 -0600
+
+    Merge pull request #44 from jamiesie/experiments
+    
+    Experiments
+
+[33mcommit 5fdd96eba481a2df0340d0076f39e66d6906e741[m
+Merge: 978f6a7 419759b
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 17 15:31:21 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit 419759bc94bc93f64647af0f41f00ed9c7ef7c0c[m
+Merge: 406031f 828caf5
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 17 15:25:08 2018 -0600
+
+    Merge pull request #40 from wesleythedu/practice
+    
+    first pull request
+
+[33mcommit 828caf5013b833add15d4c400999b2792b1b9a87[m
+Merge: 8fdb2f3 406031f
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 17 15:24:33 2018 -0600
+
+    Merge branch 'master' into practice
+
+[33mcommit 1522b28f0cd17a8e318a6939dbaa7ca74f1890e0[m
+Author: Koychian Saeteurn <kosatun@aol.com>
+Date:   Wed Oct 17 12:47:21 2018 -0700
+
+    changed index.html again
+
+[33mcommit f81b8e3f4ca32f9d32ae6ba970b62c4caa2711e8[m
+Merge: 183958d 406031f
+Author: sabrina <37672999+shoeke@users.noreply.github.com>
+Date:   Wed Oct 17 12:11:58 2018 -0700
+
+    Merge branch 'master' into playaround
+
+[33mcommit 183958d1d92c1c3d1f6b173aecfa4e09d478800a[m
+Author: sabrina <hoekehouse@gmail.com>
+Date:   Wed Oct 17 11:12:15 2018 -0700
+
+    add SH advice files
+
+[33mcommit ee903a29261c7fd76eddbade4738460d3a3833a0[m
+Author: Molly Golden <mollybsgolden@gmail.com>
+Date:   Wed Oct 17 08:24:57 2018 -0800
+
+    created 105-project HTML and CSS files
+
+[33mcommit c950be9f35c61a52725adc2e97409688191991d1[m
+Author: Gypsy <jpalmerton@gmail.com>
+Date:   Wed Oct 17 11:28:00 2018 -0400
+
+    added Jenn css
+
+[33mcommit 6543f670ba330e83fffab46ea68f7bfe023f1f72[m
+Author: Gypsy <jpalmerton@gmail.com>
+Date:   Wed Oct 17 11:27:21 2018 -0400
+
+    added Jenn to index
+
+[33mcommit 053f17c7a3677def9664c2a06c97b1025c7873b6[m
+Author: Gypsy <jpalmerton@gmail.com>
+Date:   Wed Oct 17 11:26:23 2018 -0400
+
+    added Jenn advice
+
+[33mcommit 60bde4c430e87ac5b9530acfee9606cf023f3d8e[m
+Author: Tina <tina.juren@gmail.com>
+Date:   Wed Oct 17 10:11:01 2018 +0200
+
+    added a link to the advice page
+
+[33mcommit e31768326646e76d0289df8c8422296d7827ab2d[m
+Merge: 00d5731 406031f
+Author: Redheaded Coder <sgrundner999@gmail.com>
+Date:   Tue Oct 16 23:57:15 2018 -0400
+
+    bringing up to date with the master
+
+[33mcommit 00d57318108c944f7c8bad2354f0e5d103cfc6b8[m
+Author: Redheaded Coder <sgrundner999@gmail.com>
+Date:   Tue Oct 16 19:58:50 2018 -0400
+
+    add my link to index.html
+
+[33mcommit 567bf4d573ba0a28ad1d0a1b337a099b552e34be[m
+Author: Redheaded Coder <sgrundner999@gmail.com>
+Date:   Tue Oct 16 19:56:25 2018 -0400
+
+    Adding my html page to Skillcrush Git project
+
+[33mcommit 1f9fe9eaf82c0cde6681cd40dd1dbc44b7999123[m
+Author: MB <mm.lawson81@gmail.com>
+Date:   Tue Oct 16 19:36:39 2018 -0400
+
+    quote and style
+
+[33mcommit a06254953501cdcd74e2ce3d6d72230a1f134223[m
+Author: Kristin Grigsby <kristingrigsby@yahoo.com>
+Date:   Tue Oct 16 15:57:13 2018 -0400
+
+    kristin grigsby's advice
+
+[33mcommit 4d71e961049ff7b0e5127d0d727c317ce3393879[m
+Author: Nancy T <taylortots@bellsouth.net>
+Date:   Tue Oct 16 15:00:24 2018 -0400
+
+    renamed index.html to correct name
+
+[33mcommit 8fdb2f348f254a573d37597ec54691beaa143196[m
+Author: wesleytdu <wesleythedu@gmail.com>
+Date:   Tue Oct 16 13:49:37 2018 -0400
+
+    linked advice to html
+
+[33mcommit 978f6a78a5a8127de6c081add7e2866ed4d2b620[m
+Author: jamiesie <jamiesiebens@gmail.com>
+Date:   Tue Oct 16 12:35:19 2018 -0500
+
+    Linked advice file to main index
+
+[33mcommit 8c581715dbba586a80e2490188dcd0692e3c7562[m
+Author: jamiesie <jamiesiebens@gmail.com>
+Date:   Tue Oct 16 12:17:42 2018 -0500
+
+    `
+
+[33mcommit 406031f8358582703ebee7bec4f3d6fb6d7a5ab5[m
+Merge: 74e4fad ac78f88
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:59:01 2018 -0600
+
+    Merge pull request #43 from AdrianneKu/adriannekadvice
+    
+    Adriannekadvice
+
+[33mcommit ac78f88f83a4afe7a65403c3a270e4de9f71b1a4[m
+Merge: 0faf331 74e4fad
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:57:47 2018 -0600
+
+    Merge branch 'master' into adriannekadvice
+
+[33mcommit 74e4fad0a8adc5e3fba8f12157fe71463acbe1d2[m
+Merge: 691d346 eb544fc
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:46:21 2018 -0600
+
+    Merge pull request #42 from nutmeg11/stuart-advice
+    
+    added stuartgee advice page
+
+[33mcommit eb544fc63c38304d1779c84620e13a95265cf8b9[m
+Merge: 61a1515 691d346
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:45:19 2018 -0600
+
+    Merge branch 'master' into stuart-advice
+
+[33mcommit 691d346ba1b82877036ce6ea1d292c54a12f2081[m
+Merge: d178f38 d8ab9dc
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:42:30 2018 -0600
+
+    Merge pull request #39 from AubreyLovesLife/aubreysadvice
+    
+    Aubreys Advice html and css
+
+[33mcommit d8ab9dc7454dfa7e1b56e7a3be51cdf793969897[m
+Merge: b206087 d178f38
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:42:07 2018 -0600
+
+    Merge branch 'master' into aubreysadvice
+
+[33mcommit d178f38d369a376e1540ddcf59654d01a2aaaa56[m
+Merge: 12292ee 68afe2b
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:40:04 2018 -0600
+
+    Merge pull request #37 from Treenka/experiment-105
+    
+    Experiment 105
+
+[33mcommit 12292eebf9499e198041fac224d7b077c27c8fb6[m
+Merge: 33461cc 1a87911
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:33:07 2018 -0600
+
+    Merge pull request #18 from kimbermoulton/kimberedit
+    
+    advice contribution
+
+[33mcommit 1a87911d462ebdf18fb56687159076070e751fa8[m
+Merge: 3bf74c5 33461cc
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Oct 16 06:32:30 2018 -0600
+
+    Merge branch 'master' into kimberedit
+
+[33mcommit 0faf3318089019998b2f4a9bc263ae3f18ebdf9f[m
+Author: AdrianneKu <adrianne@adriannekuczynski.me>
+Date:   Tue Oct 16 07:17:08 2018 -0500
+
+    corrected path to css file
+
+[33mcommit 61a15150dc0faabf92271c7a4e59f423a4c12f58[m
+Author: nutmeg11 <stu990@gmail.com>
+Date:   Tue Oct 16 21:22:27 2018 +1000
+
+    added stuartgee advice page
+
+[33mcommit 7ae6a5712b65baf1cd82c696d3fea092666b8e28[m
+Author: wesleytdu <wesleythedu@gmail.com>
+Date:   Mon Oct 15 23:57:52 2018 -0400
+
+    added css
+
+[33mcommit 0ea249ae009121a0df9409efa2c0dc4ef515b826[m
+Author: AdrianneKu <adrianne@adriannekuczynski.me>
+Date:   Mon Oct 15 21:50:09 2018 -0500
+
+    created my advice html and css - updated index.html
+
+[33mcommit b206087c31a4b5f1fe4441b62175bcfb7176fe20[m
+Author: AubreyCodes <aubreypacker5@gmail.com>
+Date:   Mon Oct 15 16:44:19 2018 -0700
+
+    Aubreys Advice html and css
+
+[33mcommit 63dda7d04b4d1d01e0e673abfd86a4fd6ce9fce6[m
+Merge: 0c65ad9 1cc527d
+Author: Ju <blanchettejulie9@gmail.com>
+Date:   Mon Oct 15 14:13:10 2018 -0400
+
+    cleaned up project
+
+[33mcommit 39c28591f1789b13dc8f0a7db8fbb22f002b1c7f[m
+Author: Nancy T <taylortots@bellsouth.net>
+Date:   Mon Oct 15 11:23:23 2018 -0400
+
+    Personalized html and css files
+
+[33mcommit 3d3d56b903ffc1a49b09f54d3d80d6af91988f01[m
+Merge: 7610aef 33461cc
+Author: Tina <tina.juren@gmail.com>
+Date:   Mon Oct 15 10:06:19 2018 +0200
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 7610aef4046a2b7e5a9c411fb85f1c9cc87694d4[m
+Merge: 1a58432 16a18fa
+Author: Tina <tina.juren@gmail.com>
+Date:   Mon Oct 15 09:46:35 2018 +0200
+
+    fixed merge conflict
+
+[33mcommit 8c10264d77c2f737a5f0b322e4d69c4bee87cac0[m
+Author: Koychian Saeteurn <kosatun@aol.com>
+Date:   Sun Oct 14 22:42:12 2018 -0700
+
+    making anothe commit
+
+[33mcommit d6af7ea4385048b4be2a073cb643b0706200ef31[m
+Author: Koychian Saeteurn <kosatun@aol.com>
+Date:   Sun Oct 14 22:39:49 2018 -0700
+
+    changed index.html, removed css and image
+
+[33mcommit 3bf74c57afa813a103a816e2098093cff02ad7c7[m
+Author: Kimber <kimberlya.moulton@gmail.com>
+Date:   Sun Oct 14 15:44:05 2018 -0400
+
+    advice link
+
+[33mcommit 68afe2b420ba933ee437ef1a11d4a8a6c7846be3[m
+Author: Treenka <kjumper26@gmail.com>
+Date:   Sun Oct 14 09:30:53 2018 -0700
+
+    fixed css link
+
+[33mcommit 03a9e8f7ab1df5687694f90df4817ff52c8bb600[m
+Author: Treenka <kjumper26@gmail.com>
+Date:   Sun Oct 14 09:15:16 2018 -0700
+
+    I added a stylesheet and a link on the main page
+
+[33mcommit 16a18faf9af71a48d61048973f8cb8e2384b836a[m
+Author: Tina <tina.juren@gmail.com>
+Date:   Sun Oct 14 17:40:43 2018 +0200
+
+    edited my advice page
+
+[33mcommit 1a5843290135fd11a51de708e9e9ac398c74e611[m
+Author: Tina <tina.juren@gmail.com>
+Date:   Sun Oct 14 14:55:28 2018 +0200
+
+    created my advice page
+
+[33mcommit e6e779dbf0c0ab2632f07ea7ad85335c39be8eb5[m
+Author: Treenka <kjumper26@gmail.com>
+Date:   Sat Oct 13 11:07:26 2018 -0700
+
+    tried out color for background but went back to original
+
+[33mcommit 19021292a6855cda909e6f5e97dfbbd887abd5f1[m
+Author: Koychian Saeteurn <kosatun@aol.com>
+Date:   Fri Oct 12 19:27:33 2018 -0700
+
+    made changes
+
+[33mcommit b63a71e016e9134638f78be467939d8934242d07[m
+Author: Koychian Saeteurn <kosatun@aol.com>
+Date:   Fri Oct 12 19:18:12 2018 -0700
+
+    commiting changes
+
+[33mcommit 97136e0fb38f30d7e11b385b72e5350bd24ff819[m
+Author: Koychian Saeteurn <kosatun@aol.com>
+Date:   Fri Oct 12 19:04:08 2018 -0700
+
+    added css to index.html
+
+[33mcommit 8f5e065b71e833ed7b15e72ef63d5833ac924774[m
+Author: Koychian Saeteurn <kosatun@aol.com>
+Date:   Thu Oct 11 23:38:13 2018 -0700
+
+    added koy's advice page
+
+[33mcommit eb68d4583f00d651a5eb0f675ecf758d40a40bd1[m
+Author: Treenka <kjumper26@gmail.com>
+Date:   Thu Oct 11 19:37:38 2018 -0700
+
+    my advice page
+
+[33mcommit 33461cc1ba078b219a842b4a0ef4f233911f0e5f[m
+Merge: af0d1c9 233840e
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 10 17:36:11 2018 -0600
+
+    Merge pull request #33 from sana-ar/experiment
+    
+    sana advice
+
+[33mcommit 233840ec12773b9f899b8c2bc90411774d5fa06a[m
+Merge: 002d207 af0d1c9
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 10 17:36:02 2018 -0600
+
+    Merge branch 'master' into experiment
+
+[33mcommit 002d207c778c17d1a0cd0d49322f281f79fff3ce[m
+Author: sana.ar <sana.ar14@gmail.com>
+Date:   Wed Oct 10 14:39:52 2018 -0700
+
+    added link to my advice page in the index.html file
+
+[33mcommit af0d1c9a8d4211bc65cc74bb6faa9dc3301cb8ca[m
+Merge: 70cc68f e6f2016
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 10 13:54:46 2018 -0600
+
+    Merge pull request #34 from Shelivesinthestars/myhtmlpage
+    
+    Created Amber's advice project, also added link to index.html
+
+[33mcommit 70cc68fcf6e5676e354398538818964333142d63[m
+Merge: 1cc527d ce8f61e
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 10 13:53:20 2018 -0600
+
+    Merge pull request #32 from toast-1583/experiments
+    
+    Experiments
+
+[33mcommit ce8f61e81138faad642d846ebd0685573820dbfe[m
+Merge: 11c2f03 1cc527d
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Wed Oct 10 13:52:50 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit 0c65ad91f9bb200ebfdea8edc3fb7611e4b2ac2f[m
+Author: Ju <blanchettejulie9@gmail.com>
+Date:   Wed Oct 10 14:35:35 2018 -0400
+
+    color
+
+[33mcommit e6f2016a93bc42163e63dd4b7f70453096228ad6[m
+Author: SheLivesInTheStars <amberrutledge1990@gmail.com>
+Date:   Wed Oct 10 03:24:06 2018 -0700
+
+    Created Amber's advice project, also added link to index.html
+
+[33mcommit 11c2f03e79f510fc22eefb5cd238727eaa158aab[m
+Author: Lori <tomasaloriann@gmail.com>
+Date:   Tue Oct 9 15:37:26 2018 -0700
+
+    new file lori advice, added lori advice
+
+[33mcommit 0562573609bab707fb219bc821881cc4830fac87[m
+Author: Lori <tomasaloriann@gmail.com>
+Date:   Tue Oct 9 15:17:44 2018 -0700
+
+    create lori's css sheet
+
+[33mcommit 1cc527de142ae4357f6887964faa20e80e1dbac7[m
+Merge: b12e849 3361b4d
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Tue Oct 9 10:36:54 2018 -0400
+
+    Merge github.com:rstootalow/105-practice
+
+[33mcommit b12e84967b8d078e5fc8acab471119eb728ba1c9[m
+Merge: bae36eb a44d163
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Oct 9 10:30:53 2018 -0400
+
+    Merge pull request #31 from soumya888/advice
+    
+    Added Soumya's advice page
+
+[33mcommit a44d1632d6fa4384183866e48e8c4c82c9f382ad[m
+Author: Soumya <soumya_888@yahoo.com>
+Date:   Tue Oct 9 13:41:02 2018 +0530
+
+    Added Soumya's advice page
+
+[33mcommit 3361b4d332465fc75cad86e8b904a0cd55a9e12b[m
+Author: rstootalow <richardtutalo@gmail.com>
+Date:   Mon Oct 8 22:07:50 2018 -0600
+
+    added link to advice to main page.
+
+[33mcommit 05edc5e830a411fc20568b64a50c9b4a776d72d5[m
+Merge: a9e328d bae36eb
+Author: sana.ar <sana.ar14@gmail.com>
+Date:   Mon Oct 8 18:22:58 2018 -0700
+
+    Merge branch 'master' into experiment
+
+[33mcommit bae36eba597b84298b534ab41149f85799b6d32f[m
+Merge: 425359a 8653250
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 8 15:50:53 2018 -0600
+
+    Merge pull request #30 from WSSukserm/snow-advice-branch
+    
+    Add Snow's Advice
+
+[33mcommit 865325023d1d0edd1445692499d37633a342f3fb[m
+Merge: 0e2ebe7 425359a
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 8 15:50:30 2018 -0600
+
+    Merge branch 'master' into snow-advice-branch
+
+[33mcommit 0e2ebe7517f018b76b5db023515385a28588d851[m
+Author: Snow Sukserm <ssukserm10@aol.com>
+Date:   Mon Oct 8 17:40:27 2018 -0400
+
+    added link to Snow's advice page to index.html file
+
+[33mcommit 425359a3848e028a41f768e503754e44088c12ce[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Mon Oct 8 14:31:49 2018 -0600
+
+    Move advice file to correct folder
+
+[33mcommit 36bc28fb69d5e72d7dbdd8af3277207293c99875[m
+Author: Snow Sukserm <ssukserm10@aol.com>
+Date:   Mon Oct 8 16:30:31 2018 -0400
+
+    Created Snow's Advice for Newbies
+
+[33mcommit 6d19f2d8e5f8e054c84f6fe318fac03cf04a49cf[m
+Merge: f5491f0 e52fffe
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 8 14:29:47 2018 -0600
+
+    Merge pull request #29 from mctechmedtech/master
+    
+    minor punctuation change in body
+
+[33mcommit f5491f0d56b5c104bbea04c7e06faf19a5e8982a[m
+Merge: 825ea7a 1063125
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 8 14:25:41 2018 -0600
+
+    Merge pull request #27 from varlese/experiments
+    
+    Add Erica's Advice
+
+[33mcommit 825ea7a0899844919d65f0392e6b4cfa9d20ce23[m
+Merge: 8be4b3c dd9f886
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 8 14:23:13 2018 -0600
+
+    Merge pull request #22 from CatA810/experiments
+    
+    First draft html and css for my advice page - project 105
+
+[33mcommit dd9f8864274ba9cd71bb179d22567777fef5cd19[m
+Merge: 7573cda 8be4b3c
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Mon Oct 8 14:23:02 2018 -0600
+
+    Merge branch 'master' into experiments
+
+[33mcommit e52fffe9bc4c50678ccd8a84af078b68ec714559[m
+Author: mcshanekay <mcshanekay@gmail.com>
+Date:   Mon Oct 8 12:28:26 2018 -0400
+
+    minor punctuation change in body
+
+[33mcommit 106312585b4b13e59abec68c418bdb8c1429649e[m
+Author: Varlese <1361760+varlese@users.noreply.github.com>
+Date:   Sun Oct 7 11:19:00 2018 -0400
+
+    Adding link to the index.html page
+
+[33mcommit 74953fad9536e311f617c072281c408afb915ece[m
+Author: Varlese <1361760+varlese@users.noreply.github.com>
+Date:   Sun Oct 7 11:18:39 2018 -0400
+
+    Creating the page and styles for Erica's advice page
+
+[33mcommit 7573cda1fa869b17e3e28458f779e32b4379b4e4[m
+Author: CatA <catrionaaylwin@gmail.com>
+Date:   Sun Oct 7 10:48:11 2018 +0100
+
+    my advice to main index.html file
+
+[33mcommit 8be4b3cb0f921f4f7079c914ff2b30f53fa066d6[m
+Merge: 17bedd8 27f70db
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Oct 6 21:58:35 2018 -0400
+
+    Merge pull request #26 from TerriesDesk/tsw-advice
+    
+    TSW Advice
+
+[33mcommit 27f70db3e40c66fab305475c77b7f8309e826be7[m
+Merge: 9e659b5 17bedd8
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Oct 6 21:58:28 2018 -0400
+
+    Merge branch 'master' into tsw-advice
+
+[33mcommit 17bedd8962039d7c780f309960b7425ab3cba0df[m
+Merge: d82e5c4 b65d900
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Oct 6 21:55:46 2018 -0400
+
+    Merge pull request #23 from ajohns10/advice
+    
+    Advice
+
+[33mcommit b65d9003fa99c356fc793385e88e4a11b2254dee[m
+Merge: 739c858 d82e5c4
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Oct 6 21:54:59 2018 -0400
+
+    Merge branch 'master' into advice
+
+[33mcommit d82e5c450ef5b1ee3b3ca98be41ead5dfcc381a5[m
+Merge: 78cc5ed d74a97e
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Oct 6 21:52:26 2018 -0400
+
+    Merge pull request #21 from d0bie/20181005-SR
+    
+    20181005 sr
+
+[33mcommit 78cc5edb1857de7f8bb3854bce29f1f07873c472[m
+Merge: 4769527 ad22011
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Oct 6 21:51:26 2018 -0400
+
+    Merge pull request #20 from johngrebetz/experimental
+    
+    john advice and css addon
+
+[33mcommit ad220111b371cf639b13b795a87406c5567ef9a4[m
+Merge: 1b2be5e 4769527
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Sat Oct 6 21:51:14 2018 -0400
+
+    Merge branch 'master' into experimental
+
+[33mcommit 9e659b5f6ca13dcbff948dc3ce88b905e46f711b[m
+Author: TerriesDesk <terrie@terriesdesk>
+Date:   Sat Oct 6 20:31:04 2018 -0400
+
+    Added link to tsw-advice to main page
+
+[33mcommit 03d4ede41fbfd0643c4404b4f6facfd95c228639[m
+Author: TerriesDesk <terrie@terriesdesk>
+Date:   Sat Oct 6 20:28:11 2018 -0400
+
+    Added color, icons, and fonts
+
+[33mcommit a6136380771191dc92c3ed3f398fffdd2676227a[m
+Author: TerriesDesk <terrie@terriesdesk>
+Date:   Sat Oct 6 17:12:27 2018 -0400
+
+    Content added
+
+[33mcommit 092f69afee4e450ebff0c6e8eee1df0be7aeebfc[m
+Author: rstootalow <richardtutalo@gmail.com>
+Date:   Sat Oct 6 13:40:18 2018 -0600
+
+    changed the title and fixed anchor alightment.
+
+[33mcommit 3c6dcabfbd9679095c7130a990c5b0470e263d27[m
+Merge: baaf379 4769527
+Author: rstootalow <richardtutalo@gmail.com>
+Date:   Sat Oct 6 12:45:50 2018 -0600
+
+    merge upstream/master with master branch.
+
+[33mcommit 1a1ae51755e2f71f88ab6d7ae90dc9d586699167[m
+Author: TerriesDesk <terrie@terriesdesk>
+Date:   Sat Oct 6 13:44:02 2018 -0400
+
+    Blank slate
+
+[33mcommit baaf379de0f93809e8925887773f9a66b68d1df9[m
+Author: rstootalow <richardtutalo@gmail.com>
+Date:   Sat Oct 6 11:14:15 2018 -0600
+
+    added advice and made general layout styles in css.
+
+[33mcommit 739c8587c19b24f9a12496632f3ec6c4c531d544[m
+Author: Ashley <ajohns10@mail.usf.edu>
+Date:   Sat Oct 6 11:27:15 2018 -0500
+
+    Created css file and styled advice page
+
+[33mcommit 621695124da73ac03f4df727f65c23098e6c41d6[m
+Author: Ashley <ajohns10@mail.usf.edu>
+Date:   Sat Oct 6 11:25:15 2018 -0500
+
+    Created html advice page
+
+[33mcommit b38d49be9f19509457cbe090179064b683db6d6c[m
+Author: Ashley <ajohns10@mail.usf.edu>
+Date:   Sat Oct 6 11:22:55 2018 -0500
+
+    Added a link to file to connect my advice page
+
+[33mcommit 9b47dda64eba338910f54b5c1b5a17ce21915112[m
+Author: CatA <catrionaaylwin@gmail.com>
+Date:   Sat Oct 6 15:16:22 2018 +0100
+
+    First draft html and css for my advice page - project 105
+
+[33mcommit a9e328dc29c1bcd5ebcf40566b372f8bdbc7d295[m
+Author: sana.ar <sana.ar14@gmail.com>
+Date:   Fri Oct 5 23:07:11 2018 -0700
+
+    sana advice
+
+[33mcommit 5224bfc1850e2b3142c7484265a1a3c3a0e5766c[m
+Author: rstootalow <richardtutalo@gmail.com>
+Date:   Fri Oct 5 22:08:15 2018 -0600
+
+    finished htmll and added css file with default styles.
+
+[33mcommit d74a97edc68f44c086bfd3a6b2cf84722670465c[m
+Author: d0bie <sean.rosellini@icloud.com>
+Date:   Fri Oct 5 20:56:54 2018 -0700
+
+    updated sean's advice
+
+[33mcommit abb9ac67e76b7e4d8238a85a25a8d753a72f3643[m
+Author: d0bie <sean.rosellini@icloud.com>
+Date:   Fri Oct 5 20:51:14 2018 -0700
+
+    updated link on sean's advice
+
+[33mcommit 501119103536afea9702ef34875bdd62b0822941[m
+Author: d0bie <sean.rosellini@icloud.com>
+Date:   Fri Oct 5 20:30:09 2018 -0700
+
+    updated sean's advice link
+
+[33mcommit b4cdf5f18d45f604e3144bc3cdfc020dee824a9c[m
+Author: d0bie <sean.rosellini@icloud.com>
+Date:   Fri Oct 5 20:21:27 2018 -0700
+
+    updated sean's advice link
+
+[33mcommit de04d2deff3ec1d4681c6b2d4750816a1421a9a0[m
+Author: d0bie <sean.rosellini@icloud.com>
+Date:   Thu Oct 4 21:01:17 2018 -0700
+
+    seanr-advice1
+
+[33mcommit 1aa9cac107e79fc7f3b57b974299739dd48b78ab[m
+Author: d0bie <sean.rosellini@icloud.com>
+Date:   Thu Oct 4 20:57:34 2018 -0700
+
+    seanr-advice1
+
+[33mcommit 1b2be5e56a7738eceaf864dd29478fd1dd374947[m
+Author: johngrebetz <johngrebetz@yahoo.com>
+Date:   Thu Oct 4 16:27:54 2018 -0700
+
+    john advice and css addon
+
+[33mcommit fbb1993b11b3a4a908e3f6f95aae8e25db9d0b02[m
+Merge: ba6e4e4 4769527
+Author: Kimber <kimberlya.moulton@gmail.com>
+Date:   Thu Oct 4 17:30:42 2018 -0400
+
+    Merge branch 'master' into kimberedit
+
+[33mcommit ba6e4e4a40afae07438cbc2eefa73d8b5232240b[m
+Author: Kimber <kimberlya.moulton@gmail.com>
+Date:   Thu Oct 4 17:28:59 2018 -0400
+
+    link added to index
+
+[33mcommit 4769527171cba8a31c1a863288acf558a844289b[m
+Merge: 2851f7b 345eab5
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 4 15:06:07 2018 -0600
+
+    Merge pull request #17 from vkomova/edits
+    
+    Edits
+
+[33mcommit 345eab51b93f594866f0a7ce45f5e3dbd9ea194f[m
+Merge: 6a147bc 2851f7b
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 4 15:05:20 2018 -0600
+
+    Merge branch 'master' into edits
+
+[33mcommit d1e676656cf5f1bc5026513c3a42a0c22744da03[m
+Merge: 3b70bda 2851f7b
+Author: Kimber <kimberlya.moulton@gmail.com>
+Date:   Thu Oct 4 16:24:16 2018 -0400
+
+    Merge branch 'master' into kimberedit
+
+[33mcommit 3b70bda67d9ff59bc4856e2cb77fb258ec6179e6[m
+Author: Kimber <kimberlya.moulton@gmail.com>
+Date:   Thu Oct 4 13:56:45 2018 -0400
+
+    advice contribution
+
+[33mcommit 6a147bc2a310c8f616d8f83008366ac289c96f1b[m
+Author: Valerie Komova <valeriyakomova@gmail.com>
+Date:   Thu Oct 4 10:48:01 2018 -0700
+
+    added link to my advice html file
+
+[33mcommit 2851f7b9825d4c6a2a796c64459ad12caf115983[m
+Merge: 61ff50c 7f45fc1
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 4 11:27:30 2018 -0600
+
+    Merge pull request #16 from mctechmedtech/experiment
+    
+    Experiment
+
+[33mcommit 7f45fc1b98c30a080b08b4cbb8e822926beccad3[m
+Merge: 973089c 61ff50c
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 4 11:27:02 2018 -0600
+
+    Merge branch 'master' into experiment
+
+[33mcommit 61ff50cc3fcd80af3d3adf3d3ebb1b4f2350727e[m
+Merge: 67fbeab 5116395
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Oct 4 11:26:14 2018 -0600
+
+    Merge pull request #15 from theronj60/therons-advice
+    
+    add therons advice pages
+
+[33mcommit 973089c663e25c37183d8e3372534032f56ec0da[m
+Author: mcshanekay <mcshanekay@gmail.com>
+Date:   Thu Oct 4 10:43:49 2018 -0400
+
+    corrected my file path on index.html
+
+[33mcommit cb5efbbde7cceff387c40aefac853517abdebee2[m
+Author: mcshanekay <mcshanekay@gmail.com>
+Date:   Thu Oct 4 10:33:33 2018 -0400
+
+    added link to my advice page
+
+[33mcommit 2b2ce8cd25b5647f5262de342bf4336eda41efc8[m
+Author: mcshanekay <mcshanekay@gmail.com>
+Date:   Thu Oct 4 10:13:29 2018 -0400
+
+    first commit to advice project
+
+[33mcommit 51163952a86f1d2ad5c6f4a5a51b5ae62c2dac0b[m
+Author: therj60 <theronj3560@hotmail.com>
+Date:   Thu Oct 4 00:46:47 2018 -0600
+
+    added my advice page to index.html
+
+[33mcommit c30dc1b6995a14225c2844a3b8ae8134a4ac50e6[m
+Author: therj60 <theronj3560@hotmail.com>
+Date:   Thu Oct 4 00:18:51 2018 -0600
+
+    added own html and css to main page
+
+[33mcommit e9de7d17c85337ee066e93e6d53b6bf4f9573c6f[m
+Author: Valerie Komova <valeriyakomova@gmail.com>
+Date:   Wed Oct 3 14:37:25 2018 -0700
+
+    CSS for My Advice
+
+[33mcommit f27b69f003dd90111c8269fe74c8e71c0d770269[m
+Author: Valerie Komova <valeriyakomova@gmail.com>
+Date:   Wed Oct 3 14:37:00 2018 -0700
+
+    My Advice YO
+
+[33mcommit 67fbeabee2964e0bfbc22f8510af79e7e58bfefd[m
+Merge: 4bbb888 6f2f876
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Wed Oct 3 11:53:30 2018 -0400
+
+    Merge pull request #14 from jpasdesign/experiments
+    
+    Jordan's Advice section
+
+[33mcommit 6f2f8769c5ed43ea52ab944d2b000dbfc537958b[m
+Merge: cb7b433 4bbb888
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Wed Oct 3 11:53:23 2018 -0400
+
+    Merge branch 'master' into experiments
+
+[33mcommit 4bbb8884b14356f0784697b489c811a68cc49332[m
+Merge: 36618ff 721e2b5
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Wed Oct 3 11:52:33 2018 -0400
+
+    Merge pull request #13 from nweichel/nweichel-advice
+    
+    Nweichel advice
+
+[33mcommit cb7b433307499ba555122babf1effe1c38cdde49[m
+Author: JPAS <jordan.pa.schultz@gmail.com>
+Date:   Tue Oct 2 17:29:30 2018 -0700
+
+    added Jordan's Advice section
+
+[33mcommit 721e2b502be47d4d9b9405afacf77342f377175b[m
+Author: Natalie Weichel <natalie.weichel@gmail.com>
+Date:   Tue Oct 2 16:52:41 2018 -0500
+
+    added new style sheet
+
+[33mcommit aeb1743d3730ec20c5c5c72a5925c5660c283436[m
+Author: Natalie Weichel <natalie.weichel@gmail.com>
+Date:   Tue Oct 2 16:51:47 2018 -0500
+
+    added new advice link
+
+[33mcommit 9aaeeb42b81e314d12c1dd37e274addad6438ca8[m
+Author: Natalie Weichel <natalie.weichel@gmail.com>
+Date:   Tue Oct 2 16:50:16 2018 -0500
+
+    added new page
+
+[33mcommit 36618ff2de57c5ea6d410bc9239f8f86e994d759[m
+Merge: fbd8ac9 9de5327
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Tue Oct 2 13:12:01 2018 -0400
+
+    Merge pull request #12 from taylorjtatro/taylorjtatro
+    
+    Taylorjtatro
+
+[33mcommit 9de5327dd70943ca7db5ed8adfa36b83225d3527[m
+Author: taylorjtatro <taylorjtatro@gmail.com>
+Date:   Mon Oct 1 22:46:25 2018 -0700
+
+    try this again
+
+[33mcommit feaa8d8f93d98b0085a221697f0c5b7922c98240[m
+Author: taylorjtatro <taylorjtatro@gmail.com>
+Date:   Mon Oct 1 22:33:17 2018 -0700
+
+    taylor tatros added advice page
+
+[33mcommit fbd8ac987337f714993356c8d94d06d1779a000b[m
+Merge: 23c2980 78b4c79
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Oct 1 11:30:41 2018 -0400
+
+    Merge pull request #10 from GracieM/my-skillcrush-repo-branch
+    
+    Added advice.html, style.css and link in index.html for GracieM
+
+[33mcommit 78b4c79b74f70bed29d73bfec30d6ebc24b74dc1[m
+Merge: cb750d8 23c2980
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Oct 1 11:30:15 2018 -0400
+
+    Merge branch 'master' into my-skillcrush-repo-branch
+
+[33mcommit 23c2980096a985b96b0c40725aeecd889744b930[m
+Merge: 96ca462 164e968
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Oct 1 11:29:31 2018 -0400
+
+    Merge pull request #9 from kj0y/firstPush
+    
+    First push
+
+[33mcommit 164e9680e8ab35e7bd48032c4370ae23cc9cc8e8[m
+Merge: 8036a4e 96ca462
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Oct 1 11:29:23 2018 -0400
+
+    Merge branch 'master' into firstPush
+
+[33mcommit 96ca4622114075192e62ee78f5b5a1b7a69a7eaf[m
+Merge: 4984afe 5ed2913
+Author: Ann Cascarano <4411121+redrambles@users.noreply.github.com>
+Date:   Mon Oct 1 11:28:36 2018 -0400
+
+    Merge pull request #8 from keceq/advice2
+    
+    new advice html and css pages
+
+[33mcommit cb750d818b3b944c8d215e5f9181dd8147bcd2b1[m
+Author: GracieM <grace.and.lucy.nz@gmail.com>
+Date:   Mon Oct 1 21:05:57 2018 +1000
+
+    Added advice, css and link in index.html for GracieM
+
+[33mcommit 8036a4e8f8584810c1d50f40aaa7659cbfcd20fe[m
+Author: Kandis Flick <kandisflick@gmail.com>
+Date:   Sun Sep 30 18:46:33 2018 -0700
+
+    Add a link to my advice
+
+[33mcommit a887d78dc65b93c2afd8f67fe5b43b94505b2b52[m
+Author: Kandis Flick <kandisflick@gmail.com>
+Date:   Sun Sep 30 18:46:08 2018 -0700
+
+    Add my styling
+
+[33mcommit 9076859f4684f13e8706823daee3114c7245b262[m
+Author: Kandis Flick <kandisflick@gmail.com>
+Date:   Sun Sep 30 18:45:18 2018 -0700
+
+    Add my name to the file
+
+[33mcommit 5ed29134ffa84055b68c29bd284728599ef5c1a8[m
+Author: keceq <clark.kelly.e@gmail.com>
+Date:   Sat Sep 29 16:57:24 2018 -0600
+
+    new advice html and css pages
+
+[33mcommit 4984afe9a875bab53f4a35f7bc6e3f986d543d82[m
+Merge: 0c6bf1a f3c3c2e
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Sat Sep 29 07:39:18 2018 -0600
+
+    Merge pull request #5 from bledsoeci/105-practice
+    
+    changes to 105-practice
+
+[33mcommit 0c6bf1a0fd3fb80f680033fd06fcab0d31350771[m
+Merge: cb34fce aa7bf6c
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Thu Sep 27 20:18:05 2018 -0600
+
+    Merge pull request #6 from fferrell/working
+    
+    Add Fran's advice
+
+[33mcommit aa7bf6c0ce765e2f26168168ce906760aafeb035[m
+Author: Fran Ferrell <fran.ferrell@gmail.com>
+Date:   Thu Sep 27 18:47:49 2018 -0400
+
+    Add Fran's advice
+
+[33mcommit f3c3c2ecdce0dcae9c4727274078f1015a7b868e[m
+Author: bledsoeci <cbledsoe001@gmail.com>
+Date:   Wed Sep 26 19:49:53 2018 -0400
+
+    second modification to styles
+
+[33mcommit 6ba3dd85da9008034ceb1dc652fc82c57298ee3a[m
+Author: bledsoeci <cbledsoe001@gmail.com>
+Date:   Wed Sep 26 19:27:42 2018 -0400
+
+    changes to 105-practice
+
+[33mcommit cb34fce59eee56896cc294d680cf30ca9ab6b2fb[m
+Merge: 85145d6 37ef3c9
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Sep 25 18:16:03 2018 -0600
+
+    Merge pull request #2 from acodeinprogress/experiments
+    
+    Add Sharon's advice
+
+[33mcommit 37ef3c9d236a40d0e70abfbd4e88e94a18b695d3[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Tue Sep 25 18:15:19 2018 -0600
+
+    Fix CSS error
+
+[33mcommit 519186b64786b180cb049252de7519232a443b49[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Tue Sep 25 17:23:14 2018 -0600
+
+    Add Sharon's advice
+
+[33mcommit 85145d698fbcfdac3442cd71ea112561fbe43b14[m
+Merge: 29064e6 0916d31
+Author: Sharon <acodeinprogress@users.noreply.github.com>
+Date:   Tue Sep 25 08:40:33 2018 -0600
+
+    Merge pull request #1 from cristylk/cristyadvice
+    
+    CristyK's advice for new students
+
+[33mcommit 0916d31ed719906f799c704ba1e0e7985db0025b[m
+Author: Cristy Koebler <cristylk@users.noreply.github.com>
+Date:   Tue Sep 25 10:25:49 2018 -0400
+
+    Delete .DS_Store
+    
+    Delete .DS_Store
+
+[33mcommit 29064e69f6b9dd7259e6291069a2e46f66b81dd1[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Tue Sep 25 07:47:37 2018 -0600
+
+    Add .gitignore
+
+[33mcommit 58a45ac335194b8f587c160c7465285079c1adc3[m
+Author: cristylk <cristy.koebler@gmail.com>
+Date:   Mon Sep 24 12:45:13 2018 -0400
+
+    CristyK's advice for new students
+
+[33mcommit 662ef49b168bf4ad7eacd61884a4dc5a3e36e31f[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Fri Sep 21 20:42:36 2018 -0600
+
+    All initial files
+
+[33mcommit e2d6dfd2274c7af1da9275d04b99939e8ff7f91b[m
+Author: Sharon Siegel <sjsieg830@gmail.com>
+Date:   Fri Sep 21 18:45:31 2018 -0600
+
+    Adding starter files and folders
+
+[33mcommit 67ff31594ca742af1d69630f61de57f898223cd3[m
+Author: Ann Cascarano <a.cascarano@gmail.com>
+Date:   Fri Sep 21 17:27:32 2018 -0400
+
+    first commit
