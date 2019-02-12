@@ -1,0 +1,48 @@
+/***** Base Styles *****/
+
+body {
+  background-color: #eff280;
+  background-size: cover;
+  border-style: double;
+  border-width: 50px;
+  border-color:	darkslategray;
+  font-family: 'Montserrat', sans-serif;
+  height: 850px;
+  margin: 25px;
+  padding: 20px;
+  text-align: justify;
+  width: 1165px;
+}
+
+/***** Header *****/
+header h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+  font-weight: bolder;
+  line-height: 60px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+/***** Section *****/
+#Advice p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  margin-top: 30px;
+  text-align: justify;
+  word-spacing: 3px;
+}
+
+h4 {
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+/***** Footer *****/
+footer p{
+  font-size: 10px;
+  margin-top: 100px;
+}
