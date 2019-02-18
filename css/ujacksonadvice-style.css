@@ -1,8 +1,33 @@
+/*****Body****/
+
+body{
+	background-color: #CCAE14;
+}
+
+
+.advice{ width: auto;
+			padding: 25px;
+			
+
+}
 /******Header****/
 h1{ color: #5c8a8a;
 	font-family: 'Dancing Script', cursive;
+	text-align: center;
 
 }
- p {font-size: 25px;
 
- }
+p{
+	font-size: 15px;
+	color: #FF19C2;
+}
+
+h4{ font-family: font-family: 'Anton', sans-serif;
+    color: #5c8a8a;
+
+
+
+}
+footer p{
+	     text-align: center;
+}
