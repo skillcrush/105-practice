@@ -1,0 +1,60 @@
+/***** BASE STYLES *****/
+body{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+}
+
+
+
+/***** GRID *****/
+.full-width {
+	width: 100%;
+	margin: 0 auto;
+  	float: left;
+  	clear:both;
+}
+
+
+/***** HEADER *******/
+
+h1{
+	font-size: 80px;
+	text-align: center;
+	border-style: dotted;
+	border-color: #941b12;
+	margin: 50px 50px 0px 50px;
+  	padding: 0px 20px 0 20px;
+}
+
+
+header h1 span {
+	font-family: "Pacifico", cursive; 
+	font-size: 150px;
+    color: #ff8863;
+}
+
+
+/***** ADVICE *******/
+#Confusion, #Suspended{
+	 margin: 0px 50px 0px 50px;
+	 padding: 0 20px 0 20px;
+	 float: left;
+	 clear:both;
+}
+
+h4{
+	 background-color: #ff8863;
+	 font-size: 40px;
+	 font-weight: bold;
+	 color: #941b12; 
+	 padding:0 20px 0 20px;
+}
+
+
+/***** FOOTER *******/
+footer{
+	text-align: center;
+	font-weight: bold;
+	color:#ff8863;
+}
+
