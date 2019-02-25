@@ -1,0 +1,54 @@
+body {
+  width: 80%;
+  margin: auto;
+  padding-top: 10%;
+  background-color: #FBF5F3;
+}
+
+.container {
+  display: flex;
+  font-color: #0F0E0E;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+}
+
+h1 .hello {
+  font-style: italic;
+  font-size: 5rem;
+}
+
+a:link, a:visited {
+  background-color: #335B5A;
+  color: #FBF5F3;
+  padding: 14px 25px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25px;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #8DAA9D;
+}
+
+.advice {
+  padding-right: 10%;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.75rem;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.125rem;
+}
+
+footer p {
+  font-size: .5rem;
+}
