@@ -1,0 +1,21 @@
+.tstastny-advice {
+  text-align: center;
+  background-color: #eeeeee;
+  color: #233142;
+}
+.advice {
+  width: 40%;
+  display: block;
+  margin: auto;
+
+}
+.advice h4 {
+  color: #309286;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+.advice p {
+  font-family: sans-serif;
+  color: #77628c;
+}
