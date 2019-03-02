@@ -1,0 +1,42 @@
+section {
+	width: 800px;
+	margin: 100px auto;
+}
+section h1,
+section p {
+	text-align: center;
+	color: darkslategrey;
+}
+section h1 {
+	font: 32px 'Muli';
+	font-weight: bold;
+    text-align: inherit;
+}
+section p {
+	font: 20px 'Muli', sans-serif;
+}
+h1 {
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+    font-size: 34px;
+    darkslategrey;
+    }
+    
+ h4 {
+    font: 24px 'Pacifico', cursive;
+	font-weight: bold;
+    text-align: center;
+    color: purple;
+     border: 5px dotted plum;
+    }
+
+footer a {
+    color: purple;
+    font-size: 14pt;
+    text-decoration: none;
+    font-family: 'Pacifico', cursive;
+}
+
+footer a:hover {
+    color: rebeccapurple;}
+}
