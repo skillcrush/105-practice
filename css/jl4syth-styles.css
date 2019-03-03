@@ -1,0 +1,63 @@
+body {
+  background: #00e6e6;
+  font-family: 'Quicksand', sans-serif;
+}
+
+header {
+  font-size: 30px;
+  width: 1250px;
+  height: 120px;
+  margin: 0;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  background: #004d99;
+  color: white;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+p{
+  font-size: 25px;
+}
+
+.paddlingpic {
+  width: 500px;
+  float: left;
+  margin: 0;
+  padding: 20px;
+}
+
+.paddlingadvice {
+  float: left;
+  width: 650px;
+  margin: 20px 0px 0px 0px;
+  padding: 10px;
+  border: 6px solid #004d99;
+  height: auto;
+  text-align: center;
+}
+
+.surfingpic {
+  width: 750px;
+  float: left;
+  margin: 0px 20px 20px 20px;
+}
+
+.surfingadvice {
+  float: left;
+  width: 420px;
+  border: 6px solid #004d99;
+  height: auto;
+  padding: 0px 10px 10px 10px;
+  text-align: center;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}

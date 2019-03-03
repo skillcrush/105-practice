@@ -1,0 +1,131 @@
+	/*** Base Styles ***/
+
+html {
+		height: 100%;
+}
+
+body {
+		height: 100%;
+		background-color: #606060;
+		margin: 0;
+		padding: 0;
+}
+
+	/*** Placement ***/
+
+.advice-1 {
+		width: 80%;
+		margin: 45px 130px 40px;
+}
+
+.advice-2 {
+		float: right;
+		width: 54%;
+		margin: 5px 125px 20px 0;
+
+}
+
+.full-width {
+		width: 1280px;
+		min-height: 100%;
+		background-color: #ECF0F1;
+		margin: 0 auto;
+		padding: 0 0 20px;
+}
+
+	/*** Banner Section ***/
+
+header {
+		height: 270px;
+		background-image: url(http://study.pixljar.com/andys-advice/avatar.png);
+		background-repeat: no-repeat;
+		background-position: 150px bottom;
+		background-color: #4A849F;
+		position: relative;
+}
+
+header a {
+		font-size: 42px;
+		position: absolute;
+		top: 15px;
+		right: 25px;
+		color: #306472;
+}
+
+header a:hover {
+		color: #8DB6C4;
+}
+
+header h1 {
+		font-family: 'house-slant', sans-serif;
+		font-weight: 400;
+		font-size: 90px;
+		font-style: normal;
+		margin: 0;
+		color: #ECF0F1;
+		position: absolute;
+		top: 97px;
+		left: 350px;
+}
+
+	/*** Body Section ***/
+
+	section {
+		font-family: 'futura-pt', sans-serif;
+		font-weight: 500;
+		font-style: italic;
+		font-size: 18px;
+		color: #61757A;
+		margin: 0 auto;
+	}
+
+	section h2 {
+		width: 30%;
+		text-align: right;
+		font-size: 51px;
+		font-style: italic;
+		line-height: 60px;
+		color: #38788E;
+		float: left;
+		margin: 0 30px;
+	}
+
+section h4 {
+		font-family: 'house-slant', sans-serif;
+		font-weight: 400;
+		font-size: 45px;
+		font-style: normal;
+		color: #ECF0F1;
+		border-radius: 18px;
+		background: #E86A49;
+		line-height: 60px;
+		margin: 0 auto;
+		padding-left: 85px;
+		position: relative;
+}
+
+section h4 span {
+		display: inline-block;
+		border-radius: 50%;
+		background: #F2845C;
+		text-align: center;
+		line-height: 70px;
+		width: 80px;
+		height: 80px;
+		font-size: 60px;
+		position: absolute;
+		left: -10px;
+		top: -10px;
+}
+
+	/*** Footer Section ***/
+
+footer {
+		font-family: 'futura-pt', sans-serif;
+		font-weight: 500;
+		font-size: 16px;
+		font-style: normal;
+		color: #B3B3B3;
+		text-align: center;
+		clear: both;
+}
