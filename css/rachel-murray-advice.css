@@ -1,0 +1,34 @@
+body {
+  background: skyblue;
+  font-family: 'ariel', sans-serif;
+}
+
+header h1 {
+  text-transform: uppercase;
+  font-size: 48px;
+  text-align: center;
+  margin-top: 25px;
+  clear: both
+}
+
+h4 {
+  font-size: 36px;
+}
+
+.advice, footer {
+  margin: 40px;
+}
+
+.advice p {
+  font-size: 24px;
+}
+
+footer {
+  text-align: center;
+}
+
+header a {
+  float: right;
+  text-decoration: none;
+  color: black;
+}
