@@ -1,0 +1,29 @@
+
+/***** BASE STYLES *****/
+
+#carrie-advice {
+    font-family: 'chalkboard';
+    background: powderblue;
+    background-size: cover;
+}
+
+/***** HEADER ******/
+
+h1 {
+    font-family: 'chalkboard', sans-serif;
+    color: black;
+    font-size: 50pt;
+}
+
+/****** SECTION ******/
+
+section h4 {
+    font-family: 'chalkboard', sans-serif;
+    color: darkblue;
+    font-size: 40pt;
+}
+section p {
+    font-family: 'chalkboard', sans-serif;
+    color: darkslategray;
+    font-size: 20pt;
+}

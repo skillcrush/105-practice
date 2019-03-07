@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1Sh4AafDl9WrUkHxfrLbm-JRhAKZkAjkqPnkUIp4kb0R0oO);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lora', serif;
+}
+
+h1, h4 {
+    /*  color: #FB5038; pink colour, yellow colour #EDFCC9 */
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h1 {
+    padding-top:30px;
+    font-style: italic;
+}
+
+h4 {
+    font-size: 25px;
+    text-decoration: underline;
+    text-decoration-color: rgb(48, 119, 54);
+}
+
+p {
+    color: rgb(250, 240, 241);
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+
+.advice {
+    padding: 30px 120px 20px 120px;
+}
+
+
+footer {
+    margin-top:20px;
+}
