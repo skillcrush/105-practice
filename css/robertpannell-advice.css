@@ -1,0 +1,14 @@
+#introduction, #middle, #last {
+  /*height: 250px;*/
+  width: 400px;
+  padding-top: 15px;
+}
+h2 {
+  color: #000080
+}
+span {
+  font-family: cursive;
+}
+#quote, #quote2 {
+  font-size: 24px;
+}
