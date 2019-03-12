@@ -1,0 +1,73 @@
+/** **/
+body {
+	background-color: #eaece5;
+	color: #3b3a30;
+	width: 1000px;
+}
+
+/** Header **/
+
+header {
+
+}
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #b2c2bf
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	font-size: 50px;
+
+}
+
+/** ADVICE **/
+
+.advice {
+	display: inline;
+}
+
+.left {
+	width: 450px;
+	display: inline-block;
+	align-content:;
+}
+
+.right {
+	width: 450px;
+	display: inline-block;
+	padding-bottom: 30px;
+}
+
+section {
+	border: 2px solid black;
+	padding-left: 30px;
+	border-radius: 25px;
+}
+
+h4 {
+	text-transform: uppercase;
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	font-size: 19px;
+	color: #484f4f;
+}
+
+p {
+	font-size: 12px;
+	font-family: 'PT Sans', sans-serif;
+	color: #77a8a8;
+}
+
+/** Footer **/
+
+footer {
+	text-align: center;
+}
+
+footer p {
+	color: #b2c2bf;
+}
