@@ -1,0 +1,20 @@
+p {
+  font-family: helvetica;
+  font-size: 24px;
+  width: 200px
+  color: 000000;
+}
+
+header {
+  font-family: 'Srisakdi', cursive;
+  font-size: 36px;
+  text-align: center;
+  color: 696969;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;
+  color: 000000;
+  text-align: center;
+}
