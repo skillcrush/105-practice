@@ -48,9 +48,10 @@ nav a {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 1.5em;
   color: #000005;
   padding: 10px 10px;
+  background-color: rgb(242, 243, 242, 0.8);
 }
 
 nav a:hover {
