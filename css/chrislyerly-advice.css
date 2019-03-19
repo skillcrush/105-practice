@@ -1,0 +1,41 @@
+.skillcrush-advice {
+    background-color: #cabf99;
+    margin: 0 auto;
+    padding: 75px;
+}
+.advice {
+    background-color: black;
+    margin: 0 auto;
+    padding: 25px 35px;
+}
+h1 {
+    color: black;
+    font-size: 48px;
+    text-align:center;
+}
+h4 {
+    color:#cabf99;
+    font-size: 36px;
+    text-align: center;
+}
+p {
+    color:#cabf99;
+    font-size: 18px;
+}
+footer p {
+    background-color: grey;
+    margin: 0 auto;
+    padding: 45px 0 45px 0;
+    font-size: 75px;
+}
+
+header{
+    background-color:grey;
+    text-align:center;
+    margin: 0 auto;
+    padding: 0px 0px 25px 0;
+}
+
+footer{
+    text-align:center;
+}
