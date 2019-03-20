@@ -43,6 +43,7 @@ footer {
   border: 5px solid #9c92ac;
   clear: both;
   text-align: center;
+  text-weight: bold;
 }
 
 span {
