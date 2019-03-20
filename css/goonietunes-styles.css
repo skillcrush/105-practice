@@ -1,0 +1,91 @@
+/** BASE STYLES **/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	margin: 0;
+}
+
+/** HEADER STYLES **/
+
+header {
+ margin: 0;
+ padding: 0;
+}
+
+.half-height {
+	height: 75px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.half-height a {
+	display: block;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-top: 30px;
+}
+
+.half-height h1 {
+	font-size: 40px;
+	margin: 0;
+	padding-top: 30px;
+}
+
+.half-height h1 span {
+	color: OrangeRed;
+}
+
+/** MAIN SECTION CONTENT **/
+
+section {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#advice {
+	font-size: 18px;
+	font-style: italic;
+	padding-top: 40px;
+	padding-bottom: 50px;
+	margin: 0 150px 0 0;
+}
+
+/** THREE FLOATED ADVICE BOXES **/
+
+.third-width {
+	background-color: #f2f2f2;
+	width: 300px;
+	height: 320px;
+	border-radius: 5px;
+	margin: 30px 60px 0 0;
+	float: left;
+}
+
+.third-width h4 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 23px;
+	text-align: left;
+	margin: 0;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+.third-width p {
+	font-size: 16px;
+	text-align: left;
+	margin: 0;
+	padding: 25px 20px;
+}
+
+/** FOOTER **/
+
+footer {
+	width: 90%;
+	margin: 0 auto;
+	padding-top: 80px;
+	clear: both;
+}
+
