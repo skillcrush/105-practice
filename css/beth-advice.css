@@ -1,0 +1,51 @@
+/*****BASE STYLES*****/
+p {
+font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  font-weight: lighter;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Righteous', cursive;
+  font-size: 26px;
+  font-weight: lighter;
+}
+
+/*****GRID STYLES*****/
+
+.half-width {
+  width: 600px;
+  padding: 25px;
+  float: left;
+}
+
+/*****BODY STYLES*****/
+
+header {
+  background-color: #afd9bc;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='72' viewBox='0 0 36 72'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.4'%3E%3Cpath d='M2 6h12L8 18 2 6zm18 36h12l-6 12-6-12z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  height: 150px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+}
+
+footer {
+  background: #9c92ac;
+  border: 5px solid #9c92ac;
+  clear: both;
+  text-align: center;
+  text-weight: bold;
+}
+
+span {
+  font-variant: small-caps;
+}
