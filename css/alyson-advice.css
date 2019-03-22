@@ -1,0 +1,50 @@
+body{
+  background: #F0ECED;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+header h1{
+  background: #F9EBEA;
+  font-variant: small-caps;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  padding: 2px 0 2px 0;
+  margin:5px 10px 5px 10px;
+  border: 3px solid pink;
+}
+
+.advice{
+  background: #FDEDEC;
+  border: 2px none #F1948A;
+  color:#482F38;
+  line-height: 23px;
+  text-align: justify;
+  padding:10px 10px 10px 10px;
+  margin: 20px 0;
+}
+
+.advice h4 span{
+  font-variant: small-caps;
+  font-size: 30px;
+}
+
+.advice h4{
+  font-size: 22px;
+  text-align: center;
+}
+
+.confusion{
+  border: 4px solid #F1948A;
+  padding:inherit;
+  margin:auto;
+}
+.suspended{
+  border: 4px solid #F1948A;
+  padding:inherit;
+  margin:auto;
+}
+
+footer{
+  text-align: center;
+}
