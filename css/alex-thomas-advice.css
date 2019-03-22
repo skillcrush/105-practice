@@ -1,0 +1,121 @@
+/** MAIN **/
+* { margin: 0; padding: 0; }
+
+html {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  height: 100%;
+	margin: 0;
+  width: 100%
+}
+
+a {
+  background-color: transparent;
+}
+
+/*** HEADER ***/
+header {
+  background: url(https://images.pexels.com/photos/988872/pexels-photo-988872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  height: 300px;
+  display: block;
+}
+
+header h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 5em;
+  margin: auto;
+  text-align: center;
+  padding: 100px;
+  color: #000005;
+}
+
+header h1 span {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+nav a {
+  float: right;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  font-size: 1.5em;
+  color: #000005;
+  padding: 10px 10px;
+  background-color: rgb(242, 243, 242, 0.8);
+}
+
+nav a:hover {
+  color: #DDDDDF;
+}
+
+/*** QUOTE SECTION ***/
+section {
+  background: url('https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: cover;
+  height: 500px;
+  display: block;
+}
+
+section h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 50px;
+  font-size: 2em;
+}
+
+section h6 span {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+}
+/*** MAIN 'ADVICE' SECTION ***/
+main {
+  height: 300px;
+  display: block;
+  margin: 0;
+  padding: 100px;
+}
+
+main h4 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 3em;
+}
+
+main p {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 1.5em;
+  text-align: justify;
+  width: 75%;
+}
+
+main,
+footer {
+  background: url('https://images.pexels.com/photos/316466/pexels-photo-316466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: cover;
+  background-position: left bottom;
+  background-attachment: fixed;
+}
+
+/*** FOOTER ***/
+footer {
+  text-align: center;
+  clear:both;
+  font-size: 15px;
+  color: #BDBFBE;
+  display: block;
+  font-family: 'Playfair Display', serif;
+}
