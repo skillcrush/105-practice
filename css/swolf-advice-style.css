@@ -1,15 +1,37 @@
+/******BASE STYLES******/
+
 body {
-      font-family: 'Amiri', serif;
+    font-family: 'Amiri', serif;
 }
 
+/*****B0DY STYLES*****/
+.swolf-advice {
+    width: 1200px;
+    margin: 0 auto;
+}
+.advice {
+    width: 520px;
+    padding-top: 0px;
+    padding-right: 80px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    float: left;
+}
+
+/*****CONTENT*****/
+
 h1 {
-      font-size: 30px;
+    font-size: 30px;
 }
 
 h4 {
-      font-size: 24px;
+    font-size: 24px;
 }
 
 p {
-      font-size: 18px;
+    font-size: 18px;
+}
+
+#footer p {
+    font-size: 12px;
 }
