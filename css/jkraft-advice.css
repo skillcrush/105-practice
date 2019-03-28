@@ -1,0 +1,43 @@
+/***** HEADER *****/
+body{
+    width: 1200px;
+}
+
+a {
+    margin-left: 1050px;
+    font-family: "Margarine", cursive;
+    font-size: 16px;
+}
+
+h1{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    color: midnightblue;
+}
+
+/***** BODY *****/
+
+.advice {
+    width: 1200px;
+    background: gainsboro;
+}
+
+.advice h4 {
+    font-family: "Margarine", cursive;
+    font-size: 24px;
+    color: midnightblue
+}
+
+.advice p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+/***** FOOTER ******/
+
+footer p{
+    font-family: "Margarine", cursive;
+    text-align: center;
+}
