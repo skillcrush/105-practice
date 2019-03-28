@@ -1,0 +1,21 @@
+
+h1 {
+  color: blue;
+  font-size: 36px;
+  text-align: center;
+  background-color: magenta;
+  font-variant: small-caps;
+}
+
+.advice {
+  color: purple;
+  font-size: 25px;
+  background-color: lime;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: bold;
+}

@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+}
+
+body{
+  background-color: black;
+  color: #00ff00;
+  font-size: 30px;
+  }
+
+  .first{
+    text-align: center;
+    font-style: oblique;
+  }
+
+.second{
+font-weight: bold;
+}
+
+footer{
+  text-align: center;
+}

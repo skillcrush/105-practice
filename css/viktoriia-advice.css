@@ -1,0 +1,74 @@
+
+
+.full-size {
+    width: 1500px;
+    height: 1000px;
+    margin: 0px;
+    padding: 0px;
+    background: url("https://images.pexels.com/photos/34153/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat;
+}
+
+
+h1{
+    font-family: 'Karla', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+    color: #eeeeee;
+}
+
+h4 {
+        font-family: 'Karla', sans-serif;
+        text-transform: capitalize;
+        font-weight: 700;
+        font-size: 20px;
+}
+
+.advice-one {
+    width:400px;
+    font-family: 'Karla', sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    padding-left: 205px;
+    padding-top: 40px;
+    color: #eeeeee;
+    float: left;
+}
+
+.advice-two {
+    width: 400px;
+    font-family: 'Karla', sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    padding-left: 300px;
+    padding-top: 40px;
+    color: #eeeeee;
+    float: left;
+}
+
+nav {
+    font-family: 'Karla', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #eeeeee;
+    text-align: left;
+    float: clear;
+    padding-top: 700px;
+    padding-left: 205px;
+}
+
+nav a {
+    text-decoration: none;
+    color:#eeeeee;
+    letter-spacing: 5px;
+}
+
+footer {
+    font-family: 'Karla', sans-serif;
+    font-size: 12px;
+    color: #eeeeee;
+    padding-top: 100px;
+    padding-left: 600px;
+  
+}

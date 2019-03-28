@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+
+.skillcrush-advice {
+  border: 3px dotted orange;
+  background-color: #FFF8DC;
+  padding: 50px;
+}
+
+h4 {
+  color: blue;
+  text-align: center;
+}
+
+h5 {
+  color: blue;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+}

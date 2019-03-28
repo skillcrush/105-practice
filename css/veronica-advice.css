@@ -1,0 +1,98 @@
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	margin: 5%;
+	background: #f8f1f1;
+}
+
+
+
+span {
+	color: #e04608;
+}
+
+a:hover {
+  cursor: pointer;
+}
+header div {
+	margin-bottom: 15px;
+
+}
+
+header div a {
+	color: #7c7777;
+	text-decoration: none;
+	font-size: 16px;
+	width: 30px;
+}
+
+header>div>a>span {
+	color: #0a065d;
+}
+
+div a {
+	text-decoration: none;
+}
+
+
+.flex-container {
+	display: flex;
+}
+
+header div h1 {
+	background: #c5a98c;
+	padding: 50px;
+	
+}
+
+h1, h4 {
+	font-family: 'Bangers', cursive;
+	color: #0a065d;
+	letter-spacing: 1px;
+	text-decoration: none;
+
+}
+ 
+.quote {
+	text-align: right;
+	padding-right: 40px;
+	text
+}
+
+h1 {
+	font-size: 72px;
+	margin: 0;
+}
+
+/*two sub headings and paragraphs*/
+section {
+	height: 90%;
+	overflow: auto;
+	
+}
+
+.advice {
+	height: 450px;
+	padding: 20px;
+	width: 45%
+}
+
+
+h4 {
+	font-size: 24px;
+
+}
+
+p {
+	font-size: 18px;
+	color: #7c7777;
+
+}
+
+
+footer p {
+	text-align: center;
+	font-size: 16px;
+	color: #d2c8c8;
+	
+}

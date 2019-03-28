@@ -1,0 +1,33 @@
+body {
+    background-color: #F8EDEB;
+    color: #817C80;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 { 
+    border: 10px solid #E2AFC6;
+    padding: 30px;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+h4 {
+    text-align: center;
+}
+
+#wrapper {
+    border: 2px solid #817C80;
+    width: 90%;
+    padding: 30px;
+    margin: auto;
+}
+
+.advice {
+    border: 2px solid #F0CFD4;
+    padding: 20px;
+    text-align: justify;
+}

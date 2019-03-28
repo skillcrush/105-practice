@@ -1,0 +1,38 @@
+.valeria-advice {
+  font-family: Quicksand,sans-serif;
+  font-size: 2vw;
+  font-weight: 300;
+  width: 80%;
+  max-width: 1200px; 
+  padding-left: 4em;
+  padding-right: 3em;
+  line-height: 1.5;
+  color: #444;
+}
+
+a:visited {
+  color:#ff8080;
+}
+
+a:hover {
+  color: #ccc;
+}
+
+h1 {
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 2.5em;
+  text-align: center;
+  background-color: #eee;
+  padding: 0.5em 1em;
+}
+
+.my-name {
+  color:#82b768;
+}
+
+h4 {
+  font-size: 1.2em;
+  font-weight: 500;
+  color:#a3d18c;
+  margin-top: 3em;
+}

@@ -1,0 +1,93 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Esteban', serif;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Montserrat', Arial, sans-serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #36384C;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 60px;
+    margin-bottom: 0;
+    color: #E9DCCD;
+}
+
+header h1 span {
+    color: #E3BAB3;
+    font-size: 82px;
+}
+
+header h2 {
+    font-family: 'Montserrat', Arial, sans-serif;
+    margin-top: 0;
+    /*margin-left: 20px;*/
+    color: #849974;
+    letter-spacing: 1px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #262730;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.back {
+    align-content: center;
+}
+
+header a:hover {
+    color: #E9DCCD;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #849974;
+}
+
+.advice h4 {
+    font-size: 48px;
+    color: #E3BAB3;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice h4 span {
+    font-size: larger;
+}
+
+.advice p {
+    font-size: 24px;
+    line-height: 42px;
+    color: #e9dccD;
+    font-weight: 200;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #613A43;
+}
+
+footer p {
+    color: #E9DCCD;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}

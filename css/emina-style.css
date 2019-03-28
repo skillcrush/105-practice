@@ -1,0 +1,30 @@
+body{
+  padding: 25px;
+}
+header a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  border: 2px dotted gray;
+
+}
+h1, h4  {
+    font-family: Georgia;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+h1{
+  border-bottom: 1px solid gray;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding-bottom: 5px;
+}
+p {
+  font-style: oblique;
+  line-height: 29px;
+  font-size: 25px;
+}
+footer{
+  text-align: center;
+}
