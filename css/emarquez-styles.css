@@ -1,0 +1,37 @@
+html{
+  font-family:sans-serif;
+  line-height: 1.4;
+}
+
+.skillcrush-advice{
+  margin: auto;
+  width: 900px;
+}
+
+ a{
+  text-decoration: none;
+  color:#0099cc;
+ }
+
+ a:hover{
+
+ }
+
+header{
+color: #006699;
+}
+
+.advice{
+  border: 1px solid #fff;
+  border-radius: 20px;
+  background-color: #e6f9ff;
+  padding: 30px;
+}
+
+ h4{
+   color: #008000;
+ }
+
+ footer p {
+   font-weight: 900;
+ }
