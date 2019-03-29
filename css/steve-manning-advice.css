@@ -1,0 +1,54 @@
+/***** BASE STYLES *****/
+
+body {
+    background: #878e99;
+}
+
+h1, h4, p, a {
+    color: #d3d5d4;
+    font-family: 'Raleway', sans-serif;
+    
+}
+/***** HEADER *****/
+
+header {
+    font-size: 15px;
+}
+header a {
+    color: #b2cfbb;
+    
+}
+header h1 {
+    
+}
+
+h4 {
+    
+}
+p {
+     
+}
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px;
+    margin: auto;
+}
+.advice h4 {
+    padding: inherit;
+    margin: inherit;
+}
+.advice p {
+    padding: inherit;
+    margin: inherit;
+}
+/***** FOOTER *****/
+
+footer {
+    padding: 5px;
+    margin: inherit;
+}
+footer p {
+    text-align: center;
+    color: #d3d5d4;
+}
