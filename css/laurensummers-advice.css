@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Fjalla One', sans-serif;
+    background: url('../image/blue-bubble.jpg');
+    background-size: cover;
+    
+}
+
+/****** HEADER *****/
+
+header a {
+    color:azure;
+}
+
+header h1 {
+    text-align: center;
+    color:lightblue;
+    text-transform: capitalize;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+}
+
+/***** ADVICE *****/
+
+.advice h4 {
+    font-family: 'Anton', sans-serif;
+    color: aquamarine;
+    font-size: 30px;
+    font-variant: small-caps;
+    
+}
+
+.advice p {
+    color: azure;
+    font-size: 15px;
+    line-height: 26px;
+}
+
+/***** FOOTER *****/
+
+footer p {
+    text-align: right;
+    color: lightcyan;
+    font-family: 'Anton', sans-serif;
+}
