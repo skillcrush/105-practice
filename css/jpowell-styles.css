@@ -1,0 +1,58 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width:99%;
+    margin: 0,auto;
+    background:bisque;
+}
+h1, h2, h3, h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*********** header *************/
+
+header{
+    border: 3pt solid pink;
+    color: rgb(2, 44, 30);
+    font-variant: initial;
+    padding: 5pt;
+    text-align: center;   
+}
+header a{
+    border: 2pt ridge yellowgreen;
+    font-size: 16pt;
+    font-variant-caps: all-petite-caps;
+    padding: 2pt;
+}
+.advice h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20pt;
+    padding: 20pt;
+
+}
+.enemy{
+    border: 5pt dotted olive;
+    font-variant-caps: all-small-caps;
+    font-size: 24pt;
+    color: rgb(240, 97, 14);
+    text-align: center;
+}
+
+/*********** ADVICE *********/
+
+.advice p{
+    font-family:fantasy;
+    font-size: 14pt;
+    font-weight: bold;
+    letter-spacing: 1pt;
+    word-spacing: 1pt;
+}
+
+/**************** footer ************/
+
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center
+}
+
+
+
