@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: navy;
+}
+h4 {
+    font-size: 18px;
+    color:cornflowerblue;
+    text-transform: uppercase;
+}
+p {
+    line-height: 22px;
+}
