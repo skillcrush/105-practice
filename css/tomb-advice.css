@@ -1,0 +1,65 @@
+.container {
+	width: 1200px;
+    margin: 100px auto;
+    background: #009999;
+}
+header a {
+    border: 2px;
+    color: #000000
+
+}
+ header h1 {
+    color: #000000;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45px;
+}
+header span {
+    color: #002db3;
+}
+.advice h4 {
+    font-size: 25px;
+}
+.advice p {
+    font-size: 18px;
+        -webkit-animation: color-change 1s infinite;
+        -moz-animation: color-change 1s infinite;
+        -o-animation: color-change 1s infinite;
+        -ms-animation: color-change 1s infinite;
+        animation: color-change 1s infinite;
+    }
+    
+    @-webkit-keyframes color-change {
+        0% { color: red; }
+        50% { color: blue; }
+        100% { color: red; }
+    }
+    @-moz-keyframes color-change {
+        0% { color: red; }
+        50% { color: blue; }
+        100% { color: red; }
+    }
+    @-ms-keyframes color-change {
+        0% { color: red; }
+        50% { color: blue; }
+        100% { color: red; }
+    }
+    @-o-keyframes color-change {
+        0% { color: red; }
+        50% { color: blue; }
+        100% { color: red; }
+    }
+    @keyframes color-change {
+        0% { color: red; }
+        50% { color: blue; }
+        100% { color: red; }
+    }
+}
+
+section p {
+	font: 16px 'Open Sans';
+}
+footer {
+    text-align: center;
+    margin: 50px auto;
+    color: #ffff1a;
+}
