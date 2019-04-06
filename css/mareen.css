@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+
+header a {
+    text-transform: uppercase;  
+    color: #222b01;
+    letter-spacing: 3px;    
+}
+
+.container{    
+    margin-top: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#intro{
+    font-size: 2.3rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #ee0d51
+    }
+
+header a:hover{
+    color: #5da8ca;
+}
+
+img {
+   padding: 5% 8% 10% 17%;       
+}
+
+h4 {
+    padding: 10px;
+}
+
