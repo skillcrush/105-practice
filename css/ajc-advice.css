@@ -1,0 +1,30 @@
+section {
+	width: 800px;
+	margin: 100px auto;
+}
+section h1,
+section p {
+	text-align: center;
+	color: #454500;
+}
+section h1 {
+	font: 32px 'Open Sans';
+	font-weight: bold;
+}
+
+//*hi there*//
+
+
+section p {
+	font: 16px 'Open Sans';
+}
+
+
+.anthony-advice h1 {
+  color: #FF7F50;
+  font-variant: small-caps;
+}
+
+.advice h4 {
+  color: DeepBlue;
+}
