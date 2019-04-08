@@ -1,0 +1,55 @@
+/***** BODY *****/
+
+body {
+  font-family: 'Playfair Display', serif;
+  color: #334d4d;
+  width: auto;
+}
+
+h4 {
+  text-align: center;
+}
+
+/***** HEADER ****/
+header h1 {
+  background-color: #e6f2ff;
+  text-align: center;
+  margin-top: 30px;
+  height: 110px;
+  font-size: 40px;
+  overflow: auto;
+}
+
+#my-name-is {
+  font-family: 'Playfair Display', serif;
+  line-height: 110px;
+  margin: auto;
+}
+
+/***** ADVICE SECTION BOX 1*****/
+
+.advice {
+  width: 600px;
+  float: left;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 40px;
+  margin: 20px 0px 20px 0px;
+}
+
+/***** ADVICE SECTION BOX 2 *****/
+.suspended {
+  width: 600px;
+  float: left;
+  padding-top: 20px;
+  padding-left: 50px;
+  margin: 20px 0px 20px 0px;
+  text-align: center;
+}
+
+/***** FOOTER *****/
+footer {
+  text-align: center;
+  clear: both;
+  padding-top: 60px;
+}
