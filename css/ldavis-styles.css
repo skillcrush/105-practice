@@ -33,11 +33,6 @@ h1 {
 
 /***document-wide***/
 
-h2 {
-    color: red;
-    font-weight: bold;
-}
-
 p {
     color: darkblue;
     font-size: 20px;
@@ -56,9 +51,10 @@ img {
     font-weight: bold;
 }
 
-#advice img {
-    float: left;
-    padding: 25px;
+#advice h2 {
+    color: red;
+    font-weight: bold;
+    text-align: left;
 }
 
 #frustration {
@@ -67,9 +63,10 @@ img {
     font-variant: small-caps;
 }
 
-#frustration img {
-    float: right;
-    padding: 25px;
+#frustration h2 {
+    color: red;
+    font-weight: bold;
+    text-align: center;
 }
 
 #type {
@@ -78,15 +75,17 @@ img {
     line-height: 28px;
 }
 
-h3 {
-    color: white;
-    font-size: 32px; 
-    padding-top: 75px;
+#type h2 {
+    color: red;
+    font-weight: bold;
+    text-align: right;
 }
 
-#type img {
-    float: left;
-    padding: 25px;
+h3 {
+    color: white;
+    font-size: 40px; 
+    padding-top: 75px;
+    text-align: center;
 }
 
 /***footer***/
