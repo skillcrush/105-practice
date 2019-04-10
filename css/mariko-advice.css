@@ -1,0 +1,47 @@
+
+/***** BASE STYLES *****/
+body {
+  background-color: #ebfafa;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+  line-height: 31px;
+  color: dimgrey;
+}
+
+div {
+  float: left;
+  padding: 20px;
+  width: 40%;
+}
+
+h1 {
+  color: #476b6b;
+  font-family: 'Ultra', serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 65px;
+  margin-left: 20px;
+}
+
+h4 {
+  color: #b3cccc;
+  font-family: 'Ultra', serif;
+  font-size: 35px;
+  text-transform: uppercase;
+  font-weight: 400;
+
+}
+
+
+#hi {
+  font-size: 80px;
+  color: #ffdb4d;
+}
+
+footer {
+  border-top: 5px solid #b3cccc;
+  clear: both;
+  text-align: center;
+}
