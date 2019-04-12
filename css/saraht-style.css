@@ -1,0 +1,35 @@
+h1 {
+  font-family: 'Satisfy', cursive;
+  font-size: 40px;
+}
+
+h4 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 27px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.saraht-advice {
+  text-align: center;
+  background-color: lightblue;
+}
+
+.advice {
+  line-height: 24px;
+}
+
+.half-width {
+  width: 520px;
+  float: left;
+  padding: 20px 35px 20px 35px;
+  margin: 10px;
+}
+
+footer {
+  clear: both;
+  font-size: 10px;
+  padding-top: 50px;
+}

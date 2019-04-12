@@ -1,0 +1,27 @@
+body {
+  width: 900px;
+  margin: 0 auto;
+  background: #FECEAB;
+  font-family: sans-serif;
+}
+header {
+  margin-top: 20px;
+}
+header h1 {
+  color: #355C7D;
+  font-size: 40px;
+}
+.advice {
+  margin-bottom: 50px;
+}
+.advice h4 {
+  color: #F67280;
+  font-size: 25px;
+}
+.advice p {
+  color: #6C5B7B;
+  font-size: 16px
+}
+footer {
+  color: #355C7D;
+}
