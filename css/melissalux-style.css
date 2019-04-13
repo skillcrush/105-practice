@@ -1,9 +1,7 @@
 h1 {
-/*
-  font-family: 'Fascinate Inline', cursive;*/
   font-family: 'Luckiest Guy', cursive;
-  font-weight: bold;
   font-size: 50px;
+  font-weight: bold;
   text-align: center;
 }
 
@@ -18,12 +16,19 @@ h3 {
 }
 
 h4{
-
-  border-radius: 50%;
   background: CadetBlue;
-  width: 250px;
+  border-radius: 50%;
   height: 250px;
+  width: 250px;
 }
+
+p {
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+}
+
+/*****GRID and FLOATS*****/
+
 .circle-title {
   float: left;
 }
@@ -35,30 +40,31 @@ h4{
 
 .advice {
   clear: both;
-  width: 600px;
   margin-left: 370px;
+  width: 600px;
 }
 
-p {
-  font-family: 'Amatic SC', cursive;
-  font-size: 30px;
-}
+/*****HEADER*****/
+
 header{
   background: lightgrey;
-  padding: 40px 20px 20px 20px;
   border-radius: 10px;
+  padding: 40px 20px 20px 20px;
 }
+
 span {
   color: CadetBlue;
 }
+
 a {
-  text-decoration: none;
+  color: CadetBlue;
   font-family: 'Roboto Slab', serif;
   font-variant: small-caps;
   font-weight: bold;
-  color: CadetBlue;
-
+  text-decoration: none;
 }
+
+/*****FOOTER*****/
 
 footer {
   float: right;
