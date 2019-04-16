@@ -1,0 +1,106 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Assistant', 'Helvetica', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Cookie', cursive;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: e8dcf4;
+	text-align: center;
+	padding: 10px 40px;
+}
+
+header h1 {
+    font-size: 72px;
+    color: #161616;
+}
+
+header h1 span {
+    color: #a8aac0;
+}
+
+.who {
+	font-size:48px;
+	color: #161616;
+	}
+.name{
+	color:purple;
+	}
+
+header h2 {
+    margin-top: 0;
+    margin-left: 20px;
+    color: #161616;
+    letter-spacing: 1px;
+	font-size: 60px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #262730;
+    border: 3px solid #262730;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+header a:hover {
+    background-color :#262730;
+    color: #fff;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #262730;
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: purple;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice h4 span {
+    color: #e8dcf4;
+}
+.advice p span {
+    color: #e8dcf4;
+	font-size:36px;
+	font-weight:bolder;
+	text-transform: uppercase;
+	font-family: 'Cookie', cursive;
+}
+
+.advice p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #e8dcf4;
+    font-weight: 200;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #e8dcf4;
+}
+
+footer p {
+    color: #a8aac0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
