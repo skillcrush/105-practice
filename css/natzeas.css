@@ -1,0 +1,114 @@
+/*******************body****************/
+
+body {
+	background-color:#f7f4dc;
+	}
+
+.advice1, .advice2, .advice3 {
+	width: 330px;
+	height:500px;
+	float:left;
+	padding:20px;
+	margin:65px;
+	text-align: center;
+	
+}
+
+/***************8header*********************/
+header{
+	height:175px;
+}
+header a{
+	display: inline-block;
+	color:#ffffff;
+	background-color: #bf0e01;
+	border:1px solid white;
+	border-radius: 20px;
+	padding:5px;
+	text-align: left;
+	text-decoration: none;
+	margin-top: 40px;
+	margin-left: 100px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+ .skillcrush-advice h1{
+	color:#bf0e01;
+	text-transform: uppercase;
+font-family: 'Boogaloo', cursive;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 50px;
+	margin-right: 50px;
+}
+
+.skillcrush-advice  h1 #changefont {
+font-family: 'Caveat', cursive;
+	text-transform: none;
+	font-size: 40px;
+	text-align: center;
+	font-weight: lighter;
+	line-height: 5px;
+	color:#3d23a3;
+
+  }
+
+/*******************section***************/
+  
+/***********advice1&2**************/
+  section {
+  	height:800px;
+  	text-align: center;
+  }
+
+  section h4 {
+font-family: 'Caveat', cursive;
+letter-spacing: 3px;
+  	
+	color:#3d23a3;
+  	font-size: 32px;
+  	font-weight: bolder;
+  	padding:10px;
+  	text-align: left;
+  	line-height: 30px;
+  	margin-bottom: 10px;
+  }
+
+  section p {
+  	color:#bf0e01;
+  	font-size:14px;
+  	text-align: center;
+  	font-family: 'Montserrat', sans-serif;
+  	padding:20px;
+  	text-transform: uppercase;
+ }
+
+ section h3 {
+  	font-size: 20px;
+  	font-family: 'Montserrat', sans-serif;
+text-transform: uppercase;
+color:#3d23a3;
+text-align: center;
+margin-top: 50px;
+  }
+
+  .life{
+  	font-size:40px;
+font-family: 'Caveat', cursive;
+  	text-transform: none;
+  }
+
+.advice3 img {
+	margin-top: 70px;
+	width:200px;
+	height:auto;
+}
+
+  /***************footer*****************/
+
+  footer p{
+  	color:#3d23a3;
+  }
