@@ -1,0 +1,61 @@
+/****** BASE STYLES ******/
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+    background-color: #e0e6e4;
+    margin: 0px 120px 50px
+}
+
+/****** HEADER ******/
+
+ul li{
+    text-align: left;
+    display: inline-block;
+    margin-top: 38px;
+}
+
+header {
+    height: 400px;
+    background: url(/Users/kelham/Desktop/105-practice/img/AdobeStock_192051718_Preview.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    font-size: 58px;
+    color: #2c462c;
+    text-align:left;
+    margin: 92px 260px;
+}
+
+/****** ADVICE ******/
+
+h4 {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    text-align:center;
+    line-height: 20px;
+    color: #2c462c;
+}
+
+#advice p{
+    font-size: 14px;
+    text-align:left;
+    color: #2c462c;
+    line-height: 20px;
+}
+
+/****** ADVICE ******/
+
+#footer {
+    clear: both;
+}
+#footer p{
+    font-size: 12px;
+    text-align:right;
+    color: #7f7f7f;
+    line-height: 10px; 
+}
+
+/****** END ******/
