@@ -1,18 +1,28 @@
 /*******************body****************/
 
 body {
-	background-color:#f7f4dc;
+	background-color:#000000;
 	}
 
-.advice1, .advice2, .advice3 {
-	width: 330px;
+.advice1 {
+	width: 400px;
 	height:500px;
 	float:left;
 	padding:20px;
-	margin:65px;
-	text-align: center;
-	
+	margin-top:100px;	
+	margin-left: 100px;
 }
+
+.advice2 {
+	width: 400px;
+	height:500px;
+	float:right;
+	padding:20px;
+	margin-top:100px;	
+	margin-right: 150px;
+
+}
+
 
 /***************8header*********************/
 header{
@@ -20,8 +30,9 @@ header{
 }
 header a{
 	display: inline-block;
-	color:#ffffff;
-	background-color: #bf0e01;
+	color:#f799dd;
+	font-weight: bold;
+	background-color: #ffffff;
 	border:1px solid white;
 	border-radius: 20px;
 	padding:5px;
@@ -29,30 +40,28 @@ header a{
 	text-decoration: none;
 	margin-top: 40px;
 	margin-left: 100px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Raleway', sans-serif;
 
 }
 
 
 
  .skillcrush-advice h1{
-	color:#bf0e01;
-	text-transform: uppercase;
-font-family: 'Boogaloo', cursive;
-	font-weight: bolder;
+	color:#f03eb8;
+font-family: 'cabin sketch', cursive;
 	text-align: center;
-	font-size: 50px;
+	font-size: 60px;
 	margin-right: 50px;
+	margin-bottom: 1px;
 }
 
 .skillcrush-advice  h1 #changefont {
-font-family: 'Caveat', cursive;
+	font-family: 'Raleway', sans-serif;
 	text-transform: none;
-	font-size: 40px;
+	font-size: 30px;
 	text-align: center;
 	font-weight: lighter;
-	line-height: 5px;
-	color:#3d23a3;
+	color:#ffffff;
 
   }
 
@@ -65,50 +74,29 @@ font-family: 'Caveat', cursive;
   }
 
   section h4 {
-font-family: 'Caveat', cursive;
-letter-spacing: 3px;
-  	
-	color:#3d23a3;
+	font-family: 'Homemade Apple', cursive;
+	color:#3ef0e4;
   	font-size: 32px;
   	font-weight: bolder;
   	padding:10px;
   	text-align: left;
-  	line-height: 30px;
+  	line-height: 45px;
   	margin-bottom: 10px;
   }
 
   section p {
-  	color:#bf0e01;
-  	font-size:14px;
+  	color:#ffffff;
+  	font-size:18px;
   	text-align: center;
-  	font-family: 'Montserrat', sans-serif;
+	font-family: 'Raleway', sans-serif;
   	padding:20px;
-  	text-transform: uppercase;
  }
 
- section h3 {
-  	font-size: 20px;
-  	font-family: 'Montserrat', sans-serif;
-text-transform: uppercase;
-color:#3d23a3;
-text-align: center;
-margin-top: 50px;
-  }
 
-  .life{
-  	font-size:40px;
-font-family: 'Caveat', cursive;
-  	text-transform: none;
-  }
-
-.advice3 img {
-	margin-top: 70px;
-	width:200px;
-	height:auto;
-}
 
   /***************footer*****************/
 
   footer p{
-  	color:#3d23a3;
+  	color:#ffffff;
+  	text-align: center;
   }
