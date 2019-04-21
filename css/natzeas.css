@@ -30,10 +30,10 @@ header{
 }
 header a{
 	display: inline-block;
-	color:#f799dd;
+	color:#ffffff;
 	font-weight: bold;
-	background-color: #ffffff;
-	border:1px solid white;
+	background-color: #f03eb8;
+	border:1px solid #f03eb8;
 	border-radius: 20px;
 	padding:5px;
 	text-align: left;
