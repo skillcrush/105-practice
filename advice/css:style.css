@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #c6c6c6;
+  line-height: 1.5;
+}
+
+.main-header {
+  background-image: url("https://images.pexels.com/photos/2089379/pexels-photo-2089379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 600px;
+}
+
+.main-header a {
+  font-size: 2em;
+
+}
+header a {
+  margin-top: 2em;
+
+}
+h1 {
+  font-size: 2.5em;
+  text-align: center;
+  margin-top: 4em;
+  color: #000000;
+  
+
+}
+
+h2 {
+  text-align: center;
+  margin: 1em;
+  font-size: 2em;
+}
+
+.advice p {
+  text-align: center;
+  font-family: verdana;
+}
+
+footer {
+  margin: 2em;
+  text-align: center;
+}
