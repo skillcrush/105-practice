@@ -1,0 +1,16 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 45px;
+    font-family: "Anton";
+}
+
+p {
+    color: brown;
+    font-size: 18px;
+    text-align: center;
+}
+
+html{
+    background-color: beige;
+}
