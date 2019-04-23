@@ -1,0 +1,100 @@
+body {  
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/***header***/
+
+#grad {
+  background-image: linear-gradient(white, lightblue);
+}
+
+header {
+  height: 200px;
+  border: 5px solid darkblue;
+  background-image: url(http://sallylwolf.com/img/advice-hero.jpg);
+  background-size: cover;
+  color: white; 
+}
+
+span {
+    font-family: cursive;
+    font-size: 34px;
+    color: cornflowerblue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 36px;
+    padding: 25px;
+    text-align: center;
+}
+
+/***document-wide***/
+
+p {
+    color: darkblue;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 50px;
+}
+
+/***individual sections***/
+
+#advice {
+    font-family: font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#advice h2 {
+    color: red;
+    font-weight: bold;
+    text-align: left;
+}
+
+#frustration {
+    font-family: font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+#frustration h2 {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+#type {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold; 
+    line-height: 28px;
+}
+
+#type h2 {
+    color: red;
+    font-weight: bold;
+    text-align: right;
+}
+
+h3 {
+    color: white;
+    font-size: 40px; 
+    padding-top: 75px;
+    text-align: center;
+}
+
+/***footer***/
+
+footer {
+    clear: both;
+    text-align: center;
+    margin: 100px auto;
+    padding-top: 50px;
+}
+
+

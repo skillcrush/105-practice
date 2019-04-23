@@ -1,0 +1,100 @@
+html,
+body,
+h2,
+p,
+.header-backlink,
+a,
+footer,
+header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+footer,
+header {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+html,
+.kayak-advice {
+  font-size: 10px;
+  color: white;
+}
+
+h2 {
+  font-size: 4.47em;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  line-height: 6rem;
+  font-weight: 900;
+  font-style: italic;
+  margin-bottom: 3rem;
+}
+
+p,
+.header-backlink {
+  font-family: "Roboto Mono", monospace;
+  font-size: 1.8em;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 3rem;
+  line-height: 3rem;
+}
+
+.header-backlink::before {
+  content: "<< ";
+}
+
+a {
+  color: #ee385e;
+}
+
+a:visited {
+  color: #2b81f1;
+}
+
+html {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+}
+
+.kayak-advice {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #2d2d2d;
+  -webkit-box-shadow: 0px 0px 10px 10px #222;
+  box-shadow: 0px 0px 10px 10px #222;
+  padding: 2.5%;
+  -ms-grid-column-align: center;
+  justify-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+}
+
+header {
+  margin-bottom: 3rem;
+}
+
+footer {
+  text-align: center;
+  border-top: 1px solid #2b81f1;
+  padding: 20px;
+}
+
+footer p {
+  margin: 0;
+}

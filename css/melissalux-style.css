@@ -1,0 +1,71 @@
+h1 {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 44px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  text-align: center;
+  width: 300px;
+}
+
+h4{
+  background: CadetBlue;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+}
+
+p {
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+}
+
+/*****GRID and FLOATS*****/
+
+.circle-title {
+  float: left;
+}
+
+.circles {
+  margin-left: 150px;
+  margin-top: 40px;
+}
+
+.advice {
+  clear: both;
+  margin-left: 370px;
+  width: 600px;
+}
+
+/*****HEADER*****/
+
+header{
+  background: lightgrey;
+  border-radius: 10px;
+  padding: 40px 20px 20px 20px;
+}
+
+span {
+  color: CadetBlue;
+}
+
+a {
+  color: CadetBlue;
+  font-family: 'Roboto Slab', serif;
+  font-variant: small-caps;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/*****FOOTER*****/
+
+footer {
+  float: right;
+}
