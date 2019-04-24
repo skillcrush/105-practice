@@ -1,0 +1,69 @@
+/****** Base Styles *****/
+
+body {
+    font-family: 'Lato', sans-serif;
+    width: 1200px;
+}
+
+h1, h4 {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+/****** Header *****/
+
+header h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+header a {
+    float: right;
+    font-size: 12px;
+}
+
+/****** Advice Styles *****/
+.advice-perserverance {
+    background-color: #A7CCFB;
+    padding:10px;
+    margin: 0px;
+    float: left;
+    width: 580px;
+    height: 490px;
+    font-size: 18px;
+
+
+}
+.advice-perserverance h4 {
+    text-align: center;
+    font-size: 24px;
+
+}
+
+.advice-disbelief {
+    background-color: #A7CCFB;
+    float: left;
+    width: 580px;
+    height: 490px;
+    padding: 10px;
+    margin: 0px;
+    font-size: 18px;
+}
+
+.advice-disbelief h4 {
+    text-align: center;
+    font-size: 24px;
+}
+
+/****** Footer Styles *****/
+footer {
+    margin: 0px;
+    padding: 10px;
+    align-items: center;
+    background-color: #D7E8FE;
+
+
+}
+footer p {
+
+
+}
