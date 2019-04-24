@@ -23,11 +23,10 @@ body {
 
 
 .half-width {
-	border-bottom: 1px solid #004080;
-	border-top: 1px solid #004080;
 	background: #ebebe0;
+	
 	float: left;
-	font-size: 18px;
+	font-size: 18px; 
 	height: 310px;
 	line-height: 33px;
 	padding: 30px;
@@ -47,6 +46,7 @@ header {
 	background: #ebebe0;
 	margin: 0 auto;
 	padding: 50px 20px 50px 20px;
+	
 }
 
 
