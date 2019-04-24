@@ -1,0 +1,63 @@
+/* CSS Document */
+
+body {
+	
+	background: #F0F0F0;
+	font-family: 'Montserrat', sans-serif;
+	
+	}
+	
+h1, h2, h3, h4 {
+	
+	font-family: 'Sofia';
+	color: #F14384;
+	padding: 10px;
+	text-align: center;
+		
+		}
+
+a {
+	
+	color: #717171;
+	font-weight: 700;
+	text-decoration: none;
+	text-transform: uppercase;
+	
+	}
+	
+a:hover {
+	color: #F14384;
+	
+	}
+	
+.skillcrush-advice {
+	
+	width: 1000px;
+	margin: 0 auto;
+	
+	}
+	
+.advice {
+	
+	font-weight: 500;
+	font-size: 15px;
+	text-align: justify;
+	padding: 20px;
+	color: #000000;
+	
+	}
+	
+footer {
+	
+	background: #717171;
+	font-family: 'Montserrat';
+	font-weight: 700;
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px;
+	text-transform: uppercase;
+	margin-top: 50px;
+	
+	}
+
