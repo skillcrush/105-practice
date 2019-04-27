@@ -4,7 +4,7 @@
 
 body {
 	background: #ffffff;
-	color: #cc9900;
+	color: #004080;
 	font-family: 'PT Serif', serif;
 }
 
@@ -24,7 +24,7 @@ body {
 
 .half-width {
 	background: #ebebe0;
-	
+	color: #cc9900;
 	float: left;
 	font-size: 18px; 
 	height: 310px;
@@ -43,7 +43,8 @@ body {
 
 
 header {
-	background: #ebebe0;
+	background: url('../img/mountains.jpg'); 
+	background-size: cover;
 	margin: 0 auto;
 	padding: 50px 20px 50px 20px;
 	
@@ -63,7 +64,7 @@ header h1 {
 	font-size: 40px;
 	padding: 20px;
 	text-align: center; 
-	color: #004080;
+	color: #ffffff;
 }
 
 
@@ -113,4 +114,4 @@ header h1 span {
 
 footer {
 	clear: both;
-	padding: 17px 10px 17px 10px;
+	padding: 37px 10px 17px 10px;
