@@ -1,0 +1,19 @@
+body {
+	width: 800px;
+	margin: 100px auto;
+}
+body h1,
+body p {
+    text-align: center;
+    c
+	
+}
+body h1 {
+	font: 32px 'Open Sans';
+	font-weight: bold;
+	color: #ffcccc;
+}
+body p {
+	font: 16px 'Open Sans';
+	color: #454545;
+}
