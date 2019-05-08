@@ -1,0 +1,32 @@
+body {
+  background-color: BurlyWood;
+  text-align: center;
+}
+
+h1 {
+  color: ForestGreen;
+  font-weight: bold;
+  font-family: Times, serif;
+  font-size: 28px;
+}
+
+p {
+  font-weight:lighter;
+  color: DodgerBlue;
+  font-family: Times, serif;
+  font-size:20px;
+  font-style: italic;
+}
+
+h3 {
+  color:ForestGreen;
+  font-size: 25px;
+  font-family: Times, cursive;
+  font-weight: bold;
+}
+
+#footer{
+  color: ForestGreen;
+  font-size: 15px;
+  font-family: Times, serif;
+}
