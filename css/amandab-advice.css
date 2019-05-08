@@ -1,0 +1,23 @@
+h1 {
+  font-size: 24px,
+  text-transform:capitalize;
+  color: purple;
+  text-align: center;
+  margin-right: 280px;
+  }
+h4 {
+font-size: 18px,
+}
+.advice {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: blue;
+  text-align: center;
+  width: 1000px;
+  padding: 30px;
+  font-size: 14px,
+
+}
+.Amandab-advice {
+  background-color: #ececec;
+
+}
