@@ -1,0 +1,69 @@
+
+
+body {
+  background-color: #f2f2f2;
+}
+
+/*** HEADER ***/
+
+a {
+  font-size: 15px;
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00aaff;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color:  #00aaff;
+  text-align: center;
+}
+
+h1 span {
+  color: #99ddff;
+  font-family: "Great Vibes", cursive;
+  font-size: 60px;
+  text-transform: none;
+}
+
+/*** ADVICE ***/
+
+.advice {
+  width: 1300px;
+  margin: 20px 60px 20px 60px;
+  height: 350px;
+}
+
+.half-width {
+  width: 560px;
+  margin: 20px 40px 20px 40px;
+  float: left;
+  height: 310px;
+}
+
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+  color:   #0077b3;
+}
+
+p {
+  text-align: justify;
+}
+
+/*** FOOTER ***/
+
+footer {
+  clear: both;
+  padding: 30px;
+}
+
+footer p {
+  font-size: 15px;
+}
