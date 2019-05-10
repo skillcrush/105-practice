@@ -11,14 +11,14 @@ body {
 
 
 
-/***** GRID *****/ 
+/***** GRID *****/
 
 
 
 #advice-s {
 	width: auto;
 	margin: 0 auto;
-} 
+}
 
 
 
@@ -26,7 +26,7 @@ body {
 	background: #ebebe0;
 	color: #cc9900;
 	float: left;
-	font-size: 18px; 
+	font-size: 18px;
 	height: 310px;
 	line-height: 33px;
 	padding: 30px;
@@ -43,11 +43,10 @@ body {
 
 
 header {
-	background: url('../img/mountains.jpg'); 
-	background-size: cover;
+	background: #ebebe0;
 	margin: 0 auto;
 	padding: 50px 20px 50px 20px;
-	
+
 }
 
 
@@ -63,15 +62,15 @@ header a {
 header h1 {
 	font-size: 40px;
 	padding: 20px;
-	text-align: center; 
-	color: #ffffff;
+	text-align: center;
+	color: #cc9900;
 }
 
 
 
 header h1 span {
+	color: #004080;
 	font-style: italic;
-	
 }
 
 
@@ -83,7 +82,7 @@ header h1 span {
 
 
 #advice-s {
-	
+
 }
 
 
@@ -101,7 +100,7 @@ header h1 span {
 
 #first-advice {
 	border-right: 1px solid #004080;
-	
+
 }
 
 
@@ -115,3 +114,5 @@ header h1 span {
 footer {
 	clear: both;
 	padding: 37px 10px 17px 10px;
+	text-align: center;
+}
