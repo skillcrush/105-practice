@@ -1,0 +1,19 @@
+.skillcrush-advice {
+  background-color: gray;
+}
+
+header h1 {
+  color: #c7b2f5;
+  text-transform: uppercase;
+}
+
+.advice h4 {
+  color: blue;
+  font-style: italic;
+  text-align: center;
+}
+
+.advice p {
+  font-variant: small-caps;
+  color: yellow;
+}
