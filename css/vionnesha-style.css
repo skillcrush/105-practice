@@ -7,6 +7,7 @@ body {
   color: #262626;
 }
 
+
 /***** GRID *****/
 
 .vionnesha-advice {
@@ -44,6 +45,7 @@ h1 {
   font-family: 'Chewy', cursive;
   font-size: 50px;
   color: #404040;
+  text-shadow: 1px 1px 2px pink;
 }
 
 /***** SECTION *****/
@@ -53,11 +55,13 @@ section h4 {
   letter-spacing: 1px;
   font-size: 15px;
   text-transform: capitalize;
+  text-shadow: 1px 1px 2px pink, 0 0 1em black, 0 0 0.2em gray;
 }
 
 section p {
   font-size: 16px;
   font-weight: 600;
+  text-shadow: 1px 1px 2px pink, 0 0 1em black, 0 0 0.2em gray;
 }
 
 /***** FOOTER *****/
@@ -72,4 +76,5 @@ footer {
   font-family: 'Ramaraja', serif;
   text-align: justify;
   font-weight: bold;
+  text-shadow: 1px 1px 2px pink;
 }
