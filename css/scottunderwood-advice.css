@@ -1,0 +1,118 @@
+/***** BASE STYLES *****/
+
+
+
+body {
+	background: #ffffff;
+	color: #004080;
+	font-family: 'PT Serif', serif;
+}
+
+
+
+
+/***** GRID *****/
+
+
+
+#advice-s {
+	width: auto;
+	margin: 0 auto;
+}
+
+
+
+.half-width {
+	background: #ebebe0;
+	color: #cc9900;
+	float: left;
+	font-size: 18px;
+	height: 310px;
+	line-height: 33px;
+	padding: 30px;
+	text-align: justify;
+	width: 603px;
+}
+
+
+
+
+
+/***** HEADER *****/
+
+
+
+header {
+	background: #ebebe0;
+	margin: 0 auto;
+	padding: 50px 20px 50px 20px;
+
+}
+
+
+
+header a {
+	text-decoration: none;
+	color: #cc9900;
+	padding-top: 20px;
+}
+
+
+
+header h1 {
+	font-size: 40px;
+	padding: 20px;
+	text-align: center;
+	color: #cc9900;
+}
+
+
+
+header h1 span {
+	color: #004080;
+	font-style: italic;
+}
+
+
+
+
+
+
+/***** ADVICE *****/
+
+
+#advice-s {
+
+}
+
+
+
+
+
+#introduction {
+	font-size: 18px;
+	line-height: 40px;
+	text-align: justify;
+	padding: 50px 25px 50px 25px;
+}
+
+
+
+#first-advice {
+	border-right: 1px solid #004080;
+
+}
+
+
+
+
+
+/***** FOOTER *****/
+
+
+
+footer {
+	clear: both;
+	padding: 37px 10px 17px 10px;
+	text-align: center;
+}
