@@ -1,0 +1,80 @@
+/***** BASE STYLE *****/
+
+body {
+  background: url('https://stmed.net/sites/default/files/keyboard-wallpapers-30703-7308897.jpg');
+  background-position: top;
+  font-family: 'Heebo', sans-serif;
+  color: #262626;
+}
+
+
+/***** GRID *****/
+
+.vionnesha-advice {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.advice {
+  width: 1200px;
+  margin-left: 100px;
+}
+
+.advice-box {
+  width: 400px;
+  float: left;
+  margin-right: 100px;
+  margin-bottom: 50px;
+
+}
+
+/***** HEADER *****/
+
+header {
+  height: 140px;
+  padding-top: 50px;
+}
+
+
+a {
+  font-family: 'Ribeye', cursive;
+  color: #99003d;
+}
+
+h1 {
+  font-family: 'Chewy', cursive;
+  font-size: 50px;
+  color: #404040;
+  text-shadow: 1px 1px 2px pink;
+}
+
+/***** SECTION *****/
+
+section h4 {
+  font-family: 'Luckiest Guy', cursive;
+  letter-spacing: 1px;
+  font-size: 15px;
+  text-transform: capitalize;
+  text-shadow: 1px 1px 2px pink, 0 0 1em black, 0 0 0.2em gray;
+}
+
+section p {
+  font-size: 16px;
+  font-weight: 600;
+  text-shadow: 1px 1px 2px pink, 0 0 1em black, 0 0 0.2em gray;
+}
+
+/***** FOOTER *****/
+
+footer {
+  clear: both;
+  border-top: 1px solid gray;
+  padding-left: 70px;
+}
+
+#favorite p {
+  font-family: 'Ramaraja', serif;
+  text-align: justify;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px pink;
+}
