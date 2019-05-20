@@ -4,7 +4,7 @@ body {
 	background-color: #fae6da;
 	background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
 	font-family: Ariel, Helvetica, sans-serif;
-	color: #244058;
+	color: #262673;
 	font-size: 15px;
 	font-weight: bold;
 }
@@ -21,7 +21,7 @@ header h1 {
 	font-family: 'Anton', sans-serif;
 	font-size: 75px;
 	line-height: 75px; 
-	color: #244058;
+	color: #262673;
 	margin-top: 30px;
 	margin-bottom: 15px;
 }
@@ -32,18 +32,18 @@ header p {
 
 header p a {
 	text-decoration: none; 
-	color: #c6777c;
+	color: #ff8080;
 }
 
 header h1 span {
-	color: #c6777c;
+	color: #ff8080;
 }
 
 /****** ADVICE STYLES ******/
 
 
 .advice-one, .advice-two {
-	border: 2px solid #f1b0b6;
+	border: 2px solid #ff8080;
 	margin-bottom: 23px;
 	padding: 0px 30px;
 	background-color:#fae6da;
@@ -58,7 +58,7 @@ header h1 span {
 }
 
 .advice-one h2, .advice-two h2 {
-	color: #c6777c;
+	color: #ff8080;
 	font-family: 'Pattaya', sans-serif;
 	margin-bottom: 7px;
 }
