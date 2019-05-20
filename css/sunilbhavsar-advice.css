@@ -1,0 +1,43 @@
+
+
+
+
+/**header**/
+header {
+  color: Blue;
+  font-size: 20px;
+  font-family: cursive;
+  font-weight: bold;
+  text-transform: capitalize;
+  background: lightgrey;
+}
+
+header h1 span {
+  color: darkblue;
+  font-size: larger;
+}
+
+header a {
+  text-align: left;
+}
+
+
+
+/***main body***/
+section {
+  color:white;
+  background: blue;
+  font-family: 'ZCOOL KuaiLe', cursive;
+
+}
+
+h4 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+/**footer**/
+footer {
+  text-align: center;
+}
