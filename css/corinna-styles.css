@@ -62,3 +62,10 @@ header h1 span {
 	font-family: 'Pattaya', sans-serif;
 	margin-bottom: 7px;
 }
+
+/****** FOOTER STYLES ******/
+
+footer p {
+	text-align: center;
+	font-size: 12px;
+}
