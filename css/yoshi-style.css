@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #585858;
+}
+
+.yoshi-advice {
+margin: 24px auto;
+width: 80%;
+}
+
+header h1 {
+  margin-top: 72px;
+  font-size: 32px;
+  font-weight: 700;
+  color: 	#778899;
+}
+
+header a {
+  font-size: 12px;
+}
+
+.advice{
+}
+
+h4{
+  color: 	#9ACD32;
+  font-size: 24px;
+  font-weight: 700;
+  padding-top: 32px;
+}
+
+p { font-size: 16px;
+
+}
+
+footer p{
+  font-size: 12px;
+  margin-top: 48px;
+
+}
