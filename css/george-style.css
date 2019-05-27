@@ -1,0 +1,33 @@
+body {
+    background-color: #ff99ff;
+}
+h1, h4, p {
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18pt;
+    text-transform: uppercase;
+}
+
+.half-width {
+    width: 600px;
+    padding: 25px;
+    display: inline;
+}
+
+header {
+    padding: 5px;
+}
+
+footer {
+    height: 100px;
+}
+
