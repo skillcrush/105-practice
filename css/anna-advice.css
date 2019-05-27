@@ -1,0 +1,49 @@
+
+body{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+.skillcrush-advice{
+  background: url('https://images.unsplash.com/photo-1534276866337-55723bdee569?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80') no-repeat center;
+  background-size: cover;
+}
+
+/***** HEADER *****/
+header{
+  text-align: center;
+  color: #dc4d3f;
+
+}
+header a {
+  text-decoration: none;
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+/***** ADVICE *****/
+h4{
+  font-size: 30px;
+  font-weight: bold;
+  color: #ad2a61;
+  margin: 10px 0px;
+}
+.points{
+  width:520px;
+  height: 350px;
+  float: left;
+  background: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  padding: 10px 30px;
+  margin: 0px 10px;
+}
+
+/***** FOOTER *****/
+footer{
+  clear: both;
+  font-weight: bold;
+  color: #ce7a36;
+  text-align: center;
+  padding: 10px;
+}
