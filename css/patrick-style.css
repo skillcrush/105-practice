@@ -1,0 +1,13 @@
+.patrick-advice {
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.advice {
+    width: 500px;
+    margin: 0 auto;
+    background-color: lightgoldenrodyellow;
+    padding: 10px 20px;
+}
