@@ -1,0 +1,71 @@
+/****** BASE STYLES ******/
+
+body {
+	background-color: #fae6da;
+	background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+	font-family: Ariel, Helvetica, sans-serif;
+	color: #262673;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.container {
+	width: 900px;
+	margin: 0 auto;
+}
+
+/****** HEADER STYLES ******/
+
+header h1 {
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 75px;
+	line-height: 75px; 
+	color: #262673;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+header p {
+	text-align: center;
+}
+
+header p a {
+	text-decoration: none; 
+	color: #ff8080;
+}
+
+header h1 span {
+	color: #ff8080;
+}
+
+/****** ADVICE STYLES ******/
+
+
+.advice-one, .advice-two {
+	border: 2px solid #ff8080;
+	margin-bottom: 23px;
+	padding: 0px 30px;
+	background-color:#fae6da;
+}
+
+.advice-two {
+	margin-bottom: 0px;
+}
+
+.advice-one p, .advice-two p {
+	line-height: 21px;
+}
+
+.advice-one h2, .advice-two h2 {
+	color: #ff8080;
+	font-family: 'Pattaya', sans-serif;
+	margin-bottom: 7px;
+}
+
+/****** FOOTER STYLES ******/
+
+footer p {
+	text-align: center;
+	font-size: 12px;
+}
