@@ -7,10 +7,35 @@ Bondi Blue - #2A93D5
 Marina - #135589
 
 
-
-
-
-
-
-
 ************************************/
+
+/*****Font Palette****************
+
+font-family: 'Dosis', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+
+********************************/
+
+/********Global Styles*********/
+
+.anissa-advice {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0, auto;
+    
+}
+
+/******Header**********/
+
+.header-section {
+    background:#2A93D5;  
+}
+
+
+.header-section h1 {
+   font-family: 'Dosis', sans-serif; 
+   font-size: 36px; 
+}
+
+
+
