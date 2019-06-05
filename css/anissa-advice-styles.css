@@ -19,22 +19,68 @@ font-family: 'Open Sans', sans-serif;
 
 /********Global Styles*********/
 
-.anissa-advice {
+body {
     font-family: 'Open Sans', sans-serif;
-    margin: 0, auto;
+    margin: 0 auto;
     
 }
 
-/******Header**********/
+.full-width {
+    width: 1200px;
+}
 
-.header-section {
-    background:#2A93D5;  
+ h4 {
+    text-transform: uppercase;
 }
 
 
-.header-section h1 {
+
+/******Header**********/
+
+header {
+    height: 200px;
+    /*background: #135589 */
+}
+
+
+header h1 {
    font-family: 'Dosis', sans-serif; 
    font-size: 36px; 
+   float: left;
+   padding: 50px 0 50px 25px; 
+   margin: 25px; 
+   /*background: #AED9DA; */
+}
+
+#create-today-img{
+    /*height: 200px*/
+    margin: 30px 0;
+    float: left;
+    border-radius: 50%;
+}
+
+header nav {
+    float: right;
+    padding: 40px 15px;
+    /*background: #EDFAFD;*/
+
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul li a {
+    font-size: 15px; 
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 18px 10px; 
+
 }
 
 
