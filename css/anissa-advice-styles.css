@@ -5,6 +5,7 @@ Chill - #AED9DA
 Califonian Coral - #3DDAD7
 Bondi Blue - #2A93D5
 Marina - #135589
+SlateGrey - #708090
 
 
 ************************************/
@@ -22,12 +23,15 @@ font-family: 'Open Sans', sans-serif;
 body {
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
-    background: /*#AED9DA;*/ #EDFAFD;
     
 }
 
 .full-width {
     width: 1200px;
+}
+
+.half-width {
+    height: 450px;
 }
 
  h4 {
@@ -82,46 +86,87 @@ header nav ul li a {
 }
 
 
-/******Advice Section*********************/
+/******Confusion-Advice Section*********************/
 
-.advice{
+#confusion-advice {
     clear: both;
-    
 }
 
-.hello h2{
+#confusion-advice .full-width {
+    width: 550px; 
+    background:
+
+}
+
+.hello h2 {
     padding: 15px;
+    width: 700px;
+    font-size: 25px;
+    font-variant: small-caps;
+    /*background: red;*/
 
 }
 
-/*******First Section*****************/
+#confusion-advice .half-width {
+    padding: 20px; 
+    float: left;
+    /*background: yellow;*/
+}
 
-.first-section{
-    background: yellow;
-    height: 550px;
+#confusion-advice .half-width h4 {
+    font-size: 20px;
 
 }
 
+#confusion-advice .half-width p {
+    line-height: 30px;
+    font-size: 16px; 
+    color: #708090;
+}
 
-#first-section p {
-    line-height: 28px;
-    font-size: 18px;
 
+
+/********Disbelief Section**************/
+
+#disbelief {
+    float: right;
     
 }
 
+#disbelief .full-width {
+    /*background: green;*/
+    width: 549px;
 
+}
 
-/********Second Section**************/
+#disbelief .half-width {
+    padding: 20px;
 
-.second-section{
-    background: green;
-    height: 600px;
-    width: 498px;
+}
+
+#disbelief .half-width h4 {
+    font-size: 20px;
+
+}
+
+#disbelief .half-width p {
+    line-height: 30px; 
+    font-size: 16px; 
+    color:  #708090;
 }
 
 
-/*******Final Advice Section*************/
+/*******Final Section*************/
+
+#final {
+    clear: both;
+}
+
+.final-main {
+    background:  #135589;
+    margin-top: 20px;
+    width: 
+}
 
 
 
