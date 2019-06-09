@@ -1,0 +1,27 @@
+/***** BASE STYLES *****/
+
+
+/***** HEADER *****/
+h1 {
+  text-align: center;
+  text-transform: capitalize;
+  color: #000085;
+  font-family: monospace;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+/***** ADVICE *****/
+.advice {
+  background-color: green;
+  color: #ffff60;
+}
+
+h4 {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+/***** FOOTER *****/

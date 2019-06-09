@@ -1,0 +1,27 @@
+body{
+    background-color: lightskyblue;
+}
+
+header{
+    background-color: lightgrey;
+}
+
+section{
+    background-color: aliceblue;
+}
+
+footer{
+    background-color: lightgray;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32;
+    text-transform: uppercase;
+}
+
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    text-transform: capitalize;
+    text-decoration: underline
+}
