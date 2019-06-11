@@ -1,0 +1,50 @@
+.Jenni-advice{
+	width: 1200px;
+    margin: 0 auto;
+    background-color: #FFF0F5;
+}
+
+header{
+    height: 100px;
+    margin: 0 auto;
+}
+
+.confusion{
+    width: 580px;
+    margin: 0 auto;
+    float: left;
+    background-color: #8A2BE2
+}
+
+.disbelief{
+    width: 580px;
+    margin: 0 auto;
+    float: right;
+    background-color: #00CED1;
+}
+
+footer{
+    height: 50px;
+	margin: 0 auto;
+	clear: both;
+	text-align: center;
+}
+
+h1{
+    font-family: 'Cookie', cursive;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'News Cycle', sans-serif;
+}
