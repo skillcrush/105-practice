@@ -15,15 +15,15 @@ body {
 }
 /***HEADER***/
 header  {
-    height: 500px;
-    background: url('../img/water-lily.png');
+    height: 300px;
+    background-color: skyblue;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
   }
   header a {
     font-family: 'K2D', sans-serif;
-    color: pink;
+    color: magenta;
     font-size: 26px;
     text-decoration: none;
   }
@@ -32,9 +32,9 @@ header  {
       font-family: 'K2D', sans-serif;
       font-size: 72px;
       line-height: 80px;
-      color: pink;
+      color: magenta;
       text-align: right;
-      padding-top: 200px;
+
     }
 /****Section****/
 div {
@@ -42,13 +42,13 @@ div {
 }
 h4 {
   font-family: 'Noto Sans TC';
-  font-size: 45px;
+  font-size: 25px;
 }
 p {
     font-family: 'Noto Sans TC';
     padding-right: 25px;
     padding-left: 25px;
-    font-size: 25px;
+    font-size: 15px;
 }
 p span {
   text-transform: uppercase;
