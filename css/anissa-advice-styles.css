@@ -114,7 +114,7 @@ header nav ul li a {
 }
 
 #confusion-advice .half-width h4 {
-    font-size: 20px;
+    font-size: 18px;
 
 }
 
@@ -145,7 +145,7 @@ header nav ul li a {
 }
 
 #disbelief .half-width h4 {
-    font-size: 20px;
+    font-size: 18px;
 
 }
 
@@ -162,12 +162,36 @@ header nav ul li a {
     clear: both;
 }
 
-.final-main {
-    background:  #135589;
+#final .full-width {
+    /*background: yellow;*/
     margin-top: 20px;
-    width: 
+    height: 300px;
 }
 
+#final .final-main {
+    /*background: red;*/
+    padding: 15px;
+}
+
+#final .final-main h4 {
+    font-size: 20px;
+    padding-left: 20px;
+
+}
+
+#final .final-main p {
+    height: 60px;
+    font-size: 16px;
+    line-height: 27px; 
+    color: #708090;
+    padding: 15px;
+    
+}
+
+
+.final-quote {
+    background: #135589;
+}
 
 
 
