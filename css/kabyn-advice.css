@@ -1,0 +1,92 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Assistant', 'Helvetica', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Alfa Slab One', serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #B2B7BB;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 72px;
+    margin-bottom: 0;
+    color: #002A5C;
+}
+
+header h1 span {
+    font-size: larger;
+}
+
+header h2 {
+    font-family: 'Assistant', 'Helvetica', sans-serif;
+    margin-top: 0;
+    margin-left: 20px;
+    color: #a8aac0;
+    letter-spacing: 1px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #7AC142;
+    border: 3px solid #002A5C;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color :#002A5C;
+}
+
+header a:hover {
+    background-color :#7AC142;
+    color: #002A5C;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #002A5C;
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: #7AC142;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice h4 span {
+    color: #f8f8f2;
+}
+
+.advice p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #a8aac0;
+    font-weight: bolder;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #B2B7BB;
+}
+
+footer p {
+    color: #002A5C;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
