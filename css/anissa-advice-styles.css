@@ -94,7 +94,6 @@ header nav ul li a {
 
 #confusion-advice .full-width {
     width: 550px; 
-    background:
 
 }
 
@@ -168,18 +167,18 @@ header nav ul li a {
     height: 300px;
 }
 
-#final .final-main {
+#final .final-top {
     /*background: red;*/
     padding: 15px;
 }
 
-#final .final-main h4 {
+#final .final-top h4 {
     font-size: 20px;
     padding-left: 20px;
 
 }
 
-#final .final-main p {
+#final .final-top p {
     height: 60px;
     font-size: 16px;
     line-height: 27px; 
@@ -188,9 +187,28 @@ header nav ul li a {
     
 }
 
+#final .final-top p span {
+    font-weight: bold; 
+}
 
-.final-quote {
+
+#final-quote {
+    margin-left: 330px;
     background: #135589;
+    height: 180px;
+    width: 350px;
+    line-height: 30px;
+    color: #AED9DA;
+    padding: 12px;
+    text-align: justify;
+    font-variant: small-caps;
+    font-size: 22px;
+    
+}
+
+#final .final-bottom p {
+    font-style: italic;
+    margin-top: 30px;
 }
 
 
