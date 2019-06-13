@@ -1,0 +1,48 @@
+/***** BASE *****/
+
+h2 {
+    text-align: center;
+    color: mistyrose;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-weight: 700px;
+}
+
+/***** BODY *****/
+
+body {
+    background-color: steelblue;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 60px 60px 60px 150px;
+    width: 1000px;
+}
+
+body h1 {
+    color: lavenderblush;
+    font-family: 'Raleway Dots', cursive;
+    font-size: 42px;
+}
+
+/***** HEADER *****/
+
+header a {
+    color: mistyrose;
+    text-align: left;
+}
+
+/***** SECTION  *****/
+
+.advice p {
+    border: 1px dotted mistyrose;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin-top: 36px;
+}
