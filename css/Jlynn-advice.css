@@ -1,0 +1,50 @@
+body {
+  background-color: #336699;
+  color: white;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Paytone One', sans-serif;
+  font-size: 70px;
+  line-height: 25px;
+  margin-bottom: -5px;
+  color: #ffb84d;
+}
+
+.header1 {
+  font-size: 120px;
+  margin-top: -220px;
+  margin-bottom: -160px;
+  text-align: center;
+  font-family: 'Paytone One', sans-serif;
+}
+
+h3 {
+  font-family: 'Paytone One', sans-serif;
+  font-size: 40px;
+  margin-top: 55px;
+}
+
+.advice {
+ margin-top: -9px;
+ margin-bottom: -15px;
+  font-size: 20px;
+}
+
+.big-advice {
+  font-family: 'Paytone One', sans-serif;
+  font-size: 40px;
+  margin-bottom: -9px;
+}
+
+.bigger-advice {
+  font-family: 'Paytone One', sans-serif;
+  font-size: 40px;
+}
+
+.copyright {
+  padding-top: 10px;
+}
