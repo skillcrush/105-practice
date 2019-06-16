@@ -164,7 +164,7 @@ header nav ul li a {
 #final .full-width {
     /*background: yellow;*/
     margin-top: 20px;
-    height: 300px;
+    height: 500px;
 }
 
 #final .final-top {
@@ -193,7 +193,7 @@ header nav ul li a {
 
 
 #final-quote {
-    margin-left: 330px;
+    margin-left: 370px;
     background: #135589;
     height: 180px;
     width: 350px;
@@ -206,13 +206,33 @@ header nav ul li a {
     
 }
 
+#final-quote span {
+    font-style: italic;
+    font-size: 14px;
+}
+
 #final .final-bottom p {
     font-style: italic;
     margin-top: 30px;
+    font-size: 14px;
+    padding-left: 45px;
+    color: #708090;
+
 }
 
 
 
 
 /*********Footer*************/
+
+footer {
+    height: 50px; 
+    margin: 0 auto; 
+    /*background:; may put in the color later********/
+}
+
+footer p {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
 
