@@ -1,0 +1,50 @@
+.container {
+  width: 960px;
+  margin: auto;
+}
+
+header {
+  background-color: #300032;
+  padding: 25px 0px;
+}
+
+header h1 {
+  color: #FFF;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+section {
+  width: 50%;
+  margin: auto;
+}
+
+h4 {
+  font-size: 1.8em;
+  font-family: 'Oswald', sans-serif;
+}
+section p {
+  font-size: 1.2em;
+  font-family: 'Raleway', sans-serif;
+}
+
+footer {
+  background-color: #200018;
+  color: #FFF;
+  text-align: center;
+  height: 70px;
+}
+
+footer p {
+  padding: 20px 0px;
+}
