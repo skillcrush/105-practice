@@ -1,0 +1,32 @@
+body {
+  font-family: 'Great Vibes', cursive;
+}
+
+#copyright {
+  margin-top: 75px;
+}
+
+.advice {
+  border: 7px solid grey;
+  border-radius: 12px;
+  margin: 0px 45px 0px 45px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: pink;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  text-align: center;
+}
+
+p {
+  font-size: 24px;
+  text-align: center;
+}
