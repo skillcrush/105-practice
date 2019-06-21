@@ -1,0 +1,32 @@
+body{
+  font-family: "Lora"; serif;
+  background-color: eggshell;
+  color: #595959;
+}
+h1{
+font-family: serif;
+color: #326273;
+text-align: center;
+}
+.full-section{
+  width: 1200px;
+  margin: 0;
+}
+.advice{
+  width: 1020px;
+float:right;
+}
+.disbelief{
+  width: 1020px;
+  float:right;
+}
+#advice {
+font-size: 25px;
+color: #5C9EAD;
+}
+#disbelief{
+font-size: 25px;
+color: #5C9EAD;}
+#link{
+  color: #5C9EAD;
+}
