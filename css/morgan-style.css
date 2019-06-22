@@ -1,0 +1,20 @@
+/******BASE STYLES******/
+body {
+	background-color: #ccabd6;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #764b92;
+}
+/******HEADER******/
+header h1 {
+	font-family: 'Old Standard TT', serif;
+	color: #004e4e;
+}
+/******SECTION******/
+section h4 {
+	font-family: 'Old Standard TT', serif;
+	color: #008c99;
+}
+/******FOOTER******/
+footer {
+	color: #008c99;
+}
