@@ -1,0 +1,35 @@
+/***** BASE STYLES *****/
+
+header {
+	font-family: 'Arsenal', sans-serif;
+	font-size: 18px;
+}
+
+h1 {
+	font-family: 'Aguafina Script', cursive;
+	font-size: 36px;
+	text-align: center;
+}
+
+h2, h3, h4 {
+    font-family: 'Arsenal', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+	font-family: 'Arsenal', sans-serif;
+	font-size: 16px;
+	text-indent: 25px;
+}
+
+footer {
+	font-size: 10px;
+	text-align: center;
+}
+
+.randall-advice {
+	background: url ('https://i0.wp.com/textureshot.com/wp-content/uploads/2018/11/Background-blue-abstract-website-pattern-Vector-Image.jpg?fit=948%2C1024&ssl=1')
+
+}
