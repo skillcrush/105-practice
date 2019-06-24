@@ -1,0 +1,42 @@
+.skillcrush-advice {
+	width: 100%;
+    max-width: 960px;
+    margin: auto;	
+}
+
+header {
+	display: block;
+}
+
+h1{
+	font-family: grafolita-script, sans-serif;
+	font-weight:400;
+	font-style: normal;
+	font-size: 60px;
+	color: #6F7753; 
+ 	margin-bottom: 0px;
+}
+
+h2{
+	color: #F9C7A3;
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 30px;
+	margin-top: 0px;
+}
+
+h4 {
+	color: #A9A07E;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+.advice {
+	padding-top: 15px;
+}
+
+p{
+	color: #6F7753;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+}
