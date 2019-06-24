@@ -1,0 +1,23 @@
+/***** Base Styles *****/
+
+p {
+    color:chocolate;
+    font-family: sans-serif;
+    font-size: 12px;
+
+}
+
+h1 {
+    color:deeppink;
+    font-size: 18px;
+}
+
+h4 {
+    color:darksalmon;
+    font-size: 16px;
+    text-transform:uppercase;
+}
+
+.zhenya-advice {
+    background-color:antiquewhite;
+}
