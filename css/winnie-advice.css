@@ -1,0 +1,31 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: #f442a4;
+}
+
+h1, h4 {
+	font-family: 'Shadows Into Light', cursive;
+	color: #FFFFFF;
+}
+
+h1 {
+	font-size: 72px;
+  text-align: center;
+}
+
+h4 {
+	font-size: 24px;
+  text-transform: capitalize;
+}
+
+p {
+	font-size: 18px;
+	color: #FFFFFF;
+}
+
+
+footer p {
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+}

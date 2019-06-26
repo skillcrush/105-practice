@@ -1,0 +1,38 @@
+.advice {
+	background-color: blue;
+	border-style: solid;
+	border-color: black;
+	margin: 20px;
+	padding: 20px;
+	width: 1200px;
+}
+
+h1 span {
+	font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+	font-family: 'Righteous', cursive;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+p, h4 {
+	color: white;
+}
+
+p{
+	font-family: 'Playfair Display', serif;
+}
+
+.footer {
+	text-align: center;
+	background-color: #66ccff;
+	border-color: black;
+	border-style: solid;
+	float: left;
+	clear: both;
+	margin: 20px;
+	padding: 20px;
+	width: 1200px;
+}
