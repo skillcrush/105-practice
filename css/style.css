@@ -1,5 +1,5 @@
 
-body{ text-align:center;
+body{ text-align:justify;
 }
 
 
@@ -15,20 +15,13 @@ h2{color:#3cb371;
 
 p{font-size: 20px;
 text-align: center;
-font-weight: bold; 
+font-weight: bold;
 }
 
-h3{text-transform: uppercase; 
+h3{text-transform: uppercase;
 color: darkorchid;
 }
 
 div{font-weight: bold;
 	color: #663399;
 }
-
-
-
-
-
-
-
