@@ -80,7 +80,7 @@ header nav ul li {
 header nav ul li a {
     font-size: 15px; 
     text-transform: uppercase;
-    text-decoration: none;
+    /*text-decoration: none; *******/
     padding: 18px 10px; 
 
 }
