@@ -1,0 +1,48 @@
+body{
+    background: url(https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat 0px -600px  #f2e6ff;
+    background-size: cover;
+    color: #1f003b;
+}
+
+header div{
+    width: 170px;
+    padding: 0px 10px;
+    border: 1px dotted black;
+    font-family: 'Homemade Apple', cursive;
+}
+
+h1{
+    color: #330066;
+    font-size: 35px;
+    font-family: 'Homemade Apple', cursive;
+}
+
+h1 span{
+    color: #26004d;
+    font-size: 50px;
+}
+
+h4{
+    color:#4a0080;
+    font-family: 'Marck Script', cursive;
+    font-size: 30px;
+    margin: 50px 0px 10px 0px;
+
+}
+section p{
+    color:  #26004d;
+    font-family: 'Merienda', cursive;
+    font-size: 16px
+}
+section span{
+    color:#4a0080;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    /* font-variant: small-caps; */
+}
+
+footer{
+    margin: 50px 0 0 0;
+    font-family: 'Homemade Apple', cursive;
+}
