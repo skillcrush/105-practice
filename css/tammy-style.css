@@ -1,0 +1,28 @@
+body {
+  background: #ecc6c6;
+  margin: auto;
+  padding: 40px 40px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+  color: #329560;
+}
+
+span {
+  color: #7e2a2d;
+}
+
+.advice {
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Sacramento', cursive;
+  font-size: 32px;
+}
+
+p {
+  font-family: 'Alice', serif;
+}
