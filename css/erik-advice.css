@@ -1,0 +1,34 @@
+body {
+	font-family: 'Playfair Display', serif;
+/*	background-color: #f4d7d7;*/
+}
+
+
+h1 {
+	font-family: 'Shadows into light', cursive;
+	font-size: 45px;
+	text-align: center;
+	color: white;
+}
+
+h4 {
+	font-family: 'Shadows into light', cursive;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+header {
+	border: solid 5px lightgray;
+	height: 20%;
+	background-image: linear-gradient(to bottom right, lightcoral/*#d6dce2*/, #d6dce2/* #4a74a4*/) ;
+}
+
+footer{
+	background-color: #d6dce2;
+	/*background-image: linear-gradient(to bottom right, #d6dce2, lightcoral);*/
+	clear: both;
+	height: 10%;
+	padding-top: 1.5%;
+	box-sizing: border-box;
+	text-align: center;
+}
