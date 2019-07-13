@@ -1,0 +1,119 @@
+/*
+Color Palette
+#8C1C71 MIDNIGHT
+#01A2B4 
+#A7BFD4 Purple Taupe
+#230424 Dark Purple
+#39375B Deep Koamaru
+*/
+
+/*-----------------------Grid---------------------*/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+}
+.half-width {
+    width: 500px;
+    float: left;
+    height: 600px;
+    padding: 0 50px;
+}
+/*----------------------Base-Styles---------------------*/
+
+body{ 
+        background-color: #7F7F7F;
+    color: #412A3C;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #A7BFD4;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*----------------------Header---------------------*/
+
+
+
+header {
+    text-align:center;
+    font-family: 'Caveat', cursive;
+    font-size: 32px;
+    height: 600px;
+    padding:10px;
+    color: #230424;
+}
+
+h1 {
+    height: 600px;
+    background: linear-gradient(rgba(53, 42, 69, 0.2),
+                 rgba(53, 42, 69, 0.1)),
+        url(https://images.unsplash.com/photo-1525876183281-0d0d9308010d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat fixed;
+    background-size: 1300px 600px;.
+ 
+}
+
+.first-heading{
+    font-size: 60px;
+    padding: 40px 20px;
+}
+
+
+/*----------------------Main---------------------*/
+aside {
+    border: solid #412A3C 10px;
+    background-color: #6F4F96;
+    border-radius: 50%;
+    color: #412A3C;
+    font-size: 36px;
+    font-style: italic;
+    margin: 0 auto;
+    padding: 40px 0;
+    text-align: center;
+    width: 400px;
+    
+}
+
+h2{
+	font-size: 36px;
+	font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase; 
+    text-align: center;
+}
+
+p{
+    font-size: 14px;
+    text-align: left;
+    font-weight: bold; 
+}
+
+span {
+    font-size: 32px;
+    font-family: 'Caveat', cursive;
+}
+
+/*----------------------Footer---------------------*/
+footer {
+    margin-top: 100px;
+}
+
+.copyright {
+    text-align: center;
+    color: #412A3C;
+}
+
+div{font-weight: bold;
+    
+}
+
+
+
+
+
+
+
