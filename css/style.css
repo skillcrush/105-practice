@@ -1,0 +1,34 @@
+
+body{ text-align:center;
+}
+
+
+h1{
+  background-color:#cc66ff;
+  padding:10px;
+}
+
+h2{color:#3cb371;
+	font-size: 40px;
+	font-style: italic;
+}
+
+p{font-size: 20px;
+text-align: center;
+font-weight: bold; 
+}
+
+h3{text-transform: uppercase; 
+color: darkorchid;
+}
+
+div{font-weight: bold;
+	color: #663399;
+}
+
+
+
+
+
+
+
