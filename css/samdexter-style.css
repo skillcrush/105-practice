@@ -1,0 +1,19 @@
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: coral;
+	text-align: center;
+	background: turquoise;
+	font-size: 42px;
+}
+
+h4 {
+	font-family: 'Roboto Condensed', sans-serif;
+	text-decoration: underline;
+	font-size: 20px;
+	text-align: center;
+}
+
+p {
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 5px 30px;
+}
