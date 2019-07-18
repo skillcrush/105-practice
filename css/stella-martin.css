@@ -1,0 +1,35 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+a {
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    color: black;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background: turquoise;
+    color: white;
+}
+
+h4 {
+    font-family: 'Dancing Script';
+    font-size: 30px;
+    color: turquoise;
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    color: #000000;
+    line-height: 23px;
+}
