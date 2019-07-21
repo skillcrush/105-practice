@@ -10,20 +10,20 @@ Color Palette
 /*-----------------------Grid---------------------*/
 
 .full-width {
-    width: 1200px;
+    width: 1300px;
     margin: 0 auto;
     padding: 0;
 }
 .half-width {
-    width: 500px;
+    width: 650px;
     float: left;
-    height: 600px;
-    padding: 0 50px;
+    height: 450px;
+    padding: 0;
 }
 /*----------------------Base-Styles---------------------*/
 
 body{ 
-        background-color: #7F7F7F;
+    background-color: #7F7F7F;
     color: #412A3C;
     font-family: 'Montserrat', sans-serif;
 }
@@ -44,7 +44,7 @@ header {
     font-family: 'Caveat', cursive;
     font-size: 32px;
     height: 600px;
-    padding:10px;
+    padding: 25px;
     color: #230424;
 }
 
@@ -53,7 +53,7 @@ h1 {
     background: linear-gradient(rgba(53, 42, 69, 0.2),
                  rgba(53, 42, 69, 0.1)),
         url(https://images.unsplash.com/photo-1525876183281-0d0d9308010d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat fixed;
-    background-size: 1400px 600px;.
+    background-size: 1300px 600px;.
  
 }
 
@@ -90,6 +90,8 @@ p{
     font-size: 14px;
     text-align: left;
     font-weight: bold; 
+    margin: 0 30px;
+        
 }
 
 span {
