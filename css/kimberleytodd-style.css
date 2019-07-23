@@ -17,7 +17,7 @@ Color Palette
 .half-width {
     width: 650px;
     float: left;
-    height: 450px;
+    height: 520px;
     padding: 0;
 }
 /*----------------------Base-Styles---------------------*/
@@ -97,7 +97,7 @@ h2{
 }
 
 p{
-    font-size: 14px;
+    font-size: 18px;
     text-align: left;
     font-weight: bold; 
     margin: 0 30px;
