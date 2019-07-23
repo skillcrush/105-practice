@@ -49,13 +49,13 @@ header {
 }
 
 section {
-    height: 500px;
+    height: 600px;
     background: linear-gradient(rgba(53, 42, 69, 0.2),
                  rgba(53, 42, 69, 0.1)),
         url(https://images.unsplash.com/photo-1525876183281-0d0d9308010d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat fixed;
     background-size: cover;
 /*    background-position: 1600px 600px;*/
-    background-position: 100% 100%;
+    background-position: 100% 110%;
     }
 
 h1 {
