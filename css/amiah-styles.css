@@ -1,0 +1,29 @@
+/*font-family: 'Fredoka One', cursive;
+font-family: 'Amaranth', sans-serif;*/
+
+body {
+    background-color: #ff0066;
+}
+
+header {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+
+.advice {
+    padding: 50px;
+    width: 800px;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Fredoka One', cursive; 
+}
+
+p{
+    font-family: 'Amaranth', sans-serif;
+}
+
+footer {
+    padding-left: 50px;
+}
