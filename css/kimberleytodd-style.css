@@ -43,27 +43,35 @@ header {
     text-align:center;
     font-family: 'Caveat', cursive;
     font-size: 32px;
-    height: 600px;
-    padding: 25px;
+/*    height: 600px;*/
+/*    padding: 25px;*/
     color: #230424;
 }
 
-h1 {
-    height: 600px;
+section {
+    height: 500px;
     background: linear-gradient(rgba(53, 42, 69, 0.2),
                  rgba(53, 42, 69, 0.1)),
         url(https://images.unsplash.com/photo-1525876183281-0d0d9308010d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat fixed;
-    background-size: 1500px 600px;.
- 
-}
+    background-size: cover;
+/*    background-position: 1600px 600px;*/
+    background-position: 100% 100%;
+    }
 
-.first-heading{
+h1 {
     font-size: 60px;
-    padding: 40px 20px;
+    margin: auto;
+/*    padding: 40px 20px;*/
 }
 
 
 /*----------------------Main---------------------*/
+
+.advice {
+    overflow: auto;
+    padding: 50px 0;
+}
+
 aside {
     border: solid #412A3C 10px;
     background-color: #6F4F96;
@@ -75,6 +83,8 @@ aside {
     padding: 40px 0;
     text-align: center;
     width: 400px;
+/*    overflow: auto;*/
+    
     
 }
 
