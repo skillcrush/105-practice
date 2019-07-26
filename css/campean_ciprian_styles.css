@@ -1,0 +1,58 @@
+body {
+    background-color: #cbd1a1;
+}
+
+h1 {
+  color: #802b51;
+  text-align: center;
+  text-decoration: underline;
+}
+h2 {
+  color: #802b51;
+  text-align: center;
+  text-decoration: underline;
+}
+p {
+    text-align: justify;
+    color: #802b51;
+    padding: 20px 0;
+    margin: 20px 20px 20px 20px;
+}
+header {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.advice {
+  width: 1200px;
+  margin: 0 auto;
+}
+.first-half {
+  width: 559px;
+  float: left;
+  border-right: 2px solid #802b51;
+  height: auto;
+}
+
+.second-half {
+  width: 559px;
+  float: left;
+}
+
+.final-advice {
+  width: 559px;
+  margin: 0 auto;
+  clear: both;
+  text-align: center;
+}
+
+.final-advice p {
+  text-align: center;
+}
+footer {
+    clear: both;
+    text-align: center;
+}
+footer p {
+    text-align: center;
+}
