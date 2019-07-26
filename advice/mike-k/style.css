@@ -1,0 +1,24 @@
+body.skillcrush-advice {
+	margin:  0 auto;
+	background-color:  #d2ff4d;
+
+}
+
+h1  {
+	font-family: 'Permanent Marker', cursive;
+	text-align:  center;
+	text-transform: uppercase;
+}
+h4 {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight:  bold;
+}
+p {
+	font-family: 'Schoolbell', cursive;
+}
+footer {
+	text-align: center
+}
+
+
