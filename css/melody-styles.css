@@ -1,0 +1,13 @@
+﻿.melody-advice{
+	width: 800px;
+    margin: 100px auto;
+    text-align: center;
+    color: #444444;
+    font: 32px 'Open Sans';
+	font-weight: bold;
+}
+.advice{
+	text-align: center;
+    color: #4444bb;
+    font: 25px 'Open Sans';
+}
