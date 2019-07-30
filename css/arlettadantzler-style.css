@@ -1,0 +1,15 @@
+body .arlēttas-advice{
+  background-color: #A67458;
+}
+
+h1, h4 {
+  color: #0D0D0D;
+  font-family: 'Pacifico', cursive;
+  font-size: 36px;
+}
+
+p {
+  color: #595959;
+  font-family: 'Muli', sans-serif;
+  font-size: 24px;
+}
