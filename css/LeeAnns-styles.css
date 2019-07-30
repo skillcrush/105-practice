@@ -1,0 +1,51 @@
+/*****BASE STYLES*****/
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #b3e0ff;
+}
+/*****GRID*****/
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+  border: solid 1px red;
+}
+.half-width {
+  width: 600px;
+  float: left;
+  border: solid 1px blue;
+  padding: 30px;
+}
+
+/*****HEADER*****/
+header h1 {
+  font-family:  'Dancing Script', cursive;
+  color: #0000ff;
+  font-size: 40px;
+  padding: 10px;
+}
+span {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  font-size:30px;
+  padding: 320px;
+}
+ h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+  color: #0000ff;
+}
+
+/*****HALF-WIDTH*****/
+ p {
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+  line-height: 40px;
+  padding-left: 50px;
+  padding-right: 80px;
+  float: right;
+}
+
+/*****FOOTER*****/
+footer {
+text-align: right;
+}
