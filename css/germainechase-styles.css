@@ -1,0 +1,27 @@
+body{
+  font-family: monospace;
+}
+
+.germaine-advice{
+  width:600px;
+  border-bottom: 1px dotted black;
+  background-color: #fcc603;
+  align-self: center;
+}
+
+.advice{
+
+}
+
+h1{
+  font-size: 25px;
+  color: #02454d;
+}
+
+h4{
+  color:#010708;
+}
+
+p{
+  text-align: justify;
+}
