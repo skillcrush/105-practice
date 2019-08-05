@@ -1,0 +1,31 @@
+/***BASE STYLES***/
+h1, h2 {
+		color: #ff0000;
+		text-align: center;
+}
+
+h4 {
+		color: #660066;
+}
+
+p {
+		color: #008000;
+		font-weight: bolder;
+}
+
+/***Body***/
+body {
+		background-color: black;
+}
+
+h1 {
+		font-size: 40px;
+}
+
+h2 {
+		font-size: 28px;
+}
+
+h4, p{
+		font-size: 14px;
+}
