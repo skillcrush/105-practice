@@ -50,7 +50,7 @@ header h1 span{
 #advice .full-width{
     width: 1200px;
     clear: both;
-    color: #7A9E9F
+    color: #7A9E9F;
     text-align: justify;
     line-height: 30px;
 }
@@ -78,4 +78,5 @@ footer p{
     font-size: 15px;
     font-weight: bold;
     text-align: center;
-    color: #7A9E9F}
+    color: #7A9E9F;
+}
