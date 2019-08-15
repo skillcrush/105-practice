@@ -1,0 +1,15 @@
+background{
+	color:white;
+	
+}
+
+h1 { 
+color: black;
+font-weight: bold;
+}
+
+body{
+	
+	font: black;
+	
+}
