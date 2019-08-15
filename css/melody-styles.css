@@ -1,0 +1,30 @@
+﻿.melody-advice{
+    color: #008B8B;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 32px;
+	font-weight: bold;
+    margin: 100px auto;
+    text-align: center;
+    width: 800px;
+  
+}
+
+.advice{
+    color: #008B8B;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 16pt;
+    text-align: left;
+}
+
+.advice-1{
+    border: 3px solid rgba(128, 128, 128, 0.815);
+    margin: 25px auto;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.advice-2{
+    border: 3px solid rgba(128, 128, 128, 0.815);
+    margin: 25px auto;
+    padding: 10px 10px 10px 10px;
+}

@@ -1,0 +1,82 @@
+/***** BASE STYLES *****/
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    background: #B8D8D8;
+    width: 1200px;
+    /*font-family: 'Lexend Giga', sans-serif;*/
+}
+
+/***** HEADER STYLES *****/
+
+header {
+    padding-left: 50px;
+}
+
+header a{
+    text-decoration: none;
+    color: #EEF5DB;
+    text-align: right;
+    
+}
+
+header h1{
+    color: #4F6367;
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 40px;
+    line-height: 80px;
+    text-align: center;
+    border-top: 10px solid #FE5F55;
+    border-bottom: 10px solid #FE5F55;
+    
+}
+
+header h1 span{
+    color: #7A9E9F;   
+}
+
+/***** ADVICE STYLES *****/
+
+.advice{
+    padding-left:50px;
+}
+
+.advice .half-width{
+    width: 550px;
+    float:left; 
+    margin: 0 auto;   
+}
+
+#advice .full-width{
+    width: 1200px;
+    clear: both;
+    color: #7A9E9F;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.advice h4{
+    font-size: 20px;
+    height: 30px;
+    text-transform: uppercase;
+    color: #7A9E9F;
+    padding-left: 40px;
+    
+}
+
+.advice p{
+    color: #4F6367d;
+    text-align: justify;
+    padding-right: 40px;
+    padding-left: 40px;
+    line-height: 30px;
+}
+
+/***** FOOTER STYLES *****/
+
+footer p{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: #7A9E9F;
+}
