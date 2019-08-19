@@ -1,0 +1,23 @@
+header {
+    float: left;
+    font-size: 24px;
+    background-color: red;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+body {
+    font-size: 16px;
+    background-color: rgb(204, 96, 96);
+    color: black;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+footer {
+    color: white;
+}
