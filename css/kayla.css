@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+    max-width: 90%;
+    width: 960px;
+    margin: 0 auto;
+
+    
+}
+h1, h2 {
+    font-size: 36px;
+    color: blueviolet;
+    text-align: center;
+}
+
+body section p{
+    font-size: 24px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    color: whitesmoke;
+}
