@@ -1,0 +1,58 @@
+/***** BODY *****/
+body {
+    font-family: 'Federo';
+    font-size: 18px;
+    background: #dddddd;
+    color: #444;
+}
+
+.corey-advice {
+    width: 60%;
+    margin: 0 auto;
+}
+
+header h1, footer  {
+    font-family: 'Patrick Hand SC';
+}
+
+.column{
+    padding: 10px 30px; 
+    background: #eeeeee;
+    height: 100vh;
+}
+
+/***** HEADER *****/
+header {
+    border-bottom: 1px solid  #b5525c;
+}
+
+header a {
+    text-decoration: none;
+    color: #5588a3;
+}
+
+/***** ADVICE *****/
+
+.advice h4 {
+    font-family: Patrick Hand SC;
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding-left: 15px;
+    color: #b5525c;
+}
+
+.advice p {
+    line-height: 27px;
+}
+
+.advice span {
+    font-family: 'Patrick Hand SC';
+    color: #b5525c;
+}
+
+/***** FOOTER *****/
+
+footer {
+    text-align: center;
+    border-top: 1px solid #b5525c;
+}
