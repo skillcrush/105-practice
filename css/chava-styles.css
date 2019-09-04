@@ -1,0 +1,90 @@
+/***** BODY U.N.O. *****/
+
+body {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  width: 1200px;
+}
+
+/***** HEADER *****/
+
+header {
+  background-color: #1ac6ff;
+  color: #ff5c33;
+  font-family: 'Anton', sans-serif;
+  font-size: 20px;
+  height: 80px;
+}
+
+.full-width {
+  margin: 0 auto;
+  padding: 0 auto;
+  width: 1200px;
+}
+
+.three-width {
+  float: left;
+  padding: 0 10px 0 10px;
+  text-align: center;
+  width: 900px;
+}
+
+.one-width {
+  float: left;
+  font-size: 13px;
+  font-style: italic;
+  padding: 0 10px 0 10px;
+  text-align: right;
+  width: 260px;
+}
+
+/***** ADVISE SECTION 1 *****/
+
+.full-two {
+  background-color: #ffebe6;
+  height: 320px;
+  margin: 0 auto;
+  padding: 5px 25px 5px 25px;
+  width: 1150px;
+}
+
+.advice-one h4 {
+  color: #80dfff;
+  font-size: 40px;
+  font-family: 'Anton', sans-serif;
+  text-align: right;
+}
+
+.advice-one p {
+  color: #ff9980;
+  font-size: 20px;
+  text-align: right;
+}
+
+/***** ADVISE SECTION 2 *****/
+
+.full-three {
+  background-color: #e6f9ff;
+  height: 320px;
+  margin: 0 auto;
+  padding: 5px 25px 5px 25px;
+  width: 1150px;
+}
+
+.advice-two h4 {
+  color: #ff9980;
+  font-size: 40px;
+  font-family: 'Anton', sans-serif;
+  text-align: left;
+}
+
+.advice-two p {
+  color: #80dfff;
+  font-size: 20px;
+}
+
+/***** FOOTER *****/
+
+footer p {
+  color: #bfbfbf;
+  font-size: 15px;
+}
