@@ -1,92 +1,98 @@
-/***** BASE STYLES *****/
-
+/***** base *****/
 body {
-    font-family: 'Assistant', 'Helvetica', sans-serif;
-    max-width: 1280px;
-    margin: 0 auto;
+  width: 100%;
+  background-image: url("../treebark.jpeg");
 }
 
-h1, h2, h3, h4 {
-    font-family: 'Alfa Slab One', serif;
-}
-
-/***** HEADER *****/
-
+/***** header *****/
 header {
-    background-color: #f8f8f2;
-    padding: 30px 40px;
-}
+  margin: 20px 20px;
+  width:auto;
 
-header h1 {
-    font-size: 72px;
-    margin-bottom: 0;
-    color: #161616;
-}
-
-header h1 span {
-    color: #a8aac0;
-    font-size: larger;
-}
-
-header h2 {
-    font-family: 'Assistant', 'Helvetica', sans-serif;
-    margin-top: 0;
-    margin-left: 20px;
-    color: #a8aac0;
-    letter-spacing: 1px;
 }
 
 header a {
-    text-decoration: none;
-    font-size: 26px;
-    text-transform: uppercase;
-    color: #262730;
-    border: 3px solid #262730;
-    padding: 10px 20px;
-    margin-top: 20px;
+  text-decoration: none;
+  font-family: 'Fredericka the Great', cursive;
+  color: #ecf2f9;
+  border: 2px solid #008080;
+
 }
 
-header a:hover {
-    background-color :#262730;
-    color: #fff;
+header h1 span {
+  font-family: 'Fredericka the Great', cursive;
+  color:  #ad8552;
+  text-align: center;
+  font-size: 52px;
+  text-shadow: 2px 2px 2px #060d13;
+
 }
 
-/***** ADVICE *****/
+header h1{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height:150px:
+  font-family: 'Fredericka the Great', cursive;
+  color:  #3d4770;
+  text-align: center;
+  text-shadow: 2px 2px 2px #060d13;
+  border:10px groove #f2f2f2;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: #f0f5f5;
 
-.advice {
-    padding: 10px 40px;
-    background-color: #262730;
 }
 
-.advice h4 {
-    font-size: 56px;
-    color: #a8aac0;
-    margin-bottom: 0;
-    letter-spacing: 2px;
+/***** section *****/
+section {
+  margin-left: 250px;
+  margin-right: 250px;
+  height:1000px;
+  background-image: url(../twocoffees.jpeg);
+  background-position: center;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #f0f5f5;
+  border:10px groove #f2f2f2;
+  font-family: 'Cormorant', serif;
+  color: #4d2600;
 }
 
-.advice h4 span {
-    color: #f8f8f2;
+#boxone {
+  float:left;
+  width:350px;
+  padding-top: 50px;
+  padding-left: 40px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 40px;
+}
+#boxone h3 {
+  font-size: 36px;
 }
 
-.advice p {
-    font-size: 32px;
-    line-height: 42px;
-    color: #e4e4de;
-    font-weight: 200;
+#boxone p{
+  font-size: 20px;
 }
 
-/***** FOOTER *****/
+#boxtwo {
+  float:right;
+  width:350px;
+  padding-top: 50px;
+  padding-right:40px;
+  text-align: center;
+  font-weight: bold;
+  line-height: 40px;
+}
+#boxtwo h3 {
+  font-size: 36px;
+}
 
+#boxtwo p{
+  font-size: 20px;
+}
+
+/***** footer *****/
 footer {
-    margin: 0;
-    padding: 10px 40px; 
-    background-color: #f2f2f2;
-}
-
-footer p {
-    color: #a8aac0;
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bold;
+  clear: both;
+  float: left;
 }
