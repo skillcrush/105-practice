@@ -1,0 +1,38 @@
+body {
+  width: 100%;
+  margin: 0 auto;
+  font-family: 'Red Hat Text', sans-serif;
+  background: #F4F3EA;
+}
+
+header {
+  text-align: center;
+  padding: 10px 0px;
+  color: #333D51;
+}
+
+header a {
+  text-decoration: none;
+  color: #CBD0D8;
+}
+
+header a:hover {
+  color: #333D51;
+}
+
+header span {
+  font-family: 'Dancing Script', cursive;
+  color: #D3AC2B;
+}
+
+section {
+  background: #CBD0D8;
+  padding: 100px 100px;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+footer {
+  text-align: center;
+  color: #CBD0D8;
+}

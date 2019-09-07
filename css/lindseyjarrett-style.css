@@ -1,0 +1,68 @@
+/****GRID*******/
+
+body {
+  background-color: #d5edd9b5;
+  color: #18252f;
+  font-family: 'Gayathri', sans-serif;
+  margin: 30px 70px;
+}
+
+/********HEADER*********/
+
+h1 {
+  text-align: center;
+  font-variant: all-small-caps;
+  letter-spacing: 3px;
+  font-size: 50px;
+  border-bottom: 1px solid;
+  margin-top: 15px;
+  padding-bottom: 20px;
+}
+
+button {
+  line-height: 2;
+  background-color: #c9b8a5b8;
+  border: 1px solid;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+a {
+  text-decoration: none;
+  color: #18252f;
+  font-variant: all-petite-caps;
+  font-family: 'Gayathri', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 0;
+}
+
+/*********MAIN SECTION**************/
+
+.advice {
+  text-align: center;
+}
+
+section {
+  width: 1000px;
+  margin: auto;
+}
+
+h4 {
+  font-size: 25px;
+  letter-spacing: 1.5;
+  text-decoration: underline;
+  font-style: oblique;
+}
+
+p {
+  line-height: 2;
+}
+
+
+/***********FOOTER************/
+
+footer {
+  text-align: center;
+  border-top: 1px solid;
+}
