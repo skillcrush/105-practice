@@ -1,0 +1,28 @@
+/** Basic CSS styling written by Stephanie Butenhof - 9/6/2019 **/
+
+body {
+    background: snow;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: crimson;
+    font-family: 'Lato', sans-serif;
+}
+
+.skillcrush {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+a {
+    color: darkcyan;
+    width: 20%;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px dashed rebeccapurple;
+}
+

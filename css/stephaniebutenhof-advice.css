@@ -1,0 +1,82 @@
+body {
+    text-align: center;
+    color: teal;
+    background: snow;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 10vh;
+    background: teal;
+}
+
+a {
+    font-size: 1.5rem;
+    align-self: center;
+    color: snow;
+    text-decoration: none;
+}
+
+.advice {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: space-evenly;
+    margin: 2em 0;
+}
+
+.card {
+    flex: 0 1 calc(25% - 2em);
+    color: snow;
+    background: teal;
+}
+
+hr {
+    width: 75vw;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+    font-size: 1.3rem;
+    width: 100vw;
+    height: 10vh;
+    color: snow;
+    background: teal;
+}
+
+                /*** MEDIA QUERIES ***/
+
+@media screen and (min-width: 40em) {
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .card {
+        padding: 2em;
+        margin-bottom: 1rem;
+        flex: 0 1 calc(50% - 1em);
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .card {
+        flex: 0 1 calc(25% - 1em);
+    }
+}
+
+
+
+
+
