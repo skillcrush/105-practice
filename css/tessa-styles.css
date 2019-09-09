@@ -1,0 +1,67 @@
+/** Page Structure **/
+
+.full-width {
+  width: 90%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.half-width {
+  width: 45%;
+  margin: 0 auto;
+  float: left;
+}
+
+.third-width {
+  width: 30%;
+  margin: 0 auto;
+  float: left;
+}
+
+/** Basic Fonts **/
+
+header h1 {
+  padding: 15px;
+  color: steelblue;
+}
+
+body {
+  font-family: 'Lato', serif;
+  color: #2b2b2b;
+  font-weight: 300;
+}
+
+h1, h4 {
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+}
+
+/** Header Styles **/
+header {
+  color: steelblue;
+  position: inherit;
+  font-size: 20px;
+  font-family: 'Righteous', cursive;
+  background-color: #CAEAFA;
+  height: 80px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+/** Advice Styles **/
+.advice h4 {
+  font-size: 20px;
+  color: steelblue;
+  margin: 25px 0 15px 0;
+}
+
+/** Footer Styles **/
+footer {
+  padding: 20px 0px;
+}
+
+footer a {
+  color: steelblue;
+}
