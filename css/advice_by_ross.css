@@ -1,0 +1,40 @@
+body{
+  background: #00BFFF;
+  font-family: 'Chilanka', cursive;
+  margin: 0 auto;
+}
+
+header{
+  padding: 20px 20px;
+  text-align: right;
+}
+
+header a{
+  color: #ffff4d;
+  font-size: 18px;  
+}
+
+h3{
+  font-weight: bold;
+  text-decoration: underline;
+  color: #ffb84d;
+}
+
+.advice{
+  padding: 30px 100px;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color: #ff3333;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+  text-align: center;
+  color: #ffff4d; 
+}
