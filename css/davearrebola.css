@@ -1,0 +1,40 @@
+body {
+  font-family: 'Chilanka', cursive;
+  background-color: #b3ffe6;
+}
+
+aside {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+h1 {
+  font-family: 'Chilanka', cursive;
+  font-size: 45px;
+  text-align: center;
+  color: black;
+}
+
+h4 {
+  font-family: 'Chilanka', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+header {
+  border: solid 5px lightgray;
+  height: 20%;
+  background-image: linear-gradient(to bottom right, lightcoral, #d6dce2);
+}
+
+footer {
+  background-color: #4dffc3;
+  clear: both;
+  height: 10%;
+  padding-top: 1.5%;
+  box-sizing: border-box;
+  text-align: center;
+}
