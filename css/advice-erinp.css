@@ -1,0 +1,38 @@
+	h1 {
+		font: 40px 'Open Sans';
+		font-weight: bold;
+		color: #264241;
+
+	}
+	
+	h4 {
+		font: 30px 'Open Sans';
+		font-weight: bold;
+		color: #420420;
+		padding: 0 15px;
+	}
+	
+	p {
+		color: #ba5b50;
+		font: 25px 'Open Sans';
+		padding: 0 15px;
+	}
+	
+	.erin-advice {
+		background-color: #f0e5dd;
+	}
+	
+	/* header {
+		background-color: blue;
+	} */
+	
+	.advice {
+		padding: 20px 20px;
+		background-color: #e8cabd;
+	}
+	
+	footer p {
+		font: 15px 'Open Sans';
+		text-align: center;
+		color: #264241;
+	}
