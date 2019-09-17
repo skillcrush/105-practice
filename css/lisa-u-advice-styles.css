@@ -1,0 +1,52 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #708090;
+}
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+.half-width {
+    width: 597px;
+    height: 220px;
+    float: left;
+    border: 1px solid lightblue;
+}
+
+header {
+    height: 100px;
+    /* background: red; */
+}
+header h1 { 
+    padding: 35px 0 35px 0px;
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    color: #6495ED;
+}
+
+nav {
+    float: right; 
+}
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    color: #6495ED;
+}
+
+body h4,p {
+    padding: 5px 10px 5px 10px;
+}
+
+footer { 
+    text-align: center;
+    font-size: 18px;
+    color: #6495ED;
+    padding: 5px 0 5px 0px;
+   /* background: yellow; */
+    clear: both;
+}
+
+
