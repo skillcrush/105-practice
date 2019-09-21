@@ -1,0 +1,36 @@
+
+/**** BASE STYLES ***/
+
+body {
+	color: #E6E6FA;
+}
+
+/***** HEADER *****/
+
+.header {
+	background-color: #E6E6FA;
+}
+
+header h1 { 
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    color: #003D6A;
+}
+
+/***** ADVICE *****/
+
+.advice {
+	background-color: #7094B7
+}
+
+header h4 { 
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    color: #BCDEFD;  
+}
+
+p { 
+    font-family: 'Verdana', serif;
+    font-size: 15px;
+    color: #0067b1;  
+}
