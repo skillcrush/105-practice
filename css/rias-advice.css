@@ -1,0 +1,64 @@
+/*** BASE ***/
+
+body {
+    font-family: 'Poppins', serif;
+    color: #6bbdbb;
+}
+
+.container {
+    background: whitesmoke;
+	margin: 0 auto;
+}
+
+/*** HEADER ***/
+
+header {
+	background: #6bbdbb;
+	border: 10px dotted #6bbdbb;
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 200%;
+	font-weight: 600;
+	text-align: center;
+    color: whitesmoke;
+	padding: 30px;
+}
+
+span {
+    color: #whitesmoke;
+	font-family: 'Beth Ellen', cursive;
+}
+
+a {
+    color: #f78478;
+    float: right;
+    font-family: 'Beth Ellen', cursive;
+	margin-right: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+/*** MAIN ***/
+
+h4 {
+    color: #f78478;
+    font-family: 'Beth Ellen', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.left, .right {
+	width: 48%;
+	float: left;
+	padding: 1%;
+}
+
+/*** FOOTER ***/
+
+footer {
+    clear: left;
+    color: #f78478;
+    text-align: center;
+}
