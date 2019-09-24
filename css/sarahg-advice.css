@@ -20,6 +20,8 @@ h3 {
 h3 span {
   font-style: italic;
   font-size: 32px;
+  color: black;
+  text-decoration: underline;
 }
 
 body {
