@@ -1,0 +1,145 @@
+/****************DEFAULT STYLES***************/
+
+html {
+    --light-purple: #d6cbd3;
+    --medium-pink: #eca1a6;
+    --sea-green: #bdcebe;
+    --brown-grey: #ada397;
+    --dark-blue: #092935;
+    --grey-blue: #1B4150;
+    --medium-blue: #357E9B;
+    --lighter-blue: #6BB1CC;
+    --light-blue: #EBF5F8;
+
+
+    box-sizing: border-box;
+    color: var(--text-color);
+}
+
+h1, p, a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+/***************BODY********************/
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    background-color: var(--lighter-blue);
+}
+
+/************NAVIGATION****************/
+
+nav {
+    background-color: var(--light-blue);
+    padding-top: 2em;
+    padding-bottom: 4em;
+    
+}
+
+a {
+    color: var(--medium-blue);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--dark-blue);
+}
+.logo {
+    width: 50%;
+    float: left;
+    margin: auto;
+    padding-left: 2em;
+}
+
+.main-page {
+    width: 50%;
+    float: left;
+    padding-right: 0;
+    padding-left: 35em;
+}
+
+/*******************HEADER********************/
+
+header {
+    padding: 1.7em 15em;
+  
+
+}
+
+/*******************MAIN CONTENT***************/
+
+section {
+    background-color: var(--light-blue);
+    margin: 0 auto;
+    max-width: 1080px;
+}
+
+.container {
+    display: inline;
+
+}
+.advice-one {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 100em;
+    background-color: var(--light-blue);
+    padding: 1.5em 0em 1.5em 1.5em;
+    width: calc(50% - 1.5em);
+    margin-left: 1.5em;
+}
+
+.advice-two{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 100em;
+    background-color: var(--light-blue);
+    width: calc(50% - 3em);
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    padding: 1.5em 0em 1.5em 1.5em;
+    
+}
+
+h4 {
+    font-size: 2em;
+    font-family: 'Josefin Slab', serif;
+    font-weight: 700;
+    padding-left: 5.5em;
+
+}
+
+section p {
+    font-size: 1.5em;
+    padding-right: 4em;
+    padding-left: 4em;
+    padding-bottom: 1em;
+    font-family: 'Josefin Slab', serif;
+    font-weight: 400;
+}
+
+/********************FOOTER**********************/
+
+footer {
+    background-color: var(--dark-blue);
+    float: left;
+    width: 100%;
+    margin-top: 4.5em;
+    margin-bottom: 0;
+    padding: 1;
+}
+
+footer p {
+    color: var(--lighter-blue);
+    margin-left: 78em;
+    
+}
