@@ -1,0 +1,50 @@
+body {
+  background-color: #ffcebb;
+  width: auto;
+}
+header {
+  background-color: #b18ea6;
+  height: 175px;
+}
+h1 {
+font-family: 'Vibes', cursive;
+text-align: center;
+text-transform: uppercase;
+font-size: 35px;
+
+
+}
+
+span.diferent-font {
+  font-size: 75px;
+  margin-right: 35px;
+}
+.main-page {
+  text-decoration: none;
+  color: #dd6892;
+}
+
+.advice {
+  background-color: #f0c9c9;
+  height: 450px;
+}
+
+h4 {
+  font-size: 45px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+p {
+
+font-size: 25px;
+text-align: left;
+padding-left: 100px;
+padding-right: 100px;
+}
+
+
+#footer {
+
+  text-align: right;
+  font-size: 10px;
+}
