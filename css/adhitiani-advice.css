@@ -1,0 +1,93 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'calibri', 'Helvetica', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    background-color: #FFE4E1;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Alfa Slab One', serif;
+}
+
+/***** HEADER *****/
+
+header {
+      padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+    color: #F08080;
+}
+
+.advice h2 {
+    font-family: 'Assistant', 'Helvetica', sans-serif;
+    font-size: 40px;
+    margin-top: 0;
+    margin-left: 10px;
+    color: #F08080;
+    letter-spacing: 1px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #F08080;
+    border: 3px solid #F08080;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color :#800000;
+}
+
+header a:hover {
+    background-color :#800000;
+    color: #fff;
+}
+
+/***** ADVICE *****/
+
+.one {
+    padding: 10px 40px;
+    background-color: #800000;
+    border: 3px solid #F08080;
+}
+
+.two {
+    padding: 10px 40px;
+    background-color: #FFE4C4;
+    border: 3px solid #F08080;
+
+}
+
+.one p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #e4e4de;
+    font-weight: 200;
+}
+
+.two p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #800000;
+    font-weight: 200;
+
+}
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+
+}
+
+footer p {
+    color: #F08080;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
