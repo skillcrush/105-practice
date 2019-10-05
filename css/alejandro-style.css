@@ -1,0 +1,45 @@
+
+a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Sorts Mill Goudy', serif; 
+}
+
+body {
+    margin: 0%;
+    font-family: 'Sorts Mill Goudy', serif; 
+}
+
+h1 {
+    font-size: 40px;
+    width: 90%; 
+}
+
+h4{
+    width: 75%;
+    font-size: 30px; 
+}
+
+p {
+    width: 70%;
+    font-size: 20px;
+}
+
+footer {
+    background:#c84c09;
+    padding: 2%;
+    text-align: left;
+}
+
+.advice {
+    background: #fed18C;
+    width: 100%;
+    padding: 3%;
+}
+
+.toptitle {
+    background:#c84c09;
+    width: 100%;
+    padding: 3%;
+}
