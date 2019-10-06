@@ -1,0 +1,37 @@
+/***** HEADER *****/
+.rebecca-advice {
+  background: #B0C4DE;
+}
+h1 {
+  color: black;
+  font-family: 'Noto Sans', sans-serif;
+  font-variant: small-caps;
+  font-weight: bold;
+  text-align: center;
+}
+a {
+  color: black;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 10px;
+  text-decoration: underline;
+}
+
+/***** BODY *****/
+.advice {
+  background: #778899;
+}
+h4 {
+  color: black;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+p {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 11px;
+}
+
+footer p {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 8px;
+}
