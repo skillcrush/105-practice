@@ -1,0 +1,29 @@
+/*****BODY*****/
+
+.skillcrush-advice {
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+    color: pink;
+}
+
+/*****HEADER*****/
+
+a {
+    color: yellow;
+}
+
+h1 {
+    color: purple;
+}
+
+/*****MAIN*****/
+
+.advice h4 {
+    color: blue;
+}
+
+/*****FOOTER*****/
+
+footer {
+    color: blue;
+}
