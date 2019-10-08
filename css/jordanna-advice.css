@@ -1,0 +1,36 @@
+/*Global Styles*/
+body {
+    color: #050517;
+    font-family: 'Muli', sans-serif;
+    margin: 0px auto;
+    width: 1200px;
+}
+
+/*Header*/
+a {
+    color: #cf5c36;
+    float: right;
+    text-decoration: none;
+}
+
+header h1,h2 {
+    background-color: #efc88b;
+    clear: both;
+}
+
+header h2 {
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: 700i;
+}
+
+/*Main Content*/
+.advice {
+    background-color: #f4e3b2;
+    line-height: 20px;
+}
+
+/*Footer*/
+footer {
+    background-color: #d3d5d7;
+}
