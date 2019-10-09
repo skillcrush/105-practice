@@ -1,0 +1,51 @@
+body {
+    
+    font-family: 'Source Sans Pro', sans-serif;
+   
+}
+
+.header-container {
+    height: auto;
+    margin: 0;
+    text-align: center;
+    /*border: 1px solid black;*/
+}
+
+h1 {
+    background-color: cadetblue;
+    border: 1px solid rgb(2, 2, 36);
+    border-radius: 15px;
+    color: blueviolet;
+    display: inline-block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 44px;
+    height: auto;
+    margin: 10px;
+    padding: 20px;
+    text-align: center; 
+   }
+
+
+
+h4 {
+    background-color: coral;
+    border: 1px solid darkred;
+    border-radius: 15px;
+    color: darkred;
+    display: inline-block;
+    font-size: 28px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+
+}
+
+.text-box {
+background-color: lightslategray;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+
+}
