@@ -1,0 +1,14 @@
+h1 {
+    color: rebeccapurple;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+p {
+    color: goldenrod;
+    font-size: 20px;
+}
+h4 {
+    color: seagreen;
+    font-size: 25px;
+    text-decoration: underline;
+}
