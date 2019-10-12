@@ -1,0 +1,27 @@
+/*****BASE STYLES*****/
+.joeflip-advice {
+  font-family: 'Teko', sans-serif;
+  width: 1200px;
+  background-color: #34b7eb;
+}
+/*****HEADER*****/
+header h1 {
+  font-size: 36px;
+  text-align: center;
+}
+/*****ADVICE*****/
+.advice {
+  width: 1200px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #c94628;
+  background-color: #3483eb
+}
+.advice h4 {
+  font-size: 24px;
+  text-align: center;
+}
+
+.advice p {
+  font-size: 18px;
+}
