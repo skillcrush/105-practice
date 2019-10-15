@@ -1,0 +1,9 @@
+/***grid layout*/
+.full-width {
+ width: 1200px;
+}
+.half-width {
+    width: 600px;
+}
+
+/**base style***/
