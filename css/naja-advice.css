@@ -1,0 +1,32 @@
+/***** BASE STYLES *****/
+body {
+font-family: 'Montserrat', sans-serif;
+}
+
+/***** HEADER *****/
+
+h1 {
+  text-align: center;
+  text-transform: capitalize;
+  color: #000085;
+}
+
+.advice h4 {
+  font-size: 36px;
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+.advice p {
+  font-size: 21px;
+  color: #7F7F7F;
+}
+/***** FOOTER *****/
+
+.footer {
+  background-color: #dfe0e1;
+  text-align: center;
+  padding: 50px 450px;
+  font-size: 20px;
+
+}
