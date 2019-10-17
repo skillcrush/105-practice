@@ -1,0 +1,60 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Assistant', 'Helvetica', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h2, h3, h4 {
+    font-family: 'Alfa Slab One', serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #9EFFF5;
+    padding: 30px 40px;
+}
+
+h1
+{
+    font-size: 78px;
+}
+
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #262730;
+}
+
+    .advice h4 {
+        font-size: 56px;
+        color: #00FFE5;
+        margin-bottom: 0;
+        letter-spacing: 2px;
+    }
+
+    .advice p {
+        font-size: 32px;
+        line-height: 42px;
+        color: #e4e4de;
+        font-weight: 200;
+    }
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #f2f2f2;
+}
+
+    footer p {
+        color: #00FFE5;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
