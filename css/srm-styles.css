@@ -1,0 +1,51 @@
+body {
+  background-color: lightblue;
+  width: 1200px;
+  height: auto 0;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.advice {
+  width: 1200px;
+}
+
+.advice-one, .advice-two {
+  width: 556px;
+  margin: 30px 10px 50px 10px;
+  padding: 0 10px 0 10px;
+  border: 2px solid navy;
+  float: left;
+}
+
+header span {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+}
+
+h1{
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  font-size: 36px;
+  font-variant: small-caps;
+}
+
+h4 {
+  font-size: 30px;
+  font-variant: small-caps;
+}
+
+p {
+  text-align: justify;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+footer p {
+  text-align: center;
+}
+footer {
+  width: 1200px;
+  clear: both;
+  margin-top: 100px;
+  font-weight: bold;
+}
