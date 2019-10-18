@@ -1,0 +1,33 @@
+body {
+    font-family: 'Cutive Mono', monospace;
+    color: orangered;
+}
+
+h1 {
+    font-style: italic;
+
+}
+
+a {
+    color: darkturquoise;
+}
+
+h4 {
+    font-weight: bolder;
+    text-align: right;
+}
+
+p {
+    font-family: 'Ubuntu Mono', monospace;
+    color: tomato;
+}
+
+span {
+    font-size: 30px;
+}
+
+footer p {
+    color: darkslategray;
+    text-transform: capitalize;
+    margin-left: 900px;
+}
