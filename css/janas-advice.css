@@ -1,0 +1,42 @@
+body {
+  background: url('https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80') 1400px 1000px white;
+}
+
+.janas-advice {
+  font-size: 16px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+header h1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 42px;
+  color: #000066;
+  text-align:center;
+}
+
+header a {
+  color: #b30086;
+}
+
+header span {
+  color: #b30086;
+  font-weight: bold;
+}
+
+.advice h4 {
+  color: #b30086;
+  font-weight: bold;
+}
+
+.advice p {
+  color: #00004d
+}
+
+footer {
+  text-align: center;
+  margin-top: 100px;
+}
+
+footer p {
+  color: #b30086;
+}
