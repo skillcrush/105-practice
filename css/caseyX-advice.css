@@ -16,7 +16,7 @@ body{
     float:left;
     height:300px;
     margin:auto;
-    width:600px;
+   
 }
 
 .half-text  {
@@ -36,28 +36,50 @@ header{
     font-size: 30px;
     font-weight:700;
     height: 250px;
-    padding: 30px auto;
     margin:auto;
     text-align: center;
-    width: 1200px;
+    width: 1196px;
 }
 
 /******* Body *******/
 
-#advice {
-    margin: auto;
+#advice h2{
+    font-family:"Roboto slab", serif;
+    font-size: 35px;
+}
+
+#advice p {
+    font-size: 24px;
+    line-height: 30px;
+    
 }
 #left {
     background-color: red;
+    border-left:2px solid black;
+    border-right:2px solid black;
+    border-top:2px solid black;
+    width: 596px;
 }
 
+
 #right  {
+    border-top: 2px solid black;
+    border-right: 2px solid black;
     background-color: blue;
     margin:auto;
+    width:598px;
 }
 
 #bottom {
     background-color: yellow;
+    border: 2px solid black;
     clear: both;
-
+    text-align:center;
+    width: 1196px;
 }
+#bottom p{
+    margin:auto;
+    padding-bottom: 40px;
+    width: 1000px;
+}
+
