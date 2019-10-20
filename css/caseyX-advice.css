@@ -79,7 +79,31 @@ header{
 }
 #bottom p{
     margin:auto;
-    padding-bottom: 40px;
+    padding-bottom: 60px;
     width: 1000px;
 }
 
+/******* Footer *******/
+
+footer {
+    border-bottom: 2px solid black;
+    border: 2px solid black;
+    background-image: url(https://www.publicdomainpictures.net/pictures/300000/velka/wallpaper-with-repeated-patterns-1556023507UxF.jpg);
+    height: auto;
+    margin:-25px auto;
+    width: 1196px;
+}
+
+footer h1{
+    color:white;
+    font-family: "Roboto slab", serif;
+    font-size: 60px;
+    font-weight: 400;
+    text-align: center;
+}
+
+footer p    {
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+}
