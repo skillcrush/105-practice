@@ -54,25 +54,28 @@ header{
     
 }
 #left {
-    background-color: red;
+    background-image: url(https://www.maxpixel.net/static/photo/2x/Vintage-Leather-Natural-Background-Texture-3679292.jpg);
     border-left:2px solid black;
     border-right:2px solid black;
     border-top:2px solid black;
+    color:white;
     width: 596px;
 }
 
 
 #right  {
+    background-image: url(https://www.publicdomainpictures.net/pictures/240000/velka/wood-grain-background-1510265222d83.jpg);
     border-top: 2px solid black;
     border-right: 2px solid black;
-    background-color: blue;
+    color: white;
     margin:auto;
     width:598px;
 }
 
 #bottom {
-    background-color: yellow;
+    background-image: url(https://pixnio.com/free-images/2018/12/08/2018-12-08-16-25-10-1200x900.jpg);
     border: 2px solid black;
+    color:white;
     clear: both;
     text-align:center;
     width: 1196px;
