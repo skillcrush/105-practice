@@ -1,0 +1,39 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  padding: 100px;
+  width: 900px;
+}
+
+header {
+  background-color: #ccddff;
+  padding: 25px;
+  border-bottom: 5px solid black;
+}
+
+h1 {
+  color: purple;
+}
+
+.full-width {
+  width: 900px;
+}
+
+.half-width {
+  font-size: 25px;
+  width: 410px;
+  float: left;
+  padding: 15px;
+  /*border: 5px solid black;*/
+}
+
+footer {
+  background-color: #ccddff;
+  /*border-top: 5px solid black;*/
+  padding: 5px;
+  clear: both;
+}
+footer h1 {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
