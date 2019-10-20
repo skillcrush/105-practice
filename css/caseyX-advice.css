@@ -1,0 +1,32 @@
+/******* Base Styles *******/
+
+body{
+   font-family: "Raleyway", sans-serif;
+}
+
+/******* Grid *******/
+
+.full-width {
+    width:1200px;
+    height: auto;
+}
+
+.half-width {
+    float:left;
+    width:600px;
+}
+
+/******* Header *******/
+
+header{
+    background-image: url(https://www.publicdomainpictures.net/pictures/300000/velka/wallpaper-with-repeated-patterns-1556023507UxF.jpg);
+    border: 2px solid black;
+    color: white;
+    font-family: "Roboto slab", serif;
+    font-size: 30px;
+    font-weight:700;
+    height: 250px;
+    padding: 30px;
+    text-align: center;
+    width: 1200px;
+}
