@@ -1,26 +1,27 @@
 header {
-  background-color: #ece2ff;
+  background-color: ;
   padding-bottom: 20px;
 }
 
 h1 {
-  color: black;
+  color: #7326C6;
   font-family: 'Raleway', sans-serif;
-  font-size: 40px;
+  font-size: 45px;
   text-align: center;
+
 
 
 }
 
 h3 {
   font-size: 30px;
-  text-align: center;
+  text-align: left;
 }
 
 h3 span {
   font-style: italic;
   font-size: 32px;
-  color: black;
+  color: #7326C6;
   text-decoration: underline;
 }
 
@@ -30,7 +31,7 @@ body {
 }
 
 section {
-  background-color: #fffee0;
+  background-color: ;
   padding-bottom: 20px;
 }
 
@@ -38,12 +39,12 @@ section {
 .affirm1 {
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 30px;
-  color: #31a9fc;
+  color: red;
 }
 
 .affirm2 {
   font-family: 'Chilanka', cursive;
-  color: #ff742e;
+  color: orange;
   font-weight: bold;
   font-size: 30px;
 }
@@ -51,11 +52,11 @@ section {
 .affirm3 {
   font-family: 'Courgette', cursive;
   font-size: 30px;
-  color: #ff6c8c;
+  color: #33E473;
 }
 
 .affirm4 {
   font-family: 'Lora', serif;
   font-size: 30px;
-  color: #332eff;
+  color: blue;
 }
