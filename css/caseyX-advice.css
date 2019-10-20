@@ -9,24 +9,55 @@ body{
 .full-width {
     width:1200px;
     height: auto;
+    margin: auto;
 }
 
 .half-width {
     float:left;
+    height:300px;
+    margin:auto;
     width:600px;
+}
+
+.half-text  {
+    margin:auto;
+    width:400px;
 }
 
 /******* Header *******/
 
 header{
     background-image: url(https://www.publicdomainpictures.net/pictures/300000/velka/wallpaper-with-repeated-patterns-1556023507UxF.jpg);
-    border: 2px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
     color: white;
     font-family: "Roboto slab", serif;
     font-size: 30px;
     font-weight:700;
     height: 250px;
-    padding: 30px;
+    padding: 30px auto;
+    margin:auto;
     text-align: center;
     width: 1200px;
+}
+
+/******* Body *******/
+
+#advice {
+    margin: auto;
+}
+#left {
+    background-color: red;
+}
+
+#right  {
+    background-color: blue;
+    margin:auto;
+}
+
+#bottom {
+    background-color: yellow;
+    clear: both;
+
 }
