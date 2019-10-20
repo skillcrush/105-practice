@@ -94,7 +94,7 @@ footer {
     width: 1196px;
 }
 
-footer h1{
+footer h2{
     color:white;
     font-family: "Roboto slab", serif;
     font-size: 60px;
@@ -102,9 +102,23 @@ footer h1{
     text-align: center;
 }
 
-footer p    {
-    color: white;
-    font-size: 35px;
-    font-weight: 700;
-    
+footer ul {
+    list-style:none;
+    margin:auto;
+    width:600px;
 }
+
+footer li    {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+footer h1{
+    color:white;
+    font-family: "Roboto slab", serif;
+    font-size: 75px;
+    font-weight: 400;
+    text-align: center;
+}
+
