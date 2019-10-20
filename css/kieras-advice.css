@@ -1,0 +1,113 @@
+/*STYLES*/
+
+body {
+  background: #ffd4ee;
+}
+p {
+  font-family: 'Merriweather', serif;
+  clear: both;
+  color: #a60776;
+  line-height: 25px;
+}
+
+/*HEADER*/
+
+body, header {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background: #ff75ca;
+  text-align: center;
+  padding: 20px 0;
+
+}
+
+header h1 {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+}
+
+/*MAIN*/
+
+img {
+  float: left;
+  margin: 50px 10px 30px 80px;
+  width: 320px;
+  height: 240px;
+}
+
+.rounded-corners {
+  border-radius: 10px;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 32px 0 30px 20px;
+  padding: 15px 0;
+  background: #029ec4;
+  color: #ffffff;
+}
+
+.circle {
+  margin-top: 20px;
+  float: left;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background: #14cefc;
+}
+
+.circle h3 {
+  color: #fff;
+  margin: auto;
+  padding: 18px 0;
+  font-size: 35px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  clear: both;
+}
+
+
+.confusion {
+  float: left;
+  width: 715px;
+  margin: 30px 50px;
+}
+
+.disbelief {
+  float: left;
+  clear: both;
+  width: 1099px;
+  margin-left: 80px;
+}
+
+.back a {
+  float: left;
+  clear: both;
+  margin: 50px 0 50px 530px;
+  padding: 22px 20px;
+  background: #029ec4;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  border-radius: 10px;
+
+}
+
+/*FOOTER*/
+
+.copyright {
+  color: #949494;
+  font-size: 20px;
+  text-align: center;
+  clear: both;
+}
