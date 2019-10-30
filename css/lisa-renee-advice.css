@@ -44,16 +44,26 @@ nav{
   padding: 5px auto;
 }
 
+img {
+  border: 10px solid #00804d;
+  height: 400px;
+  width: 600px;
+}
+
 /** Tip Formatting and Grid **/
 
 .full-width{
   width: 90%;
 }
 
-.half-width{
-  width: 45%;
+.threequarter-width{
+  width: 65%;
 }
 
-#tip-deco{
+.tip-deco{
+  background: #e6fff5;
+  box-shadow: 3px 3px 8px 10px #001a0f;
+  margin: 50px auto;
+  padding: 30px auto;
 
 }
