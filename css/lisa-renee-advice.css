@@ -12,6 +12,7 @@ body{
 }
 
 h1{
+  clear: both;
   color: #000080;
   font-family: "Nova Script", cursive;
   font-size: 40px;
@@ -39,7 +40,7 @@ p{
 
 nav{
   float: right;
-  margin: 10px auto;
+  margin: 5px auto;
   padding: 5px auto;
 }
 
@@ -54,5 +55,5 @@ nav{
 }
 
 #tip-deco{
-  
+
 }
