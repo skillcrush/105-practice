@@ -1,6 +1,18 @@
 /** CSS for Lisa Renee's Advice **/
-h1{
 
+/** font-family: 'Nova Script', cursive;
+font-family: 'Crimson Text', serif; **/
+
+/** Base Styles **/
+
+body{
+  background: #ccffdd;
+  width: 90%;
+}
+
+h1{
+  color: #000080;
+  font-family: "Nova Script", cursive;
 }
 
 h2{
@@ -12,5 +24,5 @@ h3{
 }
 
 p{
-  
+
 }
