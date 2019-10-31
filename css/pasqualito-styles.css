@@ -13,3 +13,18 @@ h4{
   color: cornflowerblue;
   font-size: 14pt;
 }
+
+.button{
+  background-color: pink;
+  padding: 15px;
+  border-radius: 15px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.button a{
+  text-decoration: underline;
+  color: grey;
+}
