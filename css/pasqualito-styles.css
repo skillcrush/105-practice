@@ -1,14 +1,15 @@
 body {
+  color: purple;
   text-align: center;
 }
 h1{
-  background-color: lightgreen
-  color: yellow
-  font-size: 20pt
+  background-color: lightgreen;
+  color: yellow;
+  font-size: 20pt;
 
 }
 
 h4{
-  color: cornflowerblue
-  font-size: 14pt
+  color: cornflowerblue;
+  font-size: 14pt;
 }
