@@ -1,0 +1,27 @@
+/*****base styles*****/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+@font-face{
+	font-family: 'Wisdom Script';
+	src: url('../fonts/wisdom-script.otf') format('opentype');
+}
+
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: #333333;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+/*****header*****/
+
+header {
+	margin: 25px;
+}
