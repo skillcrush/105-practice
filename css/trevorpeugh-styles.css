@@ -1,0 +1,18 @@
+body {
+  font-family: monospace;
+  font-size: 22px;
+}
+
+h1 {
+  font-family: times;
+  font-size: 32px;
+  color: red;
+}
+h4 {
+  text-decoration: line-through;
+}
+
+p {
+  font-variant: small-caps;
+  text-transform: capitalize;
+}
