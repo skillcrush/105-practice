@@ -4,15 +4,15 @@ body {
 }
 
 h1 {
-  font-family: times;
+  font-family: Monospace;
   font-size: 32px;
-  color: red;
+  color: darkblue;
 }
 h4 {
-  text-decoration: line-through;
+  text-transform: capitalize;
+  text-decoration: underline;
 }
 
 p {
-  font-variant: small-caps;
   text-transform: capitalize;
 }
