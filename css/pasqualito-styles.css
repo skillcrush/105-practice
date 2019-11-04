@@ -1,30 +1,50 @@
+/*********BASE STYLES********/
+
 body {
-  color: purple;
-  text-align: center;
+  background-color:  #b3b3ff;
+  color: black;
+  font-family: 'Muli', sans-serif;
+  font-size: 20px;
+  width: auto;
 }
+
 h1{
-  background-color: lightgreen;
-  color: yellow;
+  border-radius: 10px;
+  color: cornflowerblue;
+  font-family: 'Yeon Sung', cursive;
   font-size: 20pt;
+  text-align: center;
 
 }
 
 h4{
   color: cornflowerblue;
-  font-size: 14pt;
+  font-family: 'Yeon Sung', cursive;
+  font-size: 16pt;
 }
 
+footer{
+  text-align: center;
+  font-size: 9px;
+}
+/**********HEADER STYLES***********/
+header{
+  color: darkblue;
+  padding: 20px 40px;
+}
+
+/**********BUTTON STYLES***********/
 .button{
-  background-color: pink;
-  padding: 15px;
-  border-radius: 15px;
-  width: 300px;
+  background-color:  #e6e6ff;
+  border-radius: 10px;
+  color:  #4d4dff;
+  font-size: 24px;
+  font-weight: 600;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
-}
-
-.button a{
-  text-decoration: underline;
-  color: grey;
+  margin-top: 10px;
+  padding: 15px;
+  text-decoration: none;
+  text-align: center;
+  width: 240px;
 }
