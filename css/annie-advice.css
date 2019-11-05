@@ -1,0 +1,38 @@
+/****** BASIC ******/
+
+body {
+	background-color: ##FFF0F5; 
+	font-family: 'Open Sans', sans-serif;
+	font-color: black;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h4 {
+	text-decoration: underline;
+}
+.confusion {
+	width: 40%;
+	border: 1px #000000 solid;
+	background-color: #F0F8FF;
+	margin: 10 auto;
+	padding: 20px;
+}
+
+.disbelief {
+	width: 40%;
+	border: 1px #000000 solid;
+	background-color: #F0F8FF;
+	margin: 10 auto;
+	padding: 20px;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	font-weight: bold;
+}
