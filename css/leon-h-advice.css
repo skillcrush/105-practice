@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+}
+.container {
+    width: 1280px;
+}
+a :hover {
+    color: white;
+}
+
+a :active {
+    color: olive;
+}
+
+header {
+    height:690px;
+    background: url('../img/header-image.jpg');
+    background-size: cover;
+}
+
+header h1 {
+    font-family: 'Special Elite', cursive;
+    font-size: 36px;
+    text-align: center;
+    text-shadow: 2px 2px 20px rgb(241, 97, 0);
+    text-transform: uppercase;
+    position: relative;
+    top: 20%;
+}
+
+.ad-container {
+    background-image: linear-gradient(black, gray);
+}
+
+.advice {
+    height: 800px;
+    padding: 80px;
+}
+
+.advice p {
+    color: white;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: 'Shadows Into Light Two', cursive;
+    letter-spacing: 2px;;
+    
+}
+
+.advice h4 {
+    font-family: 'Julius Sans One', sans-serif;
+    color: white;
+    font-size: 26px;
+    margin: 20px 0 20px 0; 
+}
+
+footer {
+    height: 90px;
+    background-color: rgb(39, 39, 39);
+}
+
+footer p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
