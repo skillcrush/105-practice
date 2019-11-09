@@ -1,0 +1,18 @@
+body { background: #C0C0C0;
+       font-family: "Nunito", sans-serif;
+       margin: 0px 500px 0px 50px;
+}
+
+h1 { font-weight: bold;
+     color: #000000;
+}
+
+.emphasis { color: #660066;
+            text-decoration: underline;
+}
+
+section { color: #181818;
+          line-height: 35px;
+}
+ footer { font-size: 11px;
+ }
