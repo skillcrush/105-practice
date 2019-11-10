@@ -1,0 +1,53 @@
+/*****KiKi's Style*****/
+body  {
+  background-color: #5A2D56;
+  height: 1100px;
+  margin: auto;
+}
+
+a   {
+  margin-left: 25px;
+  color: #663300;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f2e6d9;
+}
+
+.advice   {
+  width: 1200px;
+  margin-left: 50px;
+  height: 900px;
+  line-height: 30px;
+}
+
+h1  {
+  font-family: 'Great Vibes', cursive;
+  font-size: 60px;
+  color: #AD99C8;
+  line-height: 55px;
+  margin-left: 50px;
+}
+
+.advice h4 {
+  font-family: 'Great Vibes', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  color: #AD99C8;
+  margin-bottom: 0px;
+}
+
+p {
+  font-family: 'Lateef', cursive;
+  color: #FFDC60;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 25px;
+}
+
+footer  {
+  margin-top: 20px;
+  margin-left: 100px;
+}
