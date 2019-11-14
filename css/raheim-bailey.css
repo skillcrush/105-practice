@@ -1,0 +1,33 @@
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Big Shoulders Text', cursive; */
+
+body {
+    text-align: center;
+    font-family: 'Big Shoulders Text', cursive;
+}
+
+
+/* HEADER SECTION */
+header a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+header h1 {
+    text-transform: capitalize;
+    line-height: 3rem;  
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+}
+
+.advice h4 {
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+}
+.advice p {
+    font-size: 18px;
+    line-height: 2rem;
+    font-family: 'Big Shoulders Text', cursive;
+    margin: 4px 150px;
+}
