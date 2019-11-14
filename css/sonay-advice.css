@@ -1,0 +1,44 @@
+/**** Base Styles ****/
+
+body {
+    background: #94b8b8;
+    color: #666699;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+/**** Grid ****/
+
+.advice {
+    border: 5px dashed #996666;
+    margin: 5px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+
+/**** Header ****/
+
+h1 {
+    font-size: 45px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+
+/**** Sections ****/
+
+h3 {
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    color: #998066;
+}
+
+footer {
+    text-align: center;
+}
