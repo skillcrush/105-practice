@@ -1,0 +1,47 @@
+.ryisan-advice {
+  font-family: cursive;
+    font-size: 20px;
+    color:crimson;
+    
+    
+}
+
+h1 {
+    
+    font-family:serif;
+    color:darkblue;
+    text-align: center;
+}
+
+p{
+    
+    color: darkmagenta
+}
+
+h4{
+    
+    font-size:30px;
+    font-weight: 200;
+    text-decoration: underline
+    
+}
+
+.advice {
+    
+    background-color:#FFBA77;
+    margin:60px;
+    width:1200;
+    border: 30px;
+    border-style:dashed;
+    border-color:#ff7700;
+}
+
+.advice2 {
+    
+    background-color:#FFBA77;
+    margin:60px;
+    width:1200;
+    border:30px;
+    border-style:dashed
+
+}
