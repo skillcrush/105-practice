@@ -10,10 +10,12 @@ header {
 }
 
 h1 {
-	background-image: url(../images/advice-banner.png);
+	/*
+	background-image: url(../images/advice-banner.png);*/
+	background-color: black;
 	color: white;
 	font-family: 'Bangers';
-	font-size: 36px;
+	font-size: 48px;
 	letter-spacing : 5px;
 	margin: 0;
 	text-align: center;
