@@ -1,0 +1,30 @@
+/***** BASE STYLE *****/
+body {
+  font-family: 'Varela Round', sans-serif;
+}
+
+
+
+
+/***** HEADER STYLE *****/
+
+
+
+
+
+/***** SECTION STYLE *****/
+h4 {
+  font-family: 'Varela Round', sans-serif;
+  font-family: 'Acme', sans-serif;
+  text-transform: uppercase;
+}
+
+
+
+
+
+/***** FOOTER STYLE *****/
+footer p {
+  font-size: 10px;
+  font-variant: small-caps;
+}
