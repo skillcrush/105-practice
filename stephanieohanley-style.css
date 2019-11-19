@@ -1,0 +1,35 @@
+a {
+    font-size: 14px;
+    font-family: Helvetica;
+}
+
+
+
+h1,
+h4 {
+  font-family: Arial, Roboto, Open Sans;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 500;
+  color: pink:
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+.skillcrush-advice {
+    max-width: 960px;
+    background-color: #333333;
+    color: whitesmoke;
+}
