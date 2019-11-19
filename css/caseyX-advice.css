@@ -1,0 +1,126 @@
+/******* Base Styles *******/
+
+body{
+   font-family: "Raleyway", sans-serif;
+}
+
+/******* Grid *******/
+
+.full-width {
+    width:1200px;
+    height: auto;
+    margin: auto;
+}
+
+.half-width {
+    float:left;
+    height:300px;
+    margin:auto;
+}
+
+.half-text  {
+    margin:auto;
+    width:400px;
+}
+
+/******* Header *******/
+
+header{
+    background-image: url(https://www.publicdomainpictures.net/pictures/300000/velka/wallpaper-with-repeated-patterns-1556023507UxF.jpg);
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    color: white;
+    font-family: "Roboto slab", serif;
+    font-size: 30px;
+    font-weight:700;
+    height: 250px;
+    margin:auto;
+    text-align: center;
+    width: 1196px;
+}
+
+/******* Body *******/
+
+#advice h2{
+    font-family:"Roboto slab", serif;
+    font-size: 35px;
+}
+
+#advice p {
+    font-size: 24px;
+    line-height: 30px;
+    
+}
+#left {
+    background-image: url(https://www.maxpixel.net/static/photo/2x/Vintage-Leather-Natural-Background-Texture-3679292.jpg);
+    border-left:2px solid black;
+    border-right:2px solid black;
+    border-top:2px solid black;
+    color:white;
+    width: 596px;
+}
+
+
+#right  {
+    background-image: url(https://www.publicdomainpictures.net/pictures/240000/velka/wood-grain-background-1510265222d83.jpg);
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    color: white;
+    margin:auto;
+    width:598px;
+}
+
+#bottom {
+    background-image: url(https://pixnio.com/free-images/2018/12/08/2018-12-08-16-25-10-1200x900.jpg);
+    border: 2px solid black;
+    color:white;
+    clear: both;
+    text-align:center;
+    width: 1196px;
+}
+#bottom p{
+    margin:auto;
+    padding-bottom: 60px;
+    width: 1000px;
+}
+
+/******* Footer *******/
+
+footer {
+    border-bottom: 2px solid black;
+    border: 2px solid black;
+    background-image: url(https://www.publicdomainpictures.net/pictures/300000/velka/wallpaper-with-repeated-patterns-1556023507UxF.jpg);
+    height: auto;
+    margin:-25px auto;
+    width: 1196px;
+}
+
+footer h2{
+    color:white;
+    font-family: "Roboto slab", serif;
+    font-size: 60px;
+    font-weight: 400;
+    text-align: center;
+}
+
+footer ul {
+    list-style:none;
+    margin:auto;
+    width:600px;
+}
+
+footer li    {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+footer h1{
+    color:white;
+    font-family: "Roboto slab", serif;
+    font-size: 75px;
+    font-weight: 400;
+    text-align: center;
+}
+
