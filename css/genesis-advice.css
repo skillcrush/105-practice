@@ -1,0 +1,44 @@
+
+
+.header {
+
+   font-family: 'Bitter';
+   font-size: 115%;
+   background-color: #576CB2;
+   text-align:center;
+   color: white;
+   padding: 2%;
+   margin: 2%;
+  border-radius: 3%;
+}
+
+h4 {
+
+  font-family:'Bitter';
+  font-size: 150%;
+  text-align: left;
+  color: #A8B2D6;
+  padding: 1%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.advice {
+font-family: 'Josefin Sans';
+background-color: #F7F8FF;
+text-align: justify;
+  padding: 1%;
+  margin: 2%;
+  font-size: 110%;
+  border-radius: 4%;
+}
+
+body {
+  background-color: #E0E2EE;
+}
+
+footer {
+  font-family: 'Josefin Sans';
+  margin: 2%;
+  padding: 1%;
+}
