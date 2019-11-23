@@ -1,0 +1,24 @@
+body {
+	font-family: sans-serif;
+	color: black;
+}
+
+h1 {
+	font-size: 30px;
+	color: purple;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+p {
+	color: gray;
+	font-size: 16px;
+}
+
+footer p {
+	font-size: 12px;
+}
