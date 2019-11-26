@@ -1,0 +1,22 @@
+body{
+
+}
+
+h1 {
+  font-size: 30px;
+
+}
+
+h4 {
+font-size: 23px;
+}
+
+p {
+  font-size: 18px;
+
+}
+
+footer {
+  float: right;
+  font-size: 15px;
+}
