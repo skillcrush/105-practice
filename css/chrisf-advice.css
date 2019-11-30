@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+ul {
+    list-style: none;
+}
+
+ h1 {
+  font-family: 'Arial', serif;
+  font-size: 36px;
+  line-height: 44px;
+}
