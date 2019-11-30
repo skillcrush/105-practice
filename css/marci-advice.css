@@ -1,0 +1,48 @@
+/*****************Marci-Advice Base Styles******************/
+
+body {
+    background: #e2a6c2;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    clear: both;
+    color: #2b2b2b;
+
+}
+
+/*******************HEADER*********************/
+
+body, header {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background: #0f040f;
+    text-align: center;
+}
+
+header h1 {
+    color:#ffffff;
+    font-size: 50px;
+    padding: 55px 0 55px 25px;
+}
+section h2 {
+    font-size: 30px;
+    padding: 65px 0 65px 25px;
+}
+section h2 {
+    color: #ff33cc;
+    font-family: 'Lora', serif;
+    font-size: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+ .advice  {
+        color: #2b2b2b;
+        font-family: 'Lora', serif;
+        font-size: 25px;
+}
+
+

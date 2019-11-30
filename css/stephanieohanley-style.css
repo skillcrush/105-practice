@@ -1,0 +1,46 @@
+a {
+  font-size: 14px;
+  font-family: Helvetica;
+  color: #f58f7c;
+}
+
+h1,
+h4 {
+  font-family: Arial, Open Sans;
+}
+
+h1 {
+  font-size: 26px;
+  font-weight: 500;
+  color: pink;
+  padding-top: 15px;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: 400;
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+
+hr {
+  border-top: 10px;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.125em;
+  line-height: 1.5em;
+}
+
+.skillcrush-advice {
+  max-width: 1100px;
+  background-color: #333333;
+  color: #ffffff;
+  padding: 30px;
+}
+
+span.emphasis {
+  color: #f58f7c;
+}
