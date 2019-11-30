@@ -1,0 +1,76 @@
+/***** MAIN *****/
+body {
+  font-family: 'Alata', sans-serif;
+  font-size: 20px;
+}
+
+.full-width {
+  text-align: center;
+  width: 100%;
+}
+
+.half-width {
+  float: left;
+  margin: 10px 5px 50px 0;
+  width: 49%;
+  text-align: center;
+}
+
+.third-width {
+  float: left;
+  margin: 5px;
+  padding: 3px;
+  width: 32%;
+}
+
+/***** TITLE *****/
+title {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 36px;
+}
+
+/***** HEADER *****/
+header h1 {
+  background-color: skyblue;
+  margin: 25px 0 15px 0;
+}
+
+header #back {
+  border: 2px solid gray;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+}
+/***** BODY *****/
+
+h4 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+.ema-advice {
+  font-family: 'Alata', sans-serif;
+  margin: 20px;
+  padding: 10px;
+}
+
+#middle-p {
+  height: 200px;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  padding: 0 4px 0 4px;
+}
+
+#split-border {
+  border-right: 1px solid gray;
+  padding-right: 8px;
+}
+/***** FOOTER *****/
+
+footer p {
+  background-color: skyblue;
+  float: right;
+  width: 100%;
+  height: 60px;
+}

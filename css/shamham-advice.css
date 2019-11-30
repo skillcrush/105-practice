@@ -1,0 +1,46 @@
+.shamham-advice {
+    background: #cccbca;
+}
+header {
+    height: 1200px;
+    background-color: #cccbca;
+    background-image: url(https://images.pexels.com/photos/1228483/pexels-photo-1228483.jpeg?cs=srgb&dl=advice-cabinet-cactus-1228483.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: 1220px 1200px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.advice {
+    background: #cccbca;
+    width: 1200px;
+}
+.half-width {
+    background: #cccbca;
+    max-width: 46%;
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    display: block;
+    height: 300px;
+}
+h1 {
+    color: white;
+    text-align: left;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    padding-left: 20px
+}
+p {
+    color: #000000;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+}
+h4 {
+    color: #000000;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+footer {
+    text-align: left;
+    background: #cccbca;
+    clear: left;
+}
