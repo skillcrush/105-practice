@@ -1,0 +1,39 @@
+body {
+    background-color: yellow;
+}
+header a {
+    color: olivedrab;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header h1 {
+    color: darkmagenta;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+ol {
+    color: rgb(62, 82, 34);
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    text-align: center;
+}
+
+li {
+    color: peru;
+    font-family: 'Oswald', sans-serif;
+    padding: 10px 40px;
+}
+
+p span {
+    color: olivedrab;
+}
+
+footer p {
+    color: olivedrab;
+}
+}
