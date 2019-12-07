@@ -1,0 +1,28 @@
+body {
+	background: grey;
+	font-family: "sans-serif";
+}
+
+
+h1{
+	font-size: 25px;
+	color: blue;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 20px;
+	color: skyblue;
+	text-align: center;
+	font-weight: bold;
+}
+
+footer {
+	font-size: 15px;
+	text-align: center;
+}
