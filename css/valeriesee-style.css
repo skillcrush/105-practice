@@ -1,0 +1,87 @@
+/**General Styling**/
+.valerie-advice{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+h1,h4{
+    font-family: 'Nanum Myeongjo', serif;
+}
+h4{
+    font-size: 150%;
+    margin-bottom:.5%;
+    text-align:center;
+}
+#section1, #section2, #section3{
+    background:#d65e5e;
+}
+
+
+/**GRID**/
+header{
+    width:100%;
+}
+.valerie-advice{
+    width:100%;
+}
+#section1,#section2,#section3{
+    width:30%;
+    float:left;
+    margin: 0 1% 2% 1%;
+}
+footer{
+    width:100%;
+    clear:both;
+}
+
+/***HEADER**/
+header{
+ background: #ffd4d4;
+
+}
+header a{
+    text-decoration: none;
+    color:#000000;
+    text-transform: uppercase;
+    margin:0 auto;
+}
+header h1{
+    text-align: center;
+    padding:3%;
+}
+header h1 span{
+    color:#870000;
+
+}
+
+/**SECTION 1**/
+#section1 p{
+    font-size:100%;
+    line-height: 160%;
+    padding: 0 .5% 0 .5%;
+}
+
+/**SECTION 2**/
+
+#section2 p{
+    font-size:100%;
+    line-height: 150%;
+    padding: 0 .5% 2% .5%;
+}
+/**SECTION 3**/
+#section3 p{
+    font-size:100%;
+    line-height: 160%;
+    padding: 0 .5% 0 .5%;
+}
+/**FOOTER**/
+
+footer{
+    background: #ffd4d4;
+    padding: 3% 0 3% 0;
+}
+footer p{
+    text-align: center;
+    font-size:130%;
+    text-transform: uppercase;
+    color:#870000;
+}
+
