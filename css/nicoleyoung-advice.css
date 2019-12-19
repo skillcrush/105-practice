@@ -1,0 +1,79 @@
+/* BASE STYLES */
+
+.nicole-advice{
+    width: 1200px;
+}
+
+.advice{
+    width: 900px;
+    padding-left: 150px;
+}
+
+p {
+    font-family: "spectral";
+    font-size: 16px;
+    color: #1e1e1e;
+    line-height: 25px;
+}
+
+/* HEADER */
+
+button{
+    background-color: #ffbe2d;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+button a{
+    text-align: center;
+    text-decoration: none;
+    color: #f6f5f2;
+    font-weight: bold;
+    font-family: "source code pro"
+}
+
+header{
+    background-color: #a2c6c6;
+    margin-left: 50px;
+    padding: 50px auto;
+}
+
+header h1{
+    font-family: "spectral";
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+header span{
+    color: #ffbe2d;
+    font-family: "righteous";
+    font-size: 50px;
+    
+    -webkit-text-stroke: .5px;
+    -webkit-text-stroke-color: white;
+}
+
+/* ADVICE SECTION */
+
+.advice h4{
+    font-family: "source code pro";
+    font-size: 20px;
+    color: #b68845;
+}
+
+.advice span{
+    color: #a2c6c6;
+    font-weight: bold;
+}
+
+/* FOOTER */
+
+footer{
+    background-color: #a2c6c6;
+    margin-left: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
