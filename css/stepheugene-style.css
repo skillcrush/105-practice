@@ -1,0 +1,47 @@
+
+/***** HEADER ****/
+
+header h1 {
+  background-color: yellow;
+  font-family: verdana;
+  text-align: center;
+  margin: 30px 200px 0px 200px;
+  height: 110px;
+  font-size: 40px;
+  border: solid purple 5px;
+}
+
+
+
+/***** BODY *****/
+
+
+h4 {
+  font-family: calibri;
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+body {
+  font-family: calibri;
+  color: purple;
+  width: auto;
+}
+
+
+/***** ADVICE SECTION *****/
+
+.advice {
+  text-align: center;
+  padding: 20px 80px 20px 80px;
+  margin: 0 200px 0 200px;
+}
+
+
+/***** FOOTER *****/
+footer {
+  text-align: center;
+  clear: both;
+  padding-top: 60px;
+}
