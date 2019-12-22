@@ -1,0 +1,32 @@
+html {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.part1, .part2 {
+    background: lightgray;
+    border: solid #ff4d88 3px;
+    margin: 20px auto;
+    padding: 20px;
+    width: 75%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: #ff4d88;
+}
+
+h4 {
+    color: black;
+    font-size: 24px;
+    padding: 0px;
+    margin: 0px;
+}
+
+footer {
+    font-size: 14px;
+}
