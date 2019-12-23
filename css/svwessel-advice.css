@@ -1,0 +1,55 @@
+
+body{
+  font-family: 'Raleway', sans-serif;
+  background-color: #B296C5
+}
+
+a{
+  font-size:18px;
+}
+
+header{
+  font-size: 28px;
+  color: #2b2b2b;
+  text-align: center;
+}
+
+h4{
+  font-size: 24px;
+  color: purple;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  color: #E9FE4A;
+  text-align: center;
+}
+
+p span{
+  font-style:italic;
+  font-size: 28px;
+  color: black;
+}
+
+#bold{
+  font-weight: bold;
+  color:black;
+}
+
+#google{
+  font-weight: bold;
+  font-size:28px;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+
+#rainbow-text{
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+
+footer p{
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
