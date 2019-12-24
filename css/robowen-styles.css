@@ -1,0 +1,41 @@
+/* base styles */
+
+body {
+	background: #f88379;
+	font-family: 'Roboto Mono', monospace;
+	padding: 0.75em;
+	border: 1em solid #ffb347;
+	border-radius: 12px;
+}
+
+h1  {
+	background-color: white;
+	color: blue;
+	font-size: 56px;
+	text-align: center;
+	margin: 40px;
+}
+
+/* advice */
+
+.advice {
+    padding: 10px 50px;
+    margin: 40px;
+    background-color: blue;
+}
+
+.advice h4 {
+    font-size: 40px;
+    color: white;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+
+.advice p {
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
+    font-weight: 200;
+    text-align: justify;
+}

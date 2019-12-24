@@ -1,0 +1,47 @@
+/****** HEADER ******/
+.ashren-advice a {
+    font-family: 'Andika', sans-serif;
+}
+
+.ashren-advice h1{
+    font-family: 'Arima Madurai', cursive;
+    text-align: center;
+}
+
+/***** CONTENT *****/
+#quote-one {
+    float: left;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Aref Ruqaa', serif;
+}
+
+#quote-two {
+    float: left;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Aref Ruqaa', serif;
+}
+
+#quote-three {
+    float: left;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Aref Ruqaa', serif;
+}
+
+#quote-four {
+    float: left;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Aref Ruqaa', serif;
+}
+
+#quote-five {
+    float: left;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Aref Ruqaa', serif;
+}
+
+/***** FOOTER *****/
+p {
+    font-family: 'Andika', sans-serif;
+    width: 200px;
+    margin: 0 auto;
+}

@@ -1,0 +1,68 @@
+body {
+  background: linear-gradient(to right, rgba(237, 241, 241, 0), rgba(218, 241, 240, 1));
+  font-family: 'Montserrat', sans-serif;
+  color: #554f51;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(218, 241, 240, 1);
+}
+
+header span {
+  font-size: 36px;
+  font-weight: 900;
+  font-variant: small-caps;
+}
+
+.confusion, .disbelief {
+  float: left;
+  width: 43%;
+  margin: 0 2%;
+  padding: 0 1.5%;
+  background-color: rgba(219, 224, 224, 0.5);
+  border-radius: 20px;
+}
+
+h4, p {
+  padding: 3px;
+}
+
+h4 {
+  color: #00ada6;
+  font-size: 20px;
+  text-align: center;
+  line-height: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  font-weight: 900;
+  padding: 10px;
+  margin: 5px;
+}
+
+a {
+  font-size: 14px;
+  color: #708090;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+footer span {
+  font-size: 18px;
+}
+
+.back {
+  background-color: #DCDCDC;
+  height: 28px;
+  width: 245px;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 0 20px;
+}
