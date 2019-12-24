@@ -1,0 +1,115 @@
+/***** BASE STYLES *****/
+
+body {
+    
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    font-family: 'Architects Daughter', cursive;
+}
+
+h1{ 
+    font-size: 38px;
+    clear: both;
+    padding: 25px 0 0 0;
+    color: #522543
+}
+
+h2 {
+    font-size: 32px;
+    color: #522543;
+    text-align: center;
+}
+
+
+/*****GRID*****/
+.full-width{
+     width: 1200px;  
+ }
+
+ .half-width{
+     width: 600px;
+     float: none;
+     padding: 0px;    
+ }
+
+ 
+
+/***** HEADER *****/
+
+header {
+    background-color: rgb(250, 242, 250);
+    padding: 30px 40px;
+    text-align: center;
+}
+
+#back{
+    float: left;
+    text-transform: capitalize;
+    text-decoration: none;
+    border: 1px solid grey;
+    color: darkgrey;
+    padding: 3px;
+}
+#hi{
+    font-size: 72px;
+}
+
+#amy {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: rgb(153, 71, 122);
+}
+#you{
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: rgb(153, 71, 122);
+    font-size: 72px;
+}
+
+
+    
+
+
+/***** ADVICE *****/
+
+p {
+    font-family: 'Muli', sans-serif;
+    line-height: 130%;
+    font-size: 20px;
+}
+
+#confusion{
+    background: rgb(235, 221, 236);
+    width: 600px;
+    float: left;
+    padding: 10px 475px 0px 125px;
+    text-align: left;
+}
+
+#suspended{
+   background:  rgb(235, 221, 236);
+   width: 800px;
+   float: right;
+   padding: 0px 125px 30px 275px;
+   text-align: left;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: rgb(250, 242, 250);
+    clear: both;
+
+}
+
+footer p {
+    color: #a8aac0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
