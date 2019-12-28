@@ -1,0 +1,91 @@
+body {
+    background-color: mistyrose;
+    margin: auto;
+    padding: 20px; 
+}
+.header {
+    background-color: lightblue;
+}
+header h1 {
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+    font-size: 35px;
+    margin: auto;
+    padding: 20px;
+}
+header h2 {
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+    padding: 20px;
+    
+}
+.three-boxes {
+    display: block;
+    padding: 20px;
+    align-content: center;
+    width: 1200px;
+  
+    
+}
+.advice {
+    text-align: left;
+    width: 300px;
+    float: left;
+    margin: 120px 20px 150px 50px;
+    padding: 20px;
+    border: 1px solid plum;
+    
+}
+.advice h3 {
+    font-family: 'Courier Prime', monospace;
+    
+}
+
+.difficult {
+    text-align: left;
+    width: 300px;
+    margin: 120px 20px 150px 35px;
+    padding: 20px;
+    float: left;
+    border: 1px solid plum;
+    
+}
+.difficult h3 {
+    font-family: 'Courier Prime', monospace;
+}
+.suggestions {
+    text-align: left;
+    width: 300px;
+    margin: 120px 20px 150px 20px;
+    padding: 20px;
+    float: right;
+    border: 1px solid plum;
+   
+    
+}
+.suggestions h3 {
+   font-family: 'Courier Prime', monospace;
+}
+.suggestions ul li {
+    font-family: 'Inria Serif', serif;
+    font-style: italic;
+}
+
+p {
+    font-family: 'Inria Serif', serif;
+}
+.copy {
+    background-color: plum;
+    float: left;
+    clear: both;
+    height: 50px;
+    width: 100%;
+    
+}
+.footer {
+    text-align: center;
+   
+
+}
