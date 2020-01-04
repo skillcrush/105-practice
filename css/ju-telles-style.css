@@ -129,7 +129,8 @@ main {
     top: 0%;
 }
 #sun p {
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
+    text-shadow: bisque;
     font-size: 0.80rem;
     text-align: center;
     padding: 2% 9% 17% 9%;
@@ -164,8 +165,13 @@ main {
 /**FOTTER**/
 footer .full-width{
     width: 100%;
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    padding: 0;
+    margin: 0;
 }
-footer p {
+footer div p{
      position: absolute;
      bottom: 0%;
      left: 0%;
