@@ -1,0 +1,40 @@
+/********************  ********************/
+/******************** LAYOUT STYLES ********************/
+
+.full-width {
+  width: 100%;
+}
+.three-quarter-width {
+  width: 75%;
+  float: left;
+}
+.half-width {
+  width: 50%;
+  float: left;
+}
+.third-width {
+  width: (100/3)%;
+  float: left;
+}
+.quarter-width {
+  width: 25%;
+  float: left;
+}
+
+
+/******************** BASE STYLES ********************/
+
+body {
+  font-family: sans-serif;
+}
+
+
+/******************** HEADER STYLES ********************/
+
+#header {
+  background: url("https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/09/hero-overlay2.png") no-repeat 0px -20px white;
+  background-size: cover;
+}
+#header h1 {
+  padding: 5%;
+}
