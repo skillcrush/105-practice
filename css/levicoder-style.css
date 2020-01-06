@@ -13,7 +13,7 @@
   float: left;
 }
 .third-width {
-  width: (100/3)%;
+  width: 33%;
   float: left;
 }
 .quarter-width {
@@ -26,15 +26,50 @@
 
 body {
   font-family: sans-serif;
+  background: #ffffff;
+}
+#background {
+  color: lightgray;
+  float: left;
 }
 
 
 /******************** HEADER STYLES ********************/
 
 #header {
-  background: url("https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/09/hero-overlay2.png") no-repeat 0px -20px white;
+  background: url("https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/09/hero-overlay2.png") no-repeat 0px -20px;
   background-size: cover;
 }
 #header h1 {
   padding: 5%;
+  padding-left: 10%;
+}
+
+
+/******************** CONTENT STYLES ********************/
+
+#content {
+
+}
+
+
+/******************** MAIN ARTICLE STYLES ********************/
+
+#main {
+  padding: 5%;
+}
+
+
+/******************** TIPS STYLES ********************/
+
+#tips {
+  
+}
+
+
+/******************** FOOTER STYLES ********************/
+
+#footer {
+  background: lightgray;
+  clear: both;
 }

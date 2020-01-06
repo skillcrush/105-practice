@@ -7,6 +7,8 @@
   </head>
   <body>
 
+    <div id="background" class="full-width"></div>
+
     <a href="../index.html">← Back to Main Page</a>
 
     <header id="header" class="full-width">
@@ -15,50 +17,65 @@
       <!--img src="https://s3.amazonaws.com/media.skillcrush.com/uploads/2014/03/27111457/dark_101_Icon.png" alt="Skillcrush 101 icon">
       <img src="https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/09/hero-overlay2.png" alt="" style="width: 100%;"-->
       <hr>
-      <h1>My Advice to Coders</h1>
+      <h1>My Advice to Programmers</h1>
       <hr>
 
     </header>
 
+    <div id="content" class="full-width">
 
     <article id="main" class="three-quarter-width">
 
       <img src="" alt="">
       <h2>Stick to it!</h2>
-      <p></p>
+      <p>Make a commitment to be on the job every day. Even if you only put in five minutes a day, it's still progress, and keeps you in the habit! Many things you learn will be hard at first, but with practice become much easier. So keep up the good work!</p>
 
-      <h2>Be creative!</h2>
-      <p></p>
+      <h2>Do the research!</h2>
+      <p>If you're stuck or need help, check out sites like the <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a> for helpful tips and tricks. There are also a number of coding forums and blogs around the web. It's helpful to search these since other people might have already solved a similar problem.</p>
 
       <h2>Go the extra mile!</h2>
-      <p></p>
+      <p>Do the best you can every time. Others will know you as someone who takes their idea to the next level. If you have the skills, use them!</p>
 
     </article>
 
 
-    <aside id="about" class="quarter-width">
-      <img src="https://avatars0.githubusercontent.com/u/59508090?s=460&v=4" alt="A pixel art image of me">
-      <h4>About me</h4>
-      <p></p>
-    </aside>
-
-
-    <aside class="quarter-width">
+    <aside id="tips" class="quarter-width">
 
       <h4>Tips</h4>
       <ol>
         <li>
-          <h3></h3>
-          <p></p>
+          <h3>Content, then styles.</h3>
+          <p>It can be easy to get distracted by styling. But it's more efficient to style <em>after</em> you have the content.</p>
         </li>
 
+        <li>
+          <h3>Comment the code!</h3>
+          <p>Your code may make sense to you right now, but how about a few years into the future? And what if others want to understand it?</p>
+        </li>
+
+        <li>
+          <h3>Practice, practice, practice.</h3>
+          <p>When you learn a something new, try it out! Dont't be afraid to mess up. It's also a good idea to make a cheatsheet for ideas and concepts. It will be handy in the future!</p>
+        </li>
+
+        <li>
+          <h3>Save it often.</h3>
+          <p>One of the most frustrating scenarios is to make a bunch of progress, but lose it because you didn't save the code. So save it often. (And don't forget about Git and GitHub!)</p>
+        </li>
+
+        <li>
+          <h3>Validate your code!</h3>
+          <p>If you have a feeling that something is incorrect, plug the code into a validator like the <a href="https://validator.w3.org/#validate_by_input">W3C HTML Validator</a>. It will catch errors that you might not see.</p>
+        </li>
 
       </ol>
 
     </aside>
 
+    </div>
 
-    <footer>
+
+    <footer id="footer">
 
       <h3>Find me on</h3>
       <ul>
@@ -97,6 +114,13 @@
       date = returnYear(date);
       if(date > 2020) {
         curDate.innerHTML = " - " + date;
+      }
+    </script>
+
+    <script type="text/javascript">
+      var bg = document.getElementById("background");
+      for(var i = 0; i < 0; i++) {
+        bg.innerHTML += Math.round(Math.random()).toString() + " ";
       }
     </script>
 
