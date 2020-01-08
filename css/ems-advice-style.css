@@ -1,0 +1,54 @@
+.ems-advice{ 
+    background-image: url("https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-color: gray;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    font-size: 15px;
+    height: auto;
+    border: none;
+    text-align: center;
+}
+a{
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    text-decoration: none;
+    color: black;
+    font-weight: bold; 
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    color:white;
+    /***text-shadow: 3px 2px lightgrey;***/
+    padding-top: 20px; 
+}
+
+section {
+    width: auto;
+    height: 1000px; 
+  }
+.advice {
+   padding: 0;
+   Margin: 35px; 
+}
+h4 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+footer p{
+    text-align: left;
+    padding: 20px
+}
