@@ -1,0 +1,62 @@
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #faf5f5;
+    background-image: url(https://i1.wp.com/www.desktopimages.org/pictures/2014/0107/1/zombie-girl-hd-wallpaper-5752.jpg?strip=info);
+    background-size: cover;
+    text-align: center;
+    
+}
+    
+	
+
+h1 {
+    font-size: 48px;
+    letter-spacing: 2px;
+    font-family: 'Nosifer', cursive;
+    /*font-family: 'Creepster', cursive;*/
+    /*font-family: 'Fredericka the Great', cursive;*/
+    color: #e00606;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    border: 10px dotted #e00606;
+
+}
+
+
+h4 {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Nosifer', cursive;
+    color: #e00606;
+    background: #000000;
+    border-radius: 20px;
+    border: 3px dotted yellow;
+    
+}
+
+p {
+   color: #ffff4d;
+   font-size: 20px;
+   font-weight: bold;
+   font-family: 'Fredericka the Great', cursive;
+}
+
+
+
+
+footer a {
+  font-family: 'Fredericka the Great', cursive;
+  color: #e00606;
+  font-size: 20px;
+  background: #000000;
+  padding: 15px;
+  border-radius: 20px;
+  border: 2px dotted yellow;
+  text-decoration: none;
+}
+
+
