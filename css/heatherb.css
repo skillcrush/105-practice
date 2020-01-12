@@ -1,0 +1,46 @@
+body {
+    background: #008080;
+    color: #00FFFF;
+    font-family: 'Lora', serif;
+    margin: 10px;
+    padding: 0px;
+}
+
+h1 {
+    color: #00FFFF;
+    font-family: 'Indie Flower', cursive;
+    font-size: 60px;
+    font-variant: small-caps;
+    margin: 25px 0px 0px 0px;
+    text-align: center;
+    /*text-decoration: underline;*/
+}
+
+h4 {
+    font-size: 30px;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+h4, a, #copyright {
+    color: lime;
+    font-family: 'Lora', serif;
+}
+
+.half-width {
+    /*border: solid black 1px;*/
+    float: left;
+    margin: 0px 10px 40px 10px;
+    padding: 20px;
+    text-align: justify;
+    width: 45%;
+}
+
+.half-width p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+#copyright {
+    clear: both;
+}
