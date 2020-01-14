@@ -1,0 +1,56 @@
+/********* BASE STYLE *********/
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: #ffcc99;
+}
+
+h1, h3 {
+  font-family: 'Sura', serif;
+}
+
+/******* HEADER ******/ 
+h1 {
+  font-size: 65px;
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+header a {
+  text-decoration: none;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: black;
+  padding-top: 20px;
+
+/******* BODY *********/
+
+}
+.advice {
+  width: 800px;
+  text-align: left;
+  margin: 25px auto;
+  background: #fff2e6;
+  padding: 5px 25px;
+  border: 3px solid black;
+
+}
+
+h3 {
+  text-align: center;
+  font-size: 30px;
+}
+
+p {
+  padding-bottom: 20px;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+/********** FOOTER **********/
+footer p {
+  text-align: center;
+  font-size: 12px;
+}

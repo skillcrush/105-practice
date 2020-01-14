@@ -1,0 +1,65 @@
+body {
+  background-color:teal;
+  color:gainsboro;
+}
+
+header{
+  margin:10px 10px 0 10px;
+  text-align:right;
+  }
+
+h1{
+  background-color:darkseagreen;
+  font-family: Georgia, serif;
+  font-size:2em;
+  padding:1em;
+  text-align:left;
+
+}
+
+h4{
+  font-family: Georgia, serif;
+  font-size:1.5em;
+
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header a{
+  color:cadetblue;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:.9em;
+  text-decoration: none;
+
+}
+
+header a:active{
+  color:darkseagreen;
+}
+
+header a:visited{
+  color:lightgray;
+}
+
+header a:hover{
+    color:white;
+}
+
+footer p{
+  text-align:center;
+  font-size:.7em;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.flex-container{
+  background-color:cadetblue;
+  display:flex;
+  margin:10px;
+}
+
+.flex-container .advice{
+ padding:3em;
+
+}

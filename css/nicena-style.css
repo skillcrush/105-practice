@@ -1,0 +1,120 @@
+/* --- Base Styling --- */
+
+body {
+    background-color: #18121e;
+    max-width: 100%;
+    margin: auto;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 14px;
+}
+
+/* --- Structure/Layout --- */
+
+header {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    overflow: auto;
+    background-color: #984b43;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    clear: both;
+    background-color: #233237;
+    color: #ffffff;
+}
+
+main p {
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+.half-width {
+    max-width: 50%;
+    float: left;
+}
+
+.close {
+    width: 90%;
+    clear: both;
+}
+
+footer {
+    width: 90%;
+    clear: both;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    background-color: #233237;
+    color: #ffffff;
+}
+
+/* --- Header --- */
+
+.return-link {
+    text-align: right;
+    line-height: 12px;
+}
+
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #18121e;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+header h1 {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    color: #eac67a;
+}
+
+/* --- Main --- */
+
+main h2 {
+    text-align: center;
+    font-weight: 600;
+    color: #eac67a;
+}
+
+#quote {
+    overflow: auto;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 28px;
+    font-style: italic;
+    color: #eac67a;
+}
+
+.close p {
+    clear: both;
+    padding-left: 40px;
+    padding-right: unset;
+    text-align: center;
+    font-size: 22px;
+}
+
+/* --- text styling --- */
+
+.emphasis {
+    font-style: italic;
+    font-weight: 600;
+    color: #984b43;
+}
+
+/* --- Footer --- */
+
+footer p {
+    padding: 0;
+}
+
+.subtext {
+    font-size: 10px;
+    line-height: 10px;
+}

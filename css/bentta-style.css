@@ -1,0 +1,83 @@
+/*** BASE STYLES ***/
+
+.bentta-advice {
+    font-family: 'Rosario', sans-serif;
+    color: #000000;
+    background: url('https://cdn.hipwallpaper.com/i/11/66/NSr6UK.jpg') no-repeat;
+}
+
+h1 {
+    font-family: 'Merienda', cursive;
+    font-weight: bold;
+    color: #0063A4;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Merienda', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0063A4;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*** HEADER ***/
+
+header a {
+    color: #605672;
+    margin: 5px;
+}
+
+header h1 {
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid #E3DAF2;
+    background-color: rgb(255, 255, 255);
+}
+
+/*** ADVICE ***/
+
+.advice {
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid #E3DAF2;
+    background-color: rgb(255, 255, 255);
+}
+
+.advice h4 {
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.advice p {
+    margin: 0 auto;
+    padding: 10px 15px;
+}
+
+/*** BELIEF ***/
+
+.belief {
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid #E3DAF2;
+    background-color: rgb(255, 255, 255);
+}
+
+.belief h4 {
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.belief p {
+    margin: 0 auto;
+    padding: 10px 15px;
+}
+
+/*** FOOTER ***/
+
+footer p {
+    text-align: center;
+}
+
+

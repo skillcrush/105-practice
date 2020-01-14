@@ -1,0 +1,25 @@
+body{
+  background-color: cornflowerblue;
+  color: white;
+  font-family: sans-serif;
+}
+
+h1{
+  text-align: center;
+  background-color: slategrey;
+}
+
+h1 span{
+  color: peachpuff;
+}
+
+.advice{
+  font-size: 20px;
+  text-align: justify;
+}
+
+.advice h4{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+}

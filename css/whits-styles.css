@@ -1,0 +1,105 @@
+
+/***** GRID *****/
+body .whits-advice {
+	width: 1200px;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+/***** HEADER *****/
+header {
+	height: 600px;
+	background-color: #74638d;
+	background-image: url('https://i.ibb.co/TqKF8DJ/computer-bunny.jpg');
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 500px 600px;
+	border-bottom: 10px dashed #635378;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+header nav {
+	float: right;
+	padding: 30px 30px;
+}
+header nav ul {
+	margin: 0px;
+	padding: 0px;
+}
+header nav ul li {
+	display: inline;
+}
+header nav ul li a {
+	color: #a4d6b1;
+	font-family: 'text me one', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+ header h1 {
+ 	float: right;
+ 	font-family: "Brawler", serif;
+ 	font-size: 50px;
+ 	letter-spacing: 3px;
+ 	line-height: 80px;
+ 	margin: 0px;
+ 	padding-top: 100px;
+ 	padding-right: 80px;
+	padding-bottom:  0px;
+	padding-left: 300px;
+ 	text-align: center;
+ 	color: #90c39a;
+ }
+ header h1 span {
+ 	color: #f27094;
+ }
+
+ /***** MAIN SECTION *****/
+ .advice {
+ 	clear: both;
+ 	background-color: #635378;
+ 	margin: 0;
+ 	padding-top: 10px;
+ 	overflow: auto;
+ }
+
+h4 {
+	border-bottom: 10px double #91c499;
+	color: #f36f94;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	word-spacing: 10px;
+}
+
+p {
+	color: #f4f6e1;
+	font-family: 'text me one', sans-serif;
+	font-size: 25px;
+	font-weight: bolder;
+	line-height: 40px;
+	letter-spacing: 2px;
+	padding:0 60px 0 60px;
+}
+
+footer {
+	background-color: #74638d;
+	border-top: 10px dashed #635378;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.footer {
+	color:#92c59c;
+	font-family: 'Brawler', serif;
+	font-size: 20px;
+	font-weight: bolder;
+	letter-spacing: 3px;
+	text-align: center;
+	word-spacing: 5px;
+}

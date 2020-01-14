@@ -1,0 +1,45 @@
+/****BASE STYLES****/
+body {
+  font-family: 'Amatic SC', cursive;
+  color: #413e3e;
+  font-weight: bolder;
+
+}
+
+header{
+  height: 450px;
+  width: 80%;
+  margin: 10%;
+  background-size: cover;
+  background-image: url('http://www.webdesigndev.com/wp-content/uploads/2015/01/Free-Polygonal-Low-Poly-Background-Texture-e1421410800442.png');
+}
+
+h1{
+  font-size: 65px;
+  font-style: bold;
+  text-align: center;
+  padding: 100px;
+}
+
+header h1 span{
+	font-family: 'Permanent Marker', cursive;
+  color: #ffffff;
+  font-style: lighter;
+}
+
+h4{
+	font-size: 55px;
+  text-align: center;
+}
+
+p{
+	font-size: 35px;
+  text-align: center;
+  margin: 20px;
+}
+
+footer{
+  margin: 50px;
+  text-align: center;
+  font-size: 25px;
+}

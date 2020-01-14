@@ -1,0 +1,97 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: left;
+    background-image: url('https://4.bp.blogspot.com/-MpP8oncmdro/WPTlUTa43MI/AAAAAAAAnBI/a_KcsJFJ6c0YkpCS1oPCdJUzfNRyNII8ACLcB/s1600/bee_paper_A4_3.jpg');
+}
+
+/*****GRIDLINES*****/
+.full-width {
+  width: 960px;
+}
+
+.half-width {
+  width: 400px;
+  float: left;
+  padding-left: 55px;
+}
+
+#center-page{
+  margin: 0 auto;
+  border: 6px double black;
+  background-color: white;
+}
+/*****HEADER*****/
+.hero {
+  height: 400px;
+  background-image: url('https://vignette.wikia.nocookie.net/disney/images/f/f2/Winnie_the_Pooh_Hmm_Think_Think_Think.jpg');
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+  border: 2px solid black;
+}
+
+.hero h1 {
+  font-family: 'Staatliches', cursive;
+  font-size: 65px;
+  font-weight: bold;
+  text-align: right;
+  color: black;
+  margin-top: 5px;
+  padding-right: 25px;
+}
+
+.hero h1 span{
+  color: firebrick;
+  text-decoration: underline;
+}
+
+
+/*****MAIN*****/
+#tip-container-a {
+  height: 400px;
+  background-color: MediumAquaMarine;
+  width: 960px;
+  padding: 5px -25px 25px 25px,
+}
+
+#tip1 h3,
+#tip2 h3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 18px;
+  margin-bottom: -3px;
+}
+
+#tip1 h3 span,
+#tip2 h3 span {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+#tip1 p,
+#tip2 p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: justify;
+}
+
+footer {
+margin-top: -18px;
+  height: 55px;
+  background: lightgray;
+  border-top: 2px solid black;
+}
+
+footer p{
+  text-align: center;
+  font-size: 18px;
+  padding-bottom:5px;
+}
+
+footer span {
+  font-family: 'Indie Flower', cursive;
+  font-size: 19px;
+  color: black;
+}

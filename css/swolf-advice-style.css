@@ -1,0 +1,64 @@
+/******BASE STYLES******/
+
+body {
+    font-family: 'Amiri', serif;
+}
+
+/*****GRID STYLES*****/
+.swolf-advice {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.advice {
+    width: 520px;
+    padding-top: 0px;
+    padding-right: 80px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    float: left;
+}
+
+/*****CONTENT*****/
+
+header {
+  height: 500px;
+  background-image: url(http://sallylwolf.com/img/advice-hero.jpg);
+  background-size: cover;
+  float: left;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 62px;
+    color: #ff5050;
+    margin-top: 320px;
+    margin-left: 50px;
+    margin-right: 200px;
+}
+
+h4 {
+    color: #ff5050;
+    font-size: 24px;
+    line-height: 12px;
+    margin-top: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+nav a {
+    height: 100px;
+    color: #f2f2f2;
+    text-shadow: 1px 1px #000000;
+    float: right;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px;
+}
+
+footer p {
+    font-size: 12px;
+    text-align: right;
+}

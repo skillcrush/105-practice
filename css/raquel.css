@@ -1,0 +1,24 @@
+body{
+  text-align:center;
+}
+
+h1{
+  background-color:turquoise;
+  padding:10px;
+}
+
+.button{
+  background-color: orange;
+  padding: 10px;
+  border-radius: 10px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+
+}
+
+.button a{
+  text-decoration:none;
+  color:black;
+}

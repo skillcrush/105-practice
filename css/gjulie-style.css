@@ -1,0 +1,32 @@
+/*******************base***********************/
+body {
+	background-color: #FFFFF0;
+	color: #2F4F4F;
+	font-family: 'Open Sans', sans-serif;
+	width: 1200px;
+}
+/*******************grid***********************/
+.advice {
+	width: 1200px;
+	height: 350px;
+}
+
+.half {
+	width: 500px;
+	height: 350px;
+	float: left;
+	padding: 35px;
+}
+
+h1 {
+	padding-left: 35px;
+}
+
+h4 {
+	text-align: center;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}

@@ -1,0 +1,42 @@
+body {
+    width: 1200px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: #000000;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background: #99ff99;
+    padding-top: 12px;
+    margin: 0;
+    display: inline-block;
+    width: 1200px;
+  }
+
+  h1{
+    text-align: center;
+  }
+  
+.advice {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background: #ccffcc;
+  padding-top: 12px;
+  margin: 0;
+  display: inline-block;
+  width: 1200px;
+}
+
+footer {
+  font-size: 12px;
+  background: #e6ffe6;
+  padding-top: 12px;
+  margin: 0;
+  display: inline-block;
+  width: 1200px;
+}
+
+h4, h1, p {
+  margin-left: 12px;
+}

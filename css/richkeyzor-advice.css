@@ -1,0 +1,19 @@
+body {
+  background-color: #bada55;
+  margin: 5% 20%;
+}
+
+h4 {
+  font-family: sans-serif;
+}
+
+header {
+  font-family: sans-serif;
+}
+
+footer {
+  font-family: sans-serif;
+  text-align: center;
+  border-top: 1px solid black;
+  margin-top: 40px;
+}

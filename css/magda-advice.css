@@ -1,0 +1,74 @@
+.magda-advice {
+  width: 1200px;
+  margin: 0 auto;
+  clear: both;
+  text-align: center;
+}
+
+.sentence {
+  width: 1200px;
+  height: 100px;
+  padding: 30px 0;
+  clear:both;
+  text-align: center;
+  background-color: #ffff99;
+}
+
+.advice-1 {
+  width: 600px;
+  height: 400px;
+  float: left;
+  text-align: center;
+  background-color: #ffff99;
+}
+
+.advice-2 {
+  width: 600px;
+  height: 400px;
+  float: left;
+  text-align: center;
+  background-color: #ffff99;
+}
+
+header {
+  background-color: #f0f5f5;
+  height: 300px;
+}
+
+footer {
+  background-color: #f0f5f5;
+  height: 100px;
+  padding: 50px;
+  clear: both;
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 35px;
+  font-weight: lighter;
+  text-shadow: 1px 1px #a2a276;
+  color: #2e2e1f;
+  padding: 100px 200px;
+}
+
+h3 {
+  font-family: 'Caveat', cursive;
+  font-size: 40px;
+  color: orangered;
+}
+
+ul li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 250%;
+  color: #2e2e1f;
+  text-align: center;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #2e2e1f;
+  text-align: center;
+}

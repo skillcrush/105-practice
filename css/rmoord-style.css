@@ -1,0 +1,60 @@
+
+/*****BASE STYLES*****/
+
+body {
+  font-family: 'Lora', serif;
+  background-color: #ebebeb;
+}
+
+/*****GRID*****/
+
+.full-width {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+/*****HEADER*****/
+
+
+.rae-advice header {
+
+	background-color: #f9ceb7;
+	border: 4px double #2f4f4f;
+	padding: 35px 20px 30px 20px;
+  margin: 20px;
+	line-height: 80px;
+
+}
+
+
+.rae-advice h1 {
+
+	color: #000000;
+	font-family: 'Muli', sans-serif;
+	font-size: 48px;
+	text-align: center;
+
+}
+
+
+.rae-advice h4 {
+
+  color: #000000;
+  font-family: 'Muli', sans-serif;
+  font-size: 48px;
+  text-align: center;
+
+}
+
+.rae-advice p {
+  color: #000000;
+  font-size: 28px;
+  text-align: left;
+}
+
+.copyright {
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+}

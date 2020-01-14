@@ -1,0 +1,34 @@
+body {
+    font-family: 'Happy Monkey', cursive;
+    background: #d9d9d9;
+}
+
+header {
+    height: 200px;
+    width: 1200px;
+    margin: 0 auto;
+    background-image: url('https://thumbs.dreamstime.com/z/young-girl-looking-computer-screen-playing-game-surfing-internet-original-hand-drawn-illustration-92883988.jpg');
+    background-size: 200px;
+    background-position: right;
+    background-repeat: no-repeat;
+    border-bottom: dashed #345634;
+}
+
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.half-width {
+    float: left;
+    margin: 0 auto;
+    padding: 20px 20px 20px 0px;
+    text-align: justify;
+    width: 580px;
+}
+
+footer {
+    clear: both;
+    padding: 10px;
+}
+

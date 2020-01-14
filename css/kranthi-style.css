@@ -1,0 +1,52 @@
+
+header{
+	padding: 10px 50px 0px 50px;
+	font-size: 36px;
+	width: 100%;
+	text-align: center;
+}
+
+
+header a{
+	font-family: 'Orbitron';
+	text-decoration: none;
+	background: #ffcccc;
+}
+
+
+header h1{
+	width: 100%;
+	font-family: 'Kalam';
+}
+
+.advice {
+	font-family: 'Poiret One';
+	font-size: 24px;
+	text-align: justify;
+}
+
+.advice h4{
+	font-weight: bolder;
+	text-decoration: underline;
+	color: #0000ff;
+}
+
+
+#Confusion, #Disbelief {
+	width: 45%;
+	float: left;
+	margin: 10px 25px 10px 25px;
+	padding: 10px 20px 10px 20px;
+	
+}
+
+#Confusion p{
+	padding: 40px 0px 40px 0px;
+}
+
+footer{
+	width: 100%;
+	font-size: 20px;
+	font-weight: bolder;
+	text-align: center;
+}

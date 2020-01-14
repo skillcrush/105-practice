@@ -1,0 +1,62 @@
+/** Sean's Styles**/
+.seanr-advice {
+    width: 90%;
+    background-color: gray;
+    font-family: Open Sans;
+    margin: 0 auto;
+
+}
+.seanr-advice a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+.seanr-advice h1 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.seanr-advice h4 {
+    font-family: Open Sans;
+    font-size: 22px;
+    text-align: center;
+    color: #126272;
+}
+.seanr-advice p {
+    color: white;
+    text-align: center;
+}
+.seanr-advice footer {
+    color: white;
+    background-color: gray;
+    text-align: right;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.button {
+   /* background-color: #4CAF50; - Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: transparent; 
+    color: black; 
+    border: 2px solid #126272;
+}
+
+.button2:hover {
+    background-color: #126272;
+    color: white;
+}
+/** End Sean's Styles*/

@@ -1,0 +1,55 @@
+.skillcrush-advice {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: grey;
+  color: white;
+}
+a:hover {
+  color: black;
+}
+a:visited {
+  color: white;
+}
+.headings {
+  color: white;
+}
+a {
+  float: left;
+  padding-top: 30px;
+}
+h1 {
+  float: right;
+  margin-right: 600px;
+  text-transform: capitalize;
+  font-family: Arial Black;
+  font-size: 40px;
+}
+
+section {
+  clear: both;
+  background-color: #999999;
+  padding: 30px 30px 30px 30px;
+  font-family: Georgia;
+}
+
+#advice {
+  background-color: #4d4d4d;
+  padding: 10px;
+}
+
+#moreadvice {
+  background-color: #1a1a1a;
+  padding: 10px;
+}
+footer {
+  clear: both;
+}
+h4 {
+  font-family: Arial;
+  color: white;
+  font-size: 30px;
+  padding-left: 250px;
+}
+p {
+  padding: 5px;
+}

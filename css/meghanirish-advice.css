@@ -1,0 +1,33 @@
+body {
+    background-color: blanchedalmond;
+}
+
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 1.0em;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 1.75em;
+    text-align: center;
+}
+
+h4 {
+    color: blueviolet;
+    font-family: 'Merriweather', serif;
+    font-size: 1.35em;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 1.25em;
+}
+
+footer p {
+    font-size: 1.0em;
+    text-align: center;
+}

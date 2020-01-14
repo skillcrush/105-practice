@@ -1,0 +1,48 @@
+body {
+    font-family: 'News Cycle', sans-serif;
+    color: #ccccff;
+    background-color: #333333;
+    text-align: center;
+}
+
+body .mei-advice, h1, h4{
+	font-family: 'Archivo Black', sans-serif;
+	color: #9999ff;
+}
+
+body a, footer{
+	font-family: 'News Cycle', sans-serif;
+	color: #ff4d4d;
+}
+
+h1{
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+h4{
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.advice-1{
+	border: 3px dotted #ff8080;
+	margin: 20px;
+	padding: 10px;
+}
+
+.advice-1 p{
+	font-family: 'News Cycle', sans-serif;
+	font-size: 18px;
+}
+
+.advice-2{
+	border: 3px dotted #ff8080;
+	margin: 20px;
+	padding: 10px;
+}
+
+.advice-2 p{
+	font-family: 'News Cycle', sans-serif;
+	font-size: 18px;
+}

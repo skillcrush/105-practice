@@ -1,0 +1,35 @@
+body {
+    background: #c6d9ec;
+}
+header a {
+    text-decoration: none;
+    color: #3d4d5c;
+    font-family: 'Work Sans', sans-serif;
+}
+
+header h1 {
+    color: #3d4d5c;
+    size: 24 px;
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+
+.advice {
+    padding: 0px 20px 10px 20px;
+}
+
+h4 {
+    color: #3d4d5c;
+    size: 32 px;
+    font-family: 'Nanum Gothic', sans-serif;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+p {
+    color: #141a1f;
+    size: 16px; 
+    font-family: 'Work Sans', sans-serif;
+}

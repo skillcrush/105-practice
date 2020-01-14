@@ -1,0 +1,75 @@
+body {
+    background: cover;
+    background-color: #ffdf9e;
+}
+
+header {
+    background: cover;
+    background-color: #ffeebd;
+    height: 60px;
+}
+
+footer {
+    clear: both;
+}
+
+h1 {
+    font-family: 'Charmonman', cursive;
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+h5 {
+    font-size: 17px;
+}
+
+p {
+    font-size: 18px;
+}
+
+p, h4 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+body main h1 {
+    text-align: center;
+}
+
+/***** This is the header section *****/
+
+header h5 {
+    color: black;
+    float: right;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+/***** This area is the code for the 2 main sections *****/
+
+.half-width {
+    background-color:#ffeebd;
+    border: 2px solid black;
+    height: 400px;
+    padding: 0 20px 20px 20px;
+    width: 45%;
+}
+
+#confusion {
+    float: left;
+    margin-left: 10px;
+}
+
+#disbelief {
+    float: right;
+    margin-right: 10px;
+}
+
+/***** footer *****/
+
+footer h5 {
+    text-align: center;
+    padding-top: 70px;
+}

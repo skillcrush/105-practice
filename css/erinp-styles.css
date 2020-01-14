@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  width: 500px;
+}
+
+header {
+  background-color: lightcyan;
+  color: purple;
+  padding: 30px;
+}
+
+main {
+  font-size: 20px;
+  line-height: 28px;
+  text-align: justify;
+  background-color: purple;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+}

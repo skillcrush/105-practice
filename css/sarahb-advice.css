@@ -1,0 +1,29 @@
+/***** BASE STYLES *****/
+body {
+font-family: 'Source Sans Pro', sans-serif;
+color: #2b2b2b;
+padding; 80px 0;
+}
+
+/****** GRID ******/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+/***** HEADER ******/
+.sarah-advice h1 {
+    color: #343678;
+}
+
+/***** ADVICE ******/
+.advice h4 {
+    color: #0c0029;
+    font-size: 25px;
+    text-decoration: underline;
+}

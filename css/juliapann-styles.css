@@ -1,0 +1,49 @@
+body {
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+
+/*******************HEADER*****************/
+#button-div {
+  width: 100%;
+}
+
+button {
+  background: tomato;
+  float: right;
+}
+
+button a {
+  text-decoration: none;
+}
+
+#header-div {
+  clear: both;
+  text-align: center;
+}
+
+/***********ADVICE SECTION*****************/
+
+
+.advice {
+  border-color: tomato;
+  border-style: dotted;
+  margin: 20px;
+  overflow: auto;
+  padding: 20px;
+}
+
+#left-side, #right-side {
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  width: 600px;
+}
+
+/****************FOOTER**********************/
+footer {
+  clear: both;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}

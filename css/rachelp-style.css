@@ -1,0 +1,26 @@
+
+a{
+  color: #581845;
+}
+
+h1{
+  font-family: 'Abril Fatface', serif;
+  color: #AAB7B8;
+  font-size: 36px;
+}
+
+h2{
+  font-family: 'Noto Sans', sans-serif;
+  color: #D39481;
+  font-size: 24px;
+}
+
+p{
+  font-family: 'Noto Sans', sans-serif;
+  color: #5D6D7E;
+  font-size: 20px;
+}
+
+footer p{
+  font-size: 14px;
+}

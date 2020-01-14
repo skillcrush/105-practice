@@ -1,0 +1,54 @@
+/****** BASE STYLES *****/
+
+
+body {
+	font-family: 'Work Sans', sans-serif;
+	width: 100%;
+	margin: 0 auto;
+	padding: 15px;
+	font-size: 16px;
+}
+
+.full-width {
+	width: 100%;
+}
+
+h1, h4 {
+	font-family: 'Crimson Text', serif;
+	font-style: italic;
+	text-align: center;
+}
+
+h4 {
+	text-decoration: underline;
+	margin-top: 25px;
+}
+
+.help {
+	padding-top: 15px;
+}
+
+ .starter-links ul {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.starter-links ul li {
+	display: inline-block;
+	padding-right: 45px;
+}
+
+a {
+	color: #0000EE;
+}
+
+a:hover {
+	color: red;
+}
+
+/***** FOOTER STYLES *****/
+
+footer {
+	text-align: center;
+	margin-top: 100px;
+}

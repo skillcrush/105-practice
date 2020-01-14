@@ -1,0 +1,47 @@
+body {
+    background: #feecc1;
+    color: #100a4d; 
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Josefin Slab', serif;
+    font-size: 20px;
+}
+section {
+    width: 1200px;
+    margin: 0 auto;
+    background: #ebd4fa;
+    line-height: 25px;
+    border: 5px solid whitesmoke;
+}
+.advice-one {
+    float: left;
+    width: 550px;
+    height: 150px;
+    padding: 20px 20px 50px 20px;
+}
+.advice-two {
+    float: left;
+    width: 550px;
+    height: 150px;
+    padding: 78px 20px 0px 20px;
+}
+.advice-three {
+    clear: both;
+    padding: 20px 0px 20px 20px;
+
+}
+#pretty {
+    font-weight: bold;
+    text-align: center;
+}

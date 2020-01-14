@@ -1,0 +1,30 @@
+body{
+	background-color: Gainsboro;
+	font-family: "Lucida Sans Unicode";
+	color: DarkSlateGray;
+}
+
+h1{
+	font-family: 'Roboto Slab', serif;
+	color: RebeccaPurple;
+	text-align: center;
+}
+
+h3{
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	color: RebeccaPurple;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 17px;
+}
+
+p.footer{
+	font-size: 11px;
+}
+
+footer{
+	text-align: center;
+}
