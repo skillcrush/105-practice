@@ -1,0 +1,17 @@
+body {
+  font-family: 'Courier';
+  background-color: oceanblue;
+}
+
+h1 {
+  font-style: italic;
+}
+
+h4 {
+  font-weight: bold;
+  text0-decoration: underline;
+}
+
+p {
+  font-weight: light;
+}
