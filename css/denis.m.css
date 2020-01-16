@@ -16,7 +16,7 @@ header a {
 h1 {
   font-family: 'Passion One', cursive;
   color: #6bbdbb;
-  font-size: 40px;
+  font-size: 60px;
   text-align: center;
   padding: 20px 40px;
   margin: 0 30px;
@@ -42,7 +42,7 @@ h4 span {
   font-weight: 700;
 }
 
-.abowler-advice {
+.advice {
   width: 1200px;
   margin: 0, auto;
   background: #f9f8f1;
@@ -53,8 +53,9 @@ h4 span {
 }
 
 .advice p {
+font-family: 'Dancing Script', cursive;
   padding: 0 30px;
-  font-size: 18px;
+  font-size: 25px;
   line-height: 24px;
   text-align: justify;
   margin: 0 0 18px 0;
