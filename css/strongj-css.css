@@ -1,0 +1,80 @@
+/***** BASE STYLES *****/
+
+body {
+   background: #f4e1d2;
+   font-family: serif;
+   margin: 20px 20px;
+   
+}
+
+/***** GRID *****/
+.half-width {
+  width: 600px;
+  height: auto;
+  float: left;
+  margin: auto;
+  padding: 10px;
+}
+
+
+/***** HEADER *****/
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #50394c;
+    border: 1px solid #50394c;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+header a:hover {
+    background-color :#50394c;
+    color: #fff;
+}
+
+header span, h1{
+	color: #50394c;
+	text-align: center;
+	font-size: 46px;
+}
+
+/**** ADVICE *****/
+.advice {
+    padding: 10px 40px;
+    background-color: @b2b2b2;
+}
+
+.advice h4 {
+    font-size: 35px;
+    color: #999900;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice h4 span {
+    color: #50394c;
+}
+
+.advice p {
+    font-size: 20px;
+    line-height: 42px;
+    color: #50394c;
+    font-weight: 200;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #50394c;
+	clear: both;
+}
+
+footer p {
+    color: #a8aac0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
