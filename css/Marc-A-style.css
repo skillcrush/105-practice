@@ -1,0 +1,68 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: Black;
+  background: White;	
+}
+
+/*header {
+  width: 1000px;
+}*/
+
+header a {
+  color: Black;
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  color: Crimson;
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 40px;
+  margin: 0 30px;
+}
+
+h1 span {
+  color: red;
+  font-family: 'Lato', sans-serif;
+  font-size: 65px;
+}
+
+h4 {
+  color: red;
+  font-family: 'Laila', serif;
+  font-size: 25px;
+  margin: 33px 0 15px 0;
+}
+
+h4 span {
+  color: #6bbdbb;
+  font-family: 'Lato', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.Marc-A-advice {
+  width: 1200px;
+  margin: 0, auto;
+  background: White;
+}
+
+.advice {
+  padding: 0 20px;
+}
+
+.advice p {
+  padding: 0 30px;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: justify;
+  margin: 0 0 18px 0;
+}
+
+footer {
+  color: Black;
+  text-align: center;
+  padding: 10px 0;
+}
