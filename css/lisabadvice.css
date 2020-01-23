@@ -1,0 +1,35 @@
+body {
+    background: #ffe6e6;
+    width: 75%;
+    padding: 0% 5%;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: 'open sans', sans-serif;
+    color: #ff6666;
+}
+
+h4 {
+    font-size: 24px;
+    font-family: 'open sans', sans-serif;
+    color: #ff6666;
+}
+
+p {
+  font-size: 18px;
+  font-family: 'open sans', sans-serif;
+  color: #808080;
+}
+
+span {
+    font-weight: bold;
+    color: #808080;
+}
+
+footer {
+    font-size: 12px;
+    font-style: italic;
+    font-family: 'open sans', sans-serif;
+    color: #ff6666;
+}
