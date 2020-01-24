@@ -1,0 +1,15 @@
+header {
+	font-family: 'Bowlby One SC', cursive;
+	font-size: 25px;
+	text-align: center;
+	line-height: 50px;
+}
+section {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 18px;
+	text-align: left;
+}
+footer {
+	font-family: 'Dancing Script', cursive;
+	font-size: 16px;
+}
