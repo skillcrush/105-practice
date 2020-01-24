@@ -1,0 +1,29 @@
+body {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+    color:#007fff;
+
+}
+
+header {
+	background-image:url(https://cdn.pixabay.com/photo/2017/06/09/14/18/you-2386968__340.png);
+	background-repeat: no-repeat;
+	background-position:center;
+}
+
+h1{
+	font-size:52px;
+	color:#000080;
+	font-weight:bold;
+}
+
+h4 {
+
+	font-size:30px;
+	color:#000080;
+}
+
+footer{
+	font-family:"Courier New", Courier, monospace;
+	font-size:20px;
+	color:#6495ed;
+}

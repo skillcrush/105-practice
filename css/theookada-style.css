@@ -1,0 +1,23 @@
+header{
+  background: #ffffff;
+}
+
+body{
+  background: #000000;
+}
+
+h1{
+  font-style: arial;
+  color:#000000;
+  font-size: 28px;
+}
+
+h4{
+  color:#dbb42a;
+  font-size: 20px;
+}
+
+p{
+  color: #ffffff;
+  font-size: 16px;
+}
