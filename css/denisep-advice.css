@@ -1,0 +1,24 @@
+
+
+/*****base styles*****/
+body {
+    background: darkolivegreen;
+    color: cornsilk;
+    width: 1000px;
+  }
+  
+  h1,footer {
+      text-align: center;
+  }
+.advice {
+    border: 5px solid cornsilk;
+    margin: 10px;
+    padding: 15px;
+}
+p,li {
+    font-size: 24px;
+}
+h4 {
+    color: palegreen;
+}
+
