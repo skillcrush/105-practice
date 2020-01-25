@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #f9e6ff;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #9900cc;
+    margin-top: 1em;
+    text-transform: lowercase;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #9900cc;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: #9900cc;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+@media screen and (max-device-width: 768px) {
+    body {
+        font-size: 1.75em;
+    }
+
+    h1, p {
+        text-align: justify;
+    }
+
+    #center {
+        text-align: center;
+    }
+} 
