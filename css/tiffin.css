@@ -51,15 +51,10 @@ footer {
 }
 
 @media screen and (max-device-width:425px) {
-    body {
-        font-size: 1.75em;
-    }
-
-    p, h1 {
+    h1, p {
         text-align: justify;
     }
 
     #center {
         text-align: center;
-    }
-}
+} 
