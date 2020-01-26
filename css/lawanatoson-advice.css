@@ -1,0 +1,31 @@
+/***grid layout*/
+.full-width {
+ width: 1200px;
+}
+.half-width {
+    width: 600px;
+}
+
+footer {
+    clear: both;
+}
+/**base style***/
+body {
+    box-sizing: border-box;
+    font-family: 'roboto', sans-serif;
+    background-color: #DCF7F9;
+}
+#advice {
+    float: left;
+    padding: 40px 30px;
+}
+
+h1 {
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+}
+
+h4{
+    font-family: 'poppins', sans-serif;
+
+}

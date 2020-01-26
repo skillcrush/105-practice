@@ -1,0 +1,52 @@
+/***** GRID *****/
+body {
+    
+    background: #f0f5f5;
+}
+
+.full-width {
+    width: 1450px;
+    display: flex;
+    justify-content: center;
+    padding: 25px 10px;
+}
+
+ .half-width {
+     width: 600px;
+     flex-direction: row;
+     padding: 25px 30px;
+     background: #fefefe;
+     margin: 10px;
+ }
+
+ footer {
+     clear:both;
+     text-align: center;
+ }
+
+ h1, h3 {
+     font-family: 'Kanit', sans-serif;
+     font-weight: bold;
+     text-align: center;
+ }
+
+ h1 {
+     font-size: 40px;
+     color:#333333;
+ }
+
+ p {
+     font-family: 'Amiri', serif;
+     font-weight: 500;
+     color: #333333;
+ }
+
+ a {
+     border-radius: 25px;
+     background: #ff0000;
+     text-transform: uppercase;
+     color: whitesmoke;
+     font-family: 'Amiri', serif;
+     padding: 20px;
+     text-decoration: none;
+ }
