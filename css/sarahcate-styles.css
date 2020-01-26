@@ -1,0 +1,86 @@
+/***** BASE STYLES *****/
+
+body {
+    color: #2b2b2b;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#sarahcate-advice {
+    background: #f4f1ee;
+    margin: 0 auto;
+}
+
+/****** GRID ******/
+
+.full-width {
+    margin: 0 auto;
+}
+
+.half-width {
+    float: left;
+    width: 600px;
+    padding: 2px;
+}
+
+/****** HEADER ******/
+
+header {
+    background: #D9D2C8;
+    height: 200px;
+}
+
+a {
+    color: #736E6C;
+    float: left;
+    text-decoration: none;
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    font-size: 42px;
+    color: #9b9b9b;
+    letter-spacing: 3px;
+    padding: 20px;
+    clear: both;
+}
+
+h1 span {
+    color: #2b2b2b;
+}
+
+a {
+    color: #736E6C;
+    float: left;
+    text-decoration: none;
+    padding: 20px;
+}
+
+/****** advice ******/
+
+#advice .full-width {
+    padding: 20px 0;
+}
+
+#advice h4 {
+    font-size: 20px;
+    margin: 20px;
+    padding-bottom: 10px;
+}
+
+#advice p {
+    color: #7F7F7F;
+    font-size: 15px;
+    line-height: 20px;
+    padding-right: 25px;
+    margin: 20px;
+    text-align: justify;
+}
+
+/****** footer ******/
+
+footer {
+    text-align: center;
+    padding-top: 70px;
+    color: #9b9b9b;
+}

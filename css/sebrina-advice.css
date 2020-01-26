@@ -1,0 +1,34 @@
+/*** base styles ***/
+
+.sebrina-advice h1 {
+    color: #006bb3;
+}
+
+h4 {
+  color: #0099ff;
+}
+
+p {
+    color: #004d80;
+}
+
+body {
+    background-color: #f2f2f2;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*** header ***/
+.emphasis {
+    color: #008ae6;
+    font-variant: small-caps;
+    font-weight: 700;
+}
+
+/*** footer ***/
+
+footer p {
+    font-style: italic;
+    font-weight: 100;
+}
