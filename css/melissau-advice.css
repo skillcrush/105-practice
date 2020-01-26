@@ -1,6 +1,6 @@
 body {
     background-color: #cef5ce;
-    color: black;
+    color: #5d0475;
     font-weight: bold;
     font-family: Georgia, sans-serif;
 
@@ -15,10 +15,10 @@ span {
 }
 
 
-h1 {
-    font-weight: bolder;
+#greeting {
+    font-family: 'Great Vibes', cursive;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 300%;
     color: hotpink;
     margin: 50px 50px 25px 50px;
@@ -40,7 +40,7 @@ p {
 
 h4 {
     font-weight: 200%;
-    font-size: 125%;
+    font-size: 150%;
     margin: 50px 50px 25px 50px;
     color: #d8388a;
 }
