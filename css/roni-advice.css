@@ -7,14 +7,21 @@ body {
 /******HEADER******/
 header h1 {
 	font-family: 'Heebo', sans-serif;
-	color: #f4c466;
+    color: #f4c466;
+    text-transform: uppercase;
+    
 }
 /******SECTION******/
 section h4 {
 	font-family: 'Courgette', cursive;
-	color: #eca166;
+    color: #eca166;
+    text-decoration: underline;
+    font-size: 33px;
 }
 /******FOOTER******/
 footer {
-	color: #a9dadf;
+    background-color: #a9dadf;
+    color: purple;
+    display: flex;
+    justify-content: center;
 }
