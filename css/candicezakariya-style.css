@@ -1,0 +1,61 @@
+body  {
+  font-family: 'Comfortaa', cursive;
+  background-color:#ffffff;
+  line-height: 275%;
+  color: #444444;
+}
+
+h4 {
+  margin: 0px 100px;
+}
+
+header h1  {
+  text-align: center;
+  padding: 40px 80px;
+  font-size: 60px;
+  line-height: 125%;
+  margin: 25px 0px;
+}
+
+span  {
+  font-family: 'Pacifico', cursive;
+  color: #f0707a;
+}
+
+section {
+  font-size: 25px;
+}
+
+h4  {
+  font-size: 30px;
+}
+
+p   {
+  text-align: justify;
+}
+
+
+.home-button  {
+  text-align: center;
+  text-decoration: none;
+}
+
+.advice p {
+  margin: 50px 100px;
+}
+
+.quote-box  {
+  background-color: #bceadd;
+  text-align: center;
+  padding: 35px 125px;
+
+}
+
+
+footer  {
+  background-color: #dfe0e1;
+  text-align: center;
+  padding: 50px 450px;
+  font-size: 20px;
+
+}

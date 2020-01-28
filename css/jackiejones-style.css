@@ -1,0 +1,51 @@
+body {
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Special Elite', cursive;
+}
+.container{
+    background: gray;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px 40px 40px 40px;
+}
+
+header {
+    font-variant: small-caps;
+    line-height: 250%;
+    float: right;
+}
+
+.intro h1 {
+    font-family: 'Special Elite', cursive;
+    color: #33cccc;
+    font-size: 22px;
+    float: left;
+    padding-bottom: 30px;
+}
+
+h4 {
+    font-family: 'Helvetica', sans-serif; 
+    color: white;
+    font-size: 18px;
+}
+ 
+p {
+    font-family: 'DM Sans', sans-serif;
+    line-height: 150%;
+}
+
+p span {
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+footer {
+    font-family: helvetica, san-serif;
+    color: #33cccc;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+}
+
