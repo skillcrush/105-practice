@@ -1,0 +1,30 @@
+body {
+  background-color: #e1f2eb;
+  background-image: url('../img/daisies.png');
+  height: 100%;
+}
+
+a, footer {
+  color: #fdd9a1;
+  font-weight: bold;
+}
+
+header, h4 {
+    color: #86a17d;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-family: 'PT Sans', sans-serif;
+}
+
+#container {
+  background-color: #aecdd2;
+  border: 6px double #fdd9a1;
+  margin: 100px 200px;
+  padding: 50px;
+}
+
+footer {
+  text-align: center;
+}
