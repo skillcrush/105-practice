@@ -1,0 +1,106 @@
+/*base styles*/
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:  #440464; 
+}
+
+h1, h2, h3 {
+    font-family: 'DM Serif Display', serif;
+    color: #b08bcc;
+    letter-spacing: 125%;
+    line-height: 52px;
+    text-align: center;
+    -webkit-text-stroke: 1px black;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+
+section {
+    border-bottom: 1px solid grey;
+}
+
+/*grid*/
+
+header {
+    background-color: #fcd8e1;
+    border-bottom: 1px solid grey;
+    padding: 30px 0 30px 100px;
+}
+
+#one {
+    padding: 50px 200px;
+}
+
+#two {
+    background-color: #fdd0b3;
+    color: #fff;
+    padding: 50px 200px;
+}
+
+#three {
+    background-color: #c3c4c2;
+    padding: 50px 200px;
+}
+
+/*other styles*/
+
+nav {
+   float: right;
+   margin-top: -25px;
+   padding-right: 100px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    font-size: 20px;
+    font-weight: bold;
+    list-style: none;
+    text-decoration: none;
+    padding-right: 25px;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    -webkit-text-stroke: .5px black;
+}
+
+a:visited:hover {
+    color: #fff;
+    -webkit-text-stroke: .5px black;
+}
+
+a:visited {
+    color: #440464;
+    text-decoration: none;
+}
+
+footer {
+    color: #b08bcc;
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+    -webkit-text-stroke: .25px grey;
+}
+
+
+
+

@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+
+h1 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  background-color: pink;
+  text-align: center;
+}
+
+.skillcrush-advice {
+  width: 1200px;
+}
+
+a {
+  color: tomato;
+  text-decoration: none;
+}
+
+.advice footer {
+  text-align: center;
+}
