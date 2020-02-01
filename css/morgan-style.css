@@ -1,20 +1,20 @@
 /******BASE STYLES******/
 body {
-	background-color: #3d729a;
-	font-family: 'Permanent Marker', cursive;
-	color: #a9dadf;
+	background-color: #ccabd6;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #764b92;
 }
 /******HEADER******/
 header h1 {
-	font-family: 'Heebo', sans-serif;
-	color: #f4c466;
+	font-family: 'Old Standard TT', serif;
+	color: #004e4e;
 }
 /******SECTION******/
 section h4 {
-	font-family: 'Courgette', cursive;
-	color: #eca166;
+	font-family: 'Old Standard TT', serif;
+	color: #008c99;
 }
 /******FOOTER******/
 footer {
-	color: #a9dadf;
+	color: #008c99;
 }
