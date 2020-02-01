@@ -1,32 +1,4 @@
-<<<<<<< HEAD
-/******BASE STYLES******/
-body {
-	background-color: #3d729a;
-	font-family: 'Permanent Marker', cursive;
-	color: #a9dadf;
-}
-/******HEADER******/
-header h1 {
-	font-family: 'Heebo', sans-serif;
-    color: #f4c466;
-    text-transform: uppercase;
-    
-}
-/******SECTION******/
-section h4 {
-	font-family: 'Courgette', cursive;
-    color: #eca166;
-    text-decoration: underline;
-    font-size: 33px;
-}
-/******FOOTER******/
-footer {
-    background-color: #a9dadf;
-    color: purple;
-    display: flex;
-    justify-content: center;
-}
-=======
+
 /***** BASE STYLES *****/
 
 body {
