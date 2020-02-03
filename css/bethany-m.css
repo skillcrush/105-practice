@@ -8,7 +8,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #333;
     background: #fffffe;
-    background-image: url('../img/notebook-lines.jpg');
+    background-image: url('https://raw.githubusercontent.com/whimsicurl-creations/milestone-website/master/img/notebook-lines.jpg');
     font-size: 18px;
     margin: 33px auto;
     max-width: 1200px;
