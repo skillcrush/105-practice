@@ -1,3 +1,4 @@
+
 /***** BASE STYLES *****/
 
 body {
@@ -24,7 +25,7 @@ header h1 {
 }
 
 header h1 span {
-    color: #plum   ;
+    color: plum;
     font-size: larger;
 }
 
@@ -32,7 +33,7 @@ header h2 {
     font-family: 'Assistant', 'Helvetica', sans-serif;
     margin-top: 0;
     margin-left: 10px;
-    color: #black;
+    color: black;
     letter-spacing: 1px;
 }
 
@@ -80,7 +81,7 @@ header a:hover {
 
 footer {
     margin: 0;
-    padding: 10px 40px; 
+    padding: 10px 40px;
     background-color: #f2f2f2;
 }
 
