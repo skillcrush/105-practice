@@ -1,0 +1,36 @@
+body {
+    font-size: 16px;
+    margin: 20px;
+    background-color: #00fdff;
+}
+
+header h1{
+    border: 2px solid;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+header h1 span{
+    color: #b50000;
+}
+
+h1 {
+    font-size: 26px;
+    color: #ff0000;
+}
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+footer {
+    text-align: center;
+    border-top: 2px solid #ff0000;
+    border-bottom: 2px solid #ff0000;
+}
