@@ -30,9 +30,7 @@ body {
     float:left;
   }
 
-  header {
-    //  margin-bottom: 60px;
-  }
+
 
   a {
       text-decoration: none;
@@ -69,9 +67,7 @@ body {
     color: yellow;
     font-size: 50px;
   }
-  .name {
-    color:white;
-  }
+
 
 .advice-info-overload, .advice-info-notes, .advice-info-motivation {
   padding:0px 20px;
