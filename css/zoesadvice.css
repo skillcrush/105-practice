@@ -1,0 +1,35 @@
+/**** Grid *****/
+body {
+    background-image: linear-gradient(to bottom right, #e6ffff, #00cccc);
+}
+#advice {
+    width: 1200px;
+    margin: auto;
+}
+/****** content *****/
+
+header {
+    font-family:serif; 
+    font-size: 20px;
+    color:#001a1a;
+}
+h1 {
+    font-family:serif; 
+    font-size: 40px;
+    color: #001a1a;
+}
+h4 {
+    font-family: serif;
+    font-size: 40px;
+    color:#001a1a;
+}
+p {
+    font-family: serif; 
+    font-size:30px;
+    color:#001a1a;
+}
+footer {
+    font-family:serif; 
+    font-size:30px;
+    color:#001a1a;
+}
