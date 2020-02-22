@@ -1,0 +1,30 @@
+
+body {
+    background-color: rgb(172, 176, 202);
+    margin: 50px 50px;
+}
+
+header a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: small;
+    color: black;
+}
+
+h1, h3 {
+    text-align: center;
+    color: rgb(146, 129, 145);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 30px auto;
+}
+
+span {
+    color: rgb(230, 230, 228);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+footer {
+    margin-top: 75px;
+}
