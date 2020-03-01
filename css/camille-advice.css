@@ -1,0 +1,42 @@
+body {
+  background-color: #ffe6e6;
+  color: 	#414958;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  color: #6699ff;
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+}
+
+a {
+  color: #414958;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+h4 {
+  color: 	#6699ff;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.advice {
+  border: dotted 3px #414958;
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+}
+
+footer p {
+  font-size: 12px;
+  font-weight: 100;
+  text-align: right;
+}
