@@ -1,9 +1,8 @@
-
 /***** BASE STYLES *****/
 
 body {
     font-family: 'Assistant', 'Helvetica', sans-serif;
-    max-width: 1280px;
+    max-width: 1350px;
     margin: 0 auto;
 }
 
@@ -14,37 +13,36 @@ h1, h2, h3, h4 {
 /***** HEADER *****/
 
 header {
-    background-color: #262730;
-    padding: 40px 40px;
+    background-color: #b3ecff;
+    padding: 30px 40px;
 }
 
 header h1 {
-    font-size: 80px;
+    font-size: 40px;
     margin-bottom: 0;
-    color: #8b0d76;
+    color: #737373;
+    font-variant: small-caps;
 }
 
 header h1 span {
-    color: plum;
-    font-size: larger;
+    color: #a8aac0;
+    font-size: 30px;
 }
 
 header h2 {
     font-family: 'Assistant', 'Helvetica', sans-serif;
     margin-top: 0;
-    margin-left: 10px;
-    color: black;
+    margin-left: 20px;
+    color: #a8aac0;
     letter-spacing: 1px;
 }
 
 header a {
-    text-decoration: underline;
-    font-size: 36px;
-    text-transform: uppercase;
-    color: #262730;
-    border: 3px solid #262730;
-    padding: 10px 20px;
-    margin-top: 20px;
+    text-decoration: none;
+    font-size: 24px;
+    border: 3px dotted black;
+    margin: 10px;
+    padding: 15px;
 }
 
 header a:hover {
@@ -56,12 +54,12 @@ header a:hover {
 
 .advice {
     padding: 10px 40px;
-    background-color: #262730;
+    background-color: #ccb3ff;
 }
 
 .advice h4 {
-    font-size: 56px;
-    color: #a8aac0;
+    font-size: 30px;
+    color: #737373;
     margin-bottom: 0;
     letter-spacing: 2px;
 }
@@ -71,9 +69,9 @@ header a:hover {
 }
 
 .advice p {
-    font-size: 32px;
+    font-size: 26px;
     line-height: 42px;
-    color: #e4e4de;
+    color: #ffffff;
     font-weight: 200;
 }
 

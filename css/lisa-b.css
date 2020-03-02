@@ -1,10 +1,9 @@
-/***** BASE STYLES *****/
-
 body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
     background-color: #faf5f5;
+    width: 900px;
 }
 
 h1 {
