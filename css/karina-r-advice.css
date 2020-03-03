@@ -1,0 +1,71 @@
+/*****BASE STYLES*****/
+body {
+    background-color: Linen;
+	color: Black;
+	font-family: 'Zilla Slab', serif;
+	font-size: 30px;
+	width: 100%;
+}
+
+
+/** HEADER **/
+
+.container {
+	background-color: Black;
+	border-radius: 17px;
+	color: DarkGray;
+	margin: 2.5% auto;
+	padding: 5% 5%;
+	text-align: justify;
+	width: 55%;
+}
+
+.container span, h4 {
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+
+/**  FOOTER **/
+.copyright {
+	float: right;
+	width: 75%;
+}
+
+a {
+	color: Black;
+	font-size: 13px;
+	margin: 12px;
+	text-align: justify;
+	text-decoration: none;
+}
+
+a span {
+	margin: 20px;
+}
+
+
+.button {
+	animation: pulse 2s infinite;
+    border-radius: 50%;
+	background-color: rgba(255, 82, 82, 1);
+	height: 100px;
+	width: 100px;
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale(0.9);
+		box-shadow: 0 0 0 0 rgba(255, 82, 82, 0.7);
+	}
+
+	70% {
+		transform: scale(1);
+		box-shadow: 0 0 0 10px rgba(255, 82, 82, 0);
+	}
+
+	100% {
+		transform: scale(0.9);
+		box-shadow: 0 0 0 0 rgba(255, 82, 82, 0);
+	}
+}
