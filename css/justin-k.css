@@ -1,0 +1,18 @@
+body {
+  background-color: cornflowerblue;
+  text-align: center;
+  font-size: 23px;
+  font-family: cursive;
+  
+}
+body a {
+  color: darkblue;
+}
+
+h4 {
+  color: gold;
+}
+
+footer p {
+  color: gold;
+}
