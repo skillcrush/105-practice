@@ -1,0 +1,13 @@
+/*body*/ .lisap-advice {
+	color: grey;
+	/*font-family: 'Red Hat Display', sans-serif;*/
+	font-family: 'Red Hat Text', sans-serif;
+
+	width: 1200px;
+}
+
+h1, h4 {
+  color: #900C3F;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}

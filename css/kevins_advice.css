@@ -1,0 +1,67 @@
+body {
+  background: #e6e6e6;
+  color: #000000;
+  font-family:  'Merriweather Sans', sans-serif;
+  margin: auto;
+}
+
+header {
+  background: #0086b3;
+  color: #e6e6e6;
+}
+
+h1 {
+  font-size: 45px;
+  margin: 0;
+  padding: 30px;
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+}
+
+main {
+  margin: auto;
+  padding-top: 10px;
+  width: 1000px;
+}
+
+h3 {
+  font-size: 35px;
+  font-style: italic;
+  margin-bottom: 0px;
+}
+
+.advice p {
+  font-size: 22px;
+  line-height: 30px;
+}
+
+footer {
+  border-top: .5px solid #a8a8a8;
+  margin: auto;
+  padding-bottom: 25px;
+  width: 1000px;
+}
+
+footer p {
+  margin: 0;
+}
+
+#trade-mark {
+  padding-top: 25px;
+}
+
+#back {
+  float: right;
+  margin-top: -18px;
+}
+
+a {
+  background-color: #0086b3;
+  border: 1px solid #000000;
+  color: #e6e6e6;
+  padding: 15px;
+  text-decoration: none;
+}

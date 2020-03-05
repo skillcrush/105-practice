@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: gray;
+}
+
+header {
+    color: greenyellow;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+p {
+    color: purple;
+}
