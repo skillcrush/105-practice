@@ -1,0 +1,40 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #faf5f5;
+}
+
+
+a {
+  color: white;
+  background: DarkSeaGreen;
+  text-decoration: none;
+}
+
+h1 {
+font-size: 2em;
+padding: 0.5em;
+font-family: sans-serif;
+}
+
+h4 {
+  font-size: 1em;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  padding: .5em 0 .5em .5em;
+  color: DarkSeaGreen;
+}
+
+
+p {
+font-size: 1em;
+padding: 1em;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
