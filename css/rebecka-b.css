@@ -1,29 +1,38 @@
 /***** BASE STYLES *****/
 
 body {
-    font-size: 16px;
-    padding: 1em;
-    margin: 0 auto;
     background-color: #faf5f5;
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 1em;
 }
 
 h1 {
+    color: #00a3cc;
     font-size: 2.25em;
-    color: #333;
     margin-top: 1em;
 }
 h4 {
+    color: #993399;
     font-size: 1.5em;
     font-weight: bold;
-    color: #f16059;
 }
 
 a {
+    color: #993399;
     text-decoration: none;
-    color: #bb433d;
+}
+
+p {
+    color: #007a99;
+    font-size: 1.25em;
 }
 
 footer {
+    padding-top: 2em;
     text-align: center;
-    padding-top: 1em;
+}
+
+footer p {
+    color: #993399;
 }
