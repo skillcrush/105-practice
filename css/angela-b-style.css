@@ -16,8 +16,6 @@ h1 {
     color: rosybrown;
     margin-top: 1em;
     font-family: 'Sen', sans-serif;
-    padding: 30px 0 5px 0;
-}
 
 h1 span {
   color: black;
@@ -42,9 +40,6 @@ a {
     font-family: 'Montserrat', sans-serif;
     font-weight: lighter;
     letter-spacing: 3px;
-    float: left;
-    clear: both;
-    padding: 1px;
 }
 
 footer {

@@ -1,0 +1,29 @@
+  /*** BASE STYLES ***/
+
+  /*** HEADER ***/
+
+
+  /*** BODY ***/
+  body {
+    font-family: 'Old Standard TT';
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background: AliceBlue;
+
+  }
+
+  photo {
+    width: 50px;
+    height: 20px;
+
+  }
+
+h4 {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+
+  /*** FOOTER ***/
