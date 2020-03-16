@@ -1,0 +1,58 @@
+
+
+body {
+    font-size: 16px;
+    padding: 10px;
+    margin: auto;
+    background-color: #1eb2a6;
+    font-family: "Baloo Chettan 2", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.advice-1 {
+   max-width: 48%;
+   float: left;
+   background-color: #d4f8e8;
+   height: 420px;
+   padding: 10px;
+   text-align: left;
+
+
+}
+
+.advice-2 {
+    max-width: 48%;
+    float: right;
+    background-color: #d4f8e8;
+    height: 420px;
+    padding: 10px;
+    text-align: left;
+
+
+}
+
+h1 {
+    font-size: 2.25em;
+    color:#ffa34d;
+    margin-top: 1em;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f67575; 
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #d4f8e8;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    clear: both;
+    color: #d4f8e8;
+}
+
+
