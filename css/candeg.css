@@ -1,4 +1,4 @@
-/***** BASE STYLES *****/
+/***** BASE STYLES Changes *****/
 
 body {
     font-size: 16px;
@@ -7,6 +7,7 @@ body {
     background-color: #faf5f5;
 }
 
+/* Center heading text */
 header {
     text-align: center;
 }
@@ -28,6 +29,7 @@ a {
     color: #bb433d;
 }
 
+/* Add padding to sides */
 div {
     padding-left: 20px;
     padding-right: 20px;
