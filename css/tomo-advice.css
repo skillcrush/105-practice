@@ -1,0 +1,51 @@
+body {
+  background-color: #ededde;
+}
+
+.arrow-left {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right:10px solid #1affa3;
+  padding-left: 20px;
+}
+
+header div {
+  float: left;
+}
+
+a {
+  color: black;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 10px;
+  padding-left: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 34px;
+  text-align: center;
+  margin: 40px 0;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 0 20px;
+}
+
+section p {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 14px;
+  padding: 0 20px;
+}
+
+footer p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 50px;
+}

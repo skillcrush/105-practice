@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    font-family: "Tahoma";
+    font-size: 38px;
+    color: darkgreen;
+    text-align: center;
+}
+
+h1 span {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+h4 {
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p {
+    font-size: 26px;
+    text-align: center;
+}
+
+footer p {
+    text-decoration: underline;
+}

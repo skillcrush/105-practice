@@ -1,0 +1,47 @@
+/***STYLES***/
+body {
+    background: #009999;
+}
+
+#container {
+    width: 900px;
+    margin: auto;
+}
+
+/***HEADER***/
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+/***BODY***/
+p {
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 35px;
+    text-shadow: 1px 1px 2px white;
+}
+
+h1, h4, p {
+    font-variant: small-caps;
+}
+
+.float {
+    float: left;
+    border: 1px solid #333;
+    width: 180px;
+    margin: 10px;
+    padding: 10px;
+}
+
+/***FOOTER***/
+footer {
+    text-align: center;
+    font-size: 15px;
+}
+
+a {
+    font-size: 20px;
+}

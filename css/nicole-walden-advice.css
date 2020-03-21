@@ -1,0 +1,38 @@
+body {
+  background: url("https://images.unsplash.com/photo-1525951398455-075a6b58b5d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+  width: 50%;
+}
+
+nav {
+  font-size: 16px;
+  padding: 10px 0px 10px 0px;
+}
+
+.welcome {
+  font-size: 20px;
+}
+
+.confession {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.quote {
+  color: #003A4F;
+  font-family: 'Lilita One', cursive;
+  font-size: 35px;
+  padding: 0px 0px 10px 0px;
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  width: 50%;
+}

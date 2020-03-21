@@ -1,0 +1,40 @@
+/**** Grid *****/
+body {
+    background-image: linear-gradient( #d1b5f9, #4a03ad);
+}
+#advice {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+}
+/****** content *****/
+
+header {
+    font-family:serif; 
+    font-size: 20px;
+    color:#001a1a;
+}
+h1 {
+    font-family:serif; 
+    font-size: 30px;
+    color: #001a1a;
+    text-align: center;
+}
+h4 {
+    font-family: serif;
+    font-size: 25px;
+    color:#001a1a;
+    margin: 25px;
+}
+p {
+    font-family: serif; 
+    font-size:20px;
+    color:#001a1a;
+    margin: 25px;
+}
+footer {
+    font-family:serif; 
+    font-size:30px;
+    color:#001a1a;
+    font-weight: bold;
+}
