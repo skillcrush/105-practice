@@ -1,0 +1,59 @@
+.joe-advice {
+	background-color: #EAEAEA;
+}
+
+.advice {
+	width: 48%;
+	text-align: center;
+	float: left;
+	padding: 5px;
+}
+
+h1 {
+	font-size: 24pt;
+	color: #DD0022;
+	text-align: center;
+	border: 2px solid #0000aa;
+	border-radius: 15px;
+	width: auto;
+	padding: 20px;
+	align-self: center;
+
+}
+
+h2 {
+	font-size: 14pt;
+	color: #303030;
+}
+
+a {
+	text-decoration: none;
+	color: #3333FF;
+
+}
+
+#main {
+	text-align: right;
+	text-decoration: none;
+	color: #303030;
+}
+
+
+h4 {
+	font-size: 16pt;
+	text-transform: uppercase;
+	color: purple;
+	font-family: arial;
+
+}
+
+p {
+	font-size: 14pt;
+	font: courier;
+
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
