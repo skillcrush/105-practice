@@ -5,6 +5,7 @@ body {
     padding: 1em;
     margin: 0 auto;
     background-color: #faf5f5;
+    font-family: 'Comic Neue', cursive;
 }
 
 h1 {
@@ -16,6 +17,9 @@ h4 {
     font-size: 1.5em;
     font-weight: bold;
     color: #f16059;
+}
+p {
+    font-size: 1.2em;
 }
 
 a {
