@@ -1,0 +1,43 @@
+body {
+    font-size: 24px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #d9d0a7;
+    width: 60%;
+    font-family: 'Fredericka the Great';
+}
+
+h1 {
+
+    font-size: 2em;
+    color: #333;
+    margin-top: 1em;
+}
+h4 {
+    font-family: 'Luckiest Guy';
+    font-size: 36px;
+    font-weight: bold;
+    color: #05ff26;
+    padding-left: 0.25em;
+    padding-top: 0.25em;
+
+    background-color: #324647;
+}
+
+p {
+
+
+}
+a {
+    text-decoration: none;
+    color: #000000;
+    background-color: #4fe0c1;
+    padding: 0.25em;
+    outline-style: solid;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

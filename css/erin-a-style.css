@@ -1,0 +1,103 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #ffc3af;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 2.25em;
+    color: #39224f;
+    margin-top: 1em;
+    text-align:center;
+}
+
+.name {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.6em;
+  color: #d35775;
+  padding: 0 10px 0 10px;
+}
+
+h2 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #35a08a;
+}
+
+a {
+    text-decoration: none;
+    color: #ea7d64;
+    font-size:16px;
+    display:block;
+    display: inline-flex;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 10px;  /* Preferred icon size */
+  text-transform: none;
+  letter-spacing: normal;
+
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+footer {
+    text-align: center;
+    padding-top: 4em;
+    clear:left;
+    color: #ea7d64;
+}
+
+
+/****** GRID ******/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 600px;
+    margin: 0 auto;
+    float: left;
+}
+
+/****** ADVICE ******/
+
+#advice .full-width {
+    padding: 50px 0;
+}
+
+#advice h2 {
+    font-size: 26px;
+    padding-left: 50px;
+}
+
+
+#advice p {
+    color: #39224f;
+    font-size: 16px;
+    line-height: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}

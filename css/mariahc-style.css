@@ -1,0 +1,91 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Assistant', 'Helvetica', sans-serif;
+    max-width: 1350px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Alfa Slab One', serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #b3ecff;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+    color: #737373;
+    font-variant: small-caps;
+}
+
+header h1 span {
+    color: #a8aac0;
+    font-size: 30px;
+}
+
+header h2 {
+    font-family: 'Assistant', 'Helvetica', sans-serif;
+    margin-top: 0;
+    margin-left: 20px;
+    color: #a8aac0;
+    letter-spacing: 1px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 24px;
+    border: 3px dotted black;
+    margin: 10px;
+    padding: 15px;
+}
+
+header a:hover {
+    background-color :#262730;
+    color: #fff;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #ccb3ff;
+}
+
+.advice h4 {
+    font-size: 30px;
+    color: #737373;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice h4 span {
+    color: #f8f8f2;
+}
+
+.advice p {
+    font-size: 26px;
+    line-height: 42px;
+    color: #ffffff;
+    font-weight: 200;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #f2f2f2;
+}
+
+footer p {
+    color: #a8aac0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
