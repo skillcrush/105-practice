@@ -1,0 +1,14 @@
+body {
+    background: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

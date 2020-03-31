@@ -1,0 +1,30 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Assistant', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+#container {
+  width: 1200px;
+  margin: auto;
+}
+
+header, a, h1, h4, footer {
+  font-family: 'Inconsolata', monospace;
+}
+
+header a {
+  color: white;
+}
+
+h1 {
+  border: 20px 20px 20px 20px;
+}
+
+h4 {
+  color: #FFCCCC;
+  font-size: 18px;
+  text-transform: capitalize;
+}

@@ -1,0 +1,42 @@
+.jen-advice {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 16px;
+    color: #00394d;
+    background-color: #ccf2ff;
+    margin: 0 auto;
+    width: 1200px;
+    height: auto;
+    align-content: center;
+}
+
+header {
+    text-align: center;
+    background-color: #fff;
+    width: 100%;
+    border-style: solid;
+    border-color: #00394d;
+    border-width: 1px;
+    padding: 0px 0px 25px 0px;
+}
+
+h4 {
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    color: #4d0039;
+}
+
+.advice-left, .advice-right {
+    float: left;
+    width: 500px;
+    padding: 0px 45px;
+}
+
+
+footer {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    clear: both;
+    text-align: center;
+    padding-top: 25px;
+}
