@@ -1,0 +1,62 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Inconsolata', monospace;
+    max-width: 2000px;
+    margin: 0 auto;
+}
+
+h2, h3, h4 {
+    font-family: 'Indie Flower', cursive;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color:  #95c5ec;
+    padding: 40px 20px
+}
+
+h1
+{
+    font-size: 60px;
+    color: rgb(124, 140, 153);
+}
+
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #83a1a7;
+    font-family: 'Indie Flower', cursive;
+}
+
+    .advice h4 {
+        font-size: 30px;
+        color: rgb(101, 104, 105);
+        margin-bottom: 0;
+        letter-spacing: 2px;
+    }
+
+    .advice p {
+        font-size: 20px;
+        line-height: 42px;
+        color: rgb(41, 61, 82);
+        font-weight: 200;
+    }
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #f2f2f2;
+}
+
+    footer p {
+        color: rgb(80, 160, 152);
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+
