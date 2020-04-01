@@ -1,0 +1,45 @@
+body {
+    font-family: 'Podkova', serif;
+    font-size: 16px;
+    color: white;
+    background-color: seagreen;
+}
+
+.link {
+    font-family: 'Gayathri', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Boogaloo', cursive;
+    font-size: 30px;
+    color: #E2932B;
+    font-weight: lighter;
+}
+
+h4 {
+    font-family: 'Unica One', cursive;
+    font-size: 20px;
+    color: #E2932B;
+    margin: 0;
+    padding: 20px 0 0 0;
+}
+
+p {
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+
+#top-box, #bottom-box {
+margin: 10px 0 0 10px;
+}
+
+footer {
+    font-family: 'Gayathri', sans-serif;
+    font-size: 12px;
+    color: white;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    padding-top: 20px;
+}
