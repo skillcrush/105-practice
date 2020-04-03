@@ -1,0 +1,49 @@
+/***** BASE STYLES *****/
+body {
+    font-family: 'PT Serif', serif;
+    color: white;
+    background: #3377ff;
+}
+
+/***** GRID *****/
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+
+/*** HEADER ***/
+header {
+    height: 200px;
+    background-size: cover; 
+}
+header h1 {
+    padding: 65px 0 65px 25px;
+    font-family: 'Lora', serif;
+    font-size: 40px;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    border: 3px solid; 
+}
+
+/*** SECTION ***/
+.half-width h4 {
+    padding-left: 60px;
+    font-size: 36px;
+    font-style: italic;
+}
+.half-width p {
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+/*** FOOTER ***/
+footer p {
+    text-align: center;
+}
