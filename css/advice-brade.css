@@ -1,0 +1,49 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    color:#0080ff;
+    background: #e6f2ff;
+    width: 75%;
+    padding: 0% 5%;
+    margin-bottom: -20%;
+}
+
+h1, h2,H3{
+    color: #004d99;
+    font-size: 25px;
+    font-weight: bold;
+    }
+
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    font-size: 25px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+p{
+    font-size: 18px;
+}
+
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+main {
+    padding-left: 5%;
+}
+
+main p{
+    padding-left: 5%;
+}
+
+footer p{
+    font-size: 10px;
+    font-style: italic;
+    padding-left: 10%;
+}

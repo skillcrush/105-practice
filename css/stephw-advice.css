@@ -1,0 +1,72 @@
+/***BASE STYLES***/
+
+body {
+  font-family: 'Assistant', 'Helvetica', sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #f8f8f2;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Alfa Slab One', serif;
+}
+
+/****header****/
+
+header {
+  margin: 30px 40px;
+}
+
+header a {
+  font-size: 26px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 20px;
+}
+
+header a:hover{
+  background-color: #35444d;
+  color: #fff;
+}
+
+header h1 {
+  color: #35444d;;
+  font-size: 70px;
+  font-weight: bolder;
+  margin-bottom: 0px;
+}
+
+header h1 span {
+  color: #3c617a;
+  font-size: 100px;
+  font-family: 'Sacramento', cursive;
+}
+
+header p {
+  color: #35444d;
+  font-size: 20px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  margin-top: 0px;
+}
+
+/****** ADVICE ******/
+
+.advice {
+  background: #3c617a;
+  height: auto;
+  padding: 20px 50px;
+}
+
+.advice h4{
+  color: #fff;
+  font-size: 50px;
+}
+
+.advice p{
+  color: #d2dbe0; 
+  font-size: 25px;
+
+}

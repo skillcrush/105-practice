@@ -1,0 +1,84 @@
+.zack-c-advice {
+  background-color: #777799;
+  color: #ffffff;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+h1 {
+  color: black;
+  text-shadow: 2px 2px 2px #424257;
+  text-align: center;
+}
+
+.topic {
+  margin: 15px;
+  border: 2px solid #ffffff;
+  padding: 10px;
+  background-color: #424257;
+  letter-spacing: 1px;
+}
+
+.topic h4 {
+  transition: 1s ease;
+}
+.topic p {
+  padding: 5px;
+  line-height: 25px;
+}
+.topic li {
+  line-height: 25px;
+}
+
+/** UNIQUE TOPIC TAGS **/
+#topic1:hover h4 {
+  letter-spacing: 4px;
+  text-shadow: 0 0 5px #ffff00;
+  transition: 1s ease;
+}
+#topic2:hover h4 {
+  letter-spacing: 4px;
+  text-shadow: 0 0 5px #ff00ff;
+  transition: 1s ease;
+}
+#topic3:hover h4 {
+  letter-spacing: 4px;
+  text-shadow: 0 0 5px #00ff00;
+  transition: 1s ease;
+}
+#topic4:hover h4 {
+  letter-spacing: 4px;
+  text-shadow: 0 0 5px #ff0000;
+  transition: 1s ease;
+}
+#topic5:hover h4 {
+  letter-spacing: 4px;
+  text-shadow: 0 0 5px #0000ff;
+  transition: 1s ease;
+}
+
+/** UNIQUE SPAN TAGS **/
+#breathtaking {
+  font-family: "Fondamento";
+  font-style: italic;
+}
+#pen-and-paper {
+  font-family: 'Loved by the King';
+  font-size: 20px;
+}
+#hover {
+  transition: 1s ease;
+}
+#hover:hover {
+  color: #ff00ff;
+  transition: 3s ease;
+}
+#simple {
+  font-family: 'Fondamento';
+}
