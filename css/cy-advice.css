@@ -1,0 +1,38 @@
+
+header {
+	height: 250px;
+}
+
+header h1 {
+	font-size: 45px;
+	font-family: 'Mansalva', cursive;
+	padding: 40px;
+	padding-top: 70px;
+	text-align: center;
+
+}
+
+body {
+	background-color: #fff5cc;
+	height: 800px;
+}
+
+.advice h4 {
+	font-size: 25px;
+	font-family: 'Noto Sans JP', sans-serif;
+	margin: 15px;
+	text-decoration: underline;
+}
+
+.advice p {
+	font-family: 'Noto Sans JP', sans-serif;
+	margin: 30px;
+}
+
+footer {
+	height: 50px;
+}
+
+footer p {
+	text-align: center;
+}

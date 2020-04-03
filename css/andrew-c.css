@@ -1,0 +1,34 @@
+p span {
+	background-color: darkslategrey;
+	border-radius: 5px;
+	color: yellow;
+	font-size: 1.5em;
+	line-height: 50px;
+	padding: 10px;
+	text-transform: uppercase;
+}
+
+#andrew {
+	background-color: lightseagreen;	
+	border: 3px solid darkslategrey;
+	border-radius: 10px;
+	font-variant: small-caps;
+	line-height: 15px;	
+	padding: 10px;
+	text-align: center;
+}
+
+#andrew h4 span{
+	background-color: #f16059;	
+	border-radius: 5px;
+	color: white;
+	font-size: 2.25em;
+	padding: 10px 10px 7px 10px;
+	text-decoration: overline underline;
+}
+
+#andrew p {
+	color: white;
+	font-weight: bold;
+	font-size: 1.5em;
+{
