@@ -1,0 +1,103 @@
+.full-width {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.tripleq-width {
+    margin: 0 auto;
+    width: 75%;
+}
+
+html {
+    padding: 1rem;
+}
+
+h4 {
+    margin: 0 auto;
+    background-color: #f9dcde;
+    border: #f1c8cb solid 5px;
+    color: white;
+    font-size: 3.7rem;
+    padding: 1rem;
+    text-align: center;
+    text-shadow: black 0 0 3px;
+}
+
+p {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 6.2rem;
+    text-align: center;
+}
+
+nav a {
+    color: black;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    text-align: right;
+    color: black;
+}
+
+header {
+    background-image: url("../img/silver-iphone-6-near-macbook-pro-1036841.jpg");
+    height: 55rem;
+    background-size: cover;
+    background-position: center;
+}
+
+figcaption {
+    color: white;
+    text-shadow: black 0 0 3px;
+    margin-top: -1.2rem;
+    text-align: right;
+}
+
+.house {
+    width: 2px;
+}
+
+.lead {
+    margin: 0 auto;
+    color: #f9dcde;
+    font-size: 3.9rem;
+    text-shadow: black 0 0 3px;
+    text-align: right;
+    margin-top: 32rem;
+    float: right;
+}
+
+.hi-li {
+    color: white;
+}
+
+#grids {
+    background-image: url("../img/old-paper-squares-1175638.jpg");
+    background-size: cover;
+    height: 50rem;
+    margin-top: 2rem;
+    opacity: .7;
+    text-shadow: black 0 0 1px;
+}
+
+#books {
+    background-image: url("../img/person-using-macbook-pro-on-person-s-lap-1181298.jpg");
+    background-size: cover;
+    color: white;
+    height: 55rem;
+    margin-top: 2rem;
+    text-shadow: black 0 0 4px;
+}
+
+#projects {
+    background-image: url("../img/woman-in-pink-dress-using-laptop-computer-1586973.jpg");
+    background-size: cover;
+    height: 50rem;
+    margin-top: 2rem;
+    text-shadow: white 0 0 4px;
+}
