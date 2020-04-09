@@ -1,108 +1,108 @@
-                                          /********** BASE STYLES ************/
+/********** BASE STYLES ************/
 body {
-  text-align: center;
-  margin: 0 auto;
-  font-family: 'Muli', sans-serif;
+text-align: center;
+margin: 0 auto;
+font-family: 'Muli', sans-serif;
 }
 
 #half-width {
-  width: 600px;
-  float: left;
+width: 600px;
+float: left;
 }
 
-                                    /********** HEADER STYLES ***************/
+/********** HEADER STYLES ***************/
 a {
-  float: left;
-  display: inline;
-  background: rgba(198, 151, 95, 0.9);
-  border-radius: 20px;
-  text-decoration: none;
-  color: black;
-  padding: 10px;
-  margin-top: 10px;
-  margin-left: 10px;
+float: left;
+display: inline;
+background: rgba(198, 151, 95, 0.9);
+border-radius: 20px;
+text-decoration: none;
+color: black;
+padding: 10px;
+margin-top: 10px;
+margin-left: 10px;
 }
 
 header {
-  height: 600px;
-  font-family: 'Sen', sans-serif;
-  background: url("../img/background26.jpeg");
-  background-size: cover;
-  margin-bottom: 50px;
+height: 600px;
+font-family: 'Sen', sans-serif;
+background: url("../img/background26.jpeg");
+background-size: cover;
+margin-bottom: 50px;
 }
 
 header h1 {
-  font-size: 75px;
-  text-shadow: 7px 7px 0.4em #fff, -7px -7px 0.4em #fff;
-  padding-top: 200px;
-  width: 1200px;
-  text-align: center;
-  margin: 0 auto;
+font-size: 75px;
+text-shadow: 7px 7px 0.4em #fff, -7px -7px 0.4em #fff;
+padding-top: 200px;
+width: 1200px;
+text-align: center;
+margin: 0 auto;
 }
 
 header span {
-  color: #c6975f;
+color: #c6975f;
 }
 
-                                      /*********** SECTION STYLES ************/
+/*********** SECTION STYLES ************/
 h4 {
-  font-family: 'Sen', sans-serif;
-  font-size: 38px;
-  font-weight: bold;
+font-family: 'Sen', sans-serif;
+font-size: 38px;
+font-weight: bold;
 }
 
 .advice {
-  margin-bottom: -30px;
+margin-bottom: -30px;
 }
 
 div #bubble {
-  background: rgba(198, 151, 95, 0.7);
-  border-radius: 20px;
-  padding: 20px;
-  box-shadow: 15px -15px #ced7ce;
+background: rgba(198, 151, 95, 0.7);
+border-radius: 20px;
+padding: 20px;
+box-shadow: 15px -15px #ced7ce;
 }
 
 .initial img {
-  height: 600px;
-  float: left;
-  margin-top: 50px;
-  margin-left: 130px;
-  margin-bottom: 80px;
-  border-radius: 20px;
+height: 600px;
+float: left;
+margin-top: 50px;
+margin-left: 130px;
+margin-bottom: 80px;
+border-radius: 20px;
 }
 
 .student img {
-  height: ;
-  width: 500px;
-  float: left;
-  margin-top: 70px;
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-bottom: 100px;
-  border-radius: 20px;
+height: ;
+width: 500px;
+float: left;
+margin-top: 70px;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 100px;
+border-radius: 20px;
 }
 
 section {
-  height: 600px;
-  width: 1200px;
-  text-align: center;
-  margin: 0 auto;
+height: 600px;
+width: 1200px;
+text-align: center;
+margin: 0 auto;
 }
 
 p {
-  display: inline;
-  font-size: 16px;
-  margin: 20px;
+display: inline;
+font-size: 16px;
+margin: 20px;
 
 }
 
-                                        /*********** FOOTER STYLES ***********/
+/*********** FOOTER STYLES ***********/
 footer {
-  display: block;
-  max-height: 20px;
-  clear: both;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: #c6975f;
-  background-size: cover;
+display: block;
+max-height: 20px;
+clear: both;
+padding-top: 20px;
+padding-bottom: 20px;
+background-color: #c6975f;
+background-size: cover;
 }
