@@ -1,26 +1,26 @@
+
 /***** BASE STYLES *****/
 
 body {
-    font-family: 'Inconsolata', monospace;
-    max-width: 2000px;
+    font-family: 'Enriqueta', serif;
+    max-width: 1280px;
     margin: 0 auto;
 }
 
 h2, h3, h4 {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Alfa Slab One', serif;
 }
 
 /***** HEADER *****/
 
 header {
-    background-color:  #95c5ec;
-    padding: 40px 20px
+    background-color: #9EFFF5;
+    padding: 30px 40px;
 }
 
 h1
 {
-    font-size: 60px;
-    color: rgb(124, 140, 153);
+    font-size: 78px;
 }
 
 
@@ -28,21 +28,21 @@ h1
 
 .advice {
     padding: 10px 40px;
-    background-color: #83a1a7;
+    background-color: #262730;
     font-family: 'Indie Flower', cursive;
 }
 
     .advice h4 {
-        font-size: 30px;
-        color: rgb(101, 104, 105);
+        font-size: 56px;
+        color: #00FFE5;
         margin-bottom: 0;
         letter-spacing: 2px;
     }
 
     .advice p {
-        font-size: 20px;
+        font-size: 32px;
         line-height: 42px;
-        color: rgb(41, 61, 82);
+        color: #e4e4de;
         font-weight: 200;
     }
 
@@ -55,8 +55,7 @@ footer {
 }
 
     footer p {
-        color: rgb(80, 160, 152);
+        color: #00FFE5;
         text-align: center;
         text-transform: uppercase;
         font-weight: bold;
-
