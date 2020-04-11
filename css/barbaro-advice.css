@@ -1,6 +1,5 @@
 *{
-  margin: 0;  
-  padding: 0;
+ 
   box-sizing: border-box;
   font-size: 1.3rem;
 }
@@ -29,7 +28,10 @@ header{
     font-size: 1.75rem;
 }
 .container{
- width: 99%;
- margin:  0.5rem;
- background-image: url('img/im');
+ width: 90%;
+ height: auto;
+ margin:  4rem;
+ background-image: url('https://images.unsplash.com/photo-1584551882459-bee9565c5022?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=694&q=80');
+ background-size: cover;
+ background-attachment: fixed;
 }
