@@ -4,6 +4,18 @@
   box-sizing: border-box;
   font-size: 1.3rem;
 }
+button{
+    width: 100px;
+    background: rgb(209, 168, 168);
+    margin: 10px;
+    
+}
+#btn{
+    text-decoration: none;
+    font-size: 16px;
+    color: green;
+
+}
 header{
     text-align: center;
     margin: 1rem;
