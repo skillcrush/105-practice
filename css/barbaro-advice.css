@@ -5,15 +5,19 @@
   font-size: 1.3rem;
 }
 button{
-    width: 100px;
+    width: 180px;
     background: rgb(209, 168, 168);
-    margin: 10px;
-    
+    margin: 14px;
+    border-radius: 39px;
+    height: 62px;
 }
+
+
 #btn{
     text-decoration: none;
     font-size: 16px;
-    color: green;
+    color: crimson;
+    text-align: center;
 
 }
 header{
