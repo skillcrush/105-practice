@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 19px;
+	font-family: 'Raleway', sans-serif;
+	color: #333;
+    padding: 1em;
+    margin: 0 auto;
+    background-image: linear-gradient(to right, #993366 0%, #ff6666 100%);
+}
+
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+	font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+h4 {
+    font-family: 'Berkshire Swash', cursive;
+	font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #f16059;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

@@ -1,0 +1,41 @@
+.charlotte-g-advice {
+  width: auto;
+  margin: 30px;
+  padding: 10px;
+  border: 5px solid #fcba03;
+  background-color: #fff1c9;
+  background-image: url(http://www.shesupandaway.com/wp-content/uploads/2020/03/TopicAreaBG.jpg);
+  font-family: arial;
+}
+
+.page-container {
+  border: 3px dotted #cf9802;
+  background-color: #fff1c9;
+  padding: 10px;
+}
+
+button {
+  font-size: 16px;
+  float: right;
+  border: 2px solid #cf9802;
+  background-color: #fcba03;
+}
+
+header {
+  font-size: 25px;
+  line-height: 7px;
+  background-color: #fce4a2;
+  padding: 10px;
+}
+
+.advice {
+    padding: 10px;
+}
+
+h4 {
+  font-size: 20px;
+  background-color: #fce4a2;
+  width: 400px;
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
