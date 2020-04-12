@@ -9,6 +9,7 @@ footer {
     width: 1200px;
     height: 50px;
     padding-top: 25px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -18,8 +19,9 @@ footer {
 body {
     /*background-image: linear-gradient(red, yellow, blue);*/
     background: #f7f2f2;
-    font-family: 'Source Sans Pro', sans-serif;
-    color: #2d2d2e;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    color: #8c8787;
     font-size: 18px;
 }
 
@@ -43,22 +45,36 @@ header a {
 
 h1 {
     font-size: 35px;
+    color: #2d2d2e;
 }
 
 h4 {
-    font-size: 25px;   
+    font-size: 30px;  
+    color: #2d2d2e; 
 }
 
 
 
 /******** MAIN SECTION *******/
 #middle .advice p {
-    padding-left: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 30px;
+    text-align: justify;
 }
 
 #middle .advice h4 span {
     font-family: 'Rock Salt', cursive; 
     font-size: 25px; 
+}
+
+#middle .advice h4 {
+    text-align: left;
+    padding-left: 50px;
+}
+
+#middle {
+    border: 4px dashed #ff7d8a;
 }
 
 
@@ -67,4 +83,5 @@ h4 {
 footer {
     font-weight: bold; 
     text-align: center;
+    color: #2d2d2e;
 }
