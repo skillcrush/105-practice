@@ -1,0 +1,24 @@
+/*****BASE STYLES*****/
+body {
+    font-family: tahoma, sans-serif;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.advice {
+    width: 800px;
+    margin-left: 200px;
+    border: darkslateblue dotted;
+    padding: 20px;
+}
+
+/*****HEADER*****/
+span {
+    color: darkslateblue;
+}
+
+/*****BODY*****/
+h4 {
+    font-size: 18px;
+    color: darkslateblue;
+}
