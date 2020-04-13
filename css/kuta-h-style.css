@@ -6,7 +6,7 @@ body {
 	background-color: #C3D2E6;
 }
 
-/***** GRID *****/
+/***** COLUMNS *****/
 
 .full-width {
 	width: 1200px;
@@ -22,10 +22,11 @@ body {
 
 header {
     height: 800px;
-    background: url("../img/fernando-hernandez-vSI8ASKyMJ8-unsplash.jpg");
-    background-size: cover;
+		background-image: url(https://images.unsplash.com/photo-1579882392185-581038fbc8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80);
 		background-position: center;
+		background-size: cover;
 }
+
 a {color: #2b2b2b;}
 
 h1 {
