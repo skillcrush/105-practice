@@ -19,9 +19,9 @@ a {
 }
 
 h1 {
-  font-size: 44px;
+  font-size: 46px;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  padding: 110px 50px 50px 70px;
+  padding: 125px 50px 50px 80px;
   color: #daaa9b;
   font-weight: bold;
 }
