@@ -1,0 +1,93 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'PT Sans', 'PT Sans Narrow', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'PT Sans' sans-serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #ccb3ff;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 72px;
+    margin-bottom: 0;
+    color: #161616
+}
+
+header h1 span {
+    color: #ffffff;
+}
+
+header h2 {
+    margin-top: 0;
+    margin-left: 20px;
+    color: #ccb3ff;
+    letter-spacing: 1px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: capitalize;
+    color: #262730;
+    border: 3px solid #262730;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+header a:hover {
+    background-color :#595959;
+    color: #ffffff;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #595959;
+}
+
+.advice h4 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 56px;
+    color: #ccb3ff;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice p {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 32px;
+    line-height: 42px;
+    color: #ffffff;
+    font-weight: 200;
+}
+
+.advice span {
+    color: #ffffff;
+    font-style: italic; 
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #ffffff;
+}
+
+footer p {
+    color: #595959;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: normal;
+}
