@@ -1,0 +1,35 @@
+.katie-c-advice {
+  width; 960px;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #1cbbb4;
+}
+
+.advice {
+  max-width: inherit;
+  margin: auto;
+  padding: 15px;
+  background-color: #1cbbb4;
+  text-align: center;
+  color: white;
+}
+header {
+  font-family: 'Sriracha', cursive;
+  color: purple;
+  font-variant: small-caps;
+  background-color: peachpuff;
+  border: solid purple 2px;
+}
+
+h4 {
+  font-size: 24px;
+  text-transform: uppercase;
+  font-family: 'Sriracha', cursive;
+}
+p {
+  font-family: 'Sriracha', cursive;
+}
+footer {
+  padding: 20px;
+}
