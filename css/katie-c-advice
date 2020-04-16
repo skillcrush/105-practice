@@ -1,0 +1,15 @@
+/**********Header*****************/
+header {
+  background-color: #99d8d0;
+  font-family: Roboto Slab;
+  padding: 50px 0 30px 50px;
+}
+
+h1 {
+color: red;
+font-size: 64px;
+}
+
+h2 {
+color: purple
+}
