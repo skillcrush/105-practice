@@ -1,0 +1,55 @@
+
+/***allgemein zu text***/
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header 
+{
+    float: left;
+}
+
+h1
+{ 
+  text-transform: uppercase;   
+  font-weight: 400;
+  font-size: 50px;
+  margin: 20px;
+  padding: 40px;
+  width: 300px;
+color: blue;
+   
+  
+}
+
+
+section
+{
+    float: left;
+    font-size: 15pt;
+    width: 600px;
+  
+}
+
+h4
+{
+    font-weight: 800;
+}
+
+
+
+footer
+{
+    font-size: 12pt;
+}
+
+footer a
+{
+    text-transform: lowercase;
+    text-decoration: none;
+    font-weight: 300;
+    color: darkblue;
+}
+
+

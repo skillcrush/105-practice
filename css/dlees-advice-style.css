@@ -1,0 +1,49 @@
+body {
+  font-family: 'Muli', sans-serif;
+  color: #484944;
+}
+
+header a {
+  color: grey;
+  font-family: 'Oswald', sans-serif;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  color: #6bbdbb;
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 40px;
+  margin: 0 30px;
+}
+
+h4 {
+  color: #f78478;
+  font-family: 'Palyfair Display', serif;
+  font-size: 25px;
+  margin: 33px 0 15px 0;
+}
+
+footer {
+  color: #6bbdbb;
+  text-align: center;
+  padding: 10px 0;
+  clear: both;
+}
+
+.skillcrush-advice{
+  clear: both;
+}
+
+.advice1{
+  float: left;
+  width: 500px;
+  margin: 30px 30px 30px 50px;
+}
+
+.advice2{
+  float:left;
+  width: 500px;
+  margin: 30px 30px 30px 100px;
+}

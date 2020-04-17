@@ -1,0 +1,52 @@
+body {
+  color: #808080;
+  padding: 20px;
+}
+
+h1, h4, p {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h4, a {
+    font-family: 'Arial', sans-serif;
+}
+
+a {
+  border-bottom: 1px solid #808080;
+  color: inherit;
+  cursor: pointer;
+  padding-bottom: 2px;
+  text-decoration: none;
+}
+
+h1, h4, footer {
+  margin-top: 40px;
+}
+
+h1 {
+    border: 1px solid #000080;
+    color: #000080;
+    font-size: 28px;
+    padding: 5px;
+    text-align: center;
+}
+
+h4 {
+    border-bottom: 1px solid #800000;
+    color: #800000;
+    display: inline-block;
+    font-size: 24px;
+    padding-bottom: 2px;
+}
+
+p {
+    font: 18px 'Times New Roman', serif;
+    line-height: 1.5;
+    margin-top: 15px;
+}
+
+footer p {
+    font-size: 14px;
+    text-align: center;
+}

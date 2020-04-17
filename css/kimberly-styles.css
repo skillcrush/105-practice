@@ -1,0 +1,35 @@
+h1, h4, a {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    border: navy 1px;
+    color: navy;
+    font-size: 28px;
+    margin: 10px;
+    text-align: center;
+}
+
+h4 {
+    color: maroon;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+p {
+    color: #2e2e1f;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 5px 0 0 0;
+    padding: 10px;
+}
+
+p span {
+    font-weight: bold;
+}
+
+.copyright {
+    font-size: 14px;
+    color:purple;
+    text-align: center;
+}

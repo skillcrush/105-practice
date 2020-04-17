@@ -1,0 +1,238 @@
+/******Color Palette******************
+
+Glass - #EDFAFD
+Chill - #AED9DA
+Califonian Coral - #3DDAD7
+Bondi Blue - #2A93D5
+Marina - #135589
+SlateGrey - #708090
+
+
+************************************/
+
+/*****Font Palette****************
+
+font-family: 'Dosis', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+
+********************************/
+
+/********Global Styles*********/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+    
+}
+
+.full-width {
+    width: 1200px;
+}
+
+.half-width {
+    height: 450px;
+}
+
+ h4 {
+    text-transform: uppercase;
+}
+
+
+
+/******Header**********/
+
+header {
+    height: 160px;
+    /*background: #135589 */
+    border-bottom: 10px double #2A93D5;
+}
+
+
+header h1 {
+   font-family: 'Dosis', sans-serif; 
+   font-size: 48px; 
+   float: left;
+   padding: 50px 0 40px 25px; 
+   margin: 25px; 
+   font-style: italic; 
+   /*background: #AED9DA; */
+}
+
+
+header nav {
+    float: right;
+    padding: 40px 15px;
+    margin: 35px;
+    /*background: #EDFAFD;*/
+
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul li a {
+    font-size: 15px; 
+    text-transform: uppercase;
+    /*text-decoration: none; *******/
+    padding: 18px 10px; 
+
+}
+
+
+/******Confusion-Advice Section*********************/
+
+#confusion-advice {
+    clear: both;
+}
+
+#confusion-advice .full-width {
+    width: 550px; 
+
+}
+
+.hello h2 {
+    padding: 15px;
+    width: 700px;
+    font-size: 25px;
+    font-variant: small-caps;
+    /*background: red;*/
+
+}
+
+#confusion-advice .half-width {
+    padding: 20px; 
+    float: left;
+    /*background: yellow;*/
+}
+
+#confusion-advice .half-width h4 {
+    font-size: 18px;
+
+}
+
+#confusion-advice .half-width p {
+    line-height: 30px;
+    font-size: 16px; 
+    color: #708090;
+}
+
+
+
+/********Disbelief Section**************/
+
+#disbelief {
+    float: right;
+    
+}
+
+#disbelief .full-width {
+    /*background: green;*/
+    width: 549px;
+
+}
+
+#disbelief .half-width {
+    padding: 20px;
+
+}
+
+#disbelief .half-width h4 {
+    font-size: 18px;
+
+}
+
+#disbelief .half-width p {
+    line-height: 30px; 
+    font-size: 16px; 
+    color:  #708090;
+}
+
+
+/*******Final Section*************/
+
+#final {
+    clear: both;
+}
+
+#final .full-width {
+    /*background: yellow;*/
+    margin-top: 20px;
+    height: 500px;
+}
+
+#final .final-top {
+    /*background: red;*/
+    padding: 15px;
+}
+
+#final .final-top h4 {
+    font-size: 20px;
+    padding-left: 20px;
+
+}
+
+#final .final-top p {
+    height: 60px;
+    font-size: 16px;
+    line-height: 27px; 
+    color: #708090;
+    padding: 15px;
+    
+}
+
+#final .final-top p span {
+    font-weight: bold; 
+}
+
+
+#final-quote {
+    margin-left: 370px;
+    background: #135589;
+    height: 180px;
+    width: 350px;
+    line-height: 30px;
+    color: #AED9DA;
+    padding: 12px;
+    text-align: justify;
+    font-variant: small-caps;
+    font-size: 22px;
+    
+}
+
+#final-quote span {
+    font-style: italic;
+    font-size: 14px;
+}
+
+#final .final-bottom p {
+    font-style: italic;
+    margin-top: 30px;
+    font-size: 14px;
+    padding-left: 45px;
+    color: #708090;
+
+}
+
+
+
+
+/*********Footer*************/
+
+footer {
+    height: 50px; 
+    margin: 0 auto; 
+    /*background:; may put in the color later********/
+}
+
+footer p {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+

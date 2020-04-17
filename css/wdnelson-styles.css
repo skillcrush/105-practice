@@ -1,0 +1,93 @@
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Base Styles
+# Header
+# Section: Advice
+# Footer
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+/**
+ * Remove default margin.
+ */
+
+body {
+  margin: 0;
+}
+
+/*--------------------------------------------------------------
+# Base Styles
+--------------------------------------------------------------*/
+
+h1, h2, p, a {
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 60px;
+  color: #333;
+  padding: 65px 0 65px 25px;
+}
+
+h2 {
+  padding-left: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+
+header {
+  height: 800px;
+  background: url("https://i.imgur.com/8kxG8d4.png");
+  background-size: cover;
+  border-bottom: 2px solid #252f1c;
+}
+
+/*--------------------------------------------------------------
+# Section: Advice
+--------------------------------------------------------------*/
+p span {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.advice p {
+  line-height: 1.5;
+  padding: 0px 25px 0px 25px; 
+  color: #43414e;
+}
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+footer {
+  height: 50px;
+  background: #252f1c;
+}
+
+footer p {
+  color: white;
+  float: right;
+  padding-right: 25px;
+}
+
+#back-link {
+  color: white;
+  margin-top: 16px;
+  float: left;
+  padding-left: 25px;
+}

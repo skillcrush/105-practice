@@ -1,0 +1,98 @@
+/********background gradient box
+
+background: rgb(86,78,88);
+background: linear-gradient(90deg, rgba(86,78,88,1) 11%, rgba(144,78,85,1) 53%, rgba(191,180,143,1) 100%);
+
+*********/
+
+/****** COLORS ******
+page background #f2efe9
+#904e55 rose taupe
+#564e58 davy's gray (purplish)
+#bfb48f khaki
+#252627 raisin black
+*/
+
+
+/******* GLOBAL STYLES *******/
+body {
+  color: #888;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 36px;
+  line-height: 44px;
+  color: #648880;
+  font-weight: 300;
+}
+h4 {
+  font-size: 21px;
+  color: #648880;
+  font-weight: 300;
+}
+p {
+  color: #888888;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+/****** GRID ******/
+.full-width {
+  width: 100%;
+  margin: 0 auto;
+}
+.half-width {
+  width: 50%;
+  float: left;
+}
+
+/******* HEADER *******/
+header {
+   height: 250px;
+   background: #cbe2c1;
+   background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
+   background: -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
+   background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+   padding: 50px 10px 22px 10px;
+   text-align: center;
+   margin: 0;
+   border-top: 4px solid #648880;
+}
+header .btn {
+  border: 2px solid #648880;
+  background: #648880;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 300;
+  letter-spacing: .5px;
+  margin: 0;
+  text-transform: uppercase;
+  padding: 10px;
+  margin-top: 20px;
+}
+header .btn:hover {
+  background: #f6f1d3;
+  border: 2px solid #f6f1d3;
+  color: #648880;
+}
+
+/******* ADVICE SECTION *******/
+#advice h4, p {
+  padding: 0 20px;
+}
+/******* FOOTER *******/
+#copy {
+  font-size: 14px;
+  background-color: #293f50;
+  clear: both;
+  height: 100px;
+  text-align: center;
+}
+.copyright {
+  padding: 30px;
+}

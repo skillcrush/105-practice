@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body  {
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: salmon;
+	margin: 60px 80px;
+	padding: 20px;
+
+}
+
+h1,h2,h3,h4  {
+	font-family: Impact, sans-serif;
+
+}
+
+h1 {
+	font-size: 48px;
+	color: white;
+	text-align: center;
+
+}
+
+
+h2,h3,h4  {
+	font-size: 36px;
+	color: #483d8b;
+	text-align: center; 
+}
+
+.advice  {
+	border: 3px solid;
+	border-color: black;
+	padding: 0 50px;
+	background-color: #ffcccc
+
+}

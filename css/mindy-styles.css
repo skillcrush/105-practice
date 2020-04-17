@@ -1,0 +1,43 @@
+
+.mindy-advice {
+  margin: 30px 20px;
+  background-color: SlateGray;
+  font-family: 'Raleway', sans-serif;
+}
+.box-color {
+  padding: 10px;
+  background-color: MistyRose;
+  border-radius: 10px;
+}
+.box-color:last-child{
+  margin-top: 40px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  background-color: lightblue ;
+}
+a:visited {
+  color: black;
+}
+h1, h4 {
+  font-family: 'Ranga', cursive;
+}
+h1 {
+  margin-top: 40px;
+  font-size: 40px;
+}
+h4 {
+  font-size: 25px;
+  line-height: 10px;
+}
+span {
+  color: hotpink;
+}
+
+
+footer p {
+  text-align: center;
+  color: lightblue;
+}

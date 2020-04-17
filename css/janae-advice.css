@@ -1,0 +1,68 @@
+/***** BASE STYLES *****/
+
+.janae-advice{
+    font-family: 'lato', 'sans serif'
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+    font-family: 'lato', 'sans serif'
+}
+
+.header{
+    background: black;
+    color: #faf5ee;
+    text-align: center;
+    padding: 0px 0px 18px 0px;
+}
+
+h1{
+    font-size: 34px;
+}
+
+.left-side{
+    float: left;
+    width: 680px;
+    height: 400px;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: center; 
+    background: #453e33;
+    color: #faf5ee;
+    display: inline-block;
+    vertical-align: center;
+    padding: 5px 10px 10px 10px;  
+    line-height: normal; 
+}
+
+.right-side{
+    float: right;
+    width: 480px;
+    height: 400px;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    text-align: center; 
+    background: #faf5ee;
+    color: #453e33;
+    display: inline-block;
+    vertical-align: center;
+    padding: 5px 10px 10px 10px;  
+    line-height: normal; 
+}
+
+h4{
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 18px;
+    line-height: 24px;
+}
+
+footer{
+    text-align: center;
+    clear:both;
+    padding: 10px 0px 0px 26px;
+}
