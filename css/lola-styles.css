@@ -1,0 +1,75 @@
+/*****HEADER*****/
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    padding-top: 8px;
+}
+#header {
+    height: 60px;
+    background: teal;
+    width: auto;
+    text-align: center;
+}
+
+/*****GRIDS*****/
+.full-width {
+    width: 1200px;
+    margin: auto;
+    align-content: center;
+}
+
+.half-width {
+    width: 520px;
+    padding: 0px 40px 0px 40px;
+    float: left;
+}
+
+/*****BODY*****/
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+h2 {
+    font-family: 'Chilanka', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    background: darkgray;
+    height: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+
+h3 {
+    font-family: 'Chilanka', cursive;
+    font-size: 18px;
+    color: white;
+}
+
+h4 {
+    font-family: 'Chilanka', cursive;
+    font-size: 14px;
+    font-style: italic;
+    color: white;
+}
+
+#quote-box {
+    width: 300px;
+    height: auto;
+    background: lightseagreen;
+    padding: 20px;
+    margin: 10px;
+    border: 3px solid darkgray;
+}
+
+/*****FOOTER*****/
+#footer {
+    clear: both;
+    height: 25px;
+    text-align: center;
+    background: teal;
+    color: white;
+}

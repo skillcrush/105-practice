@@ -1,0 +1,78 @@
+/**TOP LEVEL STYLE**/
+body{
+    background: rgb(2,1,33);
+    background: -moz-linear-gradient(90deg, rgba(2,1,33,1) 0%, rgba(51,61,143,1) 35%, rgba(0,212,255,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(2,1,33,1) 0%, rgba(51,61,143,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgba(2,1,33,1) 0%, rgba(51,61,143,1) 35%, rgba(0,212,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020121",endColorstr="#00d4ff",GradientType=1);
+    color: turquoise;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+/**HEADER SECTION**/
+
+header a{
+    color: turquoise;
+}
+header a:hover {
+    color: white; 
+    font-size: 35px;
+}
+header h1{
+    border: 5px solid rgba(3, 226, 255, 0.993);
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+header #realName{
+    color: black; 
+}
+
+header #ending{
+    color: white; 
+}
+
+
+/**MAIN SECTION**/
+section{
+    background-color: black;
+    border: 5px solid rgba(3, 226, 255, 0.993);
+    float: left;
+    font-family: 'Courgette', cursive;
+}
+
+#quote{
+    background-color: black; 
+    border: 2px solid white; 
+    clear: both;
+    color: white;
+    float: right;
+    font-size: 15px;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    text-align: right; 
+}
+
+h4, p{
+    padding-left: 10px; 
+}
+
+h4{
+    font-size: 25px;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: center; 
+}
+
+/**FOOTER**/
+
+footer{
+    color: white; 
+}

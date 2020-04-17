@@ -1,0 +1,60 @@
+header{
+	height: 150px;
+}
+
+header a{
+	color: #6666cc;
+}
+
+header h1{
+	font-family: 'Lora', serif;
+	font-size: 36px;
+	color: #669999;
+	padding: 40px 0;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	text-align: justify;
+	/*background-color: #ecf2f9;*/
+}
+
+section h3{
+	color: #3d5c5c;
+	font-size: 20px;
+	text-align: center;
+}
+
+#announcement h3{
+	font-size: 14px;
+	text-align: left;
+}
+#announcement ul li{
+	font-size: 10px;
+	list-style: square;
+}
+
+.advice{
+	width: 400px;
+	margin-left: 350px;
+	padding: 20px;
+}
+
+h3 span{
+	font-size: 14px;
+	text-decoration: line-through;
+	font-weight: 400;
+}
+
+p span{
+	color: #3d5c5c;
+	font-weight: 700;
+}
+
+footer{
+	font-size: 12px;
+	text-align: center;
+	padding-top: 20px;
+	clear: both;
+}

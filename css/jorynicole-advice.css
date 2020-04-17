@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    font-family: "arial", sans-serif;
+    background-size: cover;
+}
+
+/***** GRID *****/
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.half-width {
+  width: 600px;
+  float: left;
+}
+
+/***** BACKGROUND *****/
+
+.skillcrush-advice {
+    background: #F9D7D6;
+    background: -webkit-linear-gradient(#F7CAC9, #F9E8E8);
+    background:     -moz-linear-gradient(#F7CAC9, #F9E8E8);
+    background:          linear-gradient(#F7CAC9, #F9E8E8);
+    font-family: arial;
+    margin: 25px;
+    max width: 1200px;
+    width: 90%;
+}
+
+/***** HEADER *****/
+
+header a {
+   color: #7a8c70;
+    font-family: "arial", sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+header h1 {
+    color: #7a8c70;
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+    margin: 25px;
+    padding: 20px 40px;
+    text-align: center;
+}
+
+header h1 span {
+    color: #5d679e;
+    font-family: "Pacifico", cursive; 
+    font-size: 55px;
+}
+
+/***** ADVICE SECTION *****/
+
+#advice h4 {
+    color: #7a8c70;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+}
+
+#advice h4 span {
+    color: #5d679e;
+    font-family: "Pacifico", cursive;
+    font-size: 24px;
+}
+
+#advice p {
+    color: #989997;
+    font-family: "arial", sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+}
+
+#footer p {
+    color: #5d679e;
+    font-size: 18px;
+    font-style: italic;
+    padding-top: 150px;
+    text-align: center;
+}

@@ -1,0 +1,77 @@
+/*-----LAYOUT-----*/
+.half-width {
+    float: left;
+    padding: 25px;
+    width: 550px;
+}
+
+/*-----FONTS AND TEXT-----*/
+h1, h4 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    color: #75b1a9;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+a {
+    color: #acd0c0;
+    font-size: 18px;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+/*-----BODY-----*/
+body {
+    background-color: #acd0c0;
+    margin: 0;
+}
+
+/*-----HEADER-----*/
+header {
+    background-color: #4f6457;
+    border-bottom: 5px dotted #d9b44a;
+    height: 150px;
+    color: #d9b44a;
+    padding: 10px;
+}
+
+/*-----ADVICE-----*/
+.advice {
+    height: 350px;
+    margin: 0 auto;
+    padding: 0 25px;
+    width: 1200px;
+}
+
+.advice p {
+    color: #4f6457;
+}
+
+/*-----FOOTER-----*/
+footer {
+    background-color: #75b1a9;
+    border-top: 5px dotted #d9b44a;
+    clear: both;
+    height: 100px;
+    padding: 10px;
+}
+
+footer p {
+    color: #acd0c0;
+    font-size: 18px;
+    text-align: right;
+    text-decoration: none;
+    text-transform: lowercase;
+}

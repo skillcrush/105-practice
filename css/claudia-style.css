@@ -1,0 +1,25 @@
+.claudia-advice h4 {
+  color: #F16059;
+}
+
+
+h1 {
+  color: blue;
+  font-size: 36px;
+  text-align: center;
+  background-color: magenta;
+  font-variant: small-caps;
+}
+
+p {
+  color: purple;
+  font-size: 25px;
+  background-color: lime;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: bold;
+}

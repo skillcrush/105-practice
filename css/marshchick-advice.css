@@ -1,0 +1,18 @@
+.marshchick-advice header h1{
+    color:red;
+    font-size:24px;
+    text-transform:uppercase;
+}
+.advice h4{
+    font-size:24px;
+    color:red;
+    text-transform:uppercase;
+}
+.advice p{
+    font-size:18px;
+    color:black;
+}
+footer p{
+    font-size:18px;
+    color:red;
+}
