@@ -1,0 +1,38 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 17px;
+    font-family: 'Lexend Giga', sans-serif;
+    text-align: justify;
+    padding: 1em;
+    margin: 0 auto;
+    background: url("https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/1822973/600/400/m2/fpnw/wm0/soft-watercolour-backgrounds-02-.png?1477813694&s=aa7e691cf7dfb79765050ed5a0bf2dd1")
+}
+
+h1 {
+    font-size: 2.25em;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    color: #2B0B18;
+    margin-top: 1em;
+}
+h4 {
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+    color:  #040D51;
+}
+
+a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #900C3F;
+}
+
+footer {
+    font-family: 'Cairo', sans-serif;
+    font-size: 16px;
+    text-align: right;
+    padding-top: 1em;
+}
