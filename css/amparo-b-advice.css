@@ -20,7 +20,7 @@ h2, p {
 
 .hero {
     height: 530px;
-    background: url('../img/undraw_new_ideas_jdea.png') no-repeat bottom right;
+    background: url('https://github.com/AmparoBeltran/105-practice/blob/master/img/undraw_new_ideas_jdea.png?raw=true') no-repeat bottom right;
     background-size: 600px;
     background-position-y: bottom;
     clear: both;
@@ -57,7 +57,7 @@ header a {
     width: 500px;
     height: 400px;
     float: left;
-    background: url('../img/undraw_proud_coder_7ain.svg') no-repeat bottom;
+    background: url('https://raw.githubusercontent.com/AmparoBeltran/105-practice/master/img/undraw_proud_coder_7ain.svg') no-repeat bottom;
     background-size: 300px;
 }
 
