@@ -2,30 +2,32 @@
 
 body {
     font-family: 'Quicksand', 'Helvetica', 'Arial', sane-sans-serif;
+    font-weight: normal;
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background-color: #faf5f5;
+    background-color: #FFFCF6;
 }
 
 h1 {
     font-family: 'Pacifico', cursive;
     font-size: 2.25em;
-    color: #333;
+    color: #47347A;
     margin-top: 1em;
 }
 h4 {
     font-size: 1.5em;
     font-weight: bold;
-    color: #f16059;
+    color: #353F7A;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: #2E5273;
 }
 
 footer {
+    font-size: 0.75em;
     text-align: center;
     padding-top: 1em;
 }
