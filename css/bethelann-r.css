@@ -1,0 +1,45 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #ffff80;
+}
+
+h1{
+    font-size: 2.25em;
+    margin-top: 1em;
+    padding: 1em;
+    border-style: ridge;
+    border-color: #808080;
+    color: #000000;
+    font-family: 'Shojumaru', cursive;
+}
+
+h4{
+    font-size: 1.5em;
+    margin-left: 1em;
+    font-weight: bolder;
+    color: #ff0000;
+    font-family: 'Shojumaru', cursive;
+}
+
+p{
+    font-size: 1em;
+    margin-left: 1em;
+    font-family:  'Ubuntu Mono', monospace;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: #404040;
+    font-family:  'Ubuntu Mono', monospace;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: #ff0000;
+}
