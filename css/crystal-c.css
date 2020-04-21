@@ -1,0 +1,76 @@
+/***** BASE STYLES *****/
+body {
+  font-size: 16px;
+  background-color: #999999;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+  "heading"
+  "advice"
+  "footer";
+}
+
+ .heading, .advice {
+  background: #00aaff;
+}
+
+.heading {
+  grid-area: heading;
+  margin-top: 2em;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.25em;
+  color: #262626;
+  text-align: center;
+}
+
+span {
+  font-family: 'Kaushan Script', cursive;
+  color: #00334d;
+}
+
+.border {
+  margin-left: 1em;
+  margin-right: 1em;
+  border-bottom: 4px solid #00334d;
+}
+
+.advice {
+  grid-area: advice;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 0.25em 1.5em 1.5em 1.5em;
+}
+
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+  color: #00334d;
+  margin-bottom: -0.05em;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  font-family: 'Gotu', sans-serif;
+  font-size: 1.25em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+footer {
+  text-align: center;
+  padding-top: 1em;
+  grid-area: footer;
+  }
