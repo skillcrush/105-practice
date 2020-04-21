@@ -1,0 +1,35 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #c2b2a5;
+    font-family: 'Baloo Thambi 2', cursive;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #424f35;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #7a8b65;
+}
+
+p {
+    color: #25312f;
+}
+
+a {
+    text-decoration: none;
+    color: #25312f;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

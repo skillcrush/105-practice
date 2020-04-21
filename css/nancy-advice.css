@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+}
+
+p {
+  line-height: 1.5rem;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-family: "Indie Flower", cursive;
+  font-size: 2.5rem;
+  color: #000;
+  margin-top: 50px;
+}
+
+header a {
+  color: #ff0000;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #ff0000;
+  margin: 50px;
+}
+
+.container {
+  margin: auto 50px;
+}
+.notebook {
+  float: right;
+  margin-left: 20px;
+}
+.notebook img {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+footer {
+  text-align: center;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #b3b3b3;
+  color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+  .notebook {
+    clear: left;
+  }
+}
