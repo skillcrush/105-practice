@@ -1,0 +1,64 @@
+/***** BASE STYLES *****/
+
+body {
+	background: #ffffff;
+}
+
+p {
+	color: #2b2b2b;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+h4 {
+	font-family: 'Lora', serif;
+	font-size: 20px;
+}
+
+/***** GRID STYLES *****/
+
+.full-width {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+/***** HEADER *****/
+
+header a {
+	color: #1a3300;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+header h1 {
+	font-family: 'Lora', serif;
+	font-size: 40px;
+}
+
+/***** MAIN *****/
+
+.advice {
+	padding: 5px 30px 5px 30px;
+	background: #eaeae1;
+}
+
+#skillcrush-copyright {
+	font-size: 12px;
+	text-align: right;
+}
+
+/***** FOOTER *****/
+
+footer {
+	width: 1200px;
+	margin: 20px auto;
+	border-top: 1px solid #e6e6e6;
+}
+
+footer p {
+	font-size: 15px;
+	text-align: center;
+}
+

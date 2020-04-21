@@ -1,0 +1,19 @@
+body {
+    background: #a9a9a9;
+    font-family: 'Baloo 2', cursive;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+h4 {
+    font-family: 'Baloo 2', cursive;
+    font-size: 22px;
+}
+
+#number-one {
+    color: red;
+}
+
+p {
+    font-size: 18px;
+}

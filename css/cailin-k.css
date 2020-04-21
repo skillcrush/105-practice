@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: mistyrose;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.25em;
+    font-weight: bold;
+    color: #990033;
+    margin-top: 1em;
+}
+h4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em;
+    font-weight: light;
+    color: #f16059;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

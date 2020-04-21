@@ -1,0 +1,49 @@
+body{
+  fornt-family:"Lora"; serif;
+  background-color: #F7F7F7;
+  colour:#595959;
+}
+h1{
+  front-family: serif;
+  color: #326273;
+  text-align:center;
+}
+h4{
+  color: #368496;
+  font-size: 24px;
+}
+.full-ssection{
+  width:1200px;
+  margin: 0;
+}
+.advice{
+  width: 1353px;
+  float: right;
+  padding: 20px;
+  margin:10px;
+
+}
+.disbelief{
+  width: 1353px;
+  float: right;
+  padding:20px;
+  margin: 10px;
+}
+footer{
+  width: 150px;
+  float:right;
+  font-size: 14px;
+  color: #5C9EAD;
+  font-family: serif;
+  font-style: italic;
+}
+#advice {
+  font-size: 17px;
+  color: #5C9EAD;
+}
+#disbelief{
+  font-size: 17px;
+  color: #5C9EAD;}
+#link{
+  color: #5C9EAD;
+}
