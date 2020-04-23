@@ -6,32 +6,43 @@ body {
     margin: auto;
     background-color: #FFF;
    font-family: 'Open Sans', sans-serif;
+   justify-content: center;
 }
 
 p {
     line-height: 175%;
 }
 
+.container{
+    width: 1200px;
+    margin: 50px auto;
+}
 .advice-1 {
    border-radius: 25px;
-   max-width: 47%;
+   /**max-width: 47%;**/
    float: left;
-   background-color: #39C8DC;
+  /** background-color: #39C8DC;**/
+   background-color: #389AB4;
    height: 420px;
    padding: 20px;
    text-align: left;
+    width: 45%;
+    max-width: 600px
+   
 
 
 }
 
 .advice-2 {
     border-radius: 25px;
-    max-width: 47%;
+  
     float: right;
-    background-color: #39C8DC;
+    background-color: #389AB4;
     height: 420px;
     padding: 20px;
     text-align: left;
+    width: 45%;
+    max-width: 600px
 
 
 
