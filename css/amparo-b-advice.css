@@ -1,0 +1,82 @@
+/****  BASE STYLES  ****/
+
+body {
+    font-family: 'Baloo Paaji 2', cursive;
+    color: #2b2b2b;
+}
+
+h2, p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/***** GRID *****/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/** hero-header **/
+
+.hero {
+    height: 530px;
+    background: url('https://github.com/AmparoBeltran/105-practice/blob/master/img/undraw_new_ideas_jdea.png?raw=true') no-repeat bottom right;
+    background-size: 600px;
+    background-position-y: bottom;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.hero h2 span {
+    color: #2b2b2b;
+    font-size: 100px;
+}
+
+.hero h2 {
+    width: 1000px;
+    clear: both;
+    font-size: 72px;
+    line-height: 80px;
+    color: #ff6295;
+    padding: 100px 0 20px 50px;
+}
+
+header a {
+    text-transform: uppercase;
+    float: right;
+    margin-right: 60px;
+    margin-top: 50px;
+    color: #9b9b9b;
+    text-decoration: none;
+}
+
+/** SECTIONS **/
+
+.col-left {
+    margin-right: 50px;
+    width: 500px;
+    height: 400px;
+    float: left;
+    background: url('https://raw.githubusercontent.com/AmparoBeltran/105-practice/master/img/undraw_proud_coder_7ain.svg') no-repeat bottom;
+    background-size: 300px;
+}
+
+.col-right {
+    margin-left: 50px;
+    width: 500px;
+    float: left;
+}
+
+/****  FOOTER  ****/
+
+footer {
+    text-align: center;
+    height: 100px;
+    clear: both;
+    padding: 70px 0 20px 0px;
+}
+
+footer span {
+    color: pink;
+    text-transform: uppercase;
+}
