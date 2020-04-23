@@ -1,0 +1,58 @@
+
+body {
+    width: 1200px;
+}
+
+html {
+    background: url("https://www.onlygfx.com/wp-content/uploads/2015/12/simple-old-paper-1-transparent.jpg");
+}
+
+
+#homelink a {
+    font-family: 'Gotu', sans-serif;
+    text-decoration: none;
+    color: #998f00;
+}
+
+#logo {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#logo img {
+    width: 20%;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+header #head {
+    font-family: 'IM Fell French Canon SC', serif;
+    font-size: 30px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    text-align: center;
+    width: 900px;
+}
+
+.advice {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.advice h4 {
+    font-family: 'IM Fell French Canon SC', serif;
+    font-size: 30px;
+}
+
+.advice p {
+    font-family: 'Gotu', sans-serif;
+    font-size:
+}
+
+footer {
+    font-family: 'IM Fell French Canon SC', serif;
+    font-size: 12px;
+    margin-top: 40px;
+    text-align: right;
+}
