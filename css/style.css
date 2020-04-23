@@ -1,29 +1,21 @@
 /***** BASE STYLES *****/
 
 body {
-    font-size: 20px;
-    line-height: 2em;
-    padding: 1.5em;    
+    font-size: 16px;
+    padding: 1em;
     margin: 0 auto;
-    background-color: rgb(250, 244, 223);
+    background-color: #faf5f5;
 }
-
-/***** HEADER *****/
 
 h1 {
     font-size: 2.25em;
     color: #333;
     margin-top: 1em;
 }
-
-h1 span {
-    color: #bb433d;
-}
-
 h4 {
     font-size: 1.5em;
     font-weight: bold;
-    color: #333;
+    color: #f16059;
 }
 
 a {
@@ -31,10 +23,7 @@ a {
     color: #bb433d;
 }
 
-/***** FOOTER *****/
-
 footer {
     text-align: center;
-    font-style: italic;
     padding-top: 1em;
 }
