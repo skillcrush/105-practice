@@ -1,0 +1,31 @@
+.main-page-link{ text-align: left;
+}
+
+
+
+h1,h2{
+	text-transform: capitalize;
+}
+h1{ 
+	font-size: 45px;
+	margin-bottom: 50px;
+}
+
+h2{
+	font-size: 35px;
+	margin-bottom:85px;
+}
+
+
+body{
+	background-color: #c8b8de;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	font-size:25px;
+	margin-left: 85px;
+	margin-right:85px;
+	text-align: center;
+}
+
+footer{
+	margin-top:105px;
+}
