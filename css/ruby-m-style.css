@@ -1,0 +1,36 @@
+body {
+    background-color: #fffabb;
+    padding: 10px;
+}
+
+header {
+    border-bottom: 2px dotted #006400;
+}
+
+h2, p {
+    font-family: 'Neucha', cursive;
+    padding: 5px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+}
+
+ul {
+    border: 2px dotted #006400;
+}
+
+li {
+    list-style: none;
+    margin-right: 15px;
+}
+
+span {
+    font-family: 'Permanent Marker', cursive;
+}
+
+footer {
+    border-top: 2px dotted #006400;
+    text-align: center;
+}
