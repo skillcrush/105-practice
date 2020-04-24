@@ -1,0 +1,26 @@
+/****** BASE STYLES ******/
+
+body {
+    background: #ffcc99;
+    color: #000000;
+    font-family: Arial;
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+    width: 800px;
+}
+
+
+h1 {
+    color: #ff00bf;
+    padding-top: 30px;
+}
+
+h4 {
+    padding-top: 25px;
+    text-decoration: underline;
+}
+
+footer {
+    padding-top: 50px;
+}
