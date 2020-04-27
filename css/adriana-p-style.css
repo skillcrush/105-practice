@@ -1,0 +1,53 @@
+/***STYLSHEET***/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/***CELL PHONE VIEW***/
+.wrapper {
+    width: 100%;
+}
+
+.header h1 {
+    font-family: 'Oleo Script', cursive;
+    text-align: center;
+    color: #111111;
+    font-size: 2.3rem;
+    padding: 1rem 1rem 1rem;
+}
+
+.header .image {
+    background: url('../img/flower.JPG');
+    width:16rem;
+    height: 10.515rem;
+    background-size: cover;
+    display: inline-block center;
+    margin: 0 auto;
+}
+
+.advice h4 {
+    font-family: 'overpass', sans-serif;
+    font-style: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.advice p {
+    font-family: 'overpass', sans-serif;
+    text-indent: 1rem;
+    font-size: 1.3rem;
+    padding: .5rem .5rem .5rem;
+    color: #524d4d;
+}
+
+footer {
+    text-align: center;
+    padding: 0rem 0rem .5rem;
+    color: #40e0d0;
+}
+
+
+
+
+
