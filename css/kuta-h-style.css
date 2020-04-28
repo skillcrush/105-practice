@@ -1,0 +1,105 @@
+/***** BASE STYLES *****/
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	color: #fff;
+	background-color: #C3D2E6;
+}
+
+/***** COLUMNS *****/
+
+.full-width {
+	width: 1200px;
+	margin: 0;
+}
+
+.half-width {
+	width: 600px;
+	float: left;
+}
+
+/***** HEADER *****/
+
+header {
+    height: 800px;
+		background-image: url(https://images.unsplash.com/photo-1579882392185-581038fbc8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80);
+		background-position: center;
+		background-size: cover;
+}
+
+a {color: #2b2b2b;}
+
+h1 {
+	font-family: 'Coustard', serif;
+	width: 1000px;
+	clear: both;
+	font-size: 55px;
+	padding: 20px 0 20px 25px;
+	letter-spacing: 3px;
+}
+
+/***** GRID *****/
+
+.full-width {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.half-width {
+	width: 600px;
+	float: left;
+}
+
+/***** FIRST ADVICE SECTION CSS STYLE *****/
+
+#first-advice .half-width {
+	padding: 80px 0;
+}
+
+#first-advice h3 {
+	font-family: 'Coustard', serif;
+	font-size: 40px;
+	letter-spacing: 3px;
+	padding-left: 40px;
+	color: #fff;
+}
+
+#first-advice p {
+	font-size: 25px;
+	color: #fff;
+	line-height: 40px;
+	padding-left: 40px;
+	padding-right:40px;
+}
+
+/***** SECOND ADVICE SECTION CSS STYLE *****/
+
+#second-advice .half-width {
+	padding: 80px 0;
+}
+
+#second-advice h3 {
+	font-family: 'Coustard', serif;
+	font-size: 40px;
+	letter-spacing: 3px;
+	padding-left: 40px;
+	color: #fff;
+}
+
+#second-advice p {
+	font-size: 25px;
+	color: #fff;
+	line-height: 40px;
+	padding-left: 40px;
+	padding-right:40px;
+}
+
+/***** FOOTER SECTION CSS STYLE *****/
+#footer .full-width {
+	padding: 80px 0;
+}
+
+#footer p {
+	padding-left: 40px;
+	padding-right:40px;
+}
