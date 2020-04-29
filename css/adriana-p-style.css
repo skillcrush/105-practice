@@ -17,13 +17,16 @@
     padding: 1rem 1rem 1rem;
 }
 
-.header .image {
-    background: url('../img/flower.JPG');
-    width:16rem;
-    height: 10.515rem;
-    background-size: cover;
-    display: inline-block center;
-    margin: 0 auto;
+#blinking {
+    animation:blinkingText 1.2s infinite;
+}
+
+@keyframes blinkingText{
+    0%{     color: #7fff00;    }
+    49%{    color: #7fff00; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #7fff00;    }
 }
 
 .advice h4 {
