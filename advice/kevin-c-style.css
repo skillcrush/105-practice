@@ -1,0 +1,28 @@
+/***** BASE STYLES *****/
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+  
+}
+
+h1
+h2
+h3
+h4
+h5{
+      font-family:'Montserrat', sans-serif;
+      font-weight:bold;
+
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
