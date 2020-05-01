@@ -1,0 +1,30 @@
+  /*** BASE STYLES ***/
+
+  /*** HEADER ***/
+
+
+  /*** BODY ***/
+  body {
+    font-family: 'Old Standard TT';
+    text-align: left;
+    margin: 100px;
+    background: AliceBlue;
+    background-color: mistyrose;
+  }
+h1, h4 {
+  color: blue;
+}
+h1{
+  text-align: center;
+  margin: 40px;
+}
+h4 {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  margin: 40px;
+}
+
+
+  /*** FOOTER ***/
