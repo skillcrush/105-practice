@@ -1,0 +1,25 @@
+@font-face {
+    font-family: adam;
+    src: url("../fonts/Adam.otf");
+}
+
+html {
+    background: url("../img/ocean.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-family: adam;
+    color: aliceblue;
+    font-size: 6vh;
+    text-align: center;
+}
