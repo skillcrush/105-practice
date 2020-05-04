@@ -1,0 +1,25 @@
+/********** BASIC STYLING ******/
+
+body {
+    font-family:'Zilla Slab', serif;
+    font-size: 18px;
+    background-color: #fafcf5;
+    line-height: 25px;;
+      
+}
+
+.draci-advice {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.advice h4 { 
+    padding: 10px 15px;
+    color: #022070;
+    font-size: 30px;
+}
+
+
+footer {
+    padding: 25px;
+}
