@@ -1,0 +1,10 @@
+body {
+    background-color: mistyrose;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 16px;
+
+}
