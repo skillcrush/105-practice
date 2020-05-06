@@ -1,0 +1,66 @@
+/***** GRID ******/
+
+.skillcrush-advice {
+  width: 1200px;
+}
+.half-width {
+  padding: 0 50px;
+  width: 500px;
+  float: left;
+}
+
+/***** BASE STYLES *****/
+
+body {
+    font-family: "Dosis";
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: url(../img/zenfire.png) no-repeat center fixed;
+    background-color: #fdcd9c;
+}
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h1 span {
+  font-family: "Permanent Marker";
+  background: url(../img/explode.png) no-repeat center;
+}
+.advice {
+  font-family: "Righteous" cursive;
+}
+h4 {
+    font-size: 1.75em;
+    font-weight: bold;
+    color: white;
+    background: url(../img/cloud.png) no-repeat center;
+    text-align: center;
+    font-variant: small-caps;
+}
+.nope {
+  font-family: "Permanent Marker";
+  line-height: 75px;
+  height: 75px;
+  font-size: 22px;
+  color: white;
+  background: url(../img/smoke.png) no-repeat 5px -15px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.final {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  background: url(../img/haze.png) no-repeat center -80px;
+}
+footer {
+  border-top: 3px white;
+    text-align: center;
+    padding-top: 1em;
+    clear: both;
+}
