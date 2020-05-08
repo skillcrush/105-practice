@@ -1,0 +1,44 @@
+
+/******BASE STYLES*******/
+
+body {
+  background-color: #fffce6;
+  margin: 30px;
+}
+
+h1{
+  color: #000000;
+  font-family: 'Bad Script', cursive;
+  font-weight:400;
+  font-size: 48px;
+}
+
+h4{
+  color:#8DE0C6;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 30px;
+
+}
+p{
+  color:#000000;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  margin: 10px;
+}
+a{
+  background-color: #8DE0C6;
+  border: none;
+  color: #fffce6;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+footer p{
+  color:#8DE0C6;
+  margin-top: 30px;
+}
