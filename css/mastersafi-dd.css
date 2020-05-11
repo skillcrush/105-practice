@@ -1,0 +1,40 @@
+body {
+  	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	background-color: coral;
+}
+
+
+
+h1,
+{
+
+	font-size: 30px;
+
+	color: blue;
+
+	text-transform: uppercase;
+
+}
+
+
+p {
+
+	font-size: 14px;
+
+	line-height: 21px;
+
+	padding: 0 30px;
+
+}
+
+
+
+section h4{
+	color: red;
+	text-align: center;
+}
+
+footer p{
+	color: grey;
+	text-align: right;
+}
