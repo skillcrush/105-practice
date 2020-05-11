@@ -21,5 +21,16 @@ h1{
 
 .text-box p{
   color: #000024;
+  line-height: 30px;
   padding: 20px;
+}
+
+.advice h4{
+  font-family: "Pacifico", cursive;
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+
+footer{
+  text-align: center;
 }
