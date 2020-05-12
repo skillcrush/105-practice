@@ -1,0 +1,38 @@
+/* head */
+
+body {
+background-color: #FFDF80;
+font-family: Raleway, Arial;
+
+}
+
+h1 {
+background-color: #FFEFBF;
+font-family: Raleway;
+font-size: 50px;
+color:#00308F;
+margin: 10px, 20px, 10px, 20px;
+text-align: center;
+}
+
+h4 {
+  font-weight: bold;
+  text-decoration: underline;
+  color: black;
+  font-size: 25px;
+}
+
+p {
+  font-weight: normal;
+  color:;
+}
+
+div {
+  border: 3px double;
+  padding: 20px;
+  background-color: #EFDECD;
+}
+
+footer {
+  background-color: #FFEFBF;
+}
