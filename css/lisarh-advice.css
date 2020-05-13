@@ -1,0 +1,36 @@
+/** Initial styles **/
+body{
+  background: #3F784C;
+  color: #3F84E5;
+  font-size: 16px;
+  font-family: "Merriweather", serif;
+}
+
+h1{
+  font-family: "Pacifico", cursive;
+  font-size: 40px;
+}
+
+.text-box{
+  background: #F0E2E7;
+  border: 2px solid #B20D30;
+  margin: 10px 20px;
+  opacity: 0.3;
+  padding: 10px;
+}
+
+.text-box p{
+  color: #000024;
+  line-height: 30px;
+  padding: 20px;
+}
+
+.advice h4{
+  font-family: "Pacifico", cursive;
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+
+footer{
+  text-align: center;
+}
