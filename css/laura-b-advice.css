@@ -1,0 +1,75 @@
+/*BASE STYLES*/
+
+body {
+    background:#f0f5f5;
+    width: 1200px;
+    font-family: 'Raleway', sans-serif;
+    margin: 25px auto;
+}
+
+/*HEADER*/
+a {
+    font-size: 12px;
+    color: darkslategray;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: 400;
+    color: darkslategray;
+    text-align: center;
+}
+
+h1 span {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 42px;
+    padding-left: 5px;
+}
+
+/*MAIN*/
+
+.section-one, .section-two, .section-three {
+    width: 1000px;
+    border-left:  darkslategray 1px solid;
+    border-right:  darkslategray 1px solid;;
+    padding: 10px;
+    height: auto;
+    margin: auto;
+}
+
+.section-one {
+    border-top: darkslategray 1px solid;
+    border-bottom: darkslategray 1px solid;
+}
+
+.section-three {
+    border-top: darkslategray 1px solid;
+    border-bottom: darkslategray 1px solid;
+}
+
+h4 {
+    font-size: 24px;
+    color: #cc0066;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 18px;
+    line-height: 20px;
+    padding: 0 40px 0 40px;
+}
+
+/*FOOTER*/
+
+footer {
+    font-family: 'Homemade Apple', cursive;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
