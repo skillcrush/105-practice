@@ -1,0 +1,27 @@
+/*****BASE STYLES*****/
+body {
+    
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    color: #2b2b2b;
+    background-color: #c39797;
+}
+
+/*****HEADER*****/
+header h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #2b2b2b;
+    font-size: 45px;
+
+}
+
+/*****HEADER*****/
+header h1 i {
+    color: #ffffff;
+}
+/*****DIV CLASS*****/
+div h4 {
+font-family: 'Dancing Script', cursive;
+font-size: 30px;
+color: #696969;
+}

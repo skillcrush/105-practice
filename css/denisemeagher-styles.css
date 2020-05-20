@@ -1,0 +1,30 @@
+.skillcrush-advice {
+  font-family: 'Cormorant', serif;
+  width: 50%;
+  margin: 2em auto;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: #0b4f6c;
+}
+
+h4 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #11749b;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  font-size: 15px;
+  color: #ff3c3c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #aec33a;
+}

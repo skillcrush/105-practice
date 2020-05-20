@@ -1,0 +1,70 @@
+.top {
+    border-bottom: 3px solid #000066;
+}
+
+.advice {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.advice h4 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 28px;
+    text-align: left;
+    text-transform: capitalize;
+    color: #6600cc;
+}
+
+.button {
+  background-color: #000066;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 16px;
+  margin: 20px 510px 0px 510px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.half-width {
+    width: 527px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 15px 35px 15px 35px;
+    float: left;
+}
+
+.half-width p {
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000066;
+}
+
+.kristen-advice h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 45px;
+    color: #6600cc;
+}
+
+.kristen-advice h1 span {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 45px;
+    color: black;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+footer p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 15px;
+    color: #000066;
+}
