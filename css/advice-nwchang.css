@@ -1,0 +1,93 @@
+/***** BASE STYLES *****/
+body{
+  background-color: #003399;
+  color: #ff5c33;
+  font-family: trocchi;
+  width: 1600px;
+}
+
+/***** HEADER *****/
+a{
+  border: 1px dotted pink;
+  color: pink;
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/***** BODY *****/
+h1{
+  font-size: 36px;
+  text-align: center;
+}
+
+h2{
+  font-size: 28px;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+}
+
+li{
+  font-size: 20px;
+}
+
+.honor-yourself{
+  border: 5px groove #ff5c33;
+  float: left;
+  height: 389px;
+  line-height: 24px;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: justify;
+  width: 774px;
+}
+
+.cheat{
+  border: 5px groove #ff5c33;
+  float: left;
+  line-height: 24px;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: justify;
+  width: 774px;
+}
+
+.breaks{
+  border: 5px groove #ff5c33;
+  clear: both;
+  float: left;
+  height: 317px;
+  line-height: 24px;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: justify;
+  width: 774px;
+}
+
+.network{
+  border: 5px groove #ff5c33;
+  float: left;
+  height: 317px;
+  line-height: 24px;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: justify;
+  width: 774px;
+}
+
+span{
+  font-family: pacifico;
+}
+
+footer{
+  clear: both;
+  padding: 16px;
+  text-align: center;
+}

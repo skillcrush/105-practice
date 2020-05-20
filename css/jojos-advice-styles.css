@@ -1,0 +1,75 @@
+/***** BASE STYLES *****/
+
+body {
+    background: #0F0324;
+	width: 1200px;
+	margin: 0px;
+}
+
+header {
+	float: left;
+	background: #A5B1C2;
+}
+
+h1{
+	color: #26173E;
+	font-family: 'Josefin Sans', serif;
+	font-size: 40px;
+	font-weight: bolder;
+	float: left;
+	width: 400px;
+	height: 400px;
+	line-height: 50px;
+	padding: 50px 60px 0px 60px;
+	text-transform: uppercase;
+	margin: 0px;
+}
+
+span{
+	color: #FAAF1B;
+}
+
+section{
+	width: 1200px;
+	font-family: 'Josefin Sans', serif;
+	color: #FD4245;
+	width: 440px;
+	height: 400px;
+	line-height: 25px;
+	padding: 40px 80px 10px 80px;
+	font-size: 15px;
+	float: left;
+	background: white;
+	border-left: thick #FF575A;
+}
+section p{
+	text-align: justify;
+}
+
+section h4 {
+	color: #ff584d;
+}
+
+footer{
+	clear: both;
+	color: white;
+	background: #1c2938;
+	padding: 50px 50px 10px 50px;
+	font-family: 'Josefin Sans', serif;
+	text-align: center;
+}
+
+footer p{
+	padding-top: 50px;
+	margin: 0px;
+}
+
+footer a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #B3B9E0;
+	font-weight: bold;
+	border: 1px solid #B3B9E0;
+	padding: 15px;
+	backround: #ccd8e5;
+}

@@ -1,0 +1,83 @@
+/** Global styles **/
+/** colors
+667761 Granite Gray (green)
+545E56 Ebony (dark green)
+917C78 CINEREOUS (muave)
+B79492 ROSY BROWN
+EAE1DF PLATINUM
+**/
+
+body {
+  background-color: #667761;
+  font-family: "Ubuntu", sans-serif;
+  width: 900px;
+  margin-left: 300px;
+}
+
+header a {
+  text-decoration: none;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+}
+
+h4 {
+  color: #EAE1DF;
+  text-align: center;
+}
+
+.advice {
+  color: red;
+  font-size: bold;
+  font-size: 150%;
+}
+
+header h1 {
+  font-family: "ubuntu", sans-serif;
+  font-weight: 700;
+  color: #EAE1DF;
+  text-align: center;
+}
+
+.para_one p, .para_two p, .para_three p, .para_four p {
+  color: black;
+  padding: 5px;
+}
+
+.para_one {
+  float: left;
+  display: inline-block;
+  width: 200px;
+  border: 5px solid #545E56;
+  margin: 5px;
+  background-color: #B79492;
+}
+
+.para_two {
+  float: left;
+  display: inline-block;
+  width: 200px;
+  height: 500px;
+  border: 5px solid #545E56;
+  margin: 5px;
+  background-color: #B79492;
+}
+
+.para_three {
+  float: left;
+  display:inline-block;
+  width: 200px;
+  height: 425px;
+  border: 5px solid #545E56;
+  margin: 5px;
+  background-color: #B79492;
+}
+
+.para_four {
+  float: left;
+  display:inline-block;
+  width: 200px;
+  height: 350px;
+  border: 5px solid #545E56;
+  margin: 5px;
+  background-color: #B79492;
+}

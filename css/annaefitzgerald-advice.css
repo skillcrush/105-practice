@@ -1,0 +1,54 @@
+
+
+/**BODY**/
+
+.full-width {
+  background: #ccf2ff;
+  width: 100%;
+  margin: 0;
+}
+
+.third-width {
+  float: left;
+  height: 420px;
+  outline: grey dotted 1px;
+  width: 33%;
+}
+
+/**CONTENT**/
+
+a {
+  font-family: 'essonnes-headline', serif;
+  font-weight: 100;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+header {
+  margin: 0.2em 2em 0 1.5em;
+  text-align: center;
+}
+
+h1, h2 {
+ font-family: 'essonnes-headline', serif;
+ font-weight: 100;
+ text-align: center;
+}
+
+p {
+  line-height: 1.75em;
+  font-family:'regulator-nova', sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  padding: 0 3.2em 0 3.5em;
+}
+
+/**FOOTER**/
+
+footer: {
+  clear: both;
+}
+
+footer #copyright {
+  text-align: center;
+}

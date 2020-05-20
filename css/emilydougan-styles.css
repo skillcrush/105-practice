@@ -1,0 +1,75 @@
+
+
+header {
+background-color: #ffe6e6;
+font-family: 'Fjalla One', sans-serif;
+color: #ff4d4d;
+height: 200px;
+padding: 5px 5px 5px 5px;
+
+}
+
+body {
+  background-color: #ffe6e6;
+}
+main {
+background-color: #ffe6e6;
+font-family: 'Fjalla One', sans-serif;
+padding top: 0;
+margin: 0 auto;
+}
+ h1 {
+   font-family: 'Sue Ellen Francisco', cursive;
+   color: #e600ac;
+   font-size: 70px;
+ }
+h2 {
+
+  font-variant: small-caps;
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 40px;
+}
+
+p {
+
+  font-size: 30px;
+}
+.full-width {
+
+  text-align: center;
+}
+#advice-left {
+  width: 590px;
+  float:left;
+  height: 600px;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+  margin: auto;
+}
+
+#advice-right {
+
+  width: 590px;
+  float: left;
+  height: 600px;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+  margin: auto;
+}
+
+footer {
+  background-color: #ff4d4d;
+  font-family: 'Fjalla One', sans-serif;
+  clear: both;
+  height: 200px;
+  text-align: center;
+
+
+
+}

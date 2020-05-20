@@ -1,0 +1,38 @@
+body {
+    background-color: tan;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+h1, h4 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+    letter-spacing: -1px;
+}
+
+h1 {
+    font-size: 28px;
+    border-bottom-style: double;
+}
+
+h4 {
+    font-size: 20px;
+    margin: 10px 0px 0px 0px;
+}
+
+p {
+    font-family: 'Rokkitt', serif;
+    font-size: 20px;
+}
+
+.toms-advice {
+    margin: auto;
+    width: 600px;
+}
+
+footer {
+    float: left;
+}

@@ -1,0 +1,50 @@
+body {
+  width: 80%;
+  margin: auto;
+  padding-top: 5%;
+  background-color: #edffff;
+}
+
+a {
+  background-color: black;
+  color: #edffff;
+  font-family: 'abril fatface';
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-style: italic;
+}
+
+h1 {
+  font-family: 'abril fatface';
+  font-size: 45px;
+}
+
+h1 #hello {
+  font-style: italic;
+  font-size: 70px;
+}
+
+h4 {
+  font-family: 'abril fatface';
+  font-size: 25px;
+}
+
+p {
+  font-family: 'quicksand';
+  font-size: 20px;
+}
+
+.third-width {
+  width: 25%;
+  float: left;
+  padding: 1.5%;
+  text-align: center;
+}
+
+footer {
+  font-family: 'quicksand';
+  font-size: 10px;
+  padding-top: 5%;
+  clear: both;
+}

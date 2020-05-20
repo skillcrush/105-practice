@@ -1,0 +1,74 @@
+body {
+    font-family: "optima", "helvetica", sans-serif;
+}
+
+header, section, footer {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+/***** HEADER *****/
+
+header {
+    background: #550400;
+    height: 120px;
+}
+
+header a {
+    color: #D49C6A;
+    font-family: "tahoma", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+header h1 {
+    color: #D4706A;
+    font-size: 40px;
+    padding: 10px;
+    word-spacing: 5px;
+
+}
+
+/***** MAIN *****/
+
+section {
+    background: #801B15;
+}
+
+.advice h4 {
+    color: #FFAEAA;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 60px;
+    margin: 0;
+    padding-left: 25px;
+    text-align: center;
+
+}
+
+.advice p {
+    color: #FFD2AA;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 auto;
+    padding: 15px 50px;
+    width: 600px;
+}
+
+/***** FOOTER *****/
+
+footer {
+    background: #FFAEAA;
+}
+
+footer p {
+    font-size: 12px;
+    padding: 25px;
+    margin: 0;
+    text-align: right;
+    
+}

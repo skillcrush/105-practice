@@ -1,0 +1,72 @@
+/***** BASE STYLES *****/
+
+body {
+    background-color: #94c0cc;
+    color:#f4f4f0;
+    font-family: 'Indie Flower', cursive;
+    letter-spacing: 2px;
+}
+
+/***** HEADER *****/
+
+.karen-advice a {
+    color: #f4f4f0;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.karen-advice h1 {
+    color: #906999;
+    font-family: 'Special Elite', cursive;
+    font-size: 55px;
+    line-height: 58px;
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+}
+
+.karen-advice span {
+    font-size: 32px;
+}
+
+/***** ADVICE *****/
+
+.advice h4 {
+    color: #c4adc9;
+    font-size: 36px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.advice p {
+    color: ;
+    font-size: 28px;
+    line-height: 36px;
+    margin: 0;
+    padding: 15px 8px;
+    text-align: center;
+}
+
+#confusion, #disbelief {
+    background: url(https://img.freepik.com/free-photo/dark-grey-background-chalkboard_73344-1662.jpg?size=626&ext=jpg);
+    background-size: cover;
+    border: 5px dotted #906999;
+    float: left;
+    height: 600px;
+    margin: 5px;
+    padding: 0 20px;
+    width: 46%;
+}
+
+/***** FOOTER *****/
+
+footer {
+    clear: both;
+    color: #906999;
+    font-size: 26px;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+}
