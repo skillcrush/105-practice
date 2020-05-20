@@ -1,0 +1,59 @@
+/**** General ****/
+
+body {
+  background-color: #0E5F96;
+  margin: 0 auto;
+  width: 1000px;
+}
+
+/**** Header ****/
+
+header h1 {
+  color: #F9E4AF;
+  font-family: "barlow";
+  font-weight: 700;
+}
+
+header a {
+  color: white;
+  font-family: "Barlow";
+  font-style: italic;
+}
+
+/**** Main ****/
+
+.advice {
+  background-color: #EAECE9;
+  border-radius: 5px;
+  padding: 20px;
+  padding-right: 25px;
+  margin-right: 50px;
+  margin-top: 50px;
+
+}
+
+section h4 {
+  color: #9E3122;
+  font-family: "barlow";
+  font-weight: 700;
+}
+
+section p {
+  color: #032C5A;
+  font-family: "barlow";
+  font-weight: 400;
+}
+
+.disbelief {
+  margin-top: 40px;
+  background-color: #EAECE;
+}
+
+/**** Footer ****/
+
+footer {
+  color: #EAECE9;
+  font-family: "barlow";
+  font-weight: 300;
+  text-align: center;
+}

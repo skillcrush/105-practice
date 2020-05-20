@@ -1,0 +1,78 @@
+/** CSS for Lisa Renee's Advice **/
+
+/** font-family: 'Nova Script', cursive;
+font-family: 'Crimson Text', serif;
+font-family: 'Oxygen', sans-serif; **/
+
+/** Base Styles **/
+
+body{
+  background: #ccffdd;
+  width: 100%;
+}
+
+section{
+  margin: 0 auto;
+}
+
+div {
+  padding: 20px 20px 20px 20px;
+}
+
+h1{
+  clear: both;
+  color: #000080;
+  font-family: "Nova Script", cursive;
+  font-size: 40px;
+}
+
+h2{
+  color: #000080;
+  font-family: "Crimson Text", serif;
+  font-variant: small-caps;
+  font-size: 35px;
+}
+
+h3{
+  color: #00804d;
+  font-family: "Oxygen", sans-serif;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+p{
+  color: black;
+  font-family: "Crimson Text", serif;
+  font-size: 20px;
+}
+
+nav{
+  float: right;
+  margin: 10px 10px 10px 10px;
+  padding: 5px 5px 5px 5px;
+}
+
+img {
+  border: 10px solid #00804d;
+  height: 400px;
+  margin: 0 auto;
+  position: relative;
+  width: 600px;
+}
+
+/** Tip Formatting and Grid **/
+
+.full-width{
+  width: 95%;
+}
+
+.threequarter-width{
+  width: 75%;
+}
+
+.tip-deco{
+  background: #e6fff5;
+  box-shadow: 3px 3px 8px 10px #001a0f;
+  margin: 50px auto;
+
+}
