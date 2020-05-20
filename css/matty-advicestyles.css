@@ -1,0 +1,86 @@
+/*** Header ***/
+
+h1 {
+    border-style: double;
+    border-width: 20px;
+    color:#29a5bb;
+    font-family:'Hanalei Fill',cursive;
+    font-size: 70px;
+    text-align: center;
+    box-sizing: border-box;
+}
+h2 {
+    border-style: groove;
+    font-size: 40px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+header {
+    color:black;
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+/*** body ***/
+
+body {
+    background-color: pink;
+}
+h2 {
+    color:#ca6d0b;
+    font-family: 'Permanent Marker', cursive;
+
+}
+h3 {
+    color:purple;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+p {
+    color:#2807f5;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Collumns */
+
+#container {
+    padding:1%;
+    box-sizing: border-box;
+}
+.leftcl {
+    width: 25%;
+    float: left;
+    border-style: outset;
+    margin-right: 15px;
+    padding: 0px 12px 0px 12px;
+}
+.centercl{
+    float: left;
+    border-style:outset;
+    width: 800px;
+    height:200px;
+    padding: 0px 12px 0px 12px;
+    margin-right: 15px;
+}
+.rightcl{
+    width: 25%;
+    float:left;
+    border-style: outset;
+    padding: 0px 12px 0px 12px;
+}
+
+/*** footer ***/
+
+footer {
+    text-align: center;
+    clear: both;
+}
+span {
+    font-size: 15px;
+    color:pink;
+
+}

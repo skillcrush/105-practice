@@ -1,0 +1,38 @@
+body {
+    background: #84dcff;
+}
+
+.julliet-advice a {
+    font-family:'ZCOOL QingKe HuangYou', cursive;
+    color:#ff0087;
+    text-transform: uppercase;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 45px;
+    color: #ffa500;
+    margin-left: 140px;
+}
+
+.advice h4 {
+    font-family: 'Satisfy', cursive;
+    color: #d400ff;
+    font-size: 30px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+.advice p {
+    font-family:'Old Standard TT', serif;
+    font-size: 20px;
+    color: #000000;
+    border: 1px solid black;
+    text-align: center;
+    margin: 30px 30px 30px 30px;
+    padding: 30px 30px 30px 30px;
+}
+
+footer {
+    float: right;
+}

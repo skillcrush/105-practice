@@ -1,0 +1,52 @@
+/* Skillcrush 105 advice exercise **/
+/** font-family: 'Raleway', sans-serif; font-family: 'Anton', sans-serif; **/
+
+.jenlinebody{
+  background-color: #5fe1f3;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  padding: 15px;
+}
+
+.jenlinebody a{
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.white{
+  background: #ffffff;
+}
+
+.jenline h1{
+  font-family: 'Anton', sans-serif;
+  font-size: 28px;
+  padding: 10px;
+  text-align: left;
+}
+
+.jenline h3{
+  font-family: 'Anton', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  padding: 20px;
+}
+
+.jenline p{
+  padding-left: 25px;
+}
+
+.j-emphasis {
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.jenfoot p{
+  padding: 25px;
+  text-align: center;
+}
+
+.gif {
+  padding-left: 25px;
+}

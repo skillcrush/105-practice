@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.jasonpowell-advice {
+	background-color: #99ff66;
+}
+header h1 {
+	font-family: 'Indie Flower', cursive;
+}
+h1 {
+	color: #ff3333;
+	font-style: italic;
+	text-align:center;
+}
+p {
+	font-size: 20px;
+}
+h4 {
+	font-size: 30px;
+}

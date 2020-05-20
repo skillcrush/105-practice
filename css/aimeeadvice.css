@@ -1,0 +1,38 @@
+/*global fonts */
+
+body {
+    background: white;
+    font-family: serif;
+    font-size: 20px;
+    color: dark blue;
+    margin: 2px;
+    line-height: 30px; 
+
+}
+
+
+h1, h4  {
+    font-family: 'DM Serif Display', serif;
+    font-size: 30px;
+    color: purple;
+
+}
+
+
+
+h1 {
+    line-height: 40px;
+
+}
+
+a {
+    color: teal;
+}
+
+
+
+footer {
+    padding: 25px;
+    text-align: center;
+
+}

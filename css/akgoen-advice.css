@@ -1,0 +1,50 @@
+h1 {color:white;
+font-family:georgia;
+text-align:center;
+font-weight:bold;
+text-transform:uppercase;
+word-spacing:3.5px;
+background:#99badd;
+width: auto;
+height: auto;
+padding: 20px;
+margin:10px;
+}
+
+heading_sections {
+  width:auto;
+  height:auto;
+  padding:20px;
+  margin:10px;
+  color:black;
+  font-family:sans-serif;
+  text-align: center;
+  font-weight:bold;
+  font-variant:small-caps;
+  word-spacing:3px;
+
+}
+
+p {
+  color:black;
+  font-family:sans-serif;
+  text-align:center;
+  font-weight:normal;
+  font-variant:normal;
+  word-spacing:normal;
+  width:auto;
+  height:auto;
+  padding:20px;
+  margin:10px;
+
+}
+
+footer {background:#99badd;
+  color:white;
+  font-family:times;
+  text-align:center;
+  font-weight:bold;
+  font-variant:normal;
+  width:auto;
+  height:auto;
+}

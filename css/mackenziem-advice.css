@@ -1,0 +1,58 @@
+body {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#back-button {
+    font-weight: 300;
+    color: #88A0A8;
+    font-style: italic;
+    text-decoration: none;
+    font-size: 80%; 
+    border: 1px solid #88A0A8;
+    padding: 5px; 
+}
+ 
+h1 {
+    font-weight: 700;
+    text-align: center;
+    font-size: 225%;
+    color: #F9D4D6;
+    padding: 10px;
+    text-shadow: 2px 3px #d1b1b3;
+
+}
+
+span {
+    font-style: italic;
+}
+
+.advice div {
+    widows: 50%;
+    text-align: center;
+    padding: 2%;
+    background-color: #88A0A8;
+    margin: 5% 10%; 
+}
+
+h4 {
+    color: #F9D4D6;
+    font-size: 175%;
+}
+
+p {
+    text-align: justify;
+    color: #536775;
+    font-size: 100%;
+    line-height: 140%;
+
+}
+
+
+footer {
+    clear: both;
+    font-size: 40%;
+    color: #88A0A8;
+    font-style: italic;
+
+}

@@ -1,0 +1,47 @@
+body{
+  font-family: 'Libre Franklin', sans-serif;
+  width: 100%
+}
+
+.title{
+  font-family: 'Anton', sans-serif;
+}
+/***** HEADER *****/
+header{
+  text-align: center;
+}
+h1{
+    font-size: 60px;
+    background:#ff6666;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 0;
+}
+
+/***** ADVICE *****/
+.advice{
+  width: 48%;
+  float: left;
+  text-align: center;
+  height: 500px;
+  padding: 10px;
+}
+.advice.one{
+  background: #00b3b3;
+}
+.advice.two{
+  background: #8080ff;
+}
+h4{
+  font-size: 30px;
+  text-transform: uppercase;
+}
+p{
+  font-size: 25px;
+}
+
+/***** FOOTER *****/
+#copyright{
+  font-variant: small-caps;
+  text-align:center;
+}

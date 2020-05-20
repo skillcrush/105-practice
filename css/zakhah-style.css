@@ -1,0 +1,75 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.25em;
+    background-color: #f7f7f2;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Roboto Slab', serif;
+    color: #3a3a33;
+    /*text-align: center;*/
+    
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.skillcrush-advice h1 {
+    font-size: 2em;
+    font-weight: strong;
+}
+
+.skillcrush-advice h4 {
+    font-size: 1.25em;
+}
+
+hr.border-style {
+    height: 1px;
+    width: 75%;
+    background-color: #F6BF40;
+    border: none;
+}
+
+button {
+    border: none;
+}
+
+.main-page-button a {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #F6BF40;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.main-page-button a:hover {
+    background: #D0C8B5;
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: right;
+    font-style: italic;
+    font-size: 10%;
+}

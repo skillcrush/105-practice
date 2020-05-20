@@ -1,0 +1,48 @@
+header {
+  font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: lighter;
+}
+#light {
+  font-weight: lighter;
+}
+
+body {
+  width: auto;
+  background-color:#190B4A;
+background-image:
+radial-gradient(yellow, rgba(255,255,255,.2) 2px, transparent 40px),
+radial-gradient(red, rgba(255,255,255,.15) 1px, transparent 30px),
+radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+linear-gradient(#190B4A, black);
+background-size: 550px 550px, 350px 350px, 250px 250px, 100%;
+background-position: 0, 40px 60px, 130px 270px, 0;
+}
+/*font styles*/
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color:white;
+  text-align: center;
+  font-size:30px;
+  font-family: 'Poiret One', cursive;
+}
+header {
+  font-size: 20px;
+  font-family: 'Poiret One', cursive;
+}
+
+a:link, a:visited {
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+  font-family: 'Sacramento', cursive;
+}
+
+a:hover, a:active {
+  font-size: 35px;
+  color: orange;
+  font-family: 'Sacramento', cursive;
+}
+footer {
+  font-family: 'Sacramento', cursive;
+}

@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    font-family: "Work Sans", sans-serif;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 800px;
+  }
+
+.zach-advice {
+    width: 100%;
+    background: linear-gradient(to top right, #F0F4F8, #D9E2EC, #BCCCDC);
+    background-repeat: no-repeat; 
+  }
+
+
+
+.zach-advice h1{
+    color: #186FAF;
+    font-size: 36px;
+    text-align: center;
+    margin: 20px 5px 40px 5px;
+}
+.advice-section {
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+  }
+
+.advice-card {
+    margin: 40px 25px;
+    display: flex;
+    flex-direction: column;
+    min-width: 25%;
+    max-width: 350px;
+    height: 380px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 13px 30px -8px rgba(50,50,93,.25);
+    padding: 2%;
+    text-align: center;
+    border-top: 5px solid #186FAF;
+}
+
+.advice-card h4 {
+    margin: 20px 0px;
+    color: #2980B9;
+    text-transform: uppercase;
+}
+
+.advice-card p {
+    margin: 10px 0px;
+}
+
+footer {
+    padding: 20px 0px;
+    text-align: center;
+    background: white;
+    height: auto;
+    color: #186FAF;
+    border-top: 5px solid #186FAF;
+}
+
+footer a{
+    text-decoration: underline;
+}

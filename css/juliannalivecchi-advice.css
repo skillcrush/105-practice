@@ -1,0 +1,31 @@
+body { 
+    background-color:#BFD8D2;
+    padding: 20px;
+
+}
+
+h1 { 
+    font-family: 'Montserrat', sans-serif;
+    color: #DF744A;
+    text-align:center;
+}
+hr.border-style { 
+    background-color: #FEDCD2;
+    height: 1px;
+    width: 75%;
+    border:none;
+}
+
+h4 { 
+    font-family: 'Montserrat', sans-serif;
+    color: #DF744A;
+    text-align:center;
+}
+
+p { 
+    font-family: 'Raleway', sans-serif;
+    color:black;
+    text-align:center;
+    line-height:25px;
+} 
+

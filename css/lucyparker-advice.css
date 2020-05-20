@@ -1,0 +1,47 @@
+body {
+	color: #ff6666;
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #ff0066;
+}
+
+.item {
+	width: 400px;
+	float: left;
+	padding: 0px 20px;
+}
+
+h1 {
+	color: #ff6666;
+	font-family: 'Lobster', cursive;
+	font-size: 45px;
+	text-transform: lowercase;
+}
+
+h4 {
+	color: #ff0066;
+	font-family: 'Lobster', cursive;
+	font-size: 24px;
+	text-transform: lowercase;
+}
+
+span {
+	color: #ff0066;
+	font-family: 'Lobster', cursive;
+	font-size: 24px;
+	text-transform: lowercase;
+
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	padding: 20px;
+
+}

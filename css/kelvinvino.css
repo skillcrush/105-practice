@@ -1,0 +1,33 @@
+.kelvinvino-advice {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #b8d1f9;
+}
+
+header a{
+  text-decoration: none;
+  color: black;
+}
+
+section {
+	width: 800px;
+	margin: 100px auto;
+	color: #blue;
+}
+section h1{
+
+}
+section p {
+	text-align: center;
+	color: #454545;
+}
+section h1 {
+	font: 32px 'Open Sans';
+	font-weight: bold;
+}
+section p {
+	font: 16px 'Open Sans';
+}
+
+footer{
+	text-align: center;
+}

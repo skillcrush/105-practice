@@ -1,0 +1,20 @@
+body {
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.skillcrush-advice {
+  background-color: rgb(235, 209, 213);
+}
+
+header h1 {
+  color: seagreen;
+}
+
+.advice {
+  color: grey;
+}
+
+section h4 {
+  color: seagreen;
+}
