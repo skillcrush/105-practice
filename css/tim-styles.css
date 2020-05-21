@@ -1,0 +1,17 @@
+header {
+  font-family: 'Roboto Slab', serif;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.advice h3 {
+  color: gold;
+  font-style: italic;
+}
+
+footer {
+  font-style: italic;
+}
