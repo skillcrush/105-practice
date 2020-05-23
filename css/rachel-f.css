@@ -1,0 +1,69 @@
+/***** BASE STYLES ******/ 
+
+body{
+	font-family:'Montserrat', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: rgb(238,174,202);
+	background: radial-gradient(circle, rgba(238,174,202,1) 38%, rgba(148,233,167,1) 100%);
+}
+
+/***** GRID *****/
+
+.advice{
+	align-content: center;
+	width: 1000px;
+	margin: auto;
+}
+
+/***** HEADER *****/
+
+h1{
+	font-family: 'Chelsea Market', cursive;
+	font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h1 span{
+	font-family: 'Kristi', cursive;
+	font-size: 55px;
+	color: #6e0ebd;
+}
+
+a{
+    text-decoration: none;
+    color: #bb433d;
+}
+
+/***** ADVICE SECTION *****/
+
+
+h4{
+	font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+	text-align: center;
+}
+
+
+/***** FOOTER *****/
+
+footer{
+    text-align: center;
+    padding-top: 1em;
+}
+
+footer span{
+	font-family: 'Kristi', cursive;
+	font-size: 25px;
+}
+
+
