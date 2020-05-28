@@ -1,0 +1,41 @@
+.skillcrush-advice {
+  padding: 50px;
+  border: solid 50px #0F4A4F;
+}
+
+a {
+  border-radius: 25px;
+  color: #26E3F3;
+  text-decoration: none;
+  background-color: #1aa1ad;
+  padding: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+a:hover {
+  color: white;
+}
+
+a:visited {
+  background-color: #0F4A4F;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 38px;
+  padding: 30px;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 24px;
+  color: #1aa1ad;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
