@@ -1,0 +1,55 @@
+/***** BASE STYLE *****/
+body {
+    width: 1200px;
+    margin: 0px auto;
+    background-color: #d9d9d9;
+    font-family: 'Baloo Thambi 2', cursive;
+}
+
+/***** GRID *****/
+.full-width {
+    width: 1200px;
+    margin: 0px auto;
+}
+.half-width {
+    width: 585px;
+    float: left;
+    padding: 0px 10px 0px 5px;
+}
+
+/***** HEADER *****/
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 52px;
+    color: #800000;
+    text-align: center;
+    clear: both;
+}
+h1 span {
+    color: #737373;
+}
+
+a {
+    color: #0d0d0d;
+    text-decoration: none;
+    border-bottom: 2px solid #800000;
+}
+
+/***** SECTION *****/
+h4 {
+    font-family: 'Pacifico', cursive;
+    font-size: 28px;
+    color: #800000;
+    text-align: center;
+}
+
+/***** FOOTER *****/
+footer {
+    font-family: 'Pacifico', cursive;
+    font-size: 18px;
+    color: #737373;
+    clear: both;
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px dotted #800000;
+}

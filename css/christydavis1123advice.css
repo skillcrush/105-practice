@@ -1,0 +1,26 @@
+/****main****/
+body {
+  font-family:'Dosis', sans-serif;
+  color:#00000;
+}
+/*****header*****/
+header {
+  background:url('../img/background-advice.png');
+  background-size:cover;
+}
+/*****main*****/
+.advice {
+  font-family:'Patrick Hand', cursive;
+  font-size:18px;
+}
+h4 {
+  font-family:'Patrick Hand', cursive;
+  font-size:24px;
+}
+span {
+  font-family:'Reenie Beanie', cursive;
+}
+footer {
+  clear:both;
+  font-size:16px;
+}

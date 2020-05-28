@@ -1,0 +1,50 @@
+
+body {
+    background-color: mistyrose;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+header, a {
+    text-align: right;
+    margin: 20px;
+    text-decoration: none;
+    color: darkcyan;
+    font-weight: bolder;
+}
+
+
+h1, h4 {
+    font-weight: bolder;
+    font-size: larger;
+    line-height: 36px;
+    color: darkred;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 35px;
+}
+
+h1 {
+    font-size: x-large;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+
+p {
+    font-weight: bold;
+    line-height: 30px;
+    color: darkgreen;
+    text-align: center;
+}
+
+.advice {
+    border: 2px solid lightpink;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    margin: 55px;
+    color: darkgray;
+}
