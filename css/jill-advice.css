@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+header  {
+  background: #ddd;
+  padding: 36px 30px 30px;
+  margin: 0 0 30px;
+}
+
+header h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+footer {
+  border-top: 1px solid #ccc;
+  padding: 20px 0;
+  margin: 40px 0;
+  color: black;
+}
+
+p {
+  margin: 0 0 1em;
+  line-height: 1.4em;
+  background-color: teal;
+  font-weight: bold;
+}
+
+h2 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
