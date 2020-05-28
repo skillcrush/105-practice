@@ -1,0 +1,13 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    margin: 1em;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+section {
+    background-color: cadetblue;
+}
