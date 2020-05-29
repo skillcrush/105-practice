@@ -1,73 +1,48 @@
-body {
-    margin: 0px;
-    padding: 0px;
-    width: 100%;
+hr.rounded {
+  border-top: 20px solid;
+  border-radius: 50px;
+  width: 100px;
 }
 
-section {
-    margin: 0px;
-    padding: 0px;
-    width: 100%;
+.header {
+  padding: 100px;
+  text-align: center;
 }
 
-a {
-    background-color: coral;
-    color: white;
-    font-family: 'Oxygen';
-    font-weight: bold;
-    padding: 1.5rem;
-    margin: 2rem;
-    text-decoration: none;
-    text-transform: uppercase;
+.section {
+    margin: 50px;
+    padding: 50px;
+    width: 85%;
 }
 
-a:active {
-    background-color: darkslategray;
-}
-
-a:hover {
-    background-color: darkslategray;
-}
-
-a:visited {
-    color: white;
-    text-decoration: none;
-}
-
-h1 {
-    font-family: 'Playfair Display';
+.h1 {
+    font-family: 'Chelsea Market', cursive;
     font-size: 3rem;
     margin: 11.8rem;
     text-align: center;
 }
 
-h4 {
-    background-color: coral;
+.h4 {
     clear: both;
-    font-family: 'Playfair Display';
+    font-family: 'Chelsea Market', cursive;
     font-size: 2.5rem;
     margin: 13rem, 0rem, 13rem, 0rem;
-    padding: 5em;
+    padding: 50em;
     text-align: center;
 }
 
-p {
+#p {
     align-content: center;
-    float: left;
-    font-family: 'Oxygen';
+    font-family: 'Share', cursive;
     font-size: 2rem;
     margin: 1rem 0rem 5rem 3rem;
     overflow: auto;
     padding: 2rem;
     width: 40%;
 }
+    font-size: 14px;
 
-.border {
-    border-left: 2px solid black;
-    padding-left: 5rem;
-}
-
-footer p {
+.footer p {
     clear: both;
     font-size: 1rem;
 }
