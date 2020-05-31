@@ -1,0 +1,77 @@
+header a {
+  border: 1px solid black;
+  border-radius: 25px;
+  padding: 5px;
+}
+
+h4 {
+  margin: 0px;
+}
+
+#top {
+  margin-top: 10px;
+  font-size: 20px;
+  line-height: 20px;
+
+}
+
+#lh1 {
+  font-size: 25px;
+  line-height: 7px;
+  color: blue;
+}
+
+#lh2 {
+font-size: 30px;
+  line-height: 20px;
+  color:green;
+}
+
+#lh3 {
+  font-size: 35px;
+  line-height:30px
+  color:black;
+}
+
+#lh4 {
+  font-size: 40px;
+  line-height: 60px;
+  color: black;
+  font-weight:bold;
+}
+
+#lh5 {
+  font-size: 50px;
+  line-height: 100px;
+  color: black;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
+#tiny-center {
+  text-align: center;
+  margin: 0px;
+}
+
+div.background {
+  background-image: url(../img/code.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#green {
+  background-color: green;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#orange {
+  background-color: orange;
+}
