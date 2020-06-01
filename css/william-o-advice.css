@@ -1,3 +1,7 @@
+body {
+  width:100%;
+}
+
 header a {
   border: 1px solid black;
   border-radius: 25px;
@@ -60,18 +64,35 @@ div.background {
   text-align: center;
 }
 
-#blue {
-  background-color: blue;
+#big {
+  font-size: 35px;
 }
 
-#green {
-  background-color: green;
+#never {
+  text-decoration: underline;
 }
 
-#yellow{
-  background-color: yellow;
+h3 {
+  line-height: 5px;
 }
 
-#orange {
-  background-color: orange;
+#two {
+  margin-left:90px;
+}
+
+#three {
+  margin-left: 240px;
+}
+
+.center {
+  width:700px;
+  margin: 0 auto;
+
+}
+
+pre2 {
+  font-family: sans-serif; /* 1 */
+  -ms-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  margin-left: 100px;
 }
