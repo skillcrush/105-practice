@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #F9E79F;
+    font-family: 'PT Serif', serif;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #21456d;
+    margin-top: 1em;
+    font-family: 'Abril Fatface', cursive;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #dc6c67;
+    font-family: 'PT Serif', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #2782c2;
+    font-family: 'PT Serif', serif;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
