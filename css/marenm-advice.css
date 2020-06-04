@@ -1,0 +1,92 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Source Serif Pro', serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Shrikhand', cursive;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #ecb235;
+    padding: 30px 40px;
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 35px;
+    margin-bottom: 0;
+    color: #161616;
+}
+
+h1 span {
+    color: #6f0d88;
+}
+
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #262730;
+    border: 3px solid #262730;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+header a:hover {
+    background-color: #6f0d88;
+    color: #beb1c3;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: white;
+}
+
+
+.advice h2{
+    margin-top: 0;
+    margin-left: 30px;
+    color: #black;
+    letter-spacing: 1px;
+}
+
+
+.advice h3 {
+    margin-top: 0;
+    margin-left: 30px;
+    color: #black;
+    letter-spacing: 1px;
+}
+
+
+.advice p {
+    font-size: 14px;
+    line-height: 20px;
+    color: black;
+    font-weight: 400;
+    margin-left: 40px;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #f2f2f2;
+}
+
+footer p {
+    color: #a8aac0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

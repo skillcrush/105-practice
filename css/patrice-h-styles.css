@@ -1,0 +1,99 @@
+/* I took this CSS format from wdnelson.  Thanks wdnelson! */
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Base Styles
+# Header
+# Section: Advice
+# Footer
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+/**
+ * Remove default margin.
+
+
+body {
+  margin: 0;
+}
+*/
+/*--------------------------------------------------------------
+# Base Styles
+--------------------------------------------------------------*/
+
+body {
+  background-color: #fbfbfb;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+}
+
+h4, p, a {
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  font-size: 60px;
+  color: #222F5B;
+  padding: 65px 0 65px 25px;
+}
+
+a {
+  font-size: 18px;
+  color: #222F5B;
+  text-decoration: none;
+  padding: 65px 40px 65px 25px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h4 {
+  font-size: 30px;
+  color: #222F5B;
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+
+header {
+  height: 300px;
+}
+
+/*--------------------------------------------------------------
+# Section: Advice
+--------------------------------------------------------------*/
+
+.advice h4 {
+  line-height: 2px;
+  padding: 0px 25px 0px 25px;
+  color: inherit;
+}
+
+.advice p {
+  line-height: 1.5;
+  padding: 0px 25px 0px 25px;
+  color: #222F5B;
+}
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+
+footer {
+  height: 50px;
+  background: #222F5B;
+}
+
+footer p {
+  color: white;
+  float: right;
+  padding-right: 25px;
+}

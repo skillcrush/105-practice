@@ -1,0 +1,62 @@
+/*Base Styles*/
+
+body {
+    font-family:'Playfair Display';
+    background:#202242;
+    color:#fff;
+}
+
+/*Grid Styles*/
+.advice {
+    height:auto;
+    width:1000px;
+    margin:0 auto;
+    background:#ffe13e;
+    border-radius:10px;
+    padding:10px;
+}
+
+/*Header*/
+
+header a {
+    font-size:10px;
+    line-height:24px;
+    color:#fff;
+}
+
+header h1 {
+    padding-top:100px;
+    padding-bottom:50px;
+    text-align:center;
+}
+
+header span {
+    font-family:'Oleo Script';
+    text-transform:uppercase;
+    text-decoration: underline;
+}
+
+/*Section Styles*/
+section {
+    color:#202242;
+}
+
+section h4 {
+    font-size:20px;
+    line-height:24px;
+}
+section span {
+    font-family:'Oleo Script';
+}
+
+/*Footer styles*/
+
+p {
+    text-align:center;
+    padding-top:20px;
+    font-size:20px;
+}
+
+footer span {
+    font-weight:700;
+}
