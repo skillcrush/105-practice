@@ -2,8 +2,7 @@
 body {
   font-family: 'Source Sans Pro', serif, 'Homemade Apple', cursive;
   color: black;
-  background: url('../img/hero-1.png');
-  background-size: cover;
+  background-color: #c2d6d6;
 }
 
 /**** Grid *****/
@@ -25,10 +24,6 @@ h1 {
   color: black;
   text-align: center;
   font-family:'Homemade Apple', cursive;
-}
-
-h1 span {
-  color: white;
 }
 
 /*****section*****/
