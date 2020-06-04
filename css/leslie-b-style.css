@@ -1,0 +1,38 @@
+body {
+  color: #2f4f4f;
+  font-family: Garamond;
+  font-size: 24px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #f5fffa;
+  border-bottom: 2px solid #2f4f4f;
+  padding: 5px;
+}
+
+header a, h1 {
+    padding: 25px;
+}
+
+.advice {
+  padding-bottom: 30px;
+}
+
+h4 {
+  font-size: 36px;
+  padding-left: 25px;
+}
+
+p {
+  line-height: 32px;
+  padding-left: 25px;
+}
+
+footer {
+  background-color: #f5fffa;
+  border-top: 2px solid #2f4f4f;
+  padding: 10px;
+  text-align: center;
+
+}
