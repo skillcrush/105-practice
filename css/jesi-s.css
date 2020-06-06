@@ -1,0 +1,65 @@
+/*Stylesheet for Recipe Cards*/
+
+
+/* ---------Color Palette---------------
+
+#303437: Charcoal | used for area background
+#AE8B70: Nude | used for main header
+#4F0000: Salmon | used for titles
+#D9CED6: Mauve | used for most fonts
+
+
+*/
+
+
+/* ------------Fonts--------------------
+
+font-family: 'Rubik', sans-serif; | Rubik 700: Title
+font-family: 'Open Sans Condensed', sans-serif; | Open Sans Condensed: Accent font (headers)
+font-family: 'Numans', sans-serif; | Numans: Main font
+Sizes: small = 12px | medium = 28px | large = 42px
+
+*/
+
+
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Numans', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #D9CED6;
+}
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 46px;
+    color: #4F0000;
+    margin-top: 1em;
+    text-align: center;
+}
+h4 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 32px;
+    color: #AE8B70;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #303437;
+    font-size: 14px;
+}
+
+p {
+    color: #303437;
+    text-align: center;
+    line-height: 24px;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+    padding-top: 1em;
+}
