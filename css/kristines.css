@@ -1,0 +1,37 @@
+body {
+    background: #f1fffa;
+    font-family: 'Assistant', sans-serif;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    color: #444545;
+    font-size: 18px;
+}
+
+h1, h4 {
+    font-family: 'Amatic SC', cursive;
+    font-weight: bolder;
+}
+
+h4 {
+    font-size: 25px;
+    color: #F7567C;
+}
+
+.hi, .name {
+    font-size: 48px;
+    color: #F7567C;
+}
+
+strong {
+    color: #2E86AB;
+    font-weight: bolder;
+}
+
+blockquote {
+    font-family: 'Special Elite', cursive;
+}
+
+blockquote .author {
+    font-weight: bold;
+}
