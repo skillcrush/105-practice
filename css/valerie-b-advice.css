@@ -11,13 +11,14 @@ body {
 h1 {
     font-size: 3em;
     color: rgb(255, 255, 255);
-    margin-top: 11em;
+    margin-top: 12em;
     text-align: right;
     width: 1180px;
+    padding-left: 50px;;
 }
 
 header {
-    background: url('../img/teacup.jpg') no-repeat;
+    background: url('https://cdn.pixabay.com/photo/2017/05/19/07/34/teacup-2325722_1280.jpg') no-repeat;
     width: auto;
     height: 700px;
 }
