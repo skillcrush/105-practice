@@ -1,0 +1,62 @@
+.john-advice {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  height: 900px;
+  width: auto;
+  padding: 0 40px;
+}
+
+header {
+  height: 300px;
+  width: auto;
+  background-color: #e6f2ff;
+  font-family: 'Roboto Slab', serif;
+  font-size: 42px;
+  font-weight: 800;
+  color: #004d99;
+  padding: 30px;
+  margin: 40px 0;
+}
+
+header a {
+  font-size: 40px;
+  color: #99ccff;
+  text-decoration: none;
+  float: right;
+}
+
+span {
+  color: #000d1a;
+}
+
+h4 {
+  font-family: 'Roboto' serif;
+  font-size: 36px;
+  color: #004d99;
+  margin-top: 60px;
+}
+
+p {
+  font-family: 'Roboto' serif;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+p span {
+  font-weight: 800;
+  color: #004d99;
+  text-decoration: none;
+}
+
+p a:link {
+  text-decoration: none;
+}
+
+p a:hover {
+  background-color: #e6f2ff;
+}
+
+footer p {
+  font-size: 12px;
+  color: #004d99;
+}
