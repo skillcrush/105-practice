@@ -1,0 +1,42 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #EBEBEB;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2 {
+    font-size: 2.25em;
+    font-family: 'Homemade Apple', cursive;
+    color: #C99F20;
+    margin-top: 1em;
+    word-spacing: 3px;
+}
+
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #92A0A6;
+    font-family: 'Jost', sans-serif;
+    text-decoration: underline;
+}
+
+p {
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(112, 119, 122);
+}
+
+footer {
+    text-align: center;
+    padding-top: 3em;
+}

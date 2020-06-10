@@ -1,0 +1,94 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Dancing Script', cursive;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Gayathri', sans-serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #f8f8f2;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 72px;
+    margin-bottom: 0;
+    color: #c9c9c9;
+}
+
+header h1 span {
+    color: #ff4f4f;
+}
+
+header h2 {
+    font-family: 'Dancing Script', cursive;
+    margin-top: 0;
+    margin-left: 20px;
+    color: #002b3b;
+    letter-spacing: 1px;
+}
+
+header a {
+    font-family: 'Gayathri', sans-serif;
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #002b3b;
+    border: 3px solid #002b3b;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+header a:hover {
+    background-color :#002b3b;
+    color: #fff;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #002b3b;
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: #ff4f4f;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #e4e4de;
+    font-weight: 200;
+}
+
+.advice p span{
+    font-family: 'Gayathri', sans-serif;
+    color: #ff4f4f;
+}
+
+/***** FOOTER *****/
+
+footer {
+    font-family: 'Gayathri', sans-serif;
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #f2f2f2;
+}
+
+footer p {
+    color: #ff4f4f;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

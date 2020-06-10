@@ -1,0 +1,72 @@
+body {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	border-bottom: 2px solid red;
+}
+
+header {
+	display: flex;
+	width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2012/08/04/8755/4986600b285b02908c96bc6ce2cf77a3-700.jpg');
+    background-attachment: fixed;
+    border: 1px solid red;
+}
+
+
+span {
+    color: red;
+   
+}
+
+h1 {
+    color: white;
+    padding-top: 100px;
+    font-variant: small-caps;
+    font-size: 43px;
+
+}
+
+#img {
+    width: 50px;
+    height: 50px;
+     padding-top: 20px;
+     padding-left: 20px;
+
+    
+}
+
+.advice {
+     display: flex;
+}
+
+.first {
+    padding: 20px 20px;
+ }
+
+.second { 
+    padding: 20px 20px;
+    
+}
+
+h1, h4, .three {
+    font-family: 'Happy Monkey', cursive;
+}
+
+h4 {
+ 	font-size: 22px;
+ }
+
+p {
+ 	font-family: geneva, sans-serif;
+    color: #333333;
+    font-size: 16px;
+ }
+
+ footer {
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid red;
+}

@@ -1,0 +1,53 @@
+
+.sheila-advice {
+    width: 900px;
+}
+
+header {
+	height: 100px;
+	width: auto;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+header a {
+	color: red;
+	float: left;
+
+}
+header h1  {
+  font-family: 'Rubik', sans-serif;
+  font-size: 28px;
+  color: grey;
+  margin: 40px 40px;	
+}
+
+h4 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  color: green;
+}
+
+p {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	margin: 0px 180px;
+	padding: 10px 20px;
+
+}
+
+span {
+	color: blue;
+}
+
+footer {
+	font-size: 20px;
+	text-align: center;
+	color: red;
+
+}

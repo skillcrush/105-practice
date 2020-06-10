@@ -1,0 +1,58 @@
+body.lindsy-advice {
+    background-color: blueviolet;
+    width: 1200px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+}
+
+header {
+    padding: 10px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+span {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 100px;
+    color: greenyellow;
+    text-transform: uppercase;
+}
+
+header h1 {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 48px;
+    text-align: center;
+    color: white;
+    margin: auto;
+    padding: 20px 0 0 0;
+    line-height: 70px;
+}
+
+section div {
+    display: inline-block; 
+    margin: 0px 150px 0 150px;
+}
+
+h4 {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: greenyellow;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+
+

@@ -1,0 +1,103 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Jost', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    font-family: 'Changa', sans-serif;
+}
+
+/***** HEADER *****/
+
+a {
+    font-size: 14px;
+    margin-bottom: 0;
+    color: #161616;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 14px;
+    margin-bottom: 0;
+    color: #161616;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+header {
+    background-color: #f8f8f2;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 44px;
+    line-height: 15px;
+    margin-bottom: 0;
+    color: #161616;
+}
+
+header h2 {
+    font-size: 34px;
+    line-height: 15px;
+    margin-bottom: 0;
+    color: #161616;
+}
+
+header h2 span {
+    color: #ff5c5c;
+    font-size: larger;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#gesture {
+    height: 35px;
+    padding: 0 8px;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #202c59;
+}
+
+.advice h3 {
+    font-size: 30px;
+    line-height: 25px;
+    color: #f0a202;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+}
+
+.advice p {
+    font-size: 22px;
+    line-height: 30px;
+    color: #e4e4de;
+    font-weight: 200;
+}
+
+#check {
+    height: 30px;
+    padding: 0 8px;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #f2f2f2;
+}
+
+footer p {
+    color: #161616;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

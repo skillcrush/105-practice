@@ -1,0 +1,19 @@
+body{
+    background-color: lightslategrey;
+}
+
+h1 {
+    color: red;
+    font-family: cursive;
+    text-align: center;
+}
+
+h4{
+    color: ghostwhite;
+    font-family: cursive;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}

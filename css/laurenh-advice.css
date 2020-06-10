@@ -1,0 +1,47 @@
+body {
+  background-color: #ffe2e2;
+  width: 80%;
+  margin: auto;
+  padding-top: 25px;
+}
+
+
+h1{
+  color: #8785a2;
+  font-size: 36px;
+  padding: 25px;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  color: #f6f6f6;
+  background-color: #311d3f;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 12px;
+}
+
+section{
+  display: flex;
+}
+
+.advice-1, .advice-2{
+  padding: 25px;
+}
+
+h4{
+  font-size: 24px;
+  color: #8785a2;
+  font-style: italic;
+}
+
+p{
+  color: #522546;
+  font-family: sans-serif;
+}
+
+footer{
+  font-size: 10px;
+  padding-left: 25px;
+}
