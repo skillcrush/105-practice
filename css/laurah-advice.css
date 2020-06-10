@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(170, 164, 175);
+    padding: 50px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+p {
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+.advice {
+    overflow: auto;
+}

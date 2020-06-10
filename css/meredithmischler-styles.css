@@ -1,0 +1,41 @@
+/** BASE STYLES **/
+
+body{
+  border: solid 3px #000;
+  background-color: #ff9999;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  margin: 20px;
+  padding: 14px;
+  width: 1200px;
+  text-align: center;
+}
+
+/**Header Styles***/
+h1 {
+  font-weight: bold;
+  font-size: 28px;
+  text-align: left;
+}
+
+/***main section***/
+
+p {
+  line-height: 28px;
+  text-align: left;
+}
+
+section div {
+  margin: 10px;
+  padding: 5px;
+  width: 570px;
+
+}
+
+
+/*** footer ***/
+
+footer {
+  clear: both;
+  text-align: right;
+}

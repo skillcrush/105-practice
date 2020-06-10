@@ -1,0 +1,38 @@
+
+h1, h4 {
+	font-family: 'Sofia', cursive;
+}
+
+h4 {
+	font-size: 24px;
+}
+
+p {
+	font-family: 'Slabo 27px', serif;
+	font-size: 20px;
+}
+
+a {
+	font-family: 'Slabo 27px', serif;
+	font-size: 14px;
+}
+
+body {
+	background-color: Lavender;
+}
+
+header {
+	text-align: center;
+}
+
+.advice {
+	width: 50%;
+	border: 3px dotted Black;
+	margin: 10px 275px;
+	padding: 10px 25px 25px 25px;
+	background: Orchid;
+}
+
+footer {
+	text-align: center;
+}

@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    padding: 1em;
+}
+
+a {
+    color: #54508D;
+    text-decoration: none;
+    padding: 1em;
+    border: solid 1px;
+    display: inline-block;
+    margin-bottom: 1em;
+    border-radius: 0.5em;
+}
+
+#back_btn, a:hover {
+    background-color: #54508D;
+    color: white;
+}
+
+#logo {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+}

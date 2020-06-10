@@ -1,0 +1,36 @@
+/*global fonts */
+
+
+body {
+    background: white;
+    font-family: arial;
+    font-size: 20px;
+    color: darkblue;
+    margin: 20px;
+    line-height: 30px; 
+}
+
+
+h1 {
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+}
+
+h1, h4{
+    font-family: Arial;
+    color: darkblue;
+}
+
+h4{
+    font-size: 30px;
+}
+
+a {
+    color: #D15F59;
+}
+
+footer {
+    padding: 25px;
+    text-align: left;
+}

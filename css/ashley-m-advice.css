@@ -1,0 +1,59 @@
+
+font-family: 'Pacifico', cursive;
+font-family: 'Barlow Condensed', sans-serif;
+
+/**** BASE STYLE ****/
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+section {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.ashley-advice{
+    color: white;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 2%;
+    padding: 1%;
+    background: #67c2c0;
+}
+
+a {
+    text-decoration: underline;
+    color: gray;
+    font-weight: bolder;
+}
+
+h1{
+    font-weight: 100;
+    font-size: 42px;
+    text-transform: none;
+    text-align: center;
+    width: 500px;
+    margin-left: 30%;
+}
+
+h1 span{
+    font-family: 'Pacifico', cursive;
+}
+
+h4{
+    font-size: 28px;
+    font-weight: 800;
+}
+
+p{
+    color: #313638;
+}
+
+footer{
+    margin-top: 100px;
+}

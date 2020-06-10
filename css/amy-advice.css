@@ -1,0 +1,47 @@
+/***********Base styles************/
+
+
+
+/**********Header*****************/
+header {
+  background-color: #99d8d0;
+  font-family: Roboto Slab;
+  padding: 50px 0 30px 50px;
+}
+
+header a {
+  color: #f8a978;
+  font-family: Montserrat;
+  text-decoration: none;
+
+}
+header h1 {
+  color: #fcf9ea;
+  font-size: 35px;
+  line-height: 50px;
+}
+
+/************Section ********************/
+
+section {
+  padding: 50px 0 30px 50px;
+}
+
+h4 {
+  color: #f8a978;
+  font-family: Roboto Slab;
+  font-size: 25px;
+
+}
+
+p {
+  font-family: Montserrat;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+/*************Footer*******************/
+
+footer {
+  padding: 0 0 20px 50px;
+}

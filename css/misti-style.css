@@ -1,0 +1,42 @@
+/***** HEADER *****/
+.name {
+    font-size: 48px;
+    color: #360036;
+    }
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    color: #1a001a;
+}
+
+/***** BODY *****/
+.advice {
+    border: 5px solid #330033;
+    background: #ffb3ff;
+    margin: 0 auto;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h4 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    color: #white;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    color: #404040;
+}
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #404040;
+}
