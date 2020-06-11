@@ -1,0 +1,49 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding: 1em;
+    background: #F2E7FE;
+}
+
+h1 {
+    font-family: 'Abril Fatface', serif;
+    font-size: 2.25em;
+    letter-spacing: 1.5px;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+}
+h4 {
+    font-family: 'Abril Fatface', serif;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    color: #734498;
+    text-align: center;
+}
+
+a {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #363636;
+}
+
+p {
+  line-height: 2em;
+}
+
+footer {
+    font-size: 14px;
+    font-spacing: 150px;
+    text-align: center;
+    padding-top: 1em;
+    text-transform: uppercase;
+}
+
+.skillcrush-advice {
+  width: 900px;
+  margin: 0 auto;
+}

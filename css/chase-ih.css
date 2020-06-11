@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(245, 244, 173, 0.863);
+}
+
+header a{
+    float: right;
+    background-color: green;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+footer{
+    text-align: center;
+}
+
+h1, h4{
+    color: crimson;
+}
+
+h4{
+    text-decoration: underline;
+}
