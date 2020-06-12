@@ -1,0 +1,67 @@
+body {
+  font-family: 'Playfair Display', serif;
+  color: #484944;
+}
+
+/*header {
+  width: 1000px;
+}*/
+
+header a {
+  color: grey;
+  font-family: 'Passion One', cursive;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Passion One', cursive;
+  color: #6bbdbb;
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 40px;
+  margin: 0 30px;
+}
+
+h1 span {
+  color: #f78478;
+  font-family: 'Dancing Script', cursive;
+  font-size: 65px;
+}
+
+h4 {
+  color: #f78478;
+  font-family: 'Laila', serif;
+  font-size: 25px;
+  margin: 33px 0 15px 0;
+}
+
+h4 span {
+  color: #6bbdbb;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.abowler-advice {
+  width: 1200px;
+  margin: 0, auto;
+  background: #f9f8f1;
+}
+
+.advice {
+  padding: 0 20px;
+}
+
+.advice p {
+  padding: 0 30px;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: justify;
+  margin: 0 0 18px 0;
+}
+
+footer {
+  color: #6bbdbb;
+  text-align: center;
+  padding: 10px 0;
+}
