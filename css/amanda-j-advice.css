@@ -1,0 +1,53 @@
+/*****Basics*****/
+body {
+  font-family: 'Source Sans Pro', serif, 'Homemade Apple', cursive;
+  color: black;
+  background-color: #c2d6d6;
+}
+
+/**** Grid *****/
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.third-width {
+  width: 500px;
+  margin: 0 auto;
+  float: left;
+  border-top-style: double;
+  border-bottom: 1px solid black;
+}
+
+/*****header*****/
+h1 {
+  color: black;
+  text-align: center;
+  font-family:'Homemade Apple', cursive;
+}
+
+/*****section*****/
+header a {
+  color: black;
+  font-family: 'Source Sans Pro', serif;
+}
+
+h4  {
+  text-align: center;
+  font-size: 20px;
+  padding: 0 50px 0 50px;
+}
+
+p {
+  text-align: justify;
+  padding: 5px 50px 5px 50px;
+  font-size: 18px;
+}
+
+/*****footer*****/
+footer {
+  clear: both;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 576px;
+}
