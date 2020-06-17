@@ -1,0 +1,58 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #edf3eb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+    margin-top: 12em;
+    text-align: right;
+    width: 1180px;
+    padding-left: 50px;;
+}
+
+header {
+    background: url('https://cdn.pixabay.com/photo/2017/05/19/07/34/teacup-2325722_1280.jpg') no-repeat;
+    width: auto;
+    height: 700px;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #8a4b03;
+    font-variant: small-caps;
+}
+
+a {
+    text-decoration: none;
+    color: #747373;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    clear: both;
+    width:1200px;
+}
+
+.advice {
+    width: 1200px;
+}
+
+.half {
+    width: 552px;
+    float: left;
+    padding: 0px 20px 0px 20px;
+    margin: 30px 0px 20px 0px;  
+}
+
+#right {
+    border-left: 2px solid rgb(9, 90, 45);
+}
