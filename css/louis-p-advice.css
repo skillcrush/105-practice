@@ -1,0 +1,30 @@
+body {
+    font-family:'Gloria Hallelujah', cursive;
+    background: mistyrose;
+    margin: auto;
+    text-align: center;
+    max-width: 600px;
+    line-height: 32px;
+    font-size: 16px;
+}
+h1 {
+    font-size: 28px;
+}
+h4 {
+    font-size: 18px;
+}
+p {
+    font-size: 16px;
+}
+#confusion-advice {
+    box-sizing: border-box;
+    border: solid #000000 1px;
+    padding: 20px;
+    margin: 10px;
+}
+#suspended-advice {
+    box-sizing: border-box;
+    border: solid #000000 1px;
+    padding: 20px;
+    margin: 10px;
+}

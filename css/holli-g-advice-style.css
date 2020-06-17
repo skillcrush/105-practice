@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+	font-family: 'Sriracha', cursive;
+	color: #000066;
+	background: #e6e6ff;
+	margin: 20px;
+}
+header {
+	margin: 10px;
+}
+h1 {
+	text-align: center;
+	font-size: 48px;
+	font-style: italic;
+	font-weight: bold;
+}
+h4 {
+	font-variant: small-caps;
+	font-size: 28px;
+}
+
+p{
+	font-size: 18px;
+}
+
+.advice {
+	width: 90%;
+	margin-left: 20px;
+	margin-right: 30px;
+}
+
+footer {
+	margin: 10px;
+	font-size: 12px;
+}
