@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@700&family=Nunito&display=swap');
+
+body {
+  background-color: #051e9e;
+  color: white;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+
+span {
+  color: #20f7d3;
+  font-family: "Bellota", cursive;
+  font-size: 48px;
+}
+
+a {
+  color: #8b8b8c;
+  text-decoration: none;
+}
+
+h4 {
+  color: #20f7d3;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 34px;
+}
+
+p {
+  margin-left: 350px;
+  width: 800px;
+  font-size: 18px;
+}
+
+footer p {
+  font-size: 12px;
+}
