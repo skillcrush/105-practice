@@ -1,0 +1,16 @@
+/***** BASE STYLES *****/
+body {
+    font-style: 'Staatliches', cursive;
+    font-size: 12px;
+}
+
+h1, h4 {
+    color: gray;
+    font-weight: bolder;
+}
+
+p {
+    color: darkgray;
+    text-transform: uppercase;
+}
+
