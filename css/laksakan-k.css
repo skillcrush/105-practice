@@ -1,0 +1,48 @@
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+/*-- HEADER SECTION --*/
+
+header {
+    height: 150px;
+    background-color: aqua;
+    border: 3px dotted blanchedalmond;
+    margin: 30px 0;
+    border-radius: 100%;
+}
+
+header h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 50px;
+
+}
+
+header span {
+    font-style: oblique;
+}
+
+
+/*-- ADVICE SECTION --*/
+
+.advice h4 {
+    font-size: 30px;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.advice p {
+    font-size: 20px;
+    font-family: 'Arial';
+}
+
+/*-- FOOTER SECTION --*/
+
+footer p{
+    padding-top: 50px;
+    text-align: center;
+}
