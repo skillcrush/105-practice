@@ -1,0 +1,45 @@
+/*** BASE STYLES ***/
+
+body{
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    padding: 25px;
+    margin: 0 auto;
+    background: #d2d7d8;
+    
+}
+/*** HEADER ***/
+
+h1{
+    font-size: 2.25em;
+    color: #55552b;
+    margin-top: 20px;
+}
+
+h4{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #888844;
+}
+
+p{
+    font-weight: bold;
+    color:  #222211;
+    
+
+}
+
+p span{
+    font-style: oblique;
+    font-weight: bold;
+    color:  #b38f00;
+}
+
+/*** Footer ***/
+
+footer{
+    text-align: center;
+    padding-top: 1em;
+}
+
+
