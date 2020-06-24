@@ -2,25 +2,29 @@
 
 body {
     font-size: 16px;
+    font-family: 'Open Sans Condensed', sans-serif;;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: #154360;
+    color: #ffffff
 }
 
 h1 {
     font-size: 2.25em;
-    color: #333;
+    color: #ffffff;
     margin-top: 1em;
+    font-family: 'Fredericka the Great', cursive;
 }
+
 h4 {
     font-size: 1.5em;
     font-weight: bold;
-    color: #f16059;
+    color: #A9CCE3;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: #A9CCE3;
 }
 
 footer {
