@@ -4,7 +4,7 @@ body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: #1d9f76;
 }
 
 h1 {
@@ -15,12 +15,16 @@ h1 {
 h4 {
     font-size: 1.5em;
     font-weight: bold;
-    color: #f16059;
+    color: #6d2f91;
+}
+
+p {
+  font-family: 'Merienda', cursive;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: #6d2f91;
 }
 
 footer {

@@ -1,0 +1,22 @@
+body {
+  background-color: #339999;
+  font-family: 'Georgia', serif;
+}
+h1 {
+  text-align: center;
+  color: #000033;
+}
+h4{
+  color: #660099;
+  font-size: 24px;
+
+}
+p{
+  color: #000033;
+  text-align: justify;
+}
+p strong{
+  color: #cc00cc;
+  font-weight: bold;
+  text-transform: uppercase;
+}

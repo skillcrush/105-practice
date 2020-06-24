@@ -4,7 +4,8 @@ body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: WhiteSmoke;
+    font-family: Verdana, sans-serif;
 }
 
 h1 {
@@ -15,12 +16,12 @@ h1 {
 h4 {
     font-size: 1.5em;
     font-weight: bold;
-    color: #f16059;
+    color: RebeccaPurple;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: DarkBlue;
 }
 
 footer {

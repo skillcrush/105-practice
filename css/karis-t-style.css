@@ -1,0 +1,15 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background: AliceBlue;
+  padding-left: 60px;
+  padding-top: 60px;
+  width: 500px;
+}
+
+.skillcrush-advice h1{
+  color:steelblue;
+}
+
+.advice p{
+  color:slategrey;
+}
