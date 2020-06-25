@@ -1,16 +1,23 @@
 /***** BASE STYLES *****/
 body {
-    font-style: 'Staatliches', cursive;
-    font-size: 12px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 18px;
 }
 
 h1, h4 {
-    color: gray;
-    font-weight: bolder;
+    color: #000066;
+    font-weight: bold;
 }
 
 p {
-    color: darkgray;
+    color: #0000ff;
     text-transform: uppercase;
+}
+
+/***** ADVICE STYLE *****/
+.advice {
+    text-transform: uppercase;
+    margin: 15px;
+    padding: 5px;
 }
 
