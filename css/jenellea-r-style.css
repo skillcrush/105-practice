@@ -1,0 +1,53 @@
+/***** BASE STYLES *****/
+/***** FONT STYLES *****/
+/*font-family: 'Cantarell', sans-serif;
+/*font-family: 'Dancing Script', cursive;
+
+*************/
+
+.jenelle-advice {
+    font-family: 'Cantarell', sans-serif;
+    font-size: 18px;
+}
+
+header a {
+    color: cyan;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: plum;
+}
+
+h1,h2,h3,h4 {
+    font-family: 'Dancing Script', cursive;
+}
+
+h4 {
+    font-size: 30px;
+    color: lightskyblue;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.advice {
+    margin: 0 30px;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+}
+
+footer a {
+    color: violet;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: plum;
+}
