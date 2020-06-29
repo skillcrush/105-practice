@@ -1,0 +1,72 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Courier'sans-serif;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+h1, h4 {
+    font-family: 'Tahoma', serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: gray;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 0;
+    color: #161616;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: black;
+    border: solid;
+    padding: 20px 20px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: pink;
+}
+
+.advice h4 {
+    font-size: 30px;
+    color: gray;
+    margin-bottom: 0;
+    font-family: 'Bookman Old Stye' serif;
+    text-align: center;
+}
+
+.advice p {
+    font-size: 22px;
+    line-height: 25px;
+    color: black;
+    font-weight: 200;
+}
+
+/***** FOOTER *****/
+
+footer {
+    padding: 10px 40px;
+    background-color: gray;
+}
+
+footer p {
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}

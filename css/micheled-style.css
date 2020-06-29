@@ -1,0 +1,69 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #333;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #f0f5f5;
+}
+
+h1 {
+    color: #333;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    clear: both;
+}
+
+header h1 {
+  background: #b3cce6;
+  padding: 50px 50px 50px 200px ;
+  width: 1200px;
+}
+span {
+  padding-left: 100px;
+}
+
+.advice {
+  width: 375px;
+  margin: 0 50px;
+  padding: 10px;
+  box-sizing: border-box;
+  float: left;
+}
+
+h4 {
+  font-family:'Philosopher', sans-serif;
+  color: #006633;
+  font-size: 24px;
+}
+
+p {
+  line-height: 24px;
+}
+
+#buddha {
+  border: 2px solid #006633;
+  padding: 25px;
+  line-height: 24px;
+  width: 275px;
+  margin-left: 85px;
+}
+
+#buddha span {
+  font-family:'Philosopher', sans-serif;
+  color: #006633;
+  font-weight: bold;
+  text-transform: uppercase;
+}

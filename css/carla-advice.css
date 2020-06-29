@@ -1,16 +1,26 @@
-
-body{
-  padding:15px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  display: flex;
-  flex-direction: column;
-  
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
 }
 
-.advice-container{
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   display: flex;
-  flex-direction: row;
-  align-items: stretch;}
+  flex-direction: column;
+  font-size: 18px;
+}
+
+.advice-container {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-grow: 1;
+}
 
 
 a {
@@ -22,20 +32,18 @@ a {
 
 h1 {
   font-family: Helvetica;
-  text-align:center;
+  text-align: center;
 }
 
-h4 {
+h2 {
   font-weight: bold;
   color: rgb(0, 196, 130);
-  font-size:18px;
-  text-align:center; 
-
+  /* font-size: px; */
+  text-align: center;
 }
 
 p {
   color: #0F0F0F
-
 }
 
 span {
@@ -43,13 +51,15 @@ span {
 
 }
 
-.advice{
-  background-color:rgb(233, 229, 229);
-  padding:20px;
-  margin:auto;
-  width:45%;
+.advice {
+  background-color: rgb(233, 229, 229);
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+  min-width: 400px;
 }
 
-
-
-
+footer {
+  background-color: rgb(233, 229, 229);
+  text-align: center;
+}

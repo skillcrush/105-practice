@@ -1,0 +1,93 @@
+/******BASE STYLES********/
+body {
+	background: white;
+}
+
+header, section, footer{
+	width: 80%;
+	padding: 15px;
+	margin: 0 auto;
+	background: #33B8FF;
+
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color: #1a1a1a;
+	line-height: 35px;
+	text-indent: 20px;
+	padding: 0 100px;
+}
+
+h1, h2 {
+	font-family: 'Shadows Into Light', cursive;
+	color: #FF5733;
+}
+
+.home-button {
+	width: 5%;
+	float: right;
+	padding: 10px -20px 35px 200px;
+	color: #DAF7A6;
+}
+
+.title {
+	width: 80%;
+	float: right;
+	padding: 10px 50px 10px 10px;
+}
+
+
+#icon {
+	width: 45px;
+	height: auto;
+}
+
+/*******HEADER******/
+header {
+	height: 200px;
+	background: #900C3F;
+
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 45px;
+}
+
+h2 {
+	padding: 0 60px;
+}
+
+/*****SECTION*****/
+
+h2 {
+	text-size: 35px;
+}
+
+.why, .how {
+	font-style: italic;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: normal;
+	color: #FF5733;
+}
+
+#big-advice {
+	font-size: 30px;
+	text-indent: 0;
+	font-family: 'Shadows Into Light', cursive;
+	color: #900C3F;
+	text-align: center;
+}
+
+
+/*****FOOTER*****/
+
+footer {
+	text-align: center;
+}

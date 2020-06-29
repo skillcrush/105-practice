@@ -1,0 +1,41 @@
+/********BASE STYLES********/
+
+body {
+  font-family: 'Handlee', cursive;
+  background-color: #fb6542;
+}
+
+
+
+
+/*******HEADER*******/
+
+a {
+  color: #375e97;
+}
+
+h1 {
+  color: #375E97;
+  text-align: center;
+}
+
+
+/*******BODY*******/
+
+h4 {
+  color: #FFBB00;
+  font-size: 24px;
+  margin-bottom: -20px;
+}
+
+p {
+  color: #3f681c;
+  font-size: 20px;
+  font-family: Calibri;
+  margin-bottom: 40px;
+  text-align: justify;
+}
+
+.advice {
+  margin: 10px 50px 10px 50px;
+}
