@@ -1,0 +1,64 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    /* I used the gradient generator at the following site to generate the gradient I used for the background: */
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b8e1fc+0,a9d2f3+10,90bae4+17,90bcea+33,90bff0+50,6ba8e5+60,a2daf5+83,bdf3fd+100 */
+    background: #b8e1fc; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #b8e1fc 0%, #a9d2f3 10%, #90bae4 17%, #90bcea 33%, #90bff0 50%, #6ba8e5 60%, #a2daf5 83%, #bdf3fd 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  #b8e1fc 0%,#a9d2f3 10%,#90bae4 17%,#90bcea 33%,#90bff0 50%,#6ba8e5 60%,#a2daf5 83%,#bdf3fd 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  #b8e1fc 0%,#a9d2f3 10%,#90bae4 17%,#90bcea 33%,#90bff0 50%,#6ba8e5 60%,#a2daf5 83%,#bdf3fd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8e1fc', endColorstr='#bdf3fd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #1f66b1;
+    margin-top: 1em;
+    text-shadow: 5px 5px 7px rgb(103, 103, 103);
+}
+h2, h3 {
+    font-weight: bold;
+    color: #3174bd;
+    padding-top: 10px;
+}
+h2 {
+    font-size: 1.5em;
+    text-shadow: 5px 5px 6px rgb(127, 126, 133);    
+}
+h3 {
+    padding-top: 0;
+    margin-left: 60px;
+    font-size: 1.75em;
+    font-style: italic;
+    margin-top: 0px;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.advice {
+    margin-left: 20px;
+}
+.advice p {
+    margin-left: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: #3174bd;
+    font-weight: normal;
+}
+a:hover, a:active {
+    color: slategrey;
+    font-weight: bold;
+}
+
+footer {
+    text-align: left;
+    padding-top: 1em;
+    color: #1f66b1;
+    
+}
