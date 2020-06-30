@@ -1,0 +1,51 @@
+/***** BASE STYLES *****/
+
+body{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+/***** GRID *****/
+.full-width {
+    width: 1200px;
+    background-color: #9accd4;
+}
+.picture {
+    width: 1200px;
+    height: 900px;
+    background-image: url('../img/book.jpg');
+    background-size: cover;
+    background-position: center;
+    float: left;
+    border: none;
+}
+.half-width {
+    width: 480px;
+    float: left;
+    overflow: auto;
+    margin: 0 20px 0 20px;
+    background: transparent;
+    padding: 20px 40px 0 40px;
+}
+
+/*** HEADER ***/
+h1 {
+    color: #55552b;
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    font-size: 24px;
+    color: #768844;
+}
+p strong {
+    color:  #045766;
+}
+/***** FOOTER *****/
+footer {
+    margin-top: 50px;
+    text-align: center;
+}
