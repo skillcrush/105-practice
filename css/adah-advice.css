@@ -1,0 +1,33 @@
+p span {
+	background-color: green;
+	border-radius: 5px;
+	color: white;
+	font-size: 1.5em;
+	line-height: 50px;
+	padding: 18px;
+	text-transform: uppercase;
+}
+
+#adah {
+	background-color: blue;
+	border: 3px solid white;
+	border-radius: 10px;
+	font-variant: small-caps;
+	line-height: 15px;
+	padding: 30px;
+	text-align: center;
+}
+
+#adah h4 span{
+	background-color: green;
+	border-radius: 5px;
+	color: white;
+	font-size: 2.25em;
+	padding: 8px 11px 10px 11px;
+}
+
+#adah p {
+	color: white;
+	font-weight: bold;
+	font-size: 1.5em;
+{
