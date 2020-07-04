@@ -1,0 +1,18 @@
+h1 {
+  color: navy;
+  font-family: 'Lora';
+  font-size: 48px;
+}
+
+h2 {
+    font-family: 'Lora';
+    font-size: 32px;
+    line-height: 80px;
+    color: green;
+}
+
+  p {
+      font-family: 'Source Sans Pro'
+      font-size: 24px;
+      line-height: 36px;
+    }
