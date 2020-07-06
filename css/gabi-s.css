@@ -1,0 +1,11 @@
+/*****BODY*****/
+body {
+    margin: auto;
+    max-width: 960px;
+    text-align: center;
+    
+}
+h1, h4{
+    text-transform: uppercase;
+    font-family: 'Staatliches', cursive;
+}
