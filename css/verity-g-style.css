@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    font-size: 38px;
+    text-align: center;
+    padding: 20px 0 30px 0;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.advice {
+    width: 1200px;
+    margin: auto;
+}
+
+button {
+    padding: 30px;
+}
+.back-btn {
+    color: white;
+    background-color: forestgreen;
+        
+    border-radius: 50px;
+    border: none;
+    
+    padding: 10px 25px;
+        
+    text-align: center;
+    text-transform: uppercase;
+        
+    font-size: 1em;
+    font-weight: bold;
+    
+    margin: 24px 0 0 0;
+    
+    transition: all 0.25s;
+    
+}
+
+.back-btn:hover {
+    color: black;
+    background: white;
+    text-decoration: none;
+    
+    transform: scale(1.05);
+    
+    transition: all 0.25s;
+}
