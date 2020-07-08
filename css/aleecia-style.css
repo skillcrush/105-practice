@@ -1,0 +1,45 @@
+body {
+  background-color: #cccccc;
+
+
+}
+
+header, section, footer {
+  width: 80%;
+  padding: 15px;
+  margin: 0 auto;
+  background: #bfbfbf;
+
+}
+
+h1 {
+
+  color: #f54281;
+  font-family: 'Yellowtail', cursive;
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 30px;
+
+
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Times New Roman';
+  text-align: center;
+
+}
+
+p {
+  padding: 0 100px;
+  line-height: 35px;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  color: white;
+}
