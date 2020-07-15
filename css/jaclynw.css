@@ -1,0 +1,39 @@
+/***** BASE *****/
+body {
+    background: azure;
+    font-family: Georgia, serif;
+}
+/***** HEADER *****/
+
+.Jaclyn-advice h1 {
+    color: midnightblue;
+    font-family: 'Courier New'; 
+    text-align: center;  
+}
+
+header {
+    background: mediumspringgreen;
+}
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslateblue;
+    letter-spacing: 5px;
+    word-spacing: 8px;
+}
+
+/***** BODY *****/
+
+h4 {
+    color: mediumpurple;
+    font-family: 'Comic Sans MS';
+}
+p {
+    color: darkslategrey;
+    font-family: 'Lucida Sans Unicode';
+}
+
+/***** FOOTER *****/
+
+footer {
+    text-align: center;
+}
