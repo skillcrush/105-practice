@@ -1,0 +1,39 @@
+.ian-advice {
+    background: powderblue;
+    text-align: center;
+}
+
+
+header {   
+    border: solid 2px magenta;
+}
+
+section {
+    background: lightgray;
+}
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+    font-family: 'Notable', sans-serif;
+    color: magenta;
+}
+
+h4 {
+    font-family: 'Notable', sans-serif;
+    font-size: 48px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+p  {
+    font-family: "Fjalla One", sans-serif;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+span {
+    font-size: 46px;
+}

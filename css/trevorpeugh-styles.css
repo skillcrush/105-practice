@@ -1,0 +1,18 @@
+body {
+  font-family: monospace;
+  font-size: 22px;
+}
+
+h1 {
+  font-family: Monospace;
+  font-size: 32px;
+  color: darkblue;
+}
+h4 {
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+p {
+  text-transform: capitalize;
+}

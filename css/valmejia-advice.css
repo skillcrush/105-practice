@@ -1,0 +1,49 @@
+body {
+  background-color: #FFF5EE;
+  width: auto;
+}
+
+header {
+  background-color: #b18ea6;
+  height: 175px;
+}
+
+h1 {
+  font-family: 'Vibes', cursive;
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+span {
+  font-size: 75px;
+  margin-right: 35px;
+}
+
+.main-page {
+  color: #dd6892;
+  text-decoration: none;
+}
+
+.advice {
+  background-color: #f0c9c9;
+  height: 450px;
+}
+
+h4 {
+  font-size: 45px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+p {
+  font-size: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: left;
+}
+
+#copyright {
+  font-size: 10px;
+  text-align: right;
+}

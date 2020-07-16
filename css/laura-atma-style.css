@@ -1,0 +1,39 @@
+
+body {
+  padding-top: 50px;
+  background-color: lavender;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+h1, h2, h3, h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14;
+}
+
+header h1 {
+    font-size: 42px;
+    margin-bottom: 0;
+    color: #161616;
+}
+header h1 span {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 60px;
+  color: #EBC834;
+}
+
+footer p {
+    color: #a8aac0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
