@@ -1,0 +1,85 @@
+/* Rob's advice CSS file for Skillcrush project */
+
+
+/* font styles */
+
+
+h1 {
+	font-family: 'Righteous', cursive;
+	color: #090934;
+	font-size: 36px;
+	padding: 18px 0px 18px 0px;
+}
+
+
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #d4f7ec;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	color: #2e2fe3;
+	font-size: 18px;
+	padding: 10px 20px 10px 20px;
+}
+
+
+/* sections Setup */
+
+body {
+  background-color: #448d76;
+}
+
+.parent {
+  width: 100%;
+  border: 5px solid #E18728;
+  float: left;
+  background-color: #448d76;
+}
+
+
+.tri-one {
+  width: 30%;
+  padding: 2px;
+  border: 0px solid #d4f7ec;
+  background-color: #2e2fe3;
+  margin-top: 20px;
+  margin-left: 8px;
+  float: left;
+}
+
+.tri-two {
+  width: 60%;
+  padding: 2px;
+  border: 1px dotted #d4f7ec;
+  background-color: #d4f7ec;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 25px;
+  float: left;
+}
+
+header {
+	background-color: #448d76;
+	text-align: center;
+}
+
+
+footer {
+	background-color: #090934;
+	font-size: 10px;
+	font-color: #drf7ec;
+	text-align: center;
+	padding-top: 50px;
+	border: 1px solid #d4f7ec;
+}
+
+clearfix {
+  clear: both;
+}
+
+/* Thanks for Check'n out my css :-) */

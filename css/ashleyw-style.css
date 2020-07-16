@@ -1,0 +1,31 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  color: #778899;
+  font-size: 16px;
+}
+
+header h1 span {
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 48px;
+  font-weight: bold;
+  color: lightcoral;
+}
+
+header h1 {
+  font-size: 21px;
+  text-align: center;
+}
+
+.advice h4 {
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 36px;
+  font-weight: bold;
+  color: lightcoral;
+}
+
+footer {
+  text-align: center;
+  color: black;
+  text-transform: uppercase;
+  background: lightgrey;
+}

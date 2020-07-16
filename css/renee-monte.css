@@ -1,0 +1,51 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    text-align: center;
+    max-width: 800px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #f16059;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.confusion-heading {
+    border: solid #000000 1px;
+    padding: 10px 40px;
+    margin: 10px 0;
+}
+
+.disbelief-heading {
+    border: solid #000000 1px;
+    padding: 10px 40px;
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
