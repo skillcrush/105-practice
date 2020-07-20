@@ -1,0 +1,83 @@
+body {
+  font-family: 'Kalam', cursive;
+  color: #484944;
+}
+
+/*header {
+  width: 1000px;
+}*/
+
+img {
+  float: left;
+  padding: 2px 0 20px 40px;
+}
+
+header a {
+  color: grey;
+  font-family: 'Special Elite', cursive;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Kalam', cursive;
+  color: gray;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 40px;
+  margin: 0 30px;
+}
+
+h3 span {
+  color: gray;
+  font-family: 'Kalam', cursive;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 33px 0 15px 0;
+}
+
+h3 {
+  color: gray;
+  font-family: 'Kalam', cursive;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 33px 0 15px 0;
+}
+
+h4 {
+  color: #6bbdbb;
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 30px 0 15px 0;
+}
+
+h5 {
+  color: black;
+  font-family: 'Kalam', cursive;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 33px 0 15px 0;
+}
+
+.eleanor-l-advice {
+  width: 1000px;
+  margin: 0, auto;
+  background: white;
+}
+
+.advice {
+  padding: 5px 0 0 0;
+  clear: both;
+}
+
+p {
+  font-family: 'Special Elite', cursive;
+  color: #6bbdbb;
+  text-align: center;
+  padding: 20px 0 0 0;
+}
