@@ -1,0 +1,19 @@
+/***** BODY *****/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+/***** HEADER *****/
+
+header h1 {
+    font-family: 'arial';
+    font-size: 35px;
+}
+
+header h1 span {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
