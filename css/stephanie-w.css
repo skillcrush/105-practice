@@ -1,0 +1,31 @@
+  body {
+    background-color: rgb(250, 216, 202);
+}
+header a {
+    color: lightseagreen;
+}
+
+header h1 {
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+    border: 2px dotted lightslategray;
+}
+
+/***** TEXT *****/
+
+.advice h4 {
+    color: lightseagreen;
+    font-size: 30px;
+    margin-left: 25px;
+}
+
+.advice p {
+    font-family: 'Montserrat', sans serif;
+    text-align: justify;
+}
+
+footer p {
+    color: lightseagreen;
+    font-family:'Montserrat', sans serif;
+    text-align: center;
+}
