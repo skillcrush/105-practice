@@ -1,0 +1,46 @@
+.kristi-advice {
+  padding: 100px;
+  border: solid 50px #407294;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.advice {
+  width: 425px;
+  padding: 0 10px 0 0;
+  margin: 25px 80px 50px 0;
+  float: left;
+}
+
+footer {
+  clear: both;
+}
+
+a {
+  float: right;
+  border: solid 2px gray;
+  padding: 10px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 40px;
+}
+
+h4 {
+  font-weight: 700;
+  font-size: 24px;
+  color: #088da5;
+}
+
+.advice p {
+  font-weight: 400;
+  font-size: 18px;
+}
+
+footer p {
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+}
