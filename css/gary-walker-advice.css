@@ -1,0 +1,44 @@
+body{
+	background: midnightblue; 
+
+}
+
+
+
+h1 {
+	color: lightblue;
+	font-family: Times;
+	text-align: center;
+}
+
+h3{
+	color: lightblue;
+}
+p{
+	color: lightgrey;
+	text-indent: 10px;
+	font-size: 20px;
+
+}
+
+img{
+
+	color: white;
+	font-size: 17px;
+}
+
+strong{
+	color: yellow;
+}
+
+.img-photo{
+	width: 300px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.helper{
+	display: inline-block;
+	vertical-align: middle
+	height 100%;
+} 
