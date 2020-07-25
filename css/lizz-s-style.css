@@ -1,0 +1,73 @@
+body {
+  font-family: 'Muli', sans-serif;
+  background: whitesmoke;
+  color: #333;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h4 {
+  font-weight: 900;
+}
+
+p {
+  font-weight: 400;
+}
+
+header {
+  background: whitesmoke;
+}
+
+header nav {
+  background: whitesmoke;
+  padding-bottom: 15px;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 55px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background: rgb(184, 231, 231);
+}
+
+
+button {
+  background-color: #111;
+  padding: 5px 10px 5px 10px;
+  border: none;
+}
+
+nav button a {
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+nav button a:hover {
+  color: rgb(184, 231, 231);
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+}
+
+section h4 {
+  font-size: 25px;
+}
+
+footer {
+  width: 100%;
+  background: #333;
+  color: whitesmoke;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 600;
+  padding: 20px;
+}

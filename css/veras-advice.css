@@ -1,0 +1,49 @@
+/***MAIN STYLES***/
+
+.veras-advice {
+    background-color: #f5f5f0;
+}
+
+
+/*** LINK TO MAIN PAGE ***/
+#mainpage {
+    font-family: 'Playfair Display', serif;
+    font-size: 12px;
+    text-decoration: none;
+    color: #808080;
+}
+
+/***HEADLINE H1 ***/
+h1 {
+    font-family: 'Passion One', cursive;
+    font-size: 60px; 
+    color: #46b9b9;
+    text-align: center;
+    padding: 0 20%;
+}
+
+span {
+    font-family: 'Dancing Script', cursive;
+    color: #ff6666;
+}
+
+h4 {
+    padding: 0 5%;
+    font-size: 40px; 
+    color: #46b9b9;
+}
+
+
+p {
+    font-family: 'Playfair Display', serif;
+    color: #666666;
+    font-size: 20px; 
+    padding: 0 5%;
+}
+
+#copyright {
+    text-align: center;
+    padding: 10px 0;
+    color: #ff6666;
+    font-size: 20px; 
+}
