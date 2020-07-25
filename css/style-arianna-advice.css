@@ -1,0 +1,33 @@
+body {
+    font-family:'Raleway';
+    background-color: #ececec;
+    text-align: center;
+}
+
+
+.top {
+    width: 100%;
+}
+
+.advice {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 46%;
+    margin: 0 auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: left;
+}
+
+.half-width p {
+    font-weight: light;
+    text-align: left;
+}
+
+footer {
+    clear: both;
+}
+
