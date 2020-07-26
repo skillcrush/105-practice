@@ -1,0 +1,43 @@
+body {
+    background-color: #d9e6f2;
+    color: #cc8066;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+.skillcrush-advice, .advice {
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+header h1 {
+        color: #d99f8c;
+        font-family: 'EB Garamond', serif;
+        font-size: 32px;
+        text-align: center;
+}
+
+
+
+header a {
+    color: #bf4080;
+}
+
+section h4 {
+    color:  #993366;
+    font-size: 20px;
+    text-align: right;
+
+}
+
+section p {
+    text-align: right;
+
+}
+
+footer {
+    text-align: center;
+}
