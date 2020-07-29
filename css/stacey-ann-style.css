@@ -1,0 +1,19 @@
+.stacey-ann-advice {
+    font-family: 'Georgia', serif;
+    background-color: lightcoral;
+    text-align: center;
+    width: 800px;
+    margin-left: 300px;
+   
+}
+
+.title-bar {
+    background-color: darkslateblue;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+.sub-bar { 
+    background-color: indianred;
+    padding: 10px;
+}
