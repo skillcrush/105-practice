@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    font-family: 'Bad Script', cursive;
+    margin-top: 1em;
+    text-transform: capitalize;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Bad Script', cursive;
+    color: #f16059;
+    text-transform: capitalize;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

@@ -1,0 +1,62 @@
+header {
+  background-color: ;
+  padding-bottom: 20px;
+}
+
+h1 {
+  color: #7326C6;
+  font-family: 'Raleway', sans-serif;
+  font-size: 45px;
+  text-align: center;
+
+
+
+}
+
+h3 {
+  font-size: 30px;
+  text-align: left;
+}
+
+h3 span {
+  font-style: italic;
+  font-size: 32px;
+  color: #7326C6;
+  text-decoration: underline;
+}
+
+body {
+  font-size: 20px;
+  font-family: 'Raleway', sans-sans-serif;
+}
+
+section {
+  background-color: ;
+  padding-bottom: 20px;
+}
+
+
+.affirm1 {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 30px;
+  color: red;
+}
+
+.affirm2 {
+  font-family: 'Chilanka', cursive;
+  color: orange;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.affirm3 {
+  font-family: 'Courgette', cursive;
+  font-size: 30px;
+  color: #33E473;
+}
+
+.affirm4 {
+  font-family: 'Lora', serif;
+  font-size: 30px;
+  color: blue;
+}

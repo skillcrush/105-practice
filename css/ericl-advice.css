@@ -1,0 +1,43 @@
+.ericl-advice {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 40 0 40 0
+
+}
+
+.advice {
+  width: 600px;
+  margin: 0 auto;
+  padding: 40 40 40 40px;
+  border: 1px solid blue;
+  box-shadow: 5px 10px grey;
+
+}
+
+footer {
+  width: 600px;
+  margin: auto;
+}
+
+
+h1 {
+  font-family: 'Trade Winds', cursive;
+  font-size: 36px;
+}
+
+
+h4 {
+  font-family: 'Trade Winds', cursive;
+  font-size: 24px;
+}
+
+
+p {
+  font-family: 'Boogaloo', cursive;
+  font-size: 20px;
+}
+
+span {
+  font-style: italic;
+}
