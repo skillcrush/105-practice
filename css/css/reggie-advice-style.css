@@ -1,0 +1,38 @@
+.skillcrush-advice {
+    width: 940px;
+    margin: 10px auto;
+}
+.confusion {
+    width: 460px;
+    float: left;
+    
+    margin: 5px auto;
+}
+.suspend {
+    width: 460px;
+    float: left;
+    
+    margin: 5px auto;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+.advice p {
+    width: 430px;
+}
+
+h1, h4 {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+p {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+span {
+    font-family: 'Shadows Into Light Two', cursive;
+}
+html {
+    background-color: #f2e6d9;
+}

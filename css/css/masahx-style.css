@@ -1,0 +1,52 @@
+img {
+    width: 400px;
+}
+
+/*
+@font-face {
+    font-family: Coiny;
+    src: url(https://fonts.googleapis.com/css?family=Coiny);
+}
+*/
+body {
+    font-family: 'ZCOOL KuaiLe', cursive;   
+    font-size: 48px;
+    background-color: #744f92;
+}
+
+p {
+    font-family: 'Coiny', cursive;
+    font-size: 24px;
+}
+
+div {
+    width: 1000px;
+    padding-left: 10px;
+}
+
+#salads {
+    background-color: #9eb3cb;
+}
+
+#fruit {
+    background-color: #3c860b;
+}
+
+span {
+    color: #d86e26;
+}
+
+#another {
+    color: #5fd312;
+}
+
+#author {
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 48px;
+}
+
+a{
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+}
+

@@ -1,0 +1,23 @@
+
+.kimpascoe-advice h1 {
+  color: #1995ad;
+  font-variant: normal;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.advice h4 {
+  color: #a5c05b;
+  font-variant: small-caps;
+}
+
+.advice p {
+  color: #54565b;
+  font-size: 15px;
+}
+
+footer {
+  color: #a1d6e2;
+  font-size: 10px;
+  text-align: center;
+}

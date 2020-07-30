@@ -1,0 +1,29 @@
+header, div   {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 940px;
+    }
+
+p   {
+  margin-left: 25px;
+}
+
+.Skillcrush  {
+    color:#FF383f;
+    font-weight: bold;
+}
+
+.emphasis   {
+  font-style: italic;
+  font-weight:bold;
+}
+
+h1   {
+  text-align: center;
+  color:#ff383f;
+}
+
+h3   {
+  color:#247BA0;
+  font-variant: small-caps;
+  margin-left:10px;
+}

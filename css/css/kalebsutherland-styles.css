@@ -1,0 +1,70 @@
+/***** HEADER *****/
+
+header {
+  height: 100px;
+  background-color: #ffad99;
+  box-sizing: border-box;
+  padding: 15px;
+  border-radius: 25px;
+  width: 1200px;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: black;
+  margin: 0;
+  float: left;
+  font-size: 40px;
+}
+
+.kaleb-advice a {
+  float: right;
+  text-decoration: none;
+  background-color: white;
+  padding: 10px;
+  margin: 15px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'EB Garamond', serif;
+  border-radius: 25px;
+  font-color: black;
+}
+
+.kaleb-advice a:hover {
+  background-color: #ff5c33;
+}
+
+.kaleb-advice span {
+  color: #b32400;
+}
+
+
+/***** MAIN *****/
+
+.advice {
+  background-color: #f2f2f2;
+  box-sizing: border-box;
+  width: 1200px;
+  padding: 20px;
+  font-family: 'EB Garamond', serif;
+  font-color: black;
+  margin: 20px 0;
+}
+
+.advice h4 {
+  margin: 0;
+  font-size: 30px;
+}
+
+.advice p {
+  font-size: 20px;
+}
+
+
+/***** FOOTER *****/
+
+footer {
+  width: 1200px;
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+}

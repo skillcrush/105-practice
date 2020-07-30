@@ -1,0 +1,38 @@
+h1 {
+  font-size: 32px;
+  color: #009973;
+  border-bottom: 3px solid #141f1f;
+  padding: 70px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.megan-advice {
+  text-align: center;
+
+}
+
+.advice {
+  text-align: justify;
+  padding: 10px;
+}
+
+h4 {
+  font-size: 28px;
+  color: #009973;
+  text-align: center;
+  padding: 30px;
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  font-size: 22px;
+  color: #141f1f;
+  font-family: 'Playfair Display', serif;
+}
+
+footer {
+  font-size: 20px;
+  color: #009973;
+  padding: 30px;
+  font-family: 'Playfair Display', serif;
+}

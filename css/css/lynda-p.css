@@ -1,0 +1,26 @@
+body{
+  background: #eae7e7;
+  font-family: Arial, sans-serif;
+}
+
+h1{
+  font-family: Bradley Hand, cursive;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  padding: 2px 0 2px 0;
+  margin:5px 10px 5px 10px;
+  color: #f1615a;
+}
+
+.advice{
+  line-height: 23px;
+  text-align: center;
+  padding:10px 10px 10px 10px;
+  margin: 20px 0;
+  color: #000000;
+}
+
+footer{
+  text-align: center;
+}

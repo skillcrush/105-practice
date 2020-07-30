@@ -1,0 +1,57 @@
+/***** BASE STYLES *****/
+body{
+	font-family:'Source Sans Pro', sans-serif;
+	color: #2b2b2b;
+	background-color: #e6ffff;
+	background-size: cover;
+}
+/***** GRID*****/
+.full-width {
+	width: 1200px;
+	margin: 0 auto;
+}
+.half-width {
+	width: 600px;
+	float: left;
+}
+
+/***** HEADER *****/
+header {
+	height:200px;
+ 	background-image:url(https://images.pexels.com/photos/358904/pexels-photo-358904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+ 	background-size: cover;
+}
+.link {
+	float: right;
+}
+span {
+	color: #ff1a75;
+}
+h1 {
+	text-align: center;
+}
+
+
+/***** SECTIONS *****/
+.clear {
+	clear: left;
+	font-size: 14pt;
+	text-align: center;
+}
+h3 {
+	color: #ff1a75;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.half-width p{
+	font-size: 18px;
+	line-height:20px;
+	padding-left:30px;
+	padding-right: 30px;
+}
+
+/***** FOOTER *****/
+footer {
+	text-align: center;
+	background-color: #00e6e6;
+}

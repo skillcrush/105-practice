@@ -1,0 +1,76 @@
+
+
+.lesley-advice {
+     width: 1200px;
+     margin: 0 auto;
+}
+
+.full-width {
+         width: 1200px;
+         margin: 0 auto;
+}
+
+.half-width {
+         width: 600px;
+         float: left;
+         margin: 0 auto;
+}
+
+header {
+    height: 100px;
+    margin: auto;
+    padding: 20px 0 20px 0;
+}
+
+header a {
+    float: right;
+    text-transform: uppercase;
+    color: grey;
+    padding: 0 10px;
+}
+
+header h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 75px;
+    text-align: center;
+    color: orange;
+    margin: auto;
+    padding: 38px 0 38px 0;
+}
+
+.hero-image img {
+    height: auto;
+    padding: 20px 0 10px 0;
+}
+.advice h4 {
+    font-size: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Amatic SC', cursive;
+    color: orange;
+    float: left;
+    margin: 0 auto;
+}
+
+.advice p {
+    font-size: 22px;
+    line-height: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: grey;
+    padding-left: 40px;
+    padding-right: 40px;
+    float: left;
+}
+
+/***** FOOTER *****/
+
+footer {
+    font-size: 18px;
+    color: grey;
+    text-align: center;
+    height: 25px;
+    border-top: 3px solid #eee;
+    margin: 0 auto;
+    padding: 5px 0 35px 0;
+    clear: both;
+}

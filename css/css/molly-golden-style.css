@@ -1,0 +1,82 @@
+body {
+  background: #85adad;
+}
+
+
+.advice{
+  width: 100%;
+}
+
+.column1, .column2{
+  float: left;
+  width: 40%;
+  text-align: center;
+  background: #002233;
+  height: 500px;
+  width: 500px;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  border-radius: 20px;
+
+
+
+}
+
+.column1{
+  margin-left: 170px;
+}
+
+.column2{
+  margin-left: 50px;
+}
+
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+
+
+}
+
+h4 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 30px;
+  color: #559E54;
+  text-align: center;
+
+
+}
+
+p{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+  color: white;
+  padding: 10px;
+}
+
+#para1{
+  padding-top: 50px;
+}
+
+#column1header{
+  padding-top: 20px;
+}
+
+
+footer{
+  clear: both;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+footer a{
+  font-family: 'Quicksand', sans-serif;
+  color: #559E54;
+  font-weight: 500;
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}

@@ -1,0 +1,40 @@
+body{
+	background-color: #fff2e6;
+}
+
+footer{
+	font-family: 'Roboto Slab', serif;
+	clear: both;
+	text-align: center;
+	margin: 50px auto 0 auto;
+}
+
+h1{
+	color:  #004466;
+	font-family: 'Roboto Slab', serif;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h4{
+	color: #004466;
+	font-family: 'Roboto Slab', serif;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+p{
+	color: #000000;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	line-height: 28px;
+}
+
+.advice{
+	background-color: #f0f5f5; 
+	float: left;
+	margin: 10px 400px;
+	padding: 5px 10px;
+}
+

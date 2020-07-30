@@ -1,0 +1,54 @@
+/***** BASE STYLES *****/
+* { 
+    margin:0px; 
+    padding:0px; 
+    box-sizing:border-box; 
+}
+
+body {
+	font-family: 'Exo', sans-serif;
+	background-color: #1d1919;
+	color: #f0ece2;
+	margin: 20px;
+	line-height: 30px;
+	
+}
+
+a {
+	color: #acdbdf;
+}
+
+header {
+	
+	height: 70px;
+	width: 100%;
+    color: #f0ece2;
+   	padding: 20px;
+
+}
+
+p {
+	font-size: 20px;
+	text-align: justify;
+	margin: 0px 70px 0px 70px;
+
+}
+
+p span {
+	font-weight: bold;
+	font-style: italic;
+	letter-spacing: 1px;
+
+}
+
+h3 {
+	color: #69779b;
+	font-size: 30px;
+	padding:20px;
+}
+
+h4 {
+color: #69779b;
+padding: 15px;
+text-align: center;
+}

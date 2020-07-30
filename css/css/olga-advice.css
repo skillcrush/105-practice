@@ -1,0 +1,21 @@
+body{
+  background: rgb(36, 35, 35);
+}
+.olga-advice h4 {
+  color:whitesmoke;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+}
+h1 {font-style:italic;
+  font-size: 40px;
+  color:palevioletred;
+  text-align: center;
+}
+p{
+    color: lightgray
+}
+footer {
+    text-align: center;
+}

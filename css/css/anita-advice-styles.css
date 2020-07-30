@@ -1,0 +1,29 @@
+body {
+	font-family: 'Montserrat';
+}
+
+header h1 {
+	color: salmon;
+	text-align: center;
+	margin: 50px;
+}
+
+.advice {
+	line-height: 25px;
+	padding-left: 35px;
+}
+
+.advice h4 {
+	font-style: italic;
+	text-transform: capitalize;
+	padding: 10px;
+}
+
+.advice p {
+	width: 900px;
+}
+
+footer {
+	text-align: center;
+	padding: 50px;
+}

@@ -1,0 +1,36 @@
+.jocrollpark-advice {
+  width: 1200px;
+  background-color: blue;
+  font-family: fantasy;
+  text-align: center;
+}
+
+header {
+  font-size:24px;
+  background-color:yellow;
+  font-family: monospace;
+  border-top: 5px solid grey;
+  border-bottom: 10px solid grey;
+}
+
+.advice {
+  font-size:14px;
+  }
+
+  h4 {
+    color: red;
+    text-transform: capitalize;
+    font-size: 20px;
+      }
+
+  footer {
+    text-align:center
+  }
+
+a {
+  color:green;
+}
+
+a:hover {
+  color:hotpink;
+}

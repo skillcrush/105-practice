@@ -1,0 +1,31 @@
+body {
+    color: seashell;
+    background: darkgray;
+    text-align: center;
+
+}
+
+p { 
+    font-family: 'Oleo Script', cursive;
+    font-size: 36px;
+}
+
+section {
+    margin: 200px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Sigmar One', cursive;
+    font-size: 48px;
+}
+h4 { 
+    font-family: sans-serif;
+    color: White;
+    font-size: 46px;
+    font-variant: small-caps;
+}
+
+span {
+    color: pink;
+}

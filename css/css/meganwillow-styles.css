@@ -1,0 +1,49 @@
+/******Body Styles CSS *****/
+
+Body {
+    color: white;
+    font-family: 'Stylish', sans-serif;
+    font-weight: bold;
+}
+
+/***** Header CSS *****/
+
+.megan-advice {
+    background-color: aqua;
+}
+
+header h1 {
+    color: #005580;
+    font-family: 'Caveat', cursive;
+    font-size: 35px;
+    text-align: center;
+
+}
+
+header h1 span {
+    color: #002233;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+}
+
+/***** Body CSS *****/
+
+.advice {
+    margin: 20px;
+    width: 1300px;
+    background-color: #002233
+}
+
+body h4 {
+    font-size: 30px;
+    text-align: center;
+}
+
+body p {
+    font-size: 25px;
+    text-align: center;
+}
+
+.final-p {
+    padding-bottom: 20px;
+}

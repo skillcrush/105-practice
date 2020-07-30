@@ -1,0 +1,45 @@
+/*****BODY*****/
+
+body {
+  font-family:'Raleway', sans-serif;
+  background-color:#dce2ed;
+}
+
+/*****GRID*****/
+
+.full-width {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.fourth-width {
+  width: 200px;
+  float: left;
+}
+
+.three-fourths-width {
+  width: 600px;
+  float: left;
+}
+
+/******HEADER*****/
+
+h1 {
+  padding:0px 0px 20px 0px;
+  margin:0 auto;
+  font-family:'Quicksand', sans-serif;
+}
+
+/*****MAIN*****/
+
+p {
+  font-size: 18px;
+  line-height: 23px;
+}
+
+/*****FOOTER*****/
+
+#footer-p {
+  text-align: center;
+  font-family:'Quicksand', sans-serif;
+}

@@ -1,0 +1,10 @@
+body{
+  background: grey;
+}
+.natalie-advice h4 {
+  color: blue;
+  text-transform: capitalize;
+}
+h1 {font-style: normal;
+  font-size: 20px;
+}

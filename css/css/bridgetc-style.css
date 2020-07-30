@@ -1,0 +1,33 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.Bridget-advice{
+  background-color: teal;
+  color: white;
+  margin: 20px;
+  padding:20px;
+
+
+}
+
+.advice{
+  background-color: LightYellow;
+  color: teal;
+  margin: 20px;
+  padding:20px;
+  text-align: left;
+}
+
+h1{
+  font-size: :40px;
+    text-align: center;
+}
+
+h4{
+  font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}

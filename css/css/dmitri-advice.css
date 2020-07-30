@@ -1,0 +1,21 @@
+body{
+  background: greenyellow;
+}
+.dmitri-advice h4 {
+  color:purple;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+}
+h1 {font-style:italic;
+  font-size: 40px;
+  color:blue;
+  text-align: center;
+}
+p{
+    color: deeppink
+}
+footer {
+    text-align: center;
+}

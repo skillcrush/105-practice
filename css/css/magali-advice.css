@@ -1,0 +1,38 @@
+/*****BODY*****/
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/******HEADER*****/
+
+h1 {
+  font-family: 'Thasadith', sans-serif;
+  text-align: center;
+}
+
+a{
+  font-size: 10px;
+  color: #9966ff;
+}
+
+/*****MAIN*****/
+
+p {
+  font-size: 18px;
+  line-height: 23px;
+}
+
+h4 {
+  font-style: italic;
+  letter-spacing: 2px;
+}
+
+/*****FOOTER*****/
+
+footer p {
+  text-align: center;
+  font-family: 'Thasadith', sans-serif;
+  font-size: 9px;
+  color: #9966ff;
+}

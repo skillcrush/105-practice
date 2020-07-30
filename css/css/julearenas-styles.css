@@ -1,0 +1,88 @@
+header {
+	text-align: center;
+	color: #660066;
+	font-family: 'Bree Serif', serif;
+}
+
+.confusion {
+	color: #993366;
+	text-align: center;
+	font-family: 'Fahkwang', sans-serif;
+	border: 5px black;
+	margin; 0px;
+	background-color: #ffccff;
+	float: left;
+	border-style: double;
+	width: 650px;
+	height: 225px;
+	padding-bottom: 50px;
+	padding-top: 55px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.believe {
+	color: #800000;
+	text-align: center;
+	font-family: 'Fahkwang', sans-serif;
+	border: 5px black;
+	margin; 0px;
+	background-color: #ffccff;
+	float: left;
+	border-style: double;
+	width: 550px;
+	height: 170px;
+	padding: 80px;
+
+}
+
+footer {
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	font-variant: small-caps;
+	font-size: 30px;
+}
+
+ 	text-align: center;
+ 	color: #660066;
+ 	font-family: 'Bree Serif', serif;
+ }
+
+ .confusion {
+ 	color: #993366;
+ 	text-align: center;
+ 	font-family: 'Fahkwang', sans-serif;
+ 	border: 5px black;
+ 	margin; 0px;
+ 	background-color: #ffccff;
+ 	float: left;
+ 	border-style: double;
+ 	width: 650px;
+ 	height: 225px;
+ 	padding-bottom: 50px;
+ 	padding-top: 55px;
+ 	padding-left: 3px;
+ 	padding-right: 3px;
+ }
+
+ .believe {
+ 	color: #800000;
+ 	text-align: center;
+ 	font-family: 'Fahkwang', sans-serif;
+ 	border: 5px black;
+ 	margin; 0px;
+ 	background-color: #ffccff;
+ 	float: left;
+ 	border-style: double;
+ 	width: 550px;
+ 	height: 170px;
+ 	padding: 80px;
+ }
+
+ footer {
+ 	text-align: center;
+ 	font-family: 'Bree Serif', serif;
+ 	font-variant: small-caps;
+ 	font-size: 30px;
+ } 
+

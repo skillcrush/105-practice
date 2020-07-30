@@ -1,0 +1,35 @@
+/*****BASE STYLES*****/
+
+body {
+  background: #ccffff;
+  font-family: 'PT Sans', sans-serif;
+  color: #004d4d;
+  margin: auto;
+  padding: 50px;
+  width: 1200px
+}
+
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 28px;
+  text-decoration: underline;
+}
+
+p {
+   font-size: 20px;
+   text-indent: 15px;
+ }
+
+p span {
+  color: #9900cc;
+  font-style: italic;
+}
+
+footer {
+  padding: 20px 0;
+  text-decoration: overline;
+}

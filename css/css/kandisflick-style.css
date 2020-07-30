@@ -1,0 +1,42 @@
+.kandisflick-advice {
+    background-color: grey;
+    color: white;
+    border: dashed rgba(245, 117, 170, 0.795) 1px;
+    margin: 25px;
+    padding: 15px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: lightgrey;
+}
+
+h4 {
+    font-variant: small-caps;
+}
+
+.advice {
+    border: 2px solid rgb(160, 17, 112);
+    padding: 10px;
+    background-color: lightgrey;
+    color: rgb(160, 31, 81);
+}
+
+section {
+    border: 1px dotted white;
+    padding: 3px;
+}
+
+footer {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}

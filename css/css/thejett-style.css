@@ -1,0 +1,55 @@
+/* Global Styles */
+body {
+  margin: 2em 0;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: red;
+}
+
+/* Fonts */
+h1 {
+  font-family: 'Proza Libre', sans-serif;
+  font-size: 3em;
+  background-color: grey;
+}
+
+h4 {
+  font-family: 'Proza Libre', sans-serif;
+  font-size: 2em;
+}
+
+p {
+  font-size: 1em;
+  text-align: left;
+}
+
+.first-name {
+  font-family: monospace;
+  font-size: 1.7em;
+}
+
+/* Section Styles */
+section {
+  width: 100%;
+}
+
+.advice {
+  display: flex;
+  line-height: 1.8em;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  padding: 0 50px;
+}
+
+/* Footer Styles */
+footer p {
+  text-align: center;
+}

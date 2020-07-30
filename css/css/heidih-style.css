@@ -1,0 +1,53 @@
+/***** BASE STYLES *****/
+
+body {
+  font-family: 'Niramit', sans-serif;
+  color: #482728;
+  background-color: #EFF2EF;
+  margin: 0;
+}
+
+
+/***** Top Nav Bar *****/
+
+.top-nav {
+  background-color: #482728;
+  padding: 10px;
+}
+
+.top-nav a{
+  color: #EFF2EF;
+  text-decoration: none;
+}
+
+
+/***** Header Style *****/
+h1 {
+  font-family: 'Bree Serif', serif;
+  color: #B7456F;
+  text-align: center;
+}
+
+
+/***** Content Styles *****/
+section {
+  padding: 0 400px 50px 400px;
+}
+
+.skillcrush-advice h4 {
+  color: #F16059;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 25px; 
+  margin: 50px 0 0 0;
+}
+
+
+
+/***** Footer styles *****/
+footer {
+    background-color: #482728;
+    padding: 10px;
+    color: #EFF2EF;
+    line-height: 0;
+    text-align: center;
+}

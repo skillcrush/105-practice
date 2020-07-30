@@ -1,0 +1,45 @@
+/*****header******/
+
+head{
+  padding: 100px;
+}
+
+body{
+  background: pink;
+  margin-left:50px;
+  width: 600px;
+
+}
+
+h1, h2, nav {
+  font-family:'fira sans';
+  color:black;
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+
+
+.advice p{
+  text-align: center;
+  color: magenta;
+  font-family: 'pt serif';
+  border: 3px solid grey;
+  width: 600px;
+  padding: 10px;
+  margin-left: : 250px;
+  margin-right: 250px;
+  height: auto;
+}
+
+
+.class{
+  width: 300px;
+}
+
+
+footer{
+  margin-top:100px;
+}

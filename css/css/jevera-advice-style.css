@@ -1,0 +1,23 @@
+/* GRID */
+
+.jever-advice {
+    width: 75%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.main-page {
+  position: absolute;
+  top: 10px;
+  width: 75%;
+  height: 50px;
+  text-align: center;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 75%;
+    height: 50px;
+    text-align: center;
+}

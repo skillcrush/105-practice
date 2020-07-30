@@ -1,0 +1,29 @@
+
+body {
+  background-color: lightgrey;
+}
+
+header {
+text-align: center;
+font-family: 'Lobster', cursive;
+}
+
+h1 {
+  font-size: 56px;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+  text-transform: full-width;
+}
+
+p {
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+}

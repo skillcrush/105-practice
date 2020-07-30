@@ -1,0 +1,42 @@
+body {
+    font-family: 'Neuton', serif;
+    color: darkslategrey;
+    background: lightcyan;
+    text-align: center;
+
+}
+p { 
+    font-size: 28px;
+    font-family: 'Neuton', serif;
+}
+section {
+    margin: 20px;
+}
+h1 { 
+    font-family: 'Philosopher', sans-serif;
+    color: darkgrey;
+    text-shadow: 1px 1px darkolivegreen;
+    font-size: 40px;
+}
+a {
+    font-family: 'Philospher', sans-serif;
+    color: darkgrey;
+    text-decoration: none;
+    border-style: solid;
+    border-color: whitesmoke;
+    padding: 5px;
+}
+h3 {
+    font-size: 35px;
+    color: darkcyan;
+}
+footer {
+    font-size: 15px;
+    color: darkgrey;
+}
+span {
+    font-family: 'Philosopher', san-serif;
+    font-size: 30px;
+    color: darkcyan;
+    text-shadow: 1px 1px darkgrey;
+}

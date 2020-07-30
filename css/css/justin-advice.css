@@ -1,0 +1,18 @@
+h1 {
+font-family: 'Bree Serif', serif;
+font-size: 32px;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 26px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+
+body {
+  background-color: lightblue;
+}

@@ -1,0 +1,48 @@
+font-family: 'Cabin Sketch', cursive;
+
+.cat-advice {
+  background-color: #edf3ff;
+}
+
+header {
+  text-align: center;
+  border-style: solid;
+  background-color: #edf3ff;
+}
+
+h1{
+  font-family: 'Cabin Sketch', sans-serif;
+  font-size: 50px;
+  font-weight:bold;
+}
+
+a {
+  text-align: left;
+  color: grey;
+}
+
+h4{
+  font-family: 'Cabin Sketch', serif;
+  font-size: 35px;
+}
+
+p{
+  font-family: 'Cabin Sketch', serif;
+  font-size: 20px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+footer{
+  background-color: #edf3ff;
+  height: 100px;
+  text-align: left;
+}
+
+footer, p{
+  vertical-align: middle;
+}

@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    color: slategray;
+    font-variant: small-caps;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: underline;
+}
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: gray;
+    font-variant: small-caps;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    color: black;
+    font-variant: initial;
+    letter-spacing: 2px;
+    line-height: 20px;
+}
+.advice {
+    background: lavender;
+    width: 300px;
+    height: 550px;
+    float: left;
+}
+.advice-2 {
+    background: lavender;
+    width: 300px;
+    height: 550px;
+    float: left;
+}
+div{
+    padding: 20px 10px 20px 10px;
+    margin: 15px 5px 15px 5px;
+}
+footer {
+    bottom: 0;
+    position: absolute;
+}
+

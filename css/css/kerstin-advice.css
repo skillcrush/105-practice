@@ -1,0 +1,40 @@
+/***** BASE STYLES *****/
+
+body {
+  font-family:'Montserrat', sans-serif;
+  font-size: 18px;
+  background-color: #e6e6ff;
+  margin: 65px;
+}
+
+/***** HEADER *****/
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+h1 header {
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+/***** ADVICE *****/
+
+.advice h3 {
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+.advice p {
+  line-height: 40px;
+  border: 5px dotted white;
+  padding: 45px;
+  background-color: #ccccff;
+}
+
+
+footer {
+  float: right;
+  color: purple;
+}

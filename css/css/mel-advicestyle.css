@@ -1,0 +1,44 @@
+.mel-advice {
+  height: 600px;
+  width: inherit;
+  background-color: #d4944c;
+}
+
+header {
+  height: 100px;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+  font-family: 'Economica', sans-serif;
+  font-size: 14px;
+  padding: 10px;
+}
+
+h1 {
+  font-family: 'Special Elite', serif;
+  text-align: center;
+}
+ .advice {
+   height: 425px;
+   text-align: center;
+   font-family: 'Special Elite', serif;
+   width: 1000px;
+   margin: auto;
+   background-color: #dcc7af;
+   padding: 1px 10px 10px 10px;
+ }
+
+ h4 {
+   font-weight: bold;
+   font-size: 22px;
+   color: #793ed1;
+ }
+
+ footer {
+   font-family: 'Economica', sans-serif;
+   font-size: 14px;
+   color: gray;
+   padding: 50px 0px;
+ }

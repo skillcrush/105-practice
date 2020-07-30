@@ -1,0 +1,24 @@
+.kitas-advice{
+	width:600px;
+	background:#9999ff
+}
+h1{
+	font-family:'Charm', cursive;
+	color: black;
+	font-size:30px;
+	text-align: center;
+}
+span{
+	color:white;
+}
+h4{
+	font-family:'Amatic SC', cursive;
+	font-size: 25px;
+	text-align: center;
+}
+p{
+	font-family:'Amatic SC', cursive;
+	font-size: 15px;
+	text-align: center;
+	font-weight:bold;
+}

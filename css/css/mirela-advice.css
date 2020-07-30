@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+header h1 {
+    color: #4f9da4;
+    text-align: center;
+}
+
+h4 {
+    font-variant: small-caps;
+    font-size: 20px;
+    color: #4f9da4;
+}
+
+.advice-1,
+.advice-2,
+.advice-3 {
+   
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
+
+.advice-1 {
+    border: 2px solid #333366;
+}
+
+.advice-2 {
+    border: 2px solid #dc6ece;
+}
+
+.advice-3 {
+    border: 2px solid #5ab45c;
+}
+footer {
+    text-align: left;
+    margin: 10px, 0;
+
+}
+
+

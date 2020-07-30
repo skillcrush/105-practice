@@ -1,0 +1,19 @@
+body {
+	background: linear-gradient(to bottom, #B721FF, #2AF598, #fec051, #FEE140, #FA709A );
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+body:before{
+	content:'';
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	z-index: -1;
+	background: linear-gradient(to right bottom, rgba(255,255,255,0.2), #21D4FD 75%);
+}
+
+html {
+	margin: 0;
+	font-family: 'Muli', sans-serif;

@@ -1,0 +1,105 @@
+/***** BASE STYLES *****/
+
+body{
+    background: #f2f2f2;
+    color: #d6d6d6;
+}
+
+
+h1, h2{
+    font-family: 'Bitter', serif;
+}
+
+p{
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: justify;
+    text-indent: 60px;
+}
+
+a {
+    color: #ffcc00;
+    font-family: 'Bitter', serif;
+    text-decoration:none;
+}
+
+a:hover{
+    color:#ffe270;
+}
+
+.main-container{
+    background: #000066;
+    margin: 0 20px;
+    width: 90%;
+}
+
+/***** HEADER *****/
+
+header {
+    margin: 0;
+    background: #000066;
+    padding-top: 250px;
+    padding-bottom: 0;
+}
+
+header h1{
+    color: #fff;
+    font-size: 72px;
+}
+
+header span{
+    color: #ffcc00;
+}
+/***** MAIN *****/
+.article-container{
+    background: #001366;
+    margin: 10px auto 10px auto;
+    padding: 10px;
+}
+
+strong{
+    color: #ffcc00;
+}
+
+#note{
+    font-family: 'Bitter', serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p span{
+    color: #ffcc00;
+}
+
+/***** NAV BAR *****/
+
+nav{
+    margin-top: 30px;
+}
+nav a{
+    border: 2px dashed #ffcc00;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+}
+
+.link-button{
+    padding: 20px;
+    text-align:center;
+}
+
+/****** FOOTER ******/
+
+
+footer p{
+    font-family: 'Bitter', serif;
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+}
