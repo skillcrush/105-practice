@@ -1,0 +1,85 @@
+/*****BASE STYLES******/
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: 'Comic Neue', cursive;
+}
+
+.full-width {
+    clear: both;
+    margin: 5px auto;
+    width: 1200px;
+}
+
+.half-width {
+    float: left;
+    margin: 0 10px;
+    width: 575px;
+}
+
+/*****HEADER*****/
+
+header {
+    height: 100px;
+    margin: auto;
+    width: 1200px;
+}
+
+.top-section {
+    width: 1200px;
+    margin: 10px;
+}
+
+.renny-advice {
+    clear: both;
+    margin: auto;
+}
+
+header a {
+    color: #181818;
+    float: right;
+    font-size: 20px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+h1{
+    color: #f55c33;
+    font-family: 'Merienda One', cursive;
+    font-size: 38px;
+    margin: 40px 0;
+    text-align: center;
+}
+
+/****MAIN IMAGE****/
+.hero-image img {
+    height: auto;
+    width: 1200px;
+    margin: 20px auto;
+}
+
+/******SECTIONS*****/
+section {
+    width: 1200px;
+}
+
+h2 {
+    color: #f55c33;
+    font-family: 'Merienda One', cursive;
+}
+
+p {
+    color: #181818;
+    font-size: 20px;
+}
+
+/*****FOOTER*****/
+footer {
+    color: #181818;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: overline;    
+}

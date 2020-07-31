@@ -1,0 +1,60 @@
+/***** BODY *****/
+
+body {
+    background-color: bisque;
+}
+
+body a {
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+
+/***** HEADER *****/
+
+header h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Ranga, cursive;
+    font-weight: 500;
+    font-size: 60px;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+header h1 span {
+    color: goldenrod;
+    font-size: 72px;
+    font-style: italic;
+}
+
+
+/***** ADVICE *****/
+
+h4 {
+    font-size: 32px;
+    color: goldenrod;
+    text-transform: uppercase
+}
+
+.advice p {
+    font-family: "Open Sans Condensed", sans-serif;
+    font-size: 24px;
+    text-align: justify;
+}
+
+
+/***** FOOTER *****/
+
+footer {
+    text-align: center;
+    color: blueviolet;
+}

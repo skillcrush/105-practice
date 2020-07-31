@@ -1,0 +1,32 @@
+/***************GENERAL **************/
+
+body p {
+	text-align: center;
+}
+body h1 {
+	text-align: center;
+}
+body h2 {
+	text-align: center;
+}
+body h3 {
+	text-align: center;
+}
+body h4 {
+	color: red;
+	text-align: center;
+}
+
+/*************** HEADER **************/
+
+header h1 {
+	color: green;
+	text-decoration: underline;
+}
+
+/************** ADVICE ***************/
+
+.advice {
+	border: 2px dotted blue;
+	padding: 10px;
+}

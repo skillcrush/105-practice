@@ -1,0 +1,33 @@
+.skillcrush-advice {
+  width: 1000px;
+  height: auto;
+  text-align: left;
+
+}
+
+.advice {
+background-color: #98FB98;
+
+}
+
+h1{
+  font-family: 'Lobster';
+
+}
+
+p {
+  font-size: 15px;
+  line-height: 15px;
+}
+
+h4, p {
+  font-family: 'Questrial';
+}
+
+h4 {
+text-transform:capitalize;
+font-weight: bold;
+font-size: 20px;
+
+
+}
