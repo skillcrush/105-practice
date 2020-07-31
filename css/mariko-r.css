@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background: #FFDCD0;
+  font-family: sans-serif;
+  color: #350E00;
+}
+
+span {
+  color: #FF4200;
+  font-style: italic;
+}
+
+div {
+  width: 60%;
+  padding: 0% 20%;
+}
