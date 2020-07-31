@@ -1,0 +1,39 @@
+body {
+    width: 100%;
+}
+
+header h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    color: #008080;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    color: #008000;
+}
+
+
+header a{
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    text-decoration: none !important;
+}
+
+p{
+    font-family:'Open Sans Condensed', sans-serif;
+    color: black;
+
+}
+.advice{
+    width: 200px
+    height:200px;
+    background-color: #c0c0c0;
+    margin:10px;
+    border-bottom-style: dotted; 
+    border-top-style: dotted;
+    border-size: 5px;
+}
+

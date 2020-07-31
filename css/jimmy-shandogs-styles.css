@@ -1,0 +1,51 @@
+/* Universal */
+
+body {
+	background: #eee;
+	font-family: "AR Julian", sans-serif;
+	font-size: 1rem;
+	font-weight: normal;
+	margin: 20;
+}
+
+a {
+	text-decoration: none;
+	color: #52070d;
+}
+
+a:hover {
+	color: #ddd;
+}
+
+h1 {
+	font-style: bold;
+	font-size: xx-large;
+	color: rgb(24, 8, 116);
+}
+
+h4 {
+	font-size: large;
+}
+
+
+p {
+	margin: 10px 40px;
+	padding: 5px;
+	color: #52070d;
+}
+
+p1 {
+	padding: 5px;
+	color: #52070d;
+}
+
+div {
+	text-align: center;
+}
+
+.copyright {
+	grid-column-start: 4;
+	grid-column-end: 6;
+	text-align: right;
+	padding-right: 1rem;
+}

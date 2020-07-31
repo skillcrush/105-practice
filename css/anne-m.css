@@ -1,0 +1,45 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #ff9999;
+}
+
+.advice {
+          height: auto;
+          width: 1200px;
+        }
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+h4 {
+    font-family: "Lobster", cursive;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+}
+
+h4 span {
+         text-decoration: underline;
+         }
+
+p span {
+         font-family: 'Roboto Mono', monospace;
+         text-transform: uppercase;
+       }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    font-family: "Calibri",serif;
+    text-align: center;
+    padding-top: 1em;
+}

@@ -1,0 +1,25 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  color:  black;
+  background: lightpink;
+}
+
+header a{
+  text-decoration: none;
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+}
+
+h4{
+  font-family: 'Prompt', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+
+footer{
+  font-weight: bold;
+  text-align: center;
+}

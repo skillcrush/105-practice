@@ -1,0 +1,31 @@
+body{
+  background-color: lightgrey;
+  font-family: "verdana", sans-serif;
+}
+.lisa-advice {
+  color:whitesmoke;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+}
+h1 {font-style: bold;
+  font-size: 40px;
+  font-variant: small-caps;
+  color: white;
+  text-align: center;
+}
+h4 {font-style:bold;
+  font-size: 24px;
+  color: tomato;
+  text-align: center;
+}
+p{
+    color: black;
+    font-family: "Times New Roman", serif;
+}
+footer {
+    text-align: center;
+    font-size: 12px;
+    color: black;
+}

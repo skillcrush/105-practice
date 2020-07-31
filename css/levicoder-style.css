@@ -1,0 +1,163 @@
+/********************  ********************/
+/******************** LAYOUT STYLES ********************/
+
+.full-width {
+  width: 1200px;
+}
+.three-quarter-width {
+  width: 900px;
+  float: left;
+}
+.two-thirds-width {
+  width: 800px;
+  float: left;
+}
+.half-width {
+  width: 600px;
+  float: left;
+}
+.third-width {
+  width: 400px;
+  float: left;
+}
+.quarter-width {
+  width: 300px;
+  float: left;
+}
+
+
+/******************** BASE STYLES ********************/
+
+html {
+  width: 100%;
+  background: white;
+}
+body {
+  font-family: sans-serif;
+  background: #f9fffb;
+  margin: 0 auto;
+  color: #444444;
+  border-right: 3px solid rgba(80, 158, 168, 0.47);
+  border-left: 3px solid rgba(80, 158, 168, 0.47);
+  padding: 10px;
+}
+#background {
+  color: lightgray;
+  float: left;
+}
+h1, h2, h3, h4, h5, h6, a {
+  font-family: 'Ubuntu', sans-serif;
+}
+p {
+  font-family: 'Lexend Deca', sans-serif;
+}
+.float-l {
+  float: left;
+}
+
+a {
+  color: #57b777;
+  transition: 0.2s;
+  text-decoration: none;
+}
+a:hover {
+  color: #4b9c66;
+  transition: 0.2s;
+}
+
+/******************** HEADER STYLES ********************/
+
+#back-btn {
+  margin: 10px;
+  padding: 10px;
+  background: #00000007;
+  border-radius: 5px;
+}
+#back-btn:hover {
+  background: #00000017;
+}
+#header {
+  /*<aside class="dashboard__welcome" style="background-image:url('https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/09/hero-overlay2.png'), linear-gradient(to bottom right,#509EA8,#509EA8);">
+        <h3 class="dashboard__welcome__message">Welcome<strong class="dashboard__welcome__message__name">Summer Fritsch</strong></h3>
+    </aside>*/
+  background: url("https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2012/09/hero-overlay2.png") no-repeat 0px -10px #509EA8;
+  background-size: cover;
+}
+#header h1 {
+  text-align: center;
+  padding: 43px;
+  color: white;
+  font-size: 45px;
+}
+
+
+/******************** CONTENT STYLES ********************/
+
+#content {
+
+}
+
+
+/******************** MAIN ARTICLE STYLES ********************/
+
+#main {
+  text-align: center;
+}
+#main p {
+  margin: 20px 100px;
+  font-size: 20px;
+  line-height: 30px;
+}
+#main .idea {
+  margin: 0px 0px 100px;
+}
+
+
+/******************** TIPS STYLES ********************/
+
+#tips {
+  width: 396px;
+  border-left: 3px solid rgba(80, 158, 168, 0.47);
+}
+#tips h2 {
+  padding: 10px;
+}
+#tips p {
+  font-size: 15px;
+}
+#tips ul {
+  list-style: none;
+}
+#tips li p {
+  padding-left: 10px;
+}
+
+
+/******************** FOOTER STYLES ********************/
+
+#footer {
+  background: #e7e7e7;
+  clear: both;
+  text-align: center;
+  overflow: visible;
+  color: gray;
+}
+#footer div {
+  padding: 30px;
+  margin-left: 50px;
+}
+#footer ul {
+  list-style: none;
+}
+#footer ul li {
+  display: inline-block;
+  width: 100px;
+  float: left;
+}
+#footer ul li span {
+  padding: 10px;
+}
+#footer h5 {
+  color: #bbbbbb;
+  padding: 10px;
+}

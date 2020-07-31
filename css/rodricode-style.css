@@ -1,0 +1,36 @@
+body{
+  background-color: pink;
+  font-family: 'Indie Flower', cursive;
+}
+/****** Header ******/
+h1{
+  border: 10px dotted black;
+  text-align: center;
+  font-size: 40px;
+}
+/***** body *****/
+section{
+  text-align: center;
+  margin-left: 300px;
+}
+section h4{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.advice{
+  float: left;
+  width: 400px;
+  height:200px;
+  margin: 100px;
+}
+.role{
+  float: left;
+  width: 400px;
+  height:200px;
+  margin: 100px;
+}
+/***** Footer *****/
+footer{
+  margin-top: 700px;
+}

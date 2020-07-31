@@ -1,0 +1,51 @@
+/**** MAIN STYLES***/
+body {
+  background: #B6F2F2;
+  font-family: 'Raleway', sans-serif;
+}
+hr {
+  height: 2px;
+  border: none;
+  color: #F25764;
+  background-color: #F25764;
+}
+/*** grid ***/
+section {
+  width: 75%;
+  margin: 0 auto;
+
+}
+
+/*** HEADER ***/
+header {
+  width: 75%;
+  margin: 0 auto;
+  background: #F25764;
+  font-family: "Shadows Into Light", sans-serif;
+  color: #B6F2F2;
+}
+a {
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px 10px 0px 10px;
+  color: inherit;
+}
+a:hover {
+  color: white;
+}
+h1 {
+  padding: 0px 25px 25px 25px;
+}
+/*** MAIN***/
+div {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+footer {
+  width: 74%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Shadows Into Light",sans-serif;
+  font-size: 32px;
+  color: #F25764;
+}

@@ -1,0 +1,132 @@
+h1 {
+	font-family: 'Bree Serif', serif;
+	font-size: 55px;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: 8px;
+}
+
+h2 {
+	font-family: 'Fahkwang', sans-serif;
+    font-size: 15px;
+    color: #696969;
+}
+
+
+h4 {
+	font-family: 'Fahkwang', sans-serif;
+	font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 20px;
+    
+}
+
+h3 {
+	font-family: 'Fahkwang', sans-serif;
+	font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: justify;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+header {
+    background: #dddddd;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+span {
+	color: #667292;
+	font-size: 60px;
+	font-family: 'Anton', sans-serif;
+}
+
+a {
+	font-family: 'Fahkwang', sans-serif;
+    font-size: 15px;
+    color: #696969;
+    text-decoration: none;
+}
+
+a:hover {
+	color: #667292;
+}
+
+section {
+	overflow: auto;
+}
+
+aside {
+	float: left;
+
+	
+}
+
+div {
+	border: 1px solid gray;
+	height: 800px;
+}
+
+.box-lg {
+
+    width: 680px;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px 0 20px 0;
+
+}
+
+.design-one {
+	background: #667292;
+	float: right;
+}
+
+.box-sm {
+   
+    width: 680px; 
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px 0px 20px 60px;
+    
+}
+
+.design-two {
+	background: #696969;
+	clear: both;
+}
+
+footer {
+	clear: both;
+	background: #dddddd;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+
+
+
+}
+
+
+
+
+
+
+
+
+

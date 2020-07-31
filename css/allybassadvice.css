@@ -1,0 +1,37 @@
+body {
+  background-color: mintcream;
+}
+
+h1 {
+  font-family: "impact", Charcoal, sans-serif;
+  color: hotpink;
+}
+
+h4 {
+  font-family: "lucida console", Monaco, monospace;
+  font-variant: small-caps;
+  font-size: 20px;
+  text-align: center;
+  color: deeppink;
+
+}
+
+p {
+  font-family: "verdana", Geneva, sans-serif;
+  color: pink;
+
+}
+
+footer p {
+  color: salmon;
+  text-align: right;
+}
+.allys-advice {
+  padding:  25px 50px 0px 50px;
+}
+.advice {
+  width: 800px;
+}
+footer {
+  width: 800px;
+}

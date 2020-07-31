@@ -1,0 +1,58 @@
+/***** BASE STYLES *****/
+
+body {
+    color: #2b2b2b;
+    font-family: 'Lustria', sans-serif;
+    background: #ee9ca7;  /* fallback for old browsers */;
+    background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */;
+    background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+
+/***** HEADER *****/
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: 000000;
+    font-family: 'Lustria', serif;
+    font-size: 35px;
+    font-variant: small-caps;
+    font-weight: 500;
+    padding: 40px 0 22px;
+
+}
+
+header h1 span {
+    color: #ffffff;
+    font-family: 'Parisienne', cursive;
+    font-size: 45px;
+    font-variant: normal;
+    font-weight: 500;
+    text-transform: lowercase;
+}
+
+/***** ADVICE *****/
+
+.advice h4{
+  color: #034f84;
+  font-family: 'Lustria', serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 8px 0 8px 0;
+  text-transform: uppercase;
+}
+
+.advice p span {
+  color: #ffffff;
+  font-family: 'Parisienne', cursive;
+  font-size: 27px;
+}
+
+/***** FOOTER *****/
+
+footer {
+  padding-top: 30px;
+  color: #92a8d1;
+}
