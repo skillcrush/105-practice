@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Playfair Display', serif;
+    background: #CFCFEA;
+}
+
+h1 {
+
+    color: #575A4B;
+    text-align: center;
+}
+h4 {
+    font-size: 24px;
+    font-style: bold;
+    text-align: center;
+}
+.quote-credit {
+    font-style: italic;
+    font-weight: 400;
+}
+
+p {
+
+    text-align: center;
+    color: #575A4B;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
