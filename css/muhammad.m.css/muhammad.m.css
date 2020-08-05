@@ -1,0 +1,10 @@
+/*****Base Styles*****/ 
+body { 
+    font-family: 'Assistant', 'Helvetica', sans-serif;]
+    margin: 0 auto; 
+}
+
+/*****HEADER*****/
+header h1 {
+        font-size: 5px;  
+}
