@@ -1,5 +1,7 @@
 /***** BASE STYLES *****/
-
+.container {
+    width: 500px
+}
 body {
     font-size: 16px;
     padding: 1em;
