@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #1d9f76;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #6d2f91;
+}
+
+p {
+  font-family: 'Merienda', cursive;
+}
+
+a {
+    text-decoration: none;
+    color: #6d2f91;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

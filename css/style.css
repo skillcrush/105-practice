@@ -4,7 +4,7 @@ body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background-color: #faf5f5;
+    background: #faf5f5;
 }
 
 h1 {
@@ -12,6 +12,7 @@ h1 {
     color: #333;
     margin-top: 1em;
 }
+
 h4 {
     font-size: 1.5em;
     font-weight: bold;
