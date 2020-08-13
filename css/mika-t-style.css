@@ -1,0 +1,49 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Inconsolata', monospace;
+    font-size: 16px;
+    padding: 1em;
+    margin: 60px 20px 20px 20px;
+    background: #f7eded;
+    background-image: url ("https://images.unsplash.com/photo-1493612276216-ee3925520721?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80");
+}
+span {
+    color: #A1A1A1;
+    }
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.25em;
+    color: #6b666;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #D9D9D9;
+    text-align: center;
+}
+.Focus-advice {
+    background:white;
+    border-radius: 25px;
+    padding: 20px 20px 20px 20px;
+
+}
+.Building-focus {
+    background:white;
+    border-radius: 25px;
+    padding: 20px 20px 20px 20px;
+}
+a {
+    text-decoration: none;
+    color: #545761;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: #9FA9C7; 
+}
