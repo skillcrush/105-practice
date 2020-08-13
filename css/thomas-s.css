@@ -1,0 +1,49 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #5CDB95;
+    font-family:'Gothic A1', sans-serif
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #EDF5E1;
+    margin-top: 1em;
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+}
+
+h1 span {
+  font-size: 2em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #05386B;
+    font-family: 'Mallanna', sans-serif;;
+}
+
+p span {
+  font-weight: bold;
+}
+
+
+a {
+    text-decoration: none;
+    color: #05386B;
+}
+
+a span {
+  font-family: 'Caveat', cursive;
+  font-size: 21px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    font-weight: bold;
+}
