@@ -1,0 +1,17 @@
+body {
+        background-color: beige;
+        font-family: 'Lemonada', cursive;
+        margin: 0 30px;
+}
+
+
+span {
+        text-transform: capitalize;
+        color: brown;
+}
+
+
+h4 {
+        color: blue;
+        font-weight: bold;
+}
