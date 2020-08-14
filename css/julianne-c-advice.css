@@ -1,0 +1,55 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+h1 {
+    font-size: 2.25em;
+    font-weight: 600;
+    color: #4d0028;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    color: #ff80aa;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+span {
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: bold;
+  color: #ff80aa;
+}
+
+p {
+  color: #4d0028;
+  font-family: 'Roboto Slab', serif;
+}
+
+a {
+    border-style: solid;
+    border-color: #ff80aa;
+    color: #ff80aa;
+    font-weight: bold;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+div {
+  background: #f9f9d2;
+  padding: 50px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
