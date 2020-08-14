@@ -1,0 +1,48 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: darksalmon;
+    font-family: Georgia, serif;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: darkslategray;
+    margin-top: 1em;
+    text-align: center;
+    padding: 40px 50px;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: indianred;
+}
+
+a {
+    text-decoration: none;
+    color: darkseagreen;
+    background-color: white;
+    padding: .5em;
+    border: solid 2px darkseagreen;
+}
+
+a:hover {
+    background-color: beige;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.section {
+    border: solid 2px darkseagreen;
+    margin-bottom: 40px;
+    padding: 0 20px;
+    background: white;
+}
