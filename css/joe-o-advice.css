@@ -1,0 +1,25 @@
+body{
+	color: #fff;
+	font-style: normal;
+	background-color: #000;
+}
+
+header a{
+	color: yellow;
+}
+
+ h1{
+	color: gray;
+	font-size: 48px;
+	font-variant: small-caps;
+
+}
+
+h4 {
+	color: yellow;
+}
+
+.advice {
+	padding: 0px 50px;
+	font-family: helvetica;
+}
