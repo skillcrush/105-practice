@@ -1,0 +1,61 @@
+header a {
+  color: grey;
+  font-family: 'Abril Fatface', cursive;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: grey;
+  font-size: 55px;
+  text-align: center;
+  padding: 20px 40px;
+  margin: 30px;
+}
+
+h1 span {
+  color: #f78478;
+  font-family: 'Clicker Script', cursive;
+  font-size: 65px;
+}
+
+h4 {
+  color: grey;
+  font-family: Arial, sans-serif;
+  font-size: 31px;
+  margin: 33px 0 15px 0;
+  padding: 1rem 0 2rem 0;
+  text-align: center;
+}
+
+h4 span {
+  color: #f78478;
+  font-family: 'Clicker Script', cursive;
+  font-size: 45px;
+  font-weight: 700;
+}
+
+.mihaela-advice {
+  width: 80%;
+  margin: 0, auto;
+  background: #f7f7f7;
+}
+
+.advice {
+  padding: 0 20px;
+}
+
+.advice p {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 18px 0;
+}
+
+footer {
+  color: #f78478;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 24px;
+}
