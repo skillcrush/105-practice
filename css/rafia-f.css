@@ -1,0 +1,35 @@
+*
+{
+    color:blanchedalmond;
+    background-color: black;
+    padding: 25px;
+    
+}
+
+.skillcrush-advice {
+    text-align: center;
+} 
+
+h1 {
+    font-family:'Bree Serif', serif;
+    font-size: 55px;
+}
+
+h4 {
+    color: white;
+    text-decoration: underline;
+    letter-spacing: 4px;
+}
+
+.advice {
+    font-family: 'Playball', cursive;
+    font-size: 30px;
+    line-height: 30px;
+
+}
+
+#special-text {
+    color: red;
+    font-family: monospace;
+    font-size: 40px;
+}
