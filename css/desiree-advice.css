@@ -1,0 +1,38 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Barlow', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    background-color: #bfbfbf;
+    color: white;
+}
+
+/***** HEADER *****/
+header a {
+  color: #C28285;
+}
+
+header h1 {
+  font-size: 40px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  text-align: center;
+  color: #C28285;
+}
+
+/***** ADVICE *****/
+.advice {
+    padding: 10px 40px;
+}
+
+.advice h4 {
+  font-size: 40px;
+  font-family: 'Lobster Two', cursive;
+  color: #C28285;
+  font-style: italic;
+}
+.advice p span {
+  font-style: bold;
+  color: #C28285;
+}

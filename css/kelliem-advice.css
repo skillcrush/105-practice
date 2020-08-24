@@ -1,0 +1,25 @@
+.kelliem-advice {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    background: #4d88ff;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+h4 {
+    font-size: 24px;
+    color: #000000;
+}
+
+.advice p {
+    font-size: 16px;
+    color: #4d88ff;
+}
+
+footer p {
+    font-size: 12px;
+    color: #000000;
+}

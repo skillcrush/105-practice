@@ -1,0 +1,33 @@
+
+body {
+	background-color: lightblue;
+	font-family:'Cedarville Cursive', cursive;
+}
+
+
+.skillcrush-advice {
+width:80%;
+margin:0 auto;			
+}
+
+.advice{
+	font-size:140%;
+}
+
+
+h1,h2,h3,h4 {
+	color:beige;
+	font-family:Arial;
+}
+
+h1 {
+	text-decoration:underline;
+}
+
+span.highlight{
+	font-style:italic;
+	color:lightgreen;
+	background-color:black;
+	border-radius:5px;
+	padding:2px;
+}

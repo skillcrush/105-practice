@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+    width: 1200px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    border-top: 4px double blue;
+    border-bottom: 4px double blue;
+    padding: 20px;
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    line-height: 3em;
+}

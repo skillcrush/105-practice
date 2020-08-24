@@ -1,0 +1,15 @@
+section  {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 60vw;
+  margin: auto auto;
+
+
+}
+
+h4, h1 {
+  text-align: center;
+
+  
+}

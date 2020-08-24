@@ -1,0 +1,33 @@
+body {
+	background: ##f7f9f8;
+	font-family: "georgia", sans-serif;
+}
+
+.shelly-advice {
+	color: #a2d8d9;
+	padding: 25px;
+	margin: 0 50px 0 50px;
+	}
+
+h1{
+	font-size: 30px;
+	color: #008181;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+h4 {
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 20px;
+	color: #e5b0b1;
+	text-align: center;
+	font-weight: bold;
+}
+
+footer {
+	font-size: 10px;
+	text-align: center;
+}

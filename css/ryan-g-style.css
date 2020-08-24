@@ -1,0 +1,70 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #21360d;
+}
+h1, h4 {
+  font-family: 'Lora', serif;
+}
+
+h1 {
+    font-size: 4.25em;
+    font-weight: bold;
+    margin-top: 1em;
+    color: #f9ca83;
+}
+h1 span {
+  color: #b87e12;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+p {
+  font-family: 'Poppins', sans-serif;
+  color: #14171e;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #f9ca83;
+}
+a:hover {
+  color: #b87e12;
+}
+header a {
+  position: relative;
+  left: 20px;
+}
+.headline {
+  width: 75%;
+  margin: auto;
+  text-align: left;
+}
+
+.confusion, .disbelief {
+  width: 75%;
+  margin: 0 auto;
+  padding: 40px;
+}
+.confusion {
+  background: #f9ca83;
+}
+.confusion h4 {
+  color: #b87e12;
+}
+.disbelief {
+  background: #b87e12;
+}
+.disbelief h4 {
+  color: #f9ca83;
+}
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    text-align: center;
+    padding: 1em;
+    margin: 0 auto;
+    background: #0199A3;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Monoton', cursive;
+    font-weight: lighter;
+    color: white;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

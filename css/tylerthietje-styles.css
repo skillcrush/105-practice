@@ -1,0 +1,80 @@
+/*********HEADER*******************/
+
+header {
+	background-color: gray;
+	font-family: 'Orbitron', sans-serif;
+	padding: 20px 0px;
+	text-align: right;
+	text-decoration: none;
+	width: 100%;
+}
+
+h1 {
+	/*
+	background-image: url(../images/advice-banner.png);*/
+	background-color: black;
+	color: white;
+	font-family: 'Bangers';
+	font-size: 48px;
+	letter-spacing : 5px;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	padding-top: 140px;
+	padding-bottom: 140px;
+
+}
+
+/********BODY**********************/
+
+.confusion h4, .disbelief h4 {
+	font-family: 'Bangers';
+	font-size: 20px;
+	letter-spacing: 3px;
+	text-align: center;
+
+}
+
+p {
+	font-family: 'Orbitron', sans-serif;
+	line-height: 25px;
+	letter-spacing: 2px; 
+	text-align: justify;
+}
+
+#advice {
+	background-color: black;
+	clear: both;
+	height: 100px;
+	text-align: center;
+	width: 100%;
+}
+
+#container {
+	margin: 0 auto;
+	width: 1200px;
+	clear: both;
+
+}
+
+.confusion, .disbelief {
+	float: left;
+	height: auto;
+	padding: 15px 30px;
+	margin: 5px;
+	width: 500px;
+
+}
+
+/*********FOOTER********************/
+
+footer {
+	background-color: #D3D3D3;
+	clear: both;
+	padding: 10px;
+}
+
+footer p {
+		text-align: center;
+
+}

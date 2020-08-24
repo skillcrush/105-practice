@@ -1,0 +1,30 @@
+/***BASE STYLES***/
+
+body {
+  font-family: Georgia;
+}
+
+/***BODY***/
+
+.camerons-advice h1 {
+  color: #ff0066;
+  font-size: 36px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.advice h4 {
+  color: #88cc00;
+  font-size: 30px;
+  line-height: 18px;
+}
+
+.advice p {
+  font-size: 18px;
+}
+
+footer p {
+  color: #ff0066;
+  font-size: 16px;
+  text-align: center;
+}
