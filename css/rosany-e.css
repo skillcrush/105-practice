@@ -1,0 +1,34 @@
+body {
+  color: #50524F;
+  background-color: #FEF2CD;
+  font-family: 'Raleway', sans-serif;
+  margin: 30px;
+}
+
+header {
+  margin-bottom: 60px;
+}
+
+header, footer {
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, footer {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+p {
+  line-height: 1.5;
+}
+
+footer {
+  margin-top: 100px;
+}
