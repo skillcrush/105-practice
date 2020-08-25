@@ -1,0 +1,57 @@
+.skillcrush-advice {
+   width: 1200px;
+   margin: 0 auto;
+}
+
+#main-page {
+    float: right;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 36px;
+    clear: both;
+    padding: 0 150px;
+}
+
+#greeting {
+    background-color: aquamarine;
+    padding: 0 10px 0 10px;
+}
+
+#hi {
+    font-weight: 700;
+}
+
+#kyle {
+    font-family: 'Galada', cursive;
+    font-weight: 400;
+    text-transform: lowercase;
+    font-size: 42px;
+}
+
+.advice {
+    font-family: 'Oswald', sans-serif;
+    background-color: lightgray;
+    line-height: 150%;
+    padding-bottom: 30px;
+}
+
+h4 {
+    color: darkorchid;
+    font-size: 28px;
+    background-color: white;
+    padding: 15px 30px;
+    border: 5px solid lightgray;
+}
+
+p {
+    padding: 0 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
