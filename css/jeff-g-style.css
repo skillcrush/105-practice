@@ -1,0 +1,40 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #e4f9f5;
+    text-align: center;
+    width: 800px;
+}
+
+h1 {
+    font-family: "Lobster";
+    font-size: 2.25em;
+    color: #11999e;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: "Lobster";
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #11999e;
+}
+
+a {
+    font-family: "Roboto";
+    text-decoration: none;
+    color: #30e3ca;
+}
+
+p {
+    color: #40514e;
+    font-family: "Roboto";
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
