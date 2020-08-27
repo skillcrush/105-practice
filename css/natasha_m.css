@@ -1,0 +1,104 @@
+
+.skillcrush-advice {
+    background-color: lightgray;
+}
+
+a {
+    color: purple;
+}
+
+a:hover {
+    color:white;
+}
+
+body {
+    font-size: 24px;
+}
+
+h1{
+    padding-left: 200px;
+}
+
+.hello {
+    color:blueviolet;
+    font-size: 102px;
+    background-color:white;
+    width: 1200px;
+    height: 40px;
+    opacity: 20%;
+}
+
+h1 span{
+    font-size: 28px;
+    color:slateblue;
+    text-transform: small-caps;
+}
+
+h2 {
+    padding-left: 400px;
+}
+
+h2 p {
+    font-size: 32px;
+    color:purple;
+}
+
+h2 span {
+    color:white;
+    font-variant:small-caps;
+}
+
+.advice {
+    line-height: 24px;
+}
+
+h4 {
+    font-weight: 600;
+}
+
+h4 span{
+    font-size: 28px;
+    color: purple;
+    font-variant: small-caps;
+}
+
+.p {
+    font-size: 16px;
+}
+
+.right {
+    background-color: blue;
+    width: 300px;
+    height: 10px;
+    opacity:10%;
+    margin-left: 350px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.izquierda {
+    background-color: orchid;
+    width:300px; 
+    height: 20px;
+    opacity:20%;
+    margin-left: 200px;
+    
+}
+
+.footer {
+    background-color: blueviolet;
+    width: 400px;
+    margin-left: 900px;
+    height: 30px;
+    opacity:20%;
+}
+
+footer p {
+    text-align: center;
+}
+
+.copy {
+    font-variant: small-caps;
+}
