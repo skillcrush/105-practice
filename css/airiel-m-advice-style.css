@@ -2,26 +2,37 @@
 
 body {
     font-size: 16px;
-    padding: 1em;
+    padding: 3em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: #CC0033;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
     font-size: 2.25em;
-    color: #333;
-    margin-top: 1em;
+    color: #ffffff;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    text-transform:uppercase;
 }
 
 h4 {
     font-size: 1.5em;
+    line-height: 130%;
     font-weight: bold;
-    color: #f16059;
+    color: #ffffff;
+    text-transform:uppercase;
+}
+
+p {
+    color: #ffffff;
+    font-size: 1.25em;
+    line-height: 150%;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: #ffffff;
 }
 
 footer {
