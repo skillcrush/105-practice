@@ -1,0 +1,105 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 10px;
+    margin-top: 20px;
+    
+}
+
+
+h4 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.full-width{
+    
+    overflow: auto;
+    clear: both;
+}
+
+
+img{
+    max-height: 100%;
+    padding: 10px;
+    max-width: 100%;
+}
+
+/***** HEADER *****/
+
+.box-left{
+    float: left;
+    display: inline;
+    width: 500px; 
+    height: 400px;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.container-1{
+    float: left;
+    width: 600px;
+    height: 400px;
+    box-sizing: border-box;
+    margin: 5px;
+
+
+
+
+}
+
+
+.container-2{
+    float: left;
+    width: 600px;
+    height: 400px;
+    box-sizing: border-box;
+    display: inline;
+    margin: 20px;
+    clear: both;
+}
+
+
+.box-right{
+    float: left;
+    width: 500px; 
+    height: 380px;
+    box-sizing: border-box;
+    margin: 70px 0;
+}
+
+.container-2 a{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.footer {
+    float: left;
+    
+    clear: both;
+    overflow: auto;
+
+}
+
+
+.footer p{
+    text-align: center;
+    font-weight: bold;
+    justify-content: center;
+    display: inline;
+}
+
+
+
+
+
