@@ -1,0 +1,53 @@
+body {
+    font-family: 'Krub', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #4f4f4f
+    margin-top: 1em;
+    text-align: center;
+    border: 
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #59c6f1;
+}
+
+a {
+    text-decoration: none;
+    color: #787cf5;
+}
+
+.advice-one {
+    border: 5px;
+    border-style: outset;
+    margin: 20px;
+    padding: 10px;
+}
+
+.advice-one h4 {
+    text-align: center;
+}
+
+.advice-two {
+    border: 5px;
+    border-style: outset;
+    margin: 20px;
+    padding: 10px;
+}
+
+.advice-two h4 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
