@@ -1,0 +1,51 @@
+/* BASIC STYLES */
+
+body {
+    background-color: ivory;
+    font-family: 'Bitter', serif;
+}
+
+
+/* HEADER */
+
+.skillcrush-advice header {
+    margin: 50px;
+}
+
+.skillcrush-advice a {
+    color: #006699;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.skillcrush-advice h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* SECTION */
+
+.advice {
+    margin: 50px;
+    padding-bottom: 150px;
+}
+
+.advice h4 {
+    font-size: 18px;
+    border-bottom: 1px solid black;
+}
+
+.advice p {
+    font-size: 14px;
+}
+
+/* FOOTER */
+
+#content {
+    background-color: white;
+    font-size: 12px;
+    font-weight: bold;
+    height: 50px;
+    padding: 20px;
+}
