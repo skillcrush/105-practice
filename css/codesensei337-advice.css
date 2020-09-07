@@ -1,0 +1,110 @@
+/*** BASE STYLES ***/
+html {
+    background      : url("https://preview.ibb.co/fzWTZJ/flowers1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size : cover;
+    color           :#854c8a;
+  }
+  
+  /*** GRID STYLES***/
+  .full-width {
+    margin          : 0 auto;
+    width           : 1200px;
+  }
+  
+  .half-width {
+    float           : right;
+    padding-left    : 220px;
+    width           : 580px;
+  }
+  
+  /*** HEADER SECTION ***/
+  header {
+    text-align      : right;
+  }
+
+  h2 {
+    font-family     : 'Great Vibes', cursive;
+    text-align      : center;
+  }
+  
+  header span {
+    font-size       : 12px;
+  }
+  
+  /*** BODY ***/
+  
+  /*** Body Grid ***/
+  #anon .full-width {
+    padding         : 10px 0px;
+  }
+  
+  #first-two .full-width {
+    padding         : 15px 0px;
+  }
+  
+  #last-two .full-width {
+    padding         : 15px 0px;
+  }
+  
+  #epp-led .full-width {
+    clear           : both;
+    padding         : 10px 0px;
+  }
+  
+  /*** Body Styles ***/
+  #anon {
+    text-align      : center;
+  }
+  
+  #anon span {
+    font-family     : 'Great Vibes', cursive;
+    font-size       : 60px;
+    font-weight     : bold;
+  }
+  
+  #time {
+    font-family     : 'Chivo', sans-serif;
+    font-size       : 25px;
+  }
+  
+  #pace {
+    font-family     : 'Roboto', sans-serif;
+  }
+  
+  #pace p {
+    font-size       : 25px;
+  }
+  
+  #learning-strategies {
+    font-family     : 'Roboto', sans-serif;
+  }
+  
+  #learning-stragegies p {
+    font-size       : 25px;
+  }
+  
+  #practise {
+    font-family     : 'Chivo', sans-serif;
+    font-size       : 25px;
+  }
+  
+  #epp-led {
+    text-align      : center;
+  }
+  
+  #epp-led span {
+    font-family     : 'Great Vibes', cursive;
+    font-size       : 60px;
+    font-weight     : bold;
+  }
+  
+  /*** FOOTER SECTION ***/
+  footer {
+    clear           : both;
+    font-family     : 'Great Vibes', cursive;
+    font-weight     : bold;
+    text-align      : center;
+  }
+    
