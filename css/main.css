@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    color: grey;
+    background-color: mistyrose;
+    margin: 50px;
+    font-size: 20px;
+}
+
+#container {
+  width: 1200px;
+  margin: auto;
+}
+
+a {
+  color: #cc6699;
+}
+
+h1 {
+  border: 20px 20px 20px 20px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h4 {
+  color: #cc6699;
+  font-size: 24px;
+  text-transform: capitalize;
+}
+p {
+  text-align: justify;
+}
+
+footer p {
+  text-align: center;
+}
