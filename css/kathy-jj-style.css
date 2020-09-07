@@ -79,13 +79,19 @@ section {
   background: #dde3e9;
   clear: both;
   margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: nowrap;
 
 }
 
 section .thirds{
   width: 30%;
   margin: 20px;
-  float: left;
+  flex-wrap: nowrap;
+
 }
 
 
