@@ -1,0 +1,24 @@
+.mary-advice {
+    background-color: #C6DABF;
+    color: #114B5F;
+    font-family: 'Nunito Sans', sans-serif;
+    /* text-align: center; */
+    padding: 10px;
+    width: 1200px;
+}
+
+.mary-advice span, a, footer {
+    color: #1A936F;
+    font-family: 'Pacifico', cursive;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+.advice {
+
+}
+
+/* font-family: 'Nunito Sans', sans-serif;
+font-family: 'Pacifico', cursive; */

@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 16px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.advice {
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    background: #2A756D;
+    padding: 2em;
+    border-radius: 15px 50px 30px 5px;
+}
+
+
+.advice h3 {
+    font-family: 'Noto Sans TC', sans-serif;
+    width: 100%;
+    font-size: 1.75em;
+    color: #DCF5F2;
+
+}
+
+.advice p {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: lighter;
+    width: 100%;
+    color: #DCF5F2;
+}
+
+

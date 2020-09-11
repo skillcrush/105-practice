@@ -2,26 +2,29 @@
 
 body {
     font-size: 16px;
+	font-family: 'Lato', sans-serif;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: #b8a9c9;
 }
 
 h1 {
     font-size: 2.25em;
-    color: #333;
+	font-family: 'Dancing Script', cursive;
+    color: #622569;
     margin-top: 1em;
 }
 
 h4 {
     font-size: 1.5em;
+font-family: 'Dancing Script', cursive;
     font-weight: bold;
-    color: #f16059;
+    color: #5b9aa0;
 }
 
 a {
     text-decoration: none;
-    color: #bb433d;
+    color: #5b9aa0
 }
 
 footer {

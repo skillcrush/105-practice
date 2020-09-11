@@ -1,0 +1,63 @@
+/***** BASE STYLES *****/
+.container {
+    width: 500px;
+    margin: auto;
+}
+body {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: gray;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h1 span {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 50px;
+    font-weight: normal;
+    color: #f16059;
+}
+h4 {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 30px;
+    font-weight: normal;
+    color: #f16059;
+    text-align: center;
+}
+
+p {
+    color: gray;
+}
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+.button {
+    background-color: #f16059;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    text-align: center;
+    transition-duration: 0.4s;
+    margin: auto;
+    padding: 10px 24px;
+}
+.button:hover {
+    background-color: white;
+    color: #f16059;
+}
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+footer p{
+    color: #f16059;
+}

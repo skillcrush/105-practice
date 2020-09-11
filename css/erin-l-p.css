@@ -4,13 +4,14 @@ body {
     font-size: 16px;
     padding: 1em;
     margin: 0 auto;
-    background: #faf5f5;
+    background: lightSlategray;
 }
 
 h1 {
     font-size: 2.25em;
-    color: #333;
+    color: lightgoldenrodyellow;
     margin-top: 1em;
+    text-align: center;
 }
 
 h4 {
@@ -22,6 +23,17 @@ h4 {
 a {
     text-decoration: none;
     color: #bb433d;
+}
+
+.advice {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+#quote {
+    color: lightgoldenrodyellow;
+    font-size: 24px;
 }
 
 footer {
