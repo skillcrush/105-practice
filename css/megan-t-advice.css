@@ -1,0 +1,39 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    font-family: 'Aleo', serif;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf9f5;
+}
+
+h1 {
+    font-size: 50px;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+    border: solid
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #1a80c4;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 27px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #291b7c;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
