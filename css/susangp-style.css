@@ -1,0 +1,42 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #f7dc6f ;
+}
+
+#wrapper {
+    background-color: #ffff00;
+    border: 30px solid #ffffff;
+    width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+h1 {
+    font-family: 'Ranchers', cursive;
+    font-size: 2.25em;
+    color: #333;
+    letter-spacing: 1.5px;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Ranchers', cursive;
+    font-size: 1.5em;
+    color: #d35400;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
