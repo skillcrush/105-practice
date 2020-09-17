@@ -1,0 +1,55 @@
+body {
+  background: #FDEDEC;
+  font-family: 'Playfair Display', serif;
+  width: 1200px;
+  height: auto;
+  color: grey;
+  overflow: auto;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.navigation a {
+    color: #FDEDEC;
+    text-transform: capitalize;
+    font-style: italic;
+    background: darkseagreen;
+}
+
+header h1 {
+  color: #FDEDEC;
+  margin-top: 50px;
+  font-family: 'Yeseva One', cursive;
+  text-align: center;
+  padding: 50px;
+  background: darkgrey;
+  font-size: 45px;
+  line-height: 70px;
+}
+
+.advice {
+  width: 700px;
+  align-items: center;
+  margin: auto;
+}
+.advice h4 {
+  color: darkseagreen;
+  text-align: center;
+  padding: 30px;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+.advice p {
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+}
+
+footer {
+  color: darkseagreen;
+  text-align: center;
+  clear: both;
+  padding: 50px;
+  font-style: italic;
+}
