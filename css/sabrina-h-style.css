@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://i.postimg.cc/kgkKdX5q/small-night.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+h1, h4 {
+    color: white;
+}
