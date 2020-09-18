@@ -1,0 +1,69 @@
+h1 {
+  font-family: 'Oswald', sans-serif;
+  padding: 17px;
+}
+
+header a {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 100;
+  padding: 3px;
+}
+
+header {
+  display: block;
+  color: black;
+  background-color: white;
+}
+
+header span {
+  color: #993366;
+}
+
+body {
+  background-color: black;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+p {
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200px;
+}
+
+h4 {
+  color: white;
+  font-family: 'Oswald', sans-serif;
+}
+
+.advice {
+	margin: 0 auto;
+	clear: both;
+}
+
+.advice p {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+}
+
+.section-one {
+  margin-right: 22px;
+}
+
+.section-one, .section-two {
+  width: 45%;
+  height: auto;
+  float: left;
+  display: inline;
+  overflow: inherit;
+}
+
+
+
+footer {
+	height: 50px;
+	text-transform: lowercase;
+	margin: 0 auto;
+	clear: both;
+	text-align: center;
+}

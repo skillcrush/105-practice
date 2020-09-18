@@ -1,0 +1,101 @@
+/********** BASE STYLES ************/
+body {
+text-align: center;
+margin: 0 auto;
+font-family: 'Muli', sans-serif;
+}
+
+
+/********** HEADER STYLES ***************/
+
+header {
+height: 875px;
+font-family: 'Sen', sans-serif;
+background-color: #F0FFF0;
+background-size: cover;
+display: block;
+}
+
+a {
+float: left;
+display: inline-block;
+background: rgba(0, 0, 139, 0.9);
+border-radius: 20px;
+text-decoration: none;
+color: white;
+padding: 10px;
+margin-top: 10px;
+margin-left: 10px;
+}
+
+header h1 {
+height: 875px;
+text-shadow: 7px 7px 0.4em #fff, -7px -7px 0.4em #fff;
+position: relative;
+text-align: left;
+margin: 0 auto;
+color: #00008B;
+font-size: 630px;
+display: block;
+clear: both;
+}
+
+header div {
+height: 200px;
+background-color: black;
+background-size: cover;
+padding: 50px;
+margin-top: -220px;
+display: block;
+position: relative;
+}
+
+header p {
+color: #F0FFF0;
+margin: 70px auto;
+font-size: 50px;
+}
+
+
+/********** SECTION STYLES ******************/
+
+
+section {
+height: 800px;
+position: relative;
+margin: 160px;
+}
+
+h4 {
+margin-top: 40px;
+padding-top: 80px;
+font-family: 'Sen', sans-serif;
+font-size: 38px;
+font-weight: bold;
+}
+
+div #bubble {
+margin-top: 50px;
+background: rgba(240, 255, 240, 0.7);
+border-radius: 20px;
+padding: 20px;
+box-shadow: 15px -15px #00008B;
+}
+
+section p {
+display: inline;
+font-size: 16px;
+margin-top: 20px;
+}
+
+
+/*********** FOOTER STYLES ***********/
+footer {
+display: block;
+max-height: 20px;
+clear: both;
+padding-top: 10px;
+padding-bottom: 40px;
+background-color: #F0FFF0;
+background-size: cover;
+}
