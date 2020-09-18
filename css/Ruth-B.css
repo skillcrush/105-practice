@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    width: 1200px;
+    background: url('../img/Barcelona-gaudi-view.jpg')repeat;
+}
+
+h1, h4{
+    font-family: fantasy;
+    font-weight: bold;
+}
+p {
+    color: teal;
+}
+
+.skillcrush-advice {
+    color: orangered;
+    background-image: url('../img/Barcelona-gaudi-view.jpeg')no-repeat 400px 300px;
+}
+.advice {
+    width: 580px;
+    padding-left: 10px;
+    float: left;
+    border: solid 1px #000000;
+}
+.advice-right{
+    width: 580px;
+    padding-left: 10px;
+    margin: 1px;
+    border: solid 1px #000000;
+    
+}
+footer{
+    clear: both;    
+}
+footer p {
+    color: slateblue;
+}
