@@ -1,0 +1,42 @@
+/*** font-family: 'Grandstander', cursive;
+font-family: 'Inconsolata', monospace;
+font-family: 'Ranchers', cursive; ***/
+
+body {
+  background: #ccffdd;
+  font-family: 'Inconsolata', monospace;
+  overflow: auto;
+}
+
+header {
+  font-family: 'Ranchers', cursive;
+  font-size: 16px;
+  text-align: center;
+}
+h2, h4 {
+  font-family: 'Grandstander', cursive;
+}
+.first, .second, .third, .fourth {
+  width: 300px;
+  height: auto;
+  float: left;
+  border-radius: 22px;
+  padding: 20px 20px;
+}
+
+.first {
+  background-color: #e6ffff;
+}
+.second {
+  background-color: #e6ccff;
+}
+.third {
+  background-color:  #ffcce0;
+}
+.fourth {
+  background-color: #ffebcc;
+}
+footer {
+  clear: both;
+  padding-top: 20px;
+}
