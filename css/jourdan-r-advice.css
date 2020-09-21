@@ -1,0 +1,35 @@
+body{
+    background: #36384c;
+    font-family: 'Open Sans', sans-serif;
+    color: #e9dccd;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+header{
+    font-family: 'Neucha', cursive;
+    color: #e3bab3;;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+h1{
+    font-family: 'Neucha', cursive;
+    color: #e3bab3;;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+h4{
+    font-family: 'Neucha', cursive;
+    color: #849974;
+    font-size: 30px;
+    font-weight: bold; 
+    font-variant: small-caps;
+}
+
+footer{
+    line-height: 100px;
+}
