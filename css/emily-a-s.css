@@ -27,20 +27,28 @@ p {
 /*** HEADER ***/
 
 header {
-  height: 400px;
-  background: url('../img/eas-heading-img.png');
-  background-position: center;
 }
 header a {
   color: #595959;
 }
 
-header h1 {
+.centered {
   font-family: 'Courgette', cursive;
-  font-size: 33px;
+  font-size: 35px;
   color: #4d4d4d;
   text-align: center;
-  padding-top: 135px;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  clear: both;
 }
 
 /*** ADVICE ***/
