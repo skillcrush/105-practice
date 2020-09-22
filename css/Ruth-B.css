@@ -1,7 +1,7 @@
 body {
     text-align: center;
     width: 1200px;
-    background: url('../img/Barcelona-gaudi-view.jpg')repeat;
+   
 }
 
 h1, h4{
@@ -14,7 +14,7 @@ p {
 
 .skillcrush-advice {
     color: orangered;
-    background-image: url('../img/Barcelona-gaudi-view.jpeg')no-repeat 400px 300px;
+    
 }
 .advice {
     width: 580px;
