@@ -1,81 +1,57 @@
 
+@charset "UTF-8";
+/*CSS document*/
+
 /*******BASE STYLES******/
 
-body{
-    width:1200px;
+.Hafsat-advice {
+    width:100%;
+    max-width:960px;
     font-family: 'Handlee', cursive;
-    background-color: #F0F7D4;
+    background: linear-gradient(to bottom, #669999 0%, #009933 100%);
     font-size: 20px;
-    float: left;
     box-sizing: border-box;
     margin: auto;
-    overflow: auto;
 }
 
 a{
     text-decoration: none;
-    color: magenta;
+    color: rgb(68, 0, 255);
 }
 
 .introduction{
-    full-width: 90%;
+    width: 100%;
     float:right;
-    background-color: #F7F0D4;
-    border-right: 5px solid peachpuff;
-}
+    }
 
 .advice{
-    full-width:100%;
-    float:left;
+    width:100%;
     padding-left: 5%;
     padding-right: 5%;
     font-family: 'Josefin Slab', serif;
     clear: both;
-    background-color: peachpuff;
     box-sizing: border-box;
     font-size: 18px;
     text-align:center;
+    float:left;
+    box-sizing: border-box;
+    font-weight: 550;
 }
 
 /******BODY******/
-Header{
-    width: 99.3%;
-    background-color: #B2D732;
-    height:260px;
-    border: 5px solid gold;
-}
-
-img, h1{
-    display: inline-block;
-    vertical-align: middle;
-}
-
-img{
-    height:260px;
-}
-
-
-/*******SECTION******/
 
 h3{
     font-family: 'Dancing Script', cursive;
-}
-
-advice{
-    full-width:100%;
-    float:left;
-    padding-left, padding-right: 100px;
-    font-family: 'EB Garamond', serif;
-    clear: both;
-    background-color: #347B98;
-    box-sizing: border-box;
+    font-size: 30px;
 }
 
 footer{
-    background-color:#110934;
     clear: both;
+    text-align:center;
 }
 
-footer p, h1{
-    color: #FC600A;
+footer p, h3, h4 {
+    color:#347B98;
+    background-color:#110934;
+    width:100%;
 }
