@@ -16,6 +16,11 @@ header {
 h2, h4 {
   font-family: 'Grandstander', cursive;
 }
+.advice {
+  display: flex;
+  justify-content: space-around;
+  align-content: flex-end;
+}
 .first, .second, .third, .fourth {
   width: 300px;
   height: auto;
