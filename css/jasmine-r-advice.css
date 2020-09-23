@@ -1,0 +1,100 @@
+/*grid*/
+body {
+    margin: 0 auto;
+    overflow: auto;
+    width: 85%;
+    background: #f0c0c0;
+}
+
+/*header*/
+#header {
+    font-family: 'Calligraffitti', cursive;
+    font-size: 60px; /*45px*/
+    color: #f7f0f0;  
+}   
+
+a {
+    color: #f7f0f0;
+    margin-top: 33%;
+}
+
+#nav {
+    margin-bottom: 50px;
+    float: right;
+    border-style:inset;
+    padding: 3px;
+}
+
+h1 {
+    
+    padding:100px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    text-transform: uppercase;
+   
+}
+h1 span {
+    color: #f7f0f0;
+    font-family: 'Calligraffitti', cursive;
+
+}
+h2 span {
+    font-family: 'Calligraffitti', cursive;
+    font-size: 45px;
+    color: #f7f0f0;
+    
+}
+
+h2 {
+    font-family: 'Calligraffitti', cursive;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+
+
+/*body*/
+
+.advice {
+    margin-top: auto;
+    margin-bottom: 15em;
+}
+
+p {
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 20px; /*2em*/
+    margin-bottom: 5em;
+}
+
+.main-text {
+
+    font-size: 16px;
+    color: #3f3f40;
+    font-weight: bold;
+   
+}
+
+.gif-position {
+    text-align: center;
+    height: auto;
+    margin: 4px;
+
+}
+
+.gif-border {
+    border-width: 1em;
+
+}
+
+
+/*footer*/
+
+.footer {
+    color: #f7f0f0;
+    border-style: inset;
+    width: 20%;
+    font-size: 1em;
+}
