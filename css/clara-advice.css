@@ -1,0 +1,34 @@
+body {
+  background-color: #blanchedalmond;
+}
+h1 {
+  color: #BF0404;
+  text-align: center;
+  padding-bottom: 30px;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 48px;
+  border: dotted 3px;
+  padding-top: 10px;
+}
+
+h4{
+  color: #730202;
+  text-align: justify;
+  margin: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-weight: normal;
+  font-size: 36px;
+  text-align: center;
+}
+
+p {
+  padding: 10px;
+  line-height: 25px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+footer p {
+  text-align:center;
+}
