@@ -1,0 +1,88 @@
+CSS
+
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background:white;
+    font-family: 'Roboto', sans-serif;
+}
+.advice{
+    border: solid #ffe400 7px;
+    padding: 30px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.amazing{
+    border-bottom: solid #ffe400 7px;
+}
+.breathe{
+    border-bottom: solid #ffe400 7px;
+}
+.curve{
+    border-bottom: solid #ffe400 7px;
+}
+.gold{
+    border-bottom: solid #ffe400 7px;
+}
+.header-img strong{
+    font-size: 300px;
+    text-transform: uppercase;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-right: 200px;
+}
+.corner{
+    font-size: 200px;
+    color: #fc1c5a;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-weight: lighter;
+    margin-top: -550px;
+    margin-left: 400px;
+    margin-bottom: -350px;
+}
+
+h1 {
+    font-size: 35px;
+    color: #333;
+    margin-top: 100px;
+    margin-bottom: 75px;
+    text-align: center;
+}
+span{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fc1c5a;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fc1c5a;
+    font-size: 22px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: #fc1c5a;
+}
+p{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+}
