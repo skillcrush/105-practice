@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 20px;
+    margin: 0 auto;
+    background:url('https://images.theconversation.com/files/223729/original/file-20180619-126566-1jxjod2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #00ff99;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: 10px;
+}
+
+h4 {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 4px black, 0 0 25px blue, 0 0 5px white;
+    color: #00ff99;
+}
+
+p {
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #000000;
+  color: #ffffff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

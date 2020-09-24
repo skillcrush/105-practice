@@ -1,0 +1,57 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.aiperi-advice {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+header {
+    height: 110px;
+    margin: 0 auto;
+}
+
+header h1 {
+	color: #77a466;
+	display: inline-block;
+    margin: 0 auto;
+    padding: 100px 38px;
+}
+
+header a {
+	font-size: 14px;
+    color:#77a466;
+    float: left;
+    padding: 46px 0;
+}
+
+.advice {
+	clear: both;
+	float: left;
+	height: auto;
+    margin: 60px 0;  
+}
+
+.advice h4 {
+	color: #77a466;
+    font-size: 25px;
+    padding: 5px 0;
+    text-align: left;
+}
+
+.advice p {
+	font-size: 16px;
+    padding: 0;
+    line-height: 25px;
+}
+
+footer {
+    border-top: 3px solid #eee;
+    font-size: 14px;
+    clear: both;
+    color: #77a466;
+    margin: 0 auto;
+    text-align: center;
+}
+

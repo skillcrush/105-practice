@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+	width: 600px;
+	font-family: 'Abel', sans-serif;
+}
+
+.chelsea-c-advice {
+	background: #B8FFFB;
+	width: 600px;
+	margin: 0 auto;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #525252;
+	line-height: 26px;
+	margin-bottom: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #A72406;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+	width: 600px;
+	float: left
+}
+
+.advice {
+	background: white;
+	padding: 10px 20px;
+	float: left;
+	width: 400px;
+	overflow: auto;
+	box-sizing: border-box;
+}
+
+aside {
+	width: 200px;
+	padding: 20px 10px;
+	box-sizing: border-box;
+	float: right;
+	text-align: center;
+}
+
+aside span {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 60px;
+}
+
+aside p {
+	text-transform: uppercase;
+	writing-mode: tb-rl;
+	font-size: 60px;
+}
+main {
+	background: white;
+}
