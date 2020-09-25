@@ -1,0 +1,53 @@
+body {
+    background: #c6d9ec;
+}
+header a {
+    text-decoration: none;
+    color: #3d4d5c;
+    font-family: 'Ubuntu';
+}
+
+header h1 {
+    color: #000066;
+    size: 24 px;
+    font-family: 'Ubuntu';
+    padding-left: 20px;
+    padding-top: 30px;
+}
+h1 span {
+  font-family: 'Rock Salt';
+  Color: coral;
+  text-decoration: underline;
+}
+
+.advice {
+    padding: 0px 20px 10px 20px;
+    text-align: justify;
+    line-height: 20px;
+    font-size: 25 px;
+}
+img {
+  width: 400px;
+  padding: 20px;
+  Border: 5px solid #000066;
+  background-color: white;
+}
+.paragraph{
+  width: 900px;
+  float: right;
+  margin-right: 30px;
+}
+h4 {
+    color: #000066;
+    size: 32 px;
+    font-family: 'Ubuntu';
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+p {
+    color: #000066;
+    size: 28px;
+    line-height: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
