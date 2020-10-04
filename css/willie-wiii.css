@@ -1,0 +1,115 @@
+/*===================
+***** Layout *****
+===================*/
+
+html {
+    font-size: 16px;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background: rgb(230, 230, 230);
+    color: rgb(0, 50, 97);
+    font-size: 1em;
+    height: 100%;
+    margin: 0;
+    width: 90%;
+
+/* Flex Properties */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+
+}
+
+header,
+footer {
+    width: 100%;
+
+    /* Flex Properties */
+        display: flex;
+        align-items: center;
+
+}
+
+footer {
+    flex-flow: column wrap;
+    justify-content: center;
+}
+
+header {
+    justify-content: center;
+}
+
+section {
+    /* Flex Properties */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 90%;
+}
+
+/*====================
+***** Typography *****
+====================*/
+h1,
+h4,
+h5,
+p {
+    margin: 0;
+}
+
+h1,
+h4 {
+    font-family: 'Ranchers', cursive;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h4 {
+    font-size: 1.3em;
+    margin-bottom: 30px;
+}
+
+p,
+h5 {
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+/*====================
+***** Images *****
+====================*/
+
+/* Header */
+a img {
+    height: 50px;
+    width: 50px;
+    padding-right: 25px;
+}
+
+/**********************************************/
+
+@media (min-width: 768px) {
+
+    body {
+        color: rgb(83, 0, 82);
+    }
+
+}
+
+/**********************************************/
+
+@media (min-width: 1200px) {
+
+    body {
+        color: rgb(69, 0, 0);
+    }
+
+}
