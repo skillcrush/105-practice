@@ -21,11 +21,11 @@
     background-color: #ddd;
     color: black;
 }
-header a.active {
+.header a.active {
     background-color: #4a959f;
     color: #b0212f;
 }
- .header-right {
+.header-right {
     float: right;
 }
 .main {
