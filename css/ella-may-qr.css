@@ -1,0 +1,67 @@
+/*****grid*****/
+body{
+  background: lightgrey;
+  font-family: 'Lato', sans-serif;
+  border: white solid white;
+}
+
+.skillcrush-advice {
+  width:1200px;
+  margin: 0;
+  overflow:auto;
+  border-bottom: black solid 2px;
+}
+
+.advice {
+  width:600px;
+  overflow:auto;
+  float:left;
+  margin-top: 0px;
+}
+
+.footer {
+  width:1200px;
+  margin: 0;
+  overflow:auto;
+}
+
+/******header*****/
+h1 {
+  margin-top: 100px;
+  padding: 20px 10px;
+}
+nav {
+    float: right;
+    padding: 0px;
+    color: lightgrey;
+    font-size: 25px;
+}
+
+nav ul li a {
+  color:black;
+  font-size: 20px;
+}
+
+/******advice*****/
+.advice h2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  font-variant: normal;
+}
+
+.advice p {
+  line-height: normal;
+  line-height: normal;
+  margin-left: 10px;
+  font-size: medium;
+  padding: 20px 10px
+}
+
+/*****advice second-part*****/
+
+/*****footer*****/
+.footer {
+  text-align: center;
+}

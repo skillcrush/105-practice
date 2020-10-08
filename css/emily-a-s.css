@@ -1,0 +1,83 @@
+
+/*** EMILY S SMITH ***/
+
+/*** DEFAULT STYLES ***/
+
+p {
+  font-family: 'Chathura', sans-serif;
+}
+
+/*** FRAMEWORK ***/
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+  overflow: auto;
+}
+.half-width {
+  width: 600px;
+  float: left;
+  margin:auto;
+}
+.third-width {
+  width: 400px;
+  float: left;
+}
+
+/*** HEADER ***/
+
+header {
+}
+header a {
+  color: #595959;
+}
+
+.centered {
+  font-family: 'Courgette', cursive;
+  font-size: 35px;
+  color: #4d4d4d;
+  text-align: center;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  clear: both;
+}
+
+/*** ADVICE ***/
+
+.half-width h4 {
+  font-family: 'Neucha', cursive;
+  color: #595959;
+  font-size: 18px;
+  text-align: center;
+  padding: 20px 30px;
+}
+
+.half-width p {
+  font-size: 27px;
+  line-height: 30px;
+  text-align: justify;
+  padding: 20px 30px;
+}
+
+span {
+
+}
+
+/*** FOOTER ***/
+
+footer {
+  background: url('../img/.png');
+}
+
+footer p {
+  text-align: center;
+}
