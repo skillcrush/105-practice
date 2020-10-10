@@ -1,0 +1,19 @@
+body {
+        font-family: 'Antic Slab', serif;
+        font-size: 20px;
+        background-color: #ffb3b3;
+}
+
+span {
+        font-size: 70px;
+        color:  #b30059;
+}
+
+img {
+        width: 50%;
+        border: 5px solid #b30059;
+}
+
+#copyright {
+        font-size: 10px;
+}
