@@ -1,0 +1,86 @@
+/***** BASE STYLES *****/
+
+body {
+   font-family: 'IBM Plex Serif', serif;
+   color: #000000;
+   margin: 0 auto;
+}
+
+/***** GRID *****/
+
+.full-width {
+   width: 100%;
+   max-width: 960px;
+   margin: 0 auto;
+   /***** don't think I need this *****/
+   overflow: auto;
+}
+
+/***** HEADER *****/
+
+header {
+   height: 800px;
+   background: url('../img/cathy-h-hero.jpg');
+   background-size: cover;
+   background-position: center;
+}
+
+h1 {
+   font-size: 50px;
+   line-height: 60px;
+   color: #000000;
+   margin: 0 0 0 35px;
+}
+
+h1 span {
+   color: #909590;
+}
+
+a {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   text-decoration: none;
+   text-transform: uppercase;
+   color: #ff6347;
+   line-height: 65px;
+   margin: 0 0 0 35px;
+}
+
+h2 {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 22px;
+   font-weight: bold;
+   text-transform: uppercase;
+   color: #f16059;
+   margin: 30px 0 0 35px;
+
+}
+
+/****** ADVICE ******/
+
+p {
+   font-size: 20px;
+   line-height: 31px;
+   font-weight: 300;
+   margin: 8px 50px 0 35px;
+}
+
+section {
+   padding-top: 10px;
+}
+
+/****** FOOTER ******/
+
+footer {
+   text-align: center;
+   background: #eeeeeb;
+   padding: 1px 0 10px 0;
+   margin: 40px 0 0 0;
+}
+
+footer p {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 16px;
+   color: #909590;
+   text-transform: uppercase;
+}
