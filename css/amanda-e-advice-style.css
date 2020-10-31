@@ -1,0 +1,53 @@
+/**   Font Families used
+'Antic Slab', serif
+'Roboto', sans-serif    **/
+
+/**  Base Style  **/
+body, footer{
+    font-family: 'Roboto', sans-serif;
+    color: #131155;
+    background-color: #c5c5e0;
+}
+
+/**    Navigation Link   **/
+#main-menu a{
+    font-family: 'Roboto', sans-serif;
+    color: #131155;
+    padding:10px;
+    margin:25px;
+    border: #131155 solid 1px;
+    text-decoration: none;
+    float: right;
+    clear: both;
+    font-size:14px;
+    background-color: whitesmoke;
+}
+
+/**    Content Styling   **/
+#page-lead h1{
+    clear: both;
+    margin-bottom: 50px;
+    font-variant: small-caps;
+    color: #131155;
+    font-family: 'Antic Slab', serif;
+    text-align: center;
+}
+
+.advice{
+    margin: 20px 75px;
+    border: #131155 solid 4px;
+    padding: 20px 40px;
+    background-color: whitesmoke;
+}
+
+h4{
+    font-size: 20px;
+    padding-bottom: 15px;
+    color: #131155;
+    font-family: 'Antic Slab', serif;
+    text-align: center;
+}
+footer{
+    margin-top: 30px;
+    margin-left: 100px;
+}
