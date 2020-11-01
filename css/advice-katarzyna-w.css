@@ -1,0 +1,94 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Karla', sans-serif;
+    color: #000000;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: 'BioRhyme', serif;
+}
+
+/***** GRID *****/
+.full-width {
+    width: 80%;
+    margin: 0 0;
+    overflow: auto;
+    }
+
+/***** HEADER *****/
+
+header .full-width {
+    padding: 50px 100px;
+}
+
+header {
+    height: 200px;
+    background-color: #ffd6a5;
+}
+
+header h1 {
+    font-size: 45px;
+    color: #ee4b6a;
+    line-height: 40px;
+}
+
+header h1 span {
+    color: #df3b57;
+}
+
+header a {
+    text-decoration: overline;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ef8354;
+}
+
+nav {
+    float: right;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-right: 50px;
+}
+
+/***** ADVICE *****/
+
+#advice {
+    background-color: #ffffff;
+    text-align: justify;
+}
+
+#advice h2 {
+    color: #0f7173;
+    padding-top:25px;
+}
+
+#advice .full-width {
+    padding: 10px 100px 50px;
+}
+
+#advice p {
+    font-size: 18px;
+    line-height: 30px;
+    color: #000000;
+    text-align: justify;
+}
+
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #ee4b6a;
+}
+
+footer p {
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+}
