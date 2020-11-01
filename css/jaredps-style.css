@@ -1,0 +1,84 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Times', serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
+
+h2, h3, h4 {
+    font-family: 'Dosis', sans-serif;
+}
+
+/***** HEADER *****/
+
+header {
+    padding: 30px 40px;
+    background-color: rgb(235, 235, 235);
+}
+
+header h1 {
+    font-size: 56px;
+    margin-bottom: 0;
+    color: #000000;
+}
+
+header h1 span {
+    color: rgb(4, 56, 134);
+    font-size: larger;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #262730;
+    border: 3px solid #262730;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+header a:hover {
+    background-color :#262730;
+    color: #fff;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+}
+
+.advice h4 {
+    font-size: 36px;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+    color: #CD1F35;
+}
+
+.advice span{
+    color: #007a37
+}
+
+.advice p {
+    font-size: 24px;
+    line-height: 30px;
+    
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+}
+
+footer p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-transform: lowercase;
+}

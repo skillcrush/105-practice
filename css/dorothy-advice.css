@@ -1,0 +1,53 @@
+/****** BASE STYLES *****/
+
+body {
+    background: #cc8b86;
+    margin: 0 auto;
+    font-family: 'Lora', serif;
+}
+
+/***** GRID *****/
+.full-width {
+    margin: 0 auto;
+    overflow: auto;
+    width: 1200px;
+}
+
+.third-width {
+    float: left;
+    width: 400px;
+    border: 2px #aa998f;
+}
+
+header {
+    background: #f9eae1;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    color: #7d4f50;
+    font-size: 2em;
+    padding: 30px 0;
+}
+
+h4 {
+    padding: 0 30px;
+}
+
+p{
+    padding: 0 30px;
+}
+
+footer{
+    text-align: center;
+    background: #d1be9c;
+}
+
+h3{
+    font-family: 'Sansita Swashed', cursive;
+    color: #7d4f50;
+}

@@ -1,0 +1,38 @@
+/*****BASE STYLES*****/
+body {
+    font-family: tahoma, sans-serif;
+    margin: 50px 0 0 150px;
+}
+
+/*****HEADER*****/
+header a {
+    background: #30415d;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+
+header h1 {
+    margin-top: 50px;
+}
+
+span {
+    color: #30415d;
+}
+
+/*****BODY*****/
+h4 {
+    font-size: 18px;
+    color: #30415d;
+    margin: 0;
+}
+
+.advice {
+    width: 800px;
+}
+
+.section {
+    border: #30415d solid;
+    margin-top: 10px;
+    padding: 10px;
+}
