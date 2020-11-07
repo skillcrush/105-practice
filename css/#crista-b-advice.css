@@ -1,0 +1,35 @@
+/*** BASE STYLES ***/
+
+body{
+    font-family: 'Abril Fatface', cursive;
+    color: darkblue;
+}
+
+/*** GRID ***/
+
+.half-width {
+    width: 600px;
+    margin: 0 auto;
+    overflow: auto;
+    float: left;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    color: darkviolet;
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: deeppink;
+}
+
+h4 {
+    font-family: 'Abril Fatface', cursive;
+    color: deeppink; 
+}
+
+a {
+    font-family: 'Abril Fatface', cursive;
+    color: rebeccapurple; 
+}

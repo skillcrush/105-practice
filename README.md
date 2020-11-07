@@ -1,10 +1,16 @@
-# Skillcrush 105
+/*** BASE STYLES ***/
 
-Helloooo, Skillcrushers!
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+}
 
-This repository exists so you can practice cloning GitHub repos, and also forking GitHub repos and submitting pull requests.
+/*** GRID ***/
 
-Have fun!
-
-
+.half-width {
+    width: 600px;
+    margin: 0 auto;
+    overflow: auto;
+    float: left;
+}
 

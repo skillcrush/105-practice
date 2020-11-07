@@ -1,0 +1,52 @@
+/*** BASE STYLES ***/
+
+body{
+    font-family: 'Abril Fatface', cursive;
+    color: rgba(15, 197, 85, 0.87);
+    background-image: url(../crista-b-advice.html/luke-chesser-eICUFSeirc0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    color: rgb(183, 47, 241);
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: deeppink;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Abril Fatface', cursive;
+    color: deeppink; 
+    text-align: center;
+}
+
+p{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+a {
+    font-family: 'Abril Fatface', cursive;
+    color: rgb(9, 202, 236);  
+    float: left; 
+    padding-left: 15px;
+}
+
+Footer {
+    color: rgb(9, 202, 236);
+}
+
+div {
+    border: rgb(red, green, blue);
+    border-style: dotted;
+    border-width: 10px;
+}
