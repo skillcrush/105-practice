@@ -1,0 +1,44 @@
+body{
+  background-color:#FFCBCD;
+}
+
+a{color:grey;}
+
+h1{
+  font-family: 'Shrikhand', cursive;
+  text-align: center;
+  border: 3px;
+  border-style: dashed;
+}
+
+h4{
+  color:#847168;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  line-height: 10x;
+  word-spacing: 5px;
+
+}
+
+footer{
+  position: relative;
+  color: grey;
+}
+
+span{
+text-decoration: underline;
+text-decoration-style: dashed;
+font-family: 'Modak', cursive;
+color: #847168;
+
+}
+
+.advice{
+  border:3px;
+  border-style: double;
+  padding: 6px;
+}

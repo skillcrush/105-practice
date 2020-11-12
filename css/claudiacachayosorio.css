@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+h1 {
+    color: #33325f;
+    font-family: 'Roboto', sans-serif;
+    padding: 0 15px;
+}
+
+h4 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+p {
+    color: #4d4d4d;
+    font-family: 'Roboto', sans-serif;
+}
+
+/***** BODY *****/
+
+.full-width {
+    padding: 10px;
+}
+
+#claudia-advice .full-width {
+    background: #f2f1f4;
+    margin: 20px 0;
+}
+
+h4, p {
+    padding: 0 22px;
+}
+
+footer {
+    background: #d6d2db;
+}

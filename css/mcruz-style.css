@@ -1,0 +1,27 @@
+body {
+	width: 1200px;
+	margin: 100px auto;
+	background: #F7DBFF;
+}
+header {
+	color: #3A004C;
+	font-family: 'Playfair Display', serif;
+	font-size: 40px;
+	background: #8601AF;
+	margin: auto;
+}
+
+section h4,
+section p {
+  color: #2A0934;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+}
+footer {
+	background: #2A0934;
+	color: #F7dbff;
+	font-family: 'Playfair Display', serif;
+	text-align: right;
+	height: 50px;
+	margin-top: 20px;
+}

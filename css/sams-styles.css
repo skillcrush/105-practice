@@ -1,0 +1,62 @@
+/**** MAIN STYLES *****/
+body{
+font-size:20px;
+color:#c2d6d6;
+font-family: 'Raleway', sans-serif;
+background:#527a7a;
+}
+
+/*****GRID*****/
+.full-width {
+    width: 1300px;
+}
+
+.half-width{
+    width: 600px;
+    height: 350px;
+    margin: 0 5px;
+    padding: 0 15px;
+    float: left;
+    font-family: 'ZCOOL XiaoWei', serif;
+    border: 2px dotted gray; 
+    border-radius: 25px;
+}
+
+
+/****HEADER*****/
+header{
+    font-variant: small-caps;
+    padding: 0 0 10px 0;
+}
+
+.full-width h1{
+    text-align:center;
+    margin:0px;
+    font-size:60px;
+}
+
+header h1 span {
+    color: #ff6666;
+    font-style: italic;
+    font-weight:bold;
+    font-variant:normal
+}
+
+.nav {
+    margin: 30px;
+    text-align: right;
+}
+
+/*****ADVICE*****/
+.half-width h4{
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+
+/*****FOOTER*****/
+footer{
+    clear: both;
+    padding:20px;
+    font-size: 15px;
+}
+

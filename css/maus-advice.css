@@ -1,0 +1,66 @@
+/****BASE STYLES****/
+body{
+    font-family: 'Thasadith', sans-serif;
+    font-size: 22px;
+    margin: auto;
+    word-spacing: 4px;
+    
+}
+
+header{
+    margin-top: 35px;
+}
+
+a{
+    font-family: 'Thassadith', sans-serif;
+    color: #FFC9C2;
+    padding: 5px;
+    margin-left: 50px;
+    text-transform: lowercase;
+    border: 2px solid #FFC9C2;
+    text-decoration: none;
+    
+}
+
+h1{
+    font-family: 'Sarina', cursive;
+    margin: 50px 0px 50px;
+    padding: 25px 0 25px;
+    background-color: #D2EAEB;
+    width: 100%;
+    text-align: center;
+    
+}
+
+section{
+    padding: 0 50px 0px;
+}
+
+h4{
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+    margin-bottom: 0;
+    border-bottom: 2px solid #FFC9C2;
+    letter-spacing: 2px;
+    padding: 0px;
+    
+}
+
+p{
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+
+
+footer{
+    padding: 0px 50px 0px;
+    text-transform: uppercase;
+    font-family: 'Staatliches', cursive;
+   }
+
+footer p{
+    text-align: right;
+    letter-spacing: 2px;
+    color: lightgrey;
+}

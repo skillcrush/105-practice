@@ -1,0 +1,62 @@
+/***** BASE STYLES *****/
+header {
+    font-size: 20px;
+    font-family: "Lobster Two", script;
+    color: lightseagreen;
+}
+
+body {
+    font-family: Montserrat, Arial, sans-serif;
+}
+
+h4 {
+    color: seagreen;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 14px;
+    color: darkgreen;
+}
+
+/***** GRID *****/
+
+section {
+    width: 100%;
+}
+
+.first-advice {
+    width: 46%;
+    margin: 2%;
+    float: left;
+}
+
+.second-advice {
+    width: 46%;
+    margin: 2%;
+    float: left;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    clear: both;
+    padding-top: 50px;
+}
+
+/***** HEADER *****/
+header h1 {
+    text-align: center;
+}
+
+/***** ADVICE *****/
+
+.first-advice h4, .second-advice h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.first-advice p, .second-advice p {
+    text-align: justify;
+}

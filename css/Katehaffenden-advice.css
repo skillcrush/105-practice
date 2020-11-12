@@ -1,0 +1,25 @@
+header {
+  font-family: 'Viga', sans-serif;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  background-color: #CCCCFF;
+  width:1200px;
+  border-bottom: 3px dotted white;
+}
+body {
+  width: 1200px;
+  background-color: #CCCCFF;
+  padding-left: 150px;
+}
+h4 {
+  font-family: 'viga', sans-serif;
+  font-size: 25px;
+  color:   #443366;
+}
+p {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 16px;
+  color: #443366;
+  padding: 50 50 50 50;
+}

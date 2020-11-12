@@ -1,0 +1,45 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: white;
+    margin: 0 50px;
+    color: darkslategrey;
+    font-size: 15px;
+}
+
+.advice {
+    background-color: floralwhite;
+    padding: 50px 100px;
+    margin: 0 150px;
+}
+
+h1, h4 {
+    letter-spacing: 1px;
+}
+
+h1 {
+    color: darkslategrey;
+    font-family: 'Georgia';
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+span {
+    color: goldenrod;
+    text-transform: lowercase;
+}
+
+h4 {
+    color: goldenrod;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.advice p {
+    text-align: justify;
+    line-height: 25px;
+}
+
+

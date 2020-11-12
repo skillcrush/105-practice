@@ -1,0 +1,32 @@
+
+header {
+  text-align: center;
+}
+
+.name {
+  color: orange;
+}
+
+.advice {
+  background-color:mistyrose;
+  width: 1000px;
+  height: auto;
+  margin: 30px auto;
+  padding: 5px 50px 50px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  color: #F4706A;
+}
+
+p {
+  padding: 0px 50px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+footer {
+  text-align: center;
+}
