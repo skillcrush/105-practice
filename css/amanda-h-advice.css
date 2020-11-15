@@ -20,6 +20,9 @@ h4, p  {
     margin-right: auto;
     width: 75em;
     margin-top: 40px;
+    display: flex;
+    flex-wrap:wrap;
+
 }
 
 .advice {
