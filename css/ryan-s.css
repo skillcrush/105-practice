@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins', sans-serif;;
+    font-size: 28pt;
+    background-color: #f7f7f2;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24pt;
+}
+
+h2,
+h3,
+h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18pt; 
+}
+
+a {
+    font-size: 12pt;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14pt;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-size: 10pt;
+}
