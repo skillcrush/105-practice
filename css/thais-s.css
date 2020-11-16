@@ -1,0 +1,44 @@
+/***** BASE STYLES *****/
+
+body {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #837871;
+}
+
+h1, h3 {
+    color: #ff8060;
+}
+
+a:link, a:visited {
+    background-color: #ff8060;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:  #f44336;
+  }
+
+/****** GRID ******/
+.full-width {
+    float: center;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.half-width {
+    float: left;
+    width: 600px;
+    padding: 0 20px 0 0;
+}
+
+.footer {
+    height: 80px;
+    border-top: 3px dotted #ffffff;
+    clear: both;
+    text-align: left;
+}
