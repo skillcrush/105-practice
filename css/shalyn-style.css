@@ -1,74 +1,60 @@
+/*
+font-family: 'Fredoka One', cursive;
+font-family: 'Nunito', sans-serif;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Romanesco', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+ */
+
+
 body {
-    background-color:  #8feadf;
-    color: #312659;
-    font-family: 'Raleway', sans-serif;
-    Font-Size: 16px;
+  background-image: url(http://clipart-library.com/data_images/279897.jpg);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  font-family: 'Source Sans Pro', sans-serif;
+
 }
 
-footer {
-    text-align: center;
-    margin-top: 50px;
+header a{
+  border-radius: 25px;
+  background: #a9fcfc;
+  color: black;
+  padding: 8px;
+  box-shadow: 3px 3px slategray;
+
 }
 
-h1 {
-    text-align: center;
-    padding: 30px;
-    font-family: 'Syne Mono', monospace;
-    Font-Size: 48px;
-    border: 2px dashed #817C80;
-    margin: 2rem 10rem;
+header h1 {
+  border-style: none dotted;
+  border-radius: 45px;
+  font-family: 'Fredoka One', cursive;
+  font-size: 40px;
+  margin-left: 280px;
+  text-align: center;
+  width:900px;
+}
+
+div {
+  background-color: #a9fcfc;
+  border-radius: 50px;
+  border-style: dotted;
+  border-color:#a9fcd2;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 850px;
+  height:auto;
+  margin-left: 400px;
+  padding: 20px;
 }
 
 h4 {
-    text-align: center;
-    text-decoration: underline;
-    font-family: 'Syne Mono', monospace;
-    Font-Size: 24px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: underline overline;
 }
 
-.row {
-    display: flex;
-}
-
-.column1 {
-    flex: 50%;
-    margin: 25px;
-    padding: 25px;
-    border: 1px dashed #817C80;
-}
-
-.column2 {
-    flex: 20%;
-    margin: 25px;
-    padding: 25px;
-    border: 1px dashed #817C80;
-}
-
-.column3 {
-    flex: 40%;
-    margin: 25px;
-    padding: 25px;
-    border: 1px dashed #817C80;
-}
-
-.advice {
-    text-align: justify;
-}
-
-.btn {
-    background-color: #c9d7db;
-    color: #817C80;
-    border: 1px dashed #817C80;
-    text-align: center;
-    display: inline-block;
-    cursor: pointer;
-    padding: 10px;
-    border-radius: 5px;
-    font-family: 'Syne Mono', monospace;
-    Font-Size: 16px;
-}
-
-.btn:hover {
-    background-color: #817C80;
-    color: #c9d7db;
+footer {
+  color: slategray;
+  margin-left: 320px;
 }
