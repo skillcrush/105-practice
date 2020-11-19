@@ -1,0 +1,78 @@
+a {
+    color: lightcoral;
+    font-size: 12px;
+}
+
+body {
+    background-color: lightblue;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
+
+header {
+    background-color: lemonchiffon;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    color: gray;
+}
+
+
+section h1,
+section p {
+    color: grey;
+}
+section h1 {
+    font: 32px 'Open Sans';
+    font-weight: bold;    
+    background-color: lightblue;
+}
+
+h1 span {
+    color: lightskyblue;
+}
+
+section .content-wrapper .advice {
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    margin: 100px auto;
+    background-color: lemonchiffon;
+    padding: 15px;
+    text-align: left;
+    line-height: 28px;
+}
+
+
+.advice article {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 50%;
+    padding-right: 10px;
+}
+
+
+
+h4 span {
+    color: gray;
+    font-size: larger;
+    font-weight: 700;
+    background-color: lightblue;
+}
+
+h4 {
+    text-align: center;
+}
+
+footer p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    background-color: lemonchiffon;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
