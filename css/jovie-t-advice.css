@@ -1,0 +1,17 @@
+/***** BASE STYLE *****/
+
+body {
+  color: slategrey;
+  background-color: mistyrose;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+h1 {
+  color: lightcoral;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 42px;
+  text-align: center;
+}
