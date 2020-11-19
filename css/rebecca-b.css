@@ -1,0 +1,72 @@
+/*****GRID*****/
+body {
+  color: #eaeaea;
+  background-color: #183642;
+  background-position: center;
+  margin: 0 auto;
+  overflow: auto;
+  width: 85%;
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
+
+/*****HEADER*****/
+
+a {
+  color: #eaeaea;
+  font-family: 'quicksand', sans-serif;
+  font-size: 20px;
+  font-variant: small-caps;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#nav {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 5px 10px 10px 10px;
+  text-align: center;
+}
+
+header h1 {
+  font-family: 'love ya like a sister', cursive;
+  font-size: 70px;
+  text-align: center;
+}
+
+
+/*****BODY*****/
+
+.advice {
+  background-color: #73628a;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 60px;
+  width: 75%;
+}
+.advice h2 {
+  color: #313d5a;
+  text-align: center;
+  font-family: 'quicksand', sans-serif;
+  font-size: 42px;
+}
+
+.advice p {
+  color: #cbc5ea;
+  font-family: 'quicksand', sans-serif;
+  font-size: 28px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+/*****FOOTER*****/
+
+footer {
+  margin-top: 20px;
+}
+
+footer p {
+  color: #eaeaea;
+  font-family: 'love ya like a sister', cursive;
+  text-align: center;
+}
