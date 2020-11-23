@@ -1,0 +1,32 @@
+body {
+  background-color: #264653;
+}
+header h1 {
+  border: 1px white dashed;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  color: #e9c46a;
+  text-align: center;
+}
+.advice h4 {
+  color: #e9c46a;
+  font-size: 26px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.advice p {
+  color: #f4a261;
+  font-size: 16px;
+  text-align: center;
+}
+footer {
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+}
+.tricia-advice a {
+  color: white;
+  margin: 25px;
+}

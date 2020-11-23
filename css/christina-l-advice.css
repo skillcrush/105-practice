@@ -1,0 +1,72 @@
+body {
+  font-family: 'Forum', cursive;
+  color: #393A36;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+/*header {
+  width: 1000px;
+}*/
+
+header a {
+  color: #393A36;
+  font-family: 'Abril Fatface', cursive;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: grey;
+  font-size: 55px;
+  text-align: center;
+  padding: 20px 40px;
+  margin: 0 30px;
+}
+
+h1 span {
+  color: #f78478;
+  font-family: 'Clicker Script', cursive;
+  font-size: 65px;
+}
+
+h4 {
+  color: #393A36;
+  font-family: 'Forum', cursive;
+  font-size: 30px;
+  margin: 33px 0 15px 0;
+}
+
+h4 span {
+  color: #6bbdbb;
+  font-family: 'Clicker Script', cursive;
+  font-size: 45px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.christina-l-advice {
+  width: 1200px;
+  margin: 0, auto;
+  background: #f9f8f1;
+}
+
+.advice {
+  padding: 0 20px;
+}
+
+.advice p {
+  padding: 0 30px;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: justify;
+  margin: 0 0 18px 0;
+}
+
+footer {
+  color: #f78478;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 16px;
+}

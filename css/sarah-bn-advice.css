@@ -1,0 +1,79 @@
+
+/** Reference links 
+	general font: font-family: 'Peddana', serif;
+	Heading Font: font-family: 'Monoton', cursive;
+
+**/
+
+body {
+	font-family: 'Peddana', serif;
+	background-color: antiquewhite;
+	font-size: 22px;
+}
+
+
+header {
+	width: 1200px;
+	margin: auto;
+	box-sizing: border-box;
+	
+}
+
+header a {
+	color: black;
+	text-align: left;
+	border: 1px solid black;
+	padding: 5px 5px;
+	text-decoration: none;
+}
+
+header a:hover {
+	background-color: #2f4f4f;
+	color: indigo;
+}
+
+h1 {
+	color: darkgrey;
+	font-size: 48px;
+	background-color: #2F4F4F;
+	padding: 25px 25px;
+	font-variant: small-caps;
+	text-align: center;
+	margin: 15px auto;
+}	
+
+h1 span {
+	font-family: 'Monoton', cursive;
+	color: darkgrey;
+	font-size: 33px;
+	word-spacing: 8px;
+}
+
+
+.advice {
+	width: 1200px;
+	background-color: #2F4F4F;
+	margin: auto;
+	padding: 25px 25px;
+	box-sizing: border-box;
+}
+
+.advice h4 {
+	font-size: 30px;
+	font-style: bold;
+	text-align: center;
+	margin: 10px 0;
+}
+
+
+footer p {
+	font-size: 18px;
+	text-align: center;
+}
+
+footer a {
+	text-decoration-style: none;
+	font-family: 'David Libre', serif;
+	color: indigo;
+	text-decoration: none;
+}

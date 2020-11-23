@@ -1,0 +1,47 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    margin: 0 35px;
+    padding: 1em;
+    background: #faf5f5;
+    width: 1100px;
+}
+
+header , .adv {
+    background-color: #ffffff;
+    margin: 10px 0;
+    padding: 10px 30px;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Piazzolla', serif;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Piazzolla', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    color: black;
+    font-size: 10px;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.adv {
+
+}

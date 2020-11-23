@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+	font-family: 'Lato', sans-serif;
+    padding: 1em;
+    margin: 0 auto;
+    background: #b8a9c9;
+}
+
+h1 {
+    font-size: 2.25em;
+	font-family: 'Dancing Script', cursive;
+    color: #622569;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    color: #5b9aa0;
+}
+
+a {
+    text-decoration: none;
+    color: #5b9aa0
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

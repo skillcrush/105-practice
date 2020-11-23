@@ -1,0 +1,25 @@
+/*****BASE STYLES*****/
+body {
+    font-family: 'DM Serif Display', serif;
+    color: navy;
+    background: linear-gradient(to bottom, #ff9966 0%, #ff5050 100%);
+}
+
+/*****HEADER*****/
+h1 {
+    font-style: italic;
+    text-align: center;
+    padding: 50px; 
+}
+
+/*****BODY*****/
+h4{
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;  
+}
+
+p{
+    text-align: center;
+}

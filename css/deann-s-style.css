@@ -1,0 +1,57 @@
+/* BASE STYLE */
+h1 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 18px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+h1, h4 {
+    text-align: center;
+    color: #333366;
+}
+p {
+    font-size: 16px;
+}
+body {
+    background-color: #999999;
+}
+/* HEADER */
+header {
+    clear: both;
+    border-bottom: #f2f2f2 3px solid;
+    margin: 10px auto;
+}
+header a {
+    color: #3333ff;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 10px 0;
+}
+header h1 {
+    text-align: center
+}
+/* section */
+.full-width {
+    height: auto;
+    width: auto;
+    margin: 20px auto;
+}
+.half-width {
+    float: left;
+    width: 49%;
+}
+.half-width p {
+    padding: 0 80px;
+    text-align: center;
+}
+/* FOOTER */
+footer {
+    border-top: #f2f2f2 3px solid;
+    clear: both;
+    padding: 10px 0;
+    text-align: center
+}
+footer span {
+    font-style: italic;
+}
