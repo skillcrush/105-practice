@@ -1,0 +1,20 @@
+/*****BASE STYLES*****/
+
+html, body {
+	background-color: #9C114B;
+	color: white;
+	margin: auto;
+	padding: 10px;
+}
+
+h1 {
+	font-family: 'Staatliches', cursive;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-style: italic;
+
+}
