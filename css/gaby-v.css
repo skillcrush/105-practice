@@ -1,0 +1,50 @@
+/*** BASE STYLES ***/
+
+html {
+    font-size: 20px;
+    font-family: raleway;
+    color: black;
+}
+
+header, 
+section {
+    height: auto;
+}
+
+h4 {
+    font-size: 1.3rem;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 120%;
+}
+
+
+/*** GRID ***/
+
+body {
+    width: 60%;
+    margin: 50px auto;
+}
+
+/*** HEADER ***/
+
+a {
+    color: black;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #DE3583;
+}
+
+h4 {
+    color: #FA9499;
+}
+
+footer p {
+    color: #DE3583;
+}
