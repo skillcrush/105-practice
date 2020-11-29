@@ -1,0 +1,41 @@
+body {
+  background-color: #ECF2E5;
+	font-family: 'Crete Round', serif;
+	font-family: 'Raleway', sans-serif;
+	padding-left: 80px;
+	width: 1400px;
+  }
+
+
+h1 {
+  color: #21324C;
+  font-family: 'Crete Round', serif;
+  font-size: 50px;
+	text-align: center;
+}
+
+
+span {
+	color: #5BA68B;
+}
+
+
+h4 {
+	color: #21324C;
+	font-family: 'Crete Round', serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+
+p {
+	color: #1A1A1A;
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+}
+
+
+footer p {
+	font-weight: bold;
+	text-align: center;
+}
