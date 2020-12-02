@@ -1,0 +1,42 @@
+/***** body *****/
+
+body {
+  background-color: #lightgrey;
+  width: 1500px;
+}
+
+/***** HEADER *****/
+
+h1 {
+  color: #000000;
+  font-family: "Amatic SC", sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  padding-bottom: 100px;
+  text-align: center;
+  text-decoration: overline;
+  text-decoration-color: #ff1a1a;
+}
+
+/***** SECTION *****/
+
+h4 {
+  color: #ff1a1a;
+  font-family: "Indie Flower", sans-serif;
+  font-size: 35px;
+  text-decoration: underline;
+  text-decoration-color: #000000;
+}
+
+p {
+  color: #000000;
+  font-family: "Indie Flower", sans-serif;
+  font-size: 20px;
+}
+
+/***** FOOTER *****/
+
+footer {
+  padding-top: 50px;
+  text-align: center;
+}

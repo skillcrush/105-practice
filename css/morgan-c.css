@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 50px;
+}
+
+.advice {
+    width: 75%;
+    padding: 30px 0;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: bold;
+    color: palevioletred;
+}
