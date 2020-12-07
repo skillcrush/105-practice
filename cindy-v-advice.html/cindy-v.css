@@ -1,0 +1,40 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #d1afa0;
+}
+
+
+h1 {
+    font-size: 2.25em;
+    color: #91afa0;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family:'Oswald', sans-serif; 
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #6e8a83;
+}
+
+p {
+    font-family:'Roboto', sans-serif; 
+    color: #8b9493;
+}
+
+a {
+    font-family:'Oswald', sans-serif; 
+    text-decoration: none;
+    color: #6e8a83;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
