@@ -1,0 +1,58 @@
+/***** BASE STYLE *****/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #5c374c;
+    background-color:#f4dfe5; 
+    overflow:auto;   
+    line-height: 25px;
+    
+}
+
+header {
+    height: 150px;
+    background-color: #985277;
+    padding-top: 15px;
+}
+ header h1{
+    color: #fff0ef;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    padding-top: 40px;
+    text-align: center; 
+ }
+
+ header a{
+    text-decoration: none;
+    float: right;
+    color: #fff0ef;
+    padding-right: 40px;
+
+ }
+
+ .advice {
+   text-align: justify;
+   width: 600px;
+   margin:15px 0 20px 300px;
+   padding: 20px 0 100px 120px;
+ }
+
+ .advice h4 {
+     font-style: italic;
+     font-weight: bold;
+     color: #c76c3e;;
+     text-decoration-line: underline;
+ }
+
+footer{
+    height: 100px;
+    background-color:  #b07a97;
+    padding-top: 15px;
+}
+footer P {
+    text-align: center;
+    padding-top: 15px;
+}
+
+
