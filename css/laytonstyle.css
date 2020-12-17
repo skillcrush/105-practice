@@ -1,0 +1,41 @@
+	
+body {
+	font-family: 'Dancing Script', cursive;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: rgba(120, 100, 120, 0.2);
+}
+
+h1 {
+    font-size: 20px;
+    color: #BF3F3F;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-align: center;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 18px;
+	font-weight: bold;
+    text-decoration: underline;
+    color: #3FBF96;
+}
+
+p {
+	font-size: 16px;
+	color: #3F3FBF;
+	font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #000; 
+}
+
+footer p {
+    text-align: center;
+	font-weight: normal;
+	color: #000;
+    padding-top: 1em;
+}

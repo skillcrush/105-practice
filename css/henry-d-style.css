@@ -1,0 +1,39 @@
+header a{
+    background: yellow;
+    border: black 1px solid;
+    font-family: 'Langar', cursive;
+    padding: 5px 10px;
+}
+
+header h1{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.advice{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.advice p{
+    color: blue;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+footer {
+    font-family: 'Roboto Slab', serif;
+    height: 100px;
+    text-align: center;
+    padding: 100px 0 0 0;
+    color: white;
+    background: rosybrown;
+}
