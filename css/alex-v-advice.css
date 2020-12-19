@@ -1,0 +1,58 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 24px;
+    padding: 1em;
+    margin: 30px;
+    padding: 20px;
+    background: #d2f0ee;
+    font-family: 'DM Sans', sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 30;
+    font-family: 'DM Sans', sans-serif;
+    color: rgb(238, 9, 97);
+    margin-top: 1em;
+}
+
+h2 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 24;
+    color:#bb433d;
+}
+
+a  {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    text-decoration: none;
+    color: #bb433d;
+}
+
+h4 {
+    font-size: 20;
+    font-weight: bold;
+    color: #c53d36;
+}
+
+h3 {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    border-bottom: rgb(131, 220, 250);
+    border-style: solid 1px;
+}
+
+.highlighter{
+    font-family: 'DM Sans', sans-serif;
+    color:#bb433d;
+}
+
+.bottom-section {
+    background: url("C:\Users\alexx\105-practice\wild-flowers.jpg");
+}
