@@ -1,0 +1,60 @@
+/*
+font-family: 'Fredoka One', cursive;
+font-family: 'Nunito', sans-serif;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Romanesco', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+ */
+
+
+body {
+  background-image: url(http://clipart-library.com/data_images/279897.jpg);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+header a{
+  border-radius: 25px;
+  background: #a9fcfc;
+  color: black;
+  padding: 8px;
+  box-shadow: 3px 3px slategray;
+
+}
+
+header h1 {
+  border-style: none dotted;
+  border-radius: 45px;
+  font-family: 'Fredoka One', cursive;
+  font-size: 40px;
+  margin-left: 280px;
+  text-align: center;
+  width:900px;
+}
+
+div {
+  background-color: #a9fcfc;
+  border-radius: 50px;
+  border-style: dotted;
+  border-color:#a9fcd2;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 850px;
+  height:auto;
+  margin-left: 400px;
+  padding: 20px;
+}
+
+h4 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: underline overline;
+}
+
+footer {
+  color: slategray;
+  margin-left: 320px;
+}

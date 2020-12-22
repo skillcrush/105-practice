@@ -1,0 +1,30 @@
+/*** Base Styles ***/
+body {
+  background-color: #f2f2f2;
+  font-family: 'Inconsolata';
+}
+
+/***Header***/
+header {
+  line-height: 0.2;
+}
+
+header h1 {
+  color: #006666;
+  padding-top: 3%;
+}
+
+header h4 {
+  color: #006666;
+  font-weight: bold;
+}
+
+/*** Advice ***/
+
+.advice {
+  padding: 1% 5% 0 5%;
+}
+
+.advice h4 {
+  color: #00b3b3;
+}

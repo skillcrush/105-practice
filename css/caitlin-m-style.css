@@ -1,0 +1,42 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: "Palatino Linotype", serif;
+    font-size: 18px;
+    padding: 5em;
+    margin: 0 auto;
+    background: #faf5f5;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 2.5em;
+    color: #35281E;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+    font-weight: 200;
+    color: #f16059;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    text-decoration: none;
+    color: #bb433d;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+footer {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 1em;
+}
