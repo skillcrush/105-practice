@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body {
+    color: white;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #1f202b;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    margin-top: 1em;
+    font-family: 'Sen', sans-serif;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fa0075;
+    font-family: 'Source Code Pro', sans-serif;
+    letter-spacing: 2px;
+    /***** font-variant: small-caps;   ****/
+}
+
+a {
+    text-decoration: none;
+    color: #e6e6e6;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 3px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    font-family: 'Montserrat', sans-serif;
+}

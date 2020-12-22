@@ -1,0 +1,38 @@
+/*****header*****/
+h1 {
+  font-family: 'Faster One', cursive;
+  text-align: center;
+  font-weight: bold;
+  color: #4A235A;
+  padding-right: 200px;
+  font-size: 40px;
+}
+header {
+  margin: 20px 30px 10px 10px;
+  width: 1500px;
+  height: 100px;
+  background-color: #229954;
+}
+header a {
+  padding-right: 200px;
+}
+body {
+  margin: 20px 30px 10px 10px;
+  text-align: center;
+  background-image:
+  float: center;
+  font-family: 'Voltaire', sans-serif;
+  font-weight: bold;
+  padding-bottom: 1500px;
+  height: 1200px;
+  background-color: #229954;
+}
+
+.advice h4 {
+  font-family: 'Voltaire';
+  font-size: 35px;
+}
+.advice p {
+  font-size: 30px;
+  background-color: purple;
+}

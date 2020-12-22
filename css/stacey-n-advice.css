@@ -1,0 +1,55 @@
+* {
+	background-color: #f3eac2;
+}
+
+h1, h3 {
+	color: #ec524b;
+	text-align: center;
+}
+
+
+h2 {
+	text-align: center;
+}
+
+/*Fade in animation of subheader*/
+
+@keyframes fadeIn {
+  0%   { opacity:0; }
+  100% { opacity:1; }
+}
+@-o-keyframes fadeIn {
+ 0%   { opacity:0; }
+ 100% { opacity:1; }
+}
+@-moz-keyframes fadeIn {
+  0%   { opacity:1; }
+  100% { opacity:0; }
+}
+@-webkit-keyframes fadeIn {
+ 0%   { opacity:1; }
+ 100% { opacity:0; }
+}
+
+.animate-fadeIn {
+   -webkit-animation: fadeIn 10s ;
+   -moz-animation: fadeIn 10s ;
+   -o-animation: fadeIn 10s ;
+    animation: fadeIn 10s ;
+}
+
+/*end fade in animation*/
+
+p {
+	width: 50%;
+	padding: 1em;
+	border: 5px solid #f5b461;
+	margin: auto;
+	background-color: #9ad3bc;
+}
+
+footer p {
+	text-align: center;
+	background-color: #f3eac2;
+	border: none;
+}

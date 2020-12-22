@@ -1,0 +1,66 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    margin: 0 auto;
+    background: #FAF7FF;
+    font-family: 'Fira Sans', sans-serif;
+    margin: 5px;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #F8F7FF;
+    margin-top: 1em;
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    background-color: #4945B5;
+    padding: 20px;
+}
+
+h1 span {
+    font-variant: small-caps;
+    font-weight: 900;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Fira Sans', sans-serif;
+    color: #5D1FE0;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: #302DEF;
+    font-variant: small-caps;
+    font-size: 1.5em;
+}
+
+p {
+    padding: 0px 40px 10px 40px;
+}
+
+footer {
+    background-color: #645EA6;
+    color: #F8F7FF;
+    text-align: center;
+    padding-top: 1em;
+
+}
+
+/***** GRID STYLES *****/
+
+.tasha-advice {
+    margin: 0 auto;
+    width: 1200px;
+    clear: both;
+}
+
+.advice {
+    border: 1px solid #211F52;
+    width: 1200;
+    overflow: auto;
+    clear: both;
+}
