@@ -1,0 +1,22 @@
+body {
+background-color:hotpink;
+font-size: 16pt;
+color:black;
+margin:0 auto;
+}
+
+h1, h4 {
+  color:yellow;
+  text-align: center;
+}
+
+h4 {
+  text-decoration:underline;
+}
+
+footer {
+  clear:both;
+  background-color:white;
+  color:black;
+  font-variant:small-caps;
+}
