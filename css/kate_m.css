@@ -1,0 +1,61 @@
+
+body {
+font-family: 'Bellefair', serif;
+font-family: 'Homemade Apple', cursive;
+font-family: 'Quicksand', sans-serif;
+}
+
+.kates-advice {
+  margin: 0;
+  border-left: 1px, red;
+  border-right: 1px, red;
+
+}
+h1 {
+  font-family: 'Homemade Apple', cursive;
+   font-size: 100px;
+   color:  #BF1F1F;
+   text-align: center;
+   font-weight: bold;
+   line-height: 1px
+
+}
+
+ h2 {
+    font-family: 'Bellefair', serif;
+    font-size: 100px;
+    color: #1C1A19;
+    text-align: center;
+    line-height: 1px;
+
+
+  }
+
+  h4 {
+    font-family: 'Bellefair', serif;
+     font-size: 50px;
+     color: #BF1F1F;
+     text-align: center;
+     line-height: 70px;
+     text-align: center;
+     text-transform: capitalize;
+     padding: 10px;
+     border-style: double;
+     border-color: #EFDCCD
+     font-weight: bold;
+   }
+
+   p {
+     font-family: 'Quicksand', sans-serif;
+      font-size: 30px;
+      color: #1C1A19;
+      text-align: center;
+      line-height: 35px;
+      text-align: center;
+      text-transform: capitalize;
+      padding: 10px;
+      margin: auto;
+      border-left-style: solid;
+      border-right-style: solid;
+      border-color: #EFDCCD;
+   }

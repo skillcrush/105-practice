@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+h1 {
+    font-size: 58px;
+    color: #999999;
+    margin-top: 1em;
+    text-align: center;
+}
+
+span {
+    font-family: "Sacramento", cursive;
+}
+
+h4 {
+    font-size: 32px;
+    font-family: "Sacramento", cursive;
+    font-weight: bold;
+    color: #c299ff;
+    letter-spacing: 5px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    line-height: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

@@ -1,0 +1,41 @@
+/* BASE STYLES*/
+
+body {
+    background-color:#bfa4db;
+    color: #1f0f24;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin: 50px auto;
+    width: 1200px;
+}
+
+/* MAIN */
+
+a {
+    color: #6b3380;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 20px 0 0 0;
+}
+
+h4 {
+    font-size: 18px;  
+    margin-top: 40px;
+}
+
+h1 span {
+    color: #6b3380;
+    font-family: 'Pacifico', cursive;
+    font-weight: normal;
+}
+
+/* FOOTER */
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+}

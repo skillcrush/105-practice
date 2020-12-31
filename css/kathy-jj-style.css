@@ -1,0 +1,134 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+
+a.main-page {
+    background-color: #ff9b21;
+    color: #fff;
+    font-family: usual;
+    font-size: 7pt;
+    letter-spacing: 4px;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+footer {
+    clear: both;
+    font-family: usual;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    padding: 100px;
+}
+
+/***** SECTION STYLES *****/
+
+header {
+  background: #fff;
+  width: 100%;
+  margin: 20px 0px;
+}
+
+header .full-width{
+  margin: 100px 150px;
+  padding: 50px;
+}
+
+header .half-width{
+  align-content: center;
+  width: 50%;
+  float: left;
+}
+
+header h1{
+  color: #000;
+  font-family: freight-display-pro;
+  font-weight: 300;
+  font-size: 130px;
+  text-align: center;
+  line-height: 100px;
+}
+
+header h2{
+  color: #000;
+  font-family: usual;
+  font-size: 44px;
+  font-weight: normal;
+  letter-spacing: 31%;
+  text-align: center;
+}
+
+header h3{
+  color: #000;
+  font-family: usual;
+  font-weight: normal;
+  font-size: 22px;
+  letter-spacing: 4px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+section {
+  background: #dde3e9;
+  clear: both;
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: nowrap;
+
+}
+
+section .thirds{
+  width: 30%;
+  margin: 20px;
+  flex-wrap: nowrap;
+
+}
+
+
+.advice h3{
+  color: #000;
+  font-family: usual;
+  font-size: 36px;
+  font-weight: normal;
+  padding: 20px;
+  text-align: center;
+}
+
+.advice h4{
+  color: #000;
+  font-family: usual;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.advice {
+  align-content: center;
+  color: #000;
+  min-height: 438px;
+  margin: 0 150px;
+  padding: 50px;
+}
+
+footer a img{
+  width: 20px !important;
+}
+
+footer .link-tagline {
+  font-family: usual;
+  font-weight: normal;
+  font-size: 14px;
+  letter-spacing: 4px;
+  text-align: center;
+  text-transform: uppercase;
+}

@@ -1,0 +1,35 @@
+body{
+	background-color: HoneyDew;
+	font-family: 'Inconsolata', monospace;
+}
+
+.box{
+	border: 1px solid #000;
+	border-radius: 10px;
+	background-color: GhostWhite;
+	padding:5px;
+	margin-top:50px;
+	margin-bottom:15px;
+
+}
+
+h1{
+	color: LightSlateGray;
+	font-size:48px;
+	font-style: oblique;
+	font-weight:lighter;
+	text-align:center;
+
+}
+
+h4{
+	font-size:24px;
+	font-weight:lighter;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+p{
+	font-size:18px;
+}
+

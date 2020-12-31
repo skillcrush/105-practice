@@ -1,0 +1,41 @@
+/***** BASE STYLES *****/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Raleway:wght@400;700&display=swap');
+
+body {
+  font-size: 16px;
+  padding: 1em;
+  margin: 0 auto;
+  background-color: #edf6f9;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  line-height: 25px;
+}
+
+h1 {
+  font-size: 2em;
+  color: #006d77;
+  margin-top: 1em;
+  font-family: 'Raleway', sans-serif;
+}
+
+h4 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #83c5be;
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #83c5be;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+}
+
+footer {
+  text-align: center;
+  padding-top: 1em;
+  font-family: 'Montserrat', sans-serif;
+  color: #006d77;
+}

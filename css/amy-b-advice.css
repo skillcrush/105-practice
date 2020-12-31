@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Playfair Display', serif;
+    text-align: justify;
+    background: #eae1df;
+    color: #545e56;
+}
+
+h1 {
+
+    color: #917c78;
+
+}
+h4 {
+    color: #b79492;
+    font-size: 24px;
+    font-style: bold;
+
+}
+.quote-credit {
+    font-style: italic;
+    font-weight: 400;
+}
+
+
+a {
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+    color: #667761;
+
+
+}

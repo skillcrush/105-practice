@@ -1,0 +1,36 @@
+/****basestyles*****/
+body{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    background-color: rgb(167, 231, 167);
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+p {
+    font-family: 'Source Serif Pro', serif;
+    color: black;
+}
+h1 {
+    text-align:center;
+}
+h2 {
+    text-align:center;
+}
+.full-width {
+    margin: 0 auto;
+    overflow: auto;
+    width: 1200px;
+}
+.half-width {
+    float: left;
+    width: 500px;
+    padding: 50px;
+    text-align: left;
+}
+    
+
+footer {
+	text-align: center;
+}

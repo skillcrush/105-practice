@@ -1,0 +1,91 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #60c4d1;/*#faf5f5;*/
+}
+
+
+/***** Header *****/
+
+header {
+    background: #14a5b8;
+    overflow: hidden;
+    padding: 0px;
+}
+
+#return-button {
+    float: right;
+    margin: 11px 15px;
+    padding: 5px;
+    background: #60c4d1;
+}
+
+a {
+    text-decoration: none;
+    color: #253831;
+    font-family: 'Roboto Slab';
+}
+
+#headline {
+    width: 70%;
+    text-align: left;
+    padding: 10px 20px 0px 20px;
+    float: left;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    font-family: 'Shrikhand';
+    margin-top: 0px; /*1em;*/
+}
+
+
+/***** Section *****/
+
+section {
+    overflow: auto;
+    background: #a8e8ff;
+    margin-top: 10px;
+}
+.half-width {
+    float: left;
+    width: 50%;
+}
+
+#second-line {
+    clear: left;
+}
+
+h4 {
+    font-size: 1.4em;
+    font-family: 'Roboto';
+    color: #034d33;
+    text-transform: capitalize;
+    margin-left: 20px;
+    margin-right: 5px;
+    padding: 10px;
+    background: #60c4d1;
+}
+
+p {
+    font-family: 'Roboto Slab';
+    font-size: 14px;
+    padding: 2em;
+    padding-top: 0px;
+    text-align: justify;
+}
+
+
+/***** Footer *****/
+footer {
+    padding-top: 1em;
+    clear: left;
+}
+
+footer p {
+    text-align: center;
+}

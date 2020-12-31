@@ -1,0 +1,49 @@
+ /***** BASE STYLE *****/
+
+body {
+    background: #fff5ee;
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+header {
+    width: 100%;
+    max-width: 900px;
+    padding-left: 30px;
+}
+
+
+h1 {
+    font-size: 2.25em;
+    color: #800080;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #006400;
+}
+.advice {
+    width: 100%;
+    max-width: 960px;
+    padding-left: 30px;
+}
+ 
+p {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #ff0000;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: #ff0000;
+    font-weight: bold;
+}
