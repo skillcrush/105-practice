@@ -1,0 +1,47 @@
+/**** BASE STYLES ****/
+
+body{
+    width: 1200px;
+    font-family: 'Teko', sans-serif;
+    margin: 0 auto;
+    color: #ffffff;
+    background: #010101;
+    font-size: 24px;
+}
+
+header a{
+    color: #43bdc8;
+}
+
+/**** HEADER ****/
+header h1{
+    font-family: 'Langar', cursive;
+    color: #010101;
+    font-size: 50px;
+    text-align: center;
+    padding: 15px;
+    background-color: #43bdc8;
+}
+
+.column{
+    box-sizing: border-box;
+    float: left;
+    font-family: 'Teko', sans-serif;
+    padding: 20px 20px 20px 20px;
+    width: 50%;
+    line-height: 30px;
+}
+
+.column h4 {
+    font-family: 'Langar', cursive;
+    text-transform: uppercase;
+    color: #43bdc8;
+    font-size: 22px;
+}
+
+footer{
+    font-family: 'Langar', cursive;
+    color: #43bdc8;
+    text-transform: uppercase;
+}
+
