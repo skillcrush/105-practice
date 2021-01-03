@@ -1,0 +1,57 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 24px;
+    padding: 1em;
+    margin: 30px;
+    padding: 20px;
+    background: #d2f0ee;
+    font-family: 'DM Sans', sans-serif;
+    text-align: justify;
+}
+
+
+h1 {
+    border-style: dashed #lightpink;
+    font-size: 30;
+    font-family: 'DM Sans', sans-serif;
+    color: rgb(238, 9, 97);
+    margin-top: 1em;
+}
+
+a {
+    background-color: lilac;
+    padding: 0px;
+    text-decoration: none;
+}
+
+img {
+    padding-top: 50px;
+}
+
+h2  {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    text-decoration: none;
+    color:#ff7770;
+    text-align: center;
+}
+
+h4 {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+}
+
+p.social-media{
+    color: purple;
+}
+.highlighter{
+    font-family: 'DM Sans', sans-serif;
+    color:#bb433d;
+    text-transform: uppercase;
+}
+
