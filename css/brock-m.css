@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: lime;
+  color: white;
+}
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 50px;
+}
+h4 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 30px;
+}

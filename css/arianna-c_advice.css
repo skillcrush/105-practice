@@ -1,0 +1,69 @@
+/***** BASE STYLES *****/
+body {
+    color: black;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*****GRID STYLES*****/
+.skillcrush-advice {
+    width: 1400px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.advice {
+    width: 600px;
+    float: left;
+    padding: 0 40px;
+}
+
+.more-advice {
+    width: 600px;
+    float: left;
+    padding: 0 40px;
+    border-left: #FF69B4 solid 2px;
+}
+
+
+/*****HEADER*****/
+.skillcrush-advice a {
+    color: #FF69B4;
+    text-decoration: none;
+}
+.skillcrush-advice h1 {
+    color: white;
+    background-color: #FF69B4;
+    text-align: center;
+    font-family: 'Yeseva One', cursive;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-size: 40px;
+    padding: 0 50px;
+}
+
+/*****BODY*****/
+
+.advice h4, .more-advice h4 {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.advice p, .more-advice p {
+    color: black;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.advice h4 span, .more-advice h4 span {
+    color: #FF69B4;
+}
+
+footer {
+   clear: both;
+    text-align: center;
+    text-transform: uppercase;
+    border-top: solid #FF69B4 2px;
+}
