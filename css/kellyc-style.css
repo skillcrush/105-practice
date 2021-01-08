@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    /*background: rgb(138, 161, 182);*/
+    background: url('https://cdn.wallpapersafari.com/76/57/ed1CLQ.jpg') no-repeat whitesmoke;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: black;
+    margin-top: 1em;
+    text-align: center;
+    font-weight: 900;
+}
+
+span {
+    color: #b81d6b;
+    font-style: oblique;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #5b0fa3;
+   
+}
+
+a {
+    text-decoration: none;
+    color: #402279;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.links h4 {
+    font-style: italic;
+    color: #b81d6b
+}
+
