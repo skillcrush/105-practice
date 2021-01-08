@@ -1,0 +1,58 @@
+/***** Grid *****/
+
+body {
+    background-color: paleturquoise;
+    border: 3px solid honeydew;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+
+.main {
+    color: palevioletred;
+    font-family:'Bebas Neue', cursive; 
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+
+section {
+    padding-top: 40px;
+    text-align: center;
+}
+
+h1 {
+    color: palevioletred;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    padding-top: 70px;
+    text-align: center;
+    
+}
+
+span {
+    font-family: 'Vampiro One', cursive;
+}
+
+h4 {
+    color: palevioletred;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    padding-top: 80px;
+}
+
+p {
+    color: gray;
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.Nittilam {
+    color: palevioletred; 
+}

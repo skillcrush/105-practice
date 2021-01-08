@@ -1,0 +1,43 @@
+/******Base Styles*****/
+body {
+    font-family: 'Source Code Pro', monospace;
+    width: 800;
+    margin: 0 auto;
+    padding: 20px;
+    background: #e6ffff;
+}
+
+/******Header******/
+header {
+    width: 600;
+    margin: 10px;
+    padding: 10px;
+}
+
+header h1 {
+    color:#009999
+    font-size: 20px;
+}
+
+header h1 span {
+    color:red;
+    font-style: italic;
+}
+
+/******Advice*****/
+
+.emily-advice h4{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.advice-one,
+.advice-two {
+    margin: 10px;
+    padding: 10px;
+}
+
+.emily-advice p{
+    font-size: 16px;
+    line-height: 150%;
+}
