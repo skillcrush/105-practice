@@ -1,0 +1,28 @@
+.greg-g-advice {
+  background-color: #000000;
+  color: #ffffcc;
+  font-family: Arial, sans-serif;
+
+}
+section {
+  border: 1px solid #ffffcc;
+  border-radius: 5px;
+  padding: 50px;
+  margin: 50px;
+}
+
+h1 {
+  font-size: 72px;
+  color: #ffffcc;
+  margin: 50px;
+}
+
+h4 {
+  font-size: 36px;
+  color: #ff6666;
+}
+
+p {
+  font-size: 24px;
+
+}

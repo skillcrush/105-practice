@@ -1,0 +1,85 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    /*padding: 1em;*/
+    margin: 0 auto;
+    background: #efefef;
+}
+
+nav {
+    padding-top: 20px;
+}
+
+header {
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #747474;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 20px;
+}
+a:hover {
+    color: #e14658;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 2.25em;
+    color: #000000;
+    margin-top: 1em;
+    text-align: center;
+}
+
+h1 span {
+    color: #e14658;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h4 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #a9a9a9;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 0 0 10px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    /*padding: 15px 0 5px;
+    margin: 20px;*/
+    text-align: center;
+    /*opacity: .6;*/
+    line-height: 2;
+}
+
+p span {
+    background-color: #caebf2;
+    color: #747474;
+
+}
+p strong {
+    font-weight: bolder;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer {
+    color: #747474;
+}
+.footer span {
+    color: #e14658;
+    background-color: #efefef;
+}
