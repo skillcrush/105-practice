@@ -1,0 +1,42 @@
+.jenny-f-advice {
+    background: rgb(105, 184, 194);
+    text-align: center;
+}
+
+section {
+    background: rgb(181, 179, 179);
+}
+
+h1 {
+    font-family: 'Notable', sans-serif;
+}
+h2 {
+    font-family: 'Xanh Mono', monospace;
+    font-size: 30pt;
+}
+
+h3 {
+    font-size: 18pt;
+    font-family:'Courier New', Courier, monospace;
+}
+
+a {
+    font-family: 'Notable', sans-serif;
+    color: rgb(23, 126, 177);
+}
+
+h4 {
+    font-family: 'Notable', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+p  {
+    font-family: "Fjalla One", sans-serif;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+span {
+    font-size: 46px;
+}
