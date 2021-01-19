@@ -1,0 +1,8 @@
+/***** Base Styles *****/
+body {
+    background-color: lightseagreen;
+    background: cover;
+    color: #faf5f5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
