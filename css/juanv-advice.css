@@ -1,0 +1,23 @@
+body{
+  background-color: #84D8F5
+}
+
+.skillcrush-advice{
+  width: 1200px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.dos{
+  width:600px;
+  float:left;
+}
+
+.donts {
+  width:600px;
+  float:left;
+}
+
+footer{
+  clear:both;
+}
