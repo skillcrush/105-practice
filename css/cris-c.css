@@ -1,0 +1,39 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 20px;
+    padding: 24px;
+    background: lightgray;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    color: midnightblue;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    font-variant: small-caps;
+}
+
+/***** DIV CLASS *****/
+
+.cris-advice {
+    margin: 24px 500px 24px 24px;
+    padding: 0 24px 12px 24px;
+    color: midnightblue;
+    border: 12px solid white;
+    background: lightblue;
+}
+
+footer {
+    background-color: lightgray;
+    color: midnightblue;
+    text-align: left;
+    font-variant: small-caps;
+}
