@@ -1,0 +1,20 @@
+/***** BASE STYLES *****/
+body{
+  font-family: 'Old Standard TT', serif;
+  color: #00004d;
+  background-color: #f2ffff;
+}
+
+/***** HEADER SECTION *****/
+header h4{
+font-weight: bolder;
+
+}
+section {
+  line-height: 2;
+  font-size: 20px;
+}
+footer {
+  line-height: 5;
+  text-align: center;
+}
