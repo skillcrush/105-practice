@@ -1,0 +1,41 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background:#ffdfbf;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #9700F5;
+}
+
+a {
+    text-decoration: none;
+    color: #d96c00;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.cat-meme {
+    display: flex;
+    justify-content: center;
+}
+
+.cat-meme img {
+    border: 3px dashed #9700F5;
+    padding: 8px;
+    margin: 15px 0 0 0;
+}
