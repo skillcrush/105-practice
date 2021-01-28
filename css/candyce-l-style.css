@@ -1,0 +1,61 @@
+/******************************
+/**ADVICE WEBSITE CSS**/
+/**************************/
+
+body {
+    font-family: sans-serif;
+       background: linear-gradient(
+      35deg,
+      #ccffff,
+      #ffcccc
+    );
+
+} 
+
+/**********Header*********/
+h1,h3 {
+    font-family: Georgia;
+    text-align: left;
+    margin: 0px 50px;
+}
+
+h3 {
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+header h1 {
+    margin: 50px;
+    text-align: justify;
+    padding: 70px 20px 0px 0px;
+}
+
+header nav a {
+    float: right;
+    margin:0 50px;
+    padding: 0px 50px;
+}
+
+/*********PARAGRAPH*******/
+p {
+    b
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 30px;
+    padding: 0 50px;
+}
+
+/*******FOOTER***********/
+
+footer {
+     padding: -20px;
+    padding-bottom: 110px;
+    
+}
+
+footer p {
+    
+    float: right;
+    font-size: 14px
+}

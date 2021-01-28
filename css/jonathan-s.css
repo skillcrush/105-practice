@@ -1,0 +1,53 @@
+body {
+	font-family: 'Merriweather', serif;
+}
+
+#back-button {
+	font-weight: 300;
+	color: #91a6b4;
+	font-style: none;
+	text-decoration: none;
+	font-size: 80%;
+	border: 1px solid #008080;
+	padding: 5px;
+}
+
+h1 {
+	font-weight: 700;
+	text-align: center;
+	font-size: 225%;
+	color: #91a6b4;
+	padding: 10px;
+	text-shadow: 2px 3px #fdf171;
+}
+
+span {
+	font-style: italic;
+}
+
+.advice div {
+	windows: 50%;
+	text-align: center;
+	padding: 2%;
+	background-color: #f48670;
+	margin: 5% 10%;
+}
+
+h4 {
+	color: #fdf171;
+	font-size: 175%;
+}
+
+p {
+	text-align: justify;
+	color: #008080;
+	font-size: 100%;
+	line-height: 100%;
+}
+
+footer {
+	clear: both;
+	font-size: 80%;
+	color: red;
+	font-size: italic;
+}

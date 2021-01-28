@@ -1,0 +1,25 @@
+
+
+title {
+  font-family: sans-serif;
+  color: purple;
+  font-size: 24pt;
+}
+
+h1 {
+  font-family: times;
+  color: salmon;
+  font-size: 36pt;
+}
+
+h4 {
+  font-family: verdana;
+  color: orange;
+  font-size: 20pt;
+}
+
+p {
+  font-family: serif;
+  color: #fefefe;
+  font-size: 6pt;
+}

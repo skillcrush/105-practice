@@ -1,0 +1,29 @@
+body {
+	width: 800px;
+	background-color: #E9E9E7;
+	border:6px solid #364156;
+	font-family: 'Open Sans', sans-serif;
+	padding: 10px 10px 10px 10px;
+	}
+
+header {
+	background: #364156;
+	color: #E9E9E7;
+	text-align: center;
+	padding: 5px 0 10px 0;
+
+}
+h1, h2 {
+	font-family: 'Fredericka the Great', cursive;
+	}
+
+h3 {
+text-align: center;
+font-family: 'Playfair Display', serif;
+color: #364156;
+}
+
+p {
+	font-size: 16px;
+
+}

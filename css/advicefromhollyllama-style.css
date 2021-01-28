@@ -1,0 +1,66 @@
+
+
+.hollyllama-advice {
+  background: #CC9999;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  margin: auto;
+}
+
+h1 {
+  color: #fcebed;
+  font-size: 30px;
+  text-transform: lowercase;
+  text-align: center;
+  font-family: 'Homemade Apple', cursive;
+  padding: 10px;
+  border: 3px dotted #fcebed
+}
+
+h4 {
+  color: #fcebed;
+  font-size: 20px;
+  text-transform: lowercase;
+  text-align: center;
+  font-family: 'Homemade Apple', cursive;
+  padding-top: 30px;
+
+}
+
+.advice {
+  margin: auto;
+}
+
+.advice p {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #FFCCCC;
+  font-family: 'Arbutus Slab', serif
+}
+
+footer {
+  margin: auto;
+  padding-top: 70px;
+  }
+
+footer p {
+  color: #FFCCCC;
+  font-size: 15px;
+  text-transform: lowercase;
+  font-family: 'Homemade Apple', cursive;
+  padding-left: 20px;
+  margin: auto;
+  }
+
+nav a {
+  color: #fcebed;
+  font-size: 15px;
+  text-transform: lowercase;
+  font-family: 'Homemade Apple', cursive;
+  display: inline-block;
+  float: right;
+  padding-right: 20px;
+   }

@@ -1,0 +1,102 @@
+/*****HEADER*****/
+
+header {
+	height: 310px;
+	background: #fffff;
+	text-align: center;
+	color:#49345e;
+}
+
+header h1 span {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 68px;
+	font-weight: bold;
+}
+
+header h1 {
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 32px;
+	line-height: 55px;
+	font-weight: lighter;
+	padding-top: 50px;
+}
+
+.button a {
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+}
+
+
+.button {
+	height: 20px;
+	width: 150px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background: #49345e;
+	text-align: center;
+	display: inline-block;
+}
+
+/***** SECTION *****/
+
+section h4 {
+	font-family: 'Lobster', cursive;
+	font-size: 28px;
+	padding-top: 50px;
+	padding-left: 50px;
+	color: #49345e;
+}
+
+section p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	line-height: 26px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#one {
+	height: 400px;
+	background: #ededed;
+}
+
+#one .full-width {
+	width: 1250px;
+	float: left;
+}
+
+#one .half-width {
+	width: 620px;
+	float: left;
+}
+
+#two {
+	height: 500px;
+	background: #ffffff;
+}
+
+#two .full-width{
+	width: 1250px;
+	float: left;
+}
+
+#two .half-width {
+	width: 620px;
+	float: left;
+}
+
+footer {
+	width: 1250px;
+	height: 75px;
+	float: left;
+	text-align: center;
+	background: #49345e;
+	color: #ffffff;
+	padding-top: 25px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}

@@ -1,0 +1,72 @@
+/***** BASE STYLES *****/
+
+body {
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: #FFFFFF;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+/***** GRID *****/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+.quarter-width {
+    width: 300px;
+    float: left;
+}
+.three-quarter-width {
+    width: 900px;
+    float: left;
+}
+
+/***** HEADER *****/
+
+header {
+  background-color: #FFFFFF;
+}
+
+header h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  color: ##FFFC7F;
+}
+
+header h1 span {
+  color: #FFDEE2;
+}
+
+/***** ADVICE *****/
+
+.advice {
+  padding: 10px 30px;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  text-align: left;
+  color: ##FFFC7F;
+}
+
+p {
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #E8B068;
+  text-align: left;
+  font-size: 17px;
+   line-height: 17px;
+}
+
+/*****FOOTER*****/
+
+footer {
+  text-align: center
+  padding: 5px 30px;
+}

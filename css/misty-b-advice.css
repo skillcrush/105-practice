@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    color: #3b3b3b;
+    margin-top: 1em;
+}
+
+h1 span{
+    font-family: 'Satisfy', cursive;
+    color: #0ac5cf;
+}
+h4 {
+    font-family: 'Satisfy', cursive;
+    font-size: 24px;
+    color: #6a11a6;
+
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

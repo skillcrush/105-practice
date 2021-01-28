@@ -1,0 +1,56 @@
+
+header {
+    background-image: url("https://media.gettyimages.com/illustrations/floral-seamless-pattern-tropical-leaves-background-palm-tree-l-illustration-id864321236?b=1&k=6&m=864321236&s=612x612&w=0&h=25OyP3lXzSq9zz1fF2ACJcPDmSebX05uzP3yTkaWAL8=")
+    }
+
+.name {
+    font-family: 'Shadows Into Light', cursive;
+    color: #ECD0E4;
+    font-size: 70px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 48px;
+}
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    color: black;
+    font-size: 36px;
+    margin-top: 48px;
+    
+}
+
+div {
+    column-count: 3;
+    background-color: #ECD0E4;
+    color: white;
+    margin: 10px;
+}
+
+h4 {
+    font-weight: bold;
+    font-family: 'Kalam', cursive;
+    font-size: 27px;
+}
+
+p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+footer {
+    background-color: #408048;
+    padding: 18px;
+    margin: 10px;
+    color: white;
+    font-family: 'Kalam', cursive;
+    font-size: 15px;
+}
+
+a {
+    color: blue;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+}

@@ -1,0 +1,41 @@
+/*****BASE STYLES*****/
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color: #334d4d;
+    margin: 0 auto;
+    background: #cae2e2;
+}
+
+h1 {
+    font-family: 'Poiret One', cursive;
+    font-size: 32px;
+    color: #ffffff;
+    padding-left: 25px;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #366ba1;
+}
+
+a {
+    text-decoration: none;
+    color: #737373;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1px;
+}
+
+.advice {
+    border: 2.5px solid #0f3d3d;
+    margin: 15px;
+    padding-left: 25px;
+    padding-right: 650px;
+    background-image: url('../img/keyboard.jpeg');
+    background-size: cover;
+}

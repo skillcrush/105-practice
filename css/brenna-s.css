@@ -1,0 +1,43 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  width: 1360px;
+  margin: auto;
+  text-align: center;
+}
+
+a {
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  text-transform: capitalize;
+  color: purple;
+  font-size: 48px;
+}
+
+h4 {
+  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
+  font-size: 32px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+header {
+  padding: 20px;
+  margin: auto;
+}
+
+.advice {
+background-color: purple;
+color: white;
+padding: 30px 300px;
+}
+
+footer {
+  padding: 20px;
+}

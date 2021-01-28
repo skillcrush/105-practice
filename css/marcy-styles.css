@@ -1,0 +1,45 @@
+/******Base Styles*****/
+body {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    width: 800;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/******Header******/
+header {
+    width: 600;
+    margin: 10px;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 56px;
+}
+
+header h1 span {
+    color: #009999;
+    font-style: italic;
+}
+
+/******Advice*****/
+
+.marcy-advice h4{
+    font-size: 24px;
+    font-style: italic;
+}
+
+.marcy-advice h4 span{
+    color: #009999;
+}
+
+.advice-one,
+.advice-two {
+    margin: 10px;
+    padding: 10px;
+}
+
+.marcy-advice p{
+    font-size: 16px;
+    line-height: 150%;
+}

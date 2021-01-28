@@ -1,0 +1,105 @@
+/***** BASE STYLES *****/
+
+Jubilat Bold
+font-family: jubilat, serif;
+font-weight: 700;
+font-style: normal;
+
+Jubilat ExtraLight
+font-family: jubilat, serif;
+font-weight: 100;
+font-style: normal;
+
+Jubilat ExtraLight Italic
+font-family: jubilat, serif;
+font-weight: 100;
+font-style: italic;
+
+
+Jubilat Black
+font-family: jubilat, serif;
+font-weight: 900;
+font-style: normal;
+
+body {
+    background-color: #f2f2f2;
+    font-family: 'jubilat',serif;
+    font-weight:100;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #f8f8f2;
+    height: 200px;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-family: 'jubilat',serif;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 0;
+    color: #009DA3;
+}
+
+header a {
+    font-family: 'jubilat', serif;
+    font-size: 18px;
+    font-style:italic;
+    font-weight: 100;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #009DA3;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+header a:hover {
+    background-color :#ffff;
+    color: #000;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #e6ffff;
+    font-family: 'jubilat', serif;
+}
+
+.advice h2 {
+    font-size: 60px;
+    font-weight: 900;
+    color: #093B3D;
+    margin-bottom: 0;
+}
+
+.advice h3 {
+    color: #009DA3;
+    font-size: 48px;
+}
+
+.advice p {
+    font-size: 20px;
+    line-height: 24px;
+    color: #404040;
+    font-weight: 100;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #f2f2f2;
+}
+
+footer p {
+    color: #404040;
+    font-family: 'jubilat', serif;
+    font-size: 18px;
+    text-align: center;
+}

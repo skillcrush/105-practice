@@ -1,0 +1,32 @@
+body {
+  background-color: beige;
+  font-size: 16px;
+  margin: 0 auto;
+  padding: 5px;
+  font-family: 'Baloo Thambi 2', cursive;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.25em;
+  color: green;
+}
+
+h4 {
+  font-size: 2em;
+  color: skyblue;
+}
+
+p {
+  color: #6699ff;
+  font-size: 1.25em;
+}
+
+#underline {
+  text-decoration: underline;
+}
+
+footer p {
+  color: black;
+  padding-top: 1em;
+}

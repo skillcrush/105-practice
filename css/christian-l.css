@@ -1,0 +1,42 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 300;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #fffff;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Libre Franklin', sans-serif;
+    color: #1a1836;
+    margin-top: 0.75em;
+    text-align: center;
+    padding: 0 200px 0 200px;
+}
+h4 {
+    font-size: 1.75em;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 600;
+    color: #F37270;
+    text-align: center;
+}
+
+p {
+    padding: 0 200px 0 200px;
+    line-height: 26px;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #F37270;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

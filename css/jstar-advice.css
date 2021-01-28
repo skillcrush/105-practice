@@ -1,0 +1,77 @@
+/**** base styles ****/
+body{
+  background-color: black;
+}
+
+/**** header styles****/
+header{
+  background-image: url("https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+  height: 600px;
+  background-repeat:no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 47px;
+  font-family: 'Bungee', cursive;
+}
+
+nav{
+  border-bottom: 1px solid white;
+  color: white;
+  text-align: center;
+  padding: 10px 0 20px 0;
+  text-size: 12px;
+  font-family: 'Comfortaa', cursive;
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: pink;
+}
+
+/* mouse over link */
+a:hover {
+  color: lt-blue;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+/**** section styles ****/
+.advice{
+  font-family: 'Comfortaa', cursive;
+  color: white;
+  font-size: 18px;
+  text-align: left;
+}
+
+section{
+    margin: 0 200px 0 200px;
+    padding-bottom: 20px;
+}
+
+h4{
+  color: pink;
+  font-size: 24px;
+}
+
+/**** footer styles****/
+footer{
+  color: white;
+  text-size: 12px;
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  border-top: 1px solid white;
+  padding-top: 30px;
+}

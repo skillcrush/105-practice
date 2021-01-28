@@ -1,0 +1,52 @@
+/***** BASE STYLES *****/
+
+body{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+/***** GRID *****/
+.full-width {
+    width: 1200px;
+    background-color: #9accd4;
+}
+.picture {
+    width: 1300px;
+    height: 1000px;
+    background-image: url("https://live.staticflickr.com/2792/5834855181_a8f1c6d6d1_k.jpg");
+    background-size: cover;
+    background-position: center;
+    float: left;
+    border: none;
+    margin-left: -50px;
+}
+.half-width {
+    width: 440px;
+    float: left;
+    overflow: auto;
+    margin: 0 0 0 80px;
+    background: transparent;
+    padding: 30px 0 0 40px;
+}
+
+/*** HEADER ***/
+h1 {
+    color: #55552b;
+    margin-top: 20px;
+    text-align: center;
+}
+h4 {
+    font-size: 24px;
+    color: #768844;
+}
+p strong {
+    color:  #045766;
+}
+/***** FOOTER *****/
+footer {
+    margin-top: 50px;
+    text-align: center;
+}

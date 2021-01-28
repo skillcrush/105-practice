@@ -1,0 +1,40 @@
+header {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: #000033;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Luckiest Guy', cursive;
+    font-variant: small-caps;
+    color: #ff5050;
+}
+
+highlight {
+    background-color: #ffff80;
+    padding: 5px;
+}
+
+body {
+    font-family: 'Poiret One', cursive;
+    font-size: 20px; 
+    background-color: #ffffcc;
+}
+
+span {
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+footer {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 16px;
+}

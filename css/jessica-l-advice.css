@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    color: palevioletred
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: papayawhip;
+}
+
+h1, h4 {
+    color: peru;
+}
+
+h4 {
+    text-decoration: underline;
+    text-transform: lowercase;
+}
+
+p {
+    color: palevioletred;
+}
+
+footer {
+    text-align: center;
+}

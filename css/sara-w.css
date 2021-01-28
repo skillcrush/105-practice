@@ -1,0 +1,38 @@
+body {
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
+  background-color: mistyrose;
+  width: 450px;
+  margin: auto;
+  margin-top: 50px;
+  color: #000;
+}
+a {
+  color: #EC1B66;
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: 700;
+  color: #EC1B66;
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.footer {
+  font-size: 12px;
+}

@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    font-family: "Shadows Into Light", cursive;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #faf5f5;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #008080;
+    margin-top: 1em;
+    font-family: "Bangers", cursive;
+}
+h2 {
+    font-family: "Bangers", cursive;
+    color: #008080;
+    text-align: center;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #2eb8b8;
+    font-family: "Bangers", cursive;
+}
+
+a {
+    text-decoration: none;
+    color: #2eb8b8;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

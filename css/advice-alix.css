@@ -1,0 +1,21 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+
+h1 {
+  background-color: pink;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 28px;
+  padding: 15px;
+  text-align: center;
+}
+
+h1 span {
+  font-size: 100px;
+  color: white;
+}
+
+
+
+

@@ -1,0 +1,15 @@
+
+
+ header h1{
+  margin-left: 15px;
+}
+
+ .advice{
+  background: rgba(128, 191, 255, 0.5);
+  padding: 20px;
+  margin-left: 15px;
+}
+
+.advice h4{
+  text-transform: uppercase;
+}

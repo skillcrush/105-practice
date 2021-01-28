@@ -1,0 +1,51 @@
+/******* FONTS *******/
+/* font-family: 'Caveat', cursive;
+/* font-family: 'Crimson Text', serif;
+*************/
+
+.ap-advice {
+    font-family: 'Crimson Text', serif;
+    font-size: 18px;
+}
+
+header a {
+    color: maroon;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: brown;
+}
+
+h1,h2,h3,h4 {
+    font-family: 'Caveat', cursive;
+}
+
+h4 {
+    font-size: 30px;
+    color: indianred;
+}
+
+.mainhead {
+    color: navy;
+    text-align: center;
+}
+
+.advice {
+    margin: 0 30px;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+}
+
+footer a {
+    color: maroon;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: brown;
+}

@@ -1,0 +1,48 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+h1 {
+    color: tomato;
+	font-family: "Sacramento", "script";
+	font-size: 60px;
+	text-align: center;
+}
+
+h1 span {
+	color: cadetblue;
+}
+h4 {
+    color: cadetblue;
+	font-family: "Forum", "Baskerville", "serif";
+	font-size: 30px;
+	letter-spacing: 5px;
+	margin: 0;
+	text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+	color: black;
+	font-family: "Lato", "Baskerville", "serif";
+	font-size: 18px;
+	line-height: 26px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: slategrey;
+}
+
+footer p{
+    color: gray;
+	text-align: center;
+    padding-top: 60px;
+}

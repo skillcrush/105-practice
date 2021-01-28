@@ -1,0 +1,43 @@
+
+/***** BASE STYLES *****/
+
+body { 
+    font-family: 'PT Serif', serif;
+    background-color: oldlace;
+}
+
+/***** GRID *****/
+
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+    text-align: center;
+}
+
+.half-width {
+    float: left;
+    width: 600px; 
+    padding: 20px;
+}
+
+/***** HEADER *****/
+
+.heather-advice a {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+/***** FOOTER *****/
+footer {
+    clear: both;
+}

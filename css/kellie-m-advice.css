@@ -1,0 +1,74 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+section {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+a {
+    background-color: coral;
+    color: white;
+    font-family: 'Oxygen';
+    font-weight: bold;
+    padding: 1.5rem;
+    margin: 2rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:active {
+    background-color: darkslategray;
+}
+
+a:hover {
+    background-color: darkslategray;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Playfair Display';
+    font-size: 3rem;
+    margin: 11.8rem;
+    text-align: center;
+}
+
+h4 {
+    background-color: coral;
+    clear: both;
+    font-family: 'Playfair Display';
+    font-size: 2.5rem;
+    margin: 13rem, 0rem, 13rem, 0rem;
+    padding: 5em;
+    text-align: center;
+}
+
+p {
+    align-content: center;
+    float: left;
+    font-family: 'Oxygen';
+    font-size: 2rem;
+    margin: 1rem 0rem 5rem 3rem;
+    overflow: auto;
+    padding: 2rem;
+    width: 40%;
+}
+
+.border {
+    border-left: 2px solid black;
+    padding-left: 5rem;
+}
+
+footer p {
+    clear: both;
+    font-size: 1rem;
+}
+

@@ -1,0 +1,143 @@
+
+/* GLOBAL STYLES */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    background: #fffffe;
+    background-image: url('https://raw.githubusercontent.com/whimsicurl-creations/milestone-website/master/img/notebook-lines.jpg');
+    font-size: 18px;
+    margin: 33px auto;
+    max-width: 1200px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fffffe;
+    font-family: 'Caveat', cursive;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    color: #333;
+    align-self: flex-start;
+    margin-left: 30px;
+    }
+
+/* NAME TAG */
+.name-tag {
+    background-color: #cc0000;
+    width: 450px;
+    margin: 2% 5% 5%;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    transform: rotate(-7deg);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.name-tag h1 {
+    font-size: 2.75rem;
+    margin: 0;
+    line-height: 1.15;
+    padding-left: 1%;
+}
+
+.name-tag h1 span {
+    text-transform: uppercase;
+}
+
+#name-box {
+    height: 175px;
+    background-color: #fffffe;
+    margin: 10px 0 0;
+    border-radius: 3px;
+}
+
+#name {
+    font-family: 'Satisfy', cursive;
+    color: #222;
+    font-size: 4.1rem;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+    padding-top: 8%;
+    transform: rotate(-8deg);
+}
+
+.name-tag h3 {
+    font-size: 2rem;
+    margin: 0;
+    padding-left: 1%;
+}
+
+/* ADVICE SECTION */
+.advice {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+    /* margin: 0 auto; */
+}
+
+/* CARD STYLES */
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: #002266;
+    border-radius: 15px;
+    margin: 1%;
+    width: 45%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card h3 {
+    padding: 0 15px;
+    margin: 20px 0 10px;
+    font-size: 1.75rem;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+.card p,
+.card ul {
+    background-color: #fffffe;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+.card ul {
+    padding-left: 40px;
+}
+
+.card a {
+    color: #333;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+}
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 768px) {
+    .advice {
+        flex-direction: column;
+        padding: 10px 50px;
+    }
+    .card {
+        width: 100%;
+        margin: 10px;
+    }
+}

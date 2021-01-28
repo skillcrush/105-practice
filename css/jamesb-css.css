@@ -1,0 +1,57 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    width: 100%;
+    margin: 0;
+}
+.full-width {
+    width: 1400px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+header {
+    background-image: url("http://www.bynumproductions.com/img/computer-1209641_1920.jpg");
+    background-size: cover;
+    height: 200px;
+}
+#main-link {
+    padding-top: 30px;
+}
+.advice-main h1 {
+    font-family: 'Permanent Marker';
+    text-align: center;
+    color: aliceblue;
+}
+.background-colors {
+    background-color: beige;
+}
+.advice {
+    padding-bottom: 20px;
+}
+.advice-2 {
+    padding: 2px 0 20px 0px; 
+}
+.advice-3 {
+    padding: 10px 0 40px 0;
+}
+footer {
+    border-top: 2px solid black;
+    text-align: center;
+    padding-top: 1em;
+}

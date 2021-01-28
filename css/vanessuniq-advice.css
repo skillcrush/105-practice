@@ -1,0 +1,45 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: whitesmoke;
+    padding: 60px;
+}
+
+header {
+    color: whitesmoke;
+    background-color: #905638;
+    width: inherit;
+    height: 100px;
+    margin-top: -5%;
+    text-align: center;
+}
+
+header a:link {
+    color: teal;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: black;
+}
+
+section {
+    height: max-content;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+h4 {
+    color: rgb(196, 50, 50);
+}
+
+p {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+footer {
+    background-color: blanchedalmond;
+    font-style: italic;
+    font-weight: 900;
+    height: 70px;
+    width: inherit;
+}

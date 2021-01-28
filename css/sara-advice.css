@@ -1,0 +1,54 @@
+header {
+  background-color: ;
+  padding-bottom: 20px;
+}
+
+h1 {
+  color: #d98880;
+  font-family: 'Girassol', cursive;
+  font-size: 35px;
+  text-align: left;
+}
+
+h3 {
+  color: #d98880;
+  font-size: 30px;
+  text-align: center;
+}
+
+h3 span {
+  font-style: normal;
+  font-size: 30px;
+  color: #d98880;
+  text-decoration: overline;
+}
+
+body {
+  font-size: 20px;
+  font-family: 'Girassol', cursive;
+}
+
+section {
+  background-color: ;
+  padding-bottom: 20px;
+}
+
+.confusion {
+  width: 30%;
+  float: left;
+  text-align: center;
+  margin: 20px;
+}
+
+.disbelief {
+  width: 30%;
+  float: left;
+  text-align: center;
+  margin: 20px;
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  text-align: center;
+}

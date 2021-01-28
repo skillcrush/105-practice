@@ -1,0 +1,63 @@
+body {
+  background-color: #c8c3cc;
+  color: #484f4f;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  margin: 5px 25px 5px 25px;
+}
+
+a:link {
+  color: #8ca3a3;
+}
+
+a:visited {
+  color: #8ca3a3;
+}
+
+a:hover {
+  color: #484f4f;
+}
+
+header h1 {
+  color: #563f46;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+.full-width {
+  width: 1200px;
+}
+
+.half-width {
+  border: 1px solid #8ca3a3;
+  padding: 0 40px 10px 40px;
+  width: 516px;
+}
+
+h4 {
+  color: #563f46;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 28px;
+}
+
+.patient {
+  float: left;
+  margin-right: 1px;
+  text-align: center;
+}
+
+.consistent {
+  float: left;
+  margin-left: 1px;
+  text-align: center;
+}
+
+
+footer {
+  clear: both;
+  color: #8ca3a3;
+  padding-top: 25px;
+  text-align: center;
+}

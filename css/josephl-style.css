@@ -1,0 +1,31 @@
+body {
+  background-color: #cec9cc;
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  color: #4f43ae;
+}
+
+span {
+ color: #908a99;
+ font-family: 'Chelsea Market', cursive;
+}
+
+h1 {
+  color: #211a21;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
+
+}
+
+h4 {
+  border-style: dotted;
+  border-color: #b5b6e4;
+  border-radius: 3px;
+}
+
+footer {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 14px;
+}

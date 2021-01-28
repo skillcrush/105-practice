@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #E2DCDF;
+    font-family: 'Noto Serif', serif;
+    width: 1200px;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #2B0017;
+    margin-top: 1em;
+
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #5B0130;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+
+}

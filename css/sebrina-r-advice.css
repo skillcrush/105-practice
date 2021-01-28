@@ -1,0 +1,39 @@
+#advice {
+    background-color: #e0ebeb;
+}
+
+.button {
+    font-family: Oxanium;
+    text-align: center;
+}
+
+.emphasize {
+    color: #24478f;
+    font-family: 'Lobster Two';
+    font-size: 22px;
+    font-style: 700;
+}
+
+.name {
+    color: #2d5986;
+    font-family: 'Lobster Two';
+    font-size: 44px;
+    font-style: 700;
+}
+
+h1, h4, p {
+    color: #4d4d4d;
+    font-family: Oxanium;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 18px;
+}

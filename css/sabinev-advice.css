@@ -1,0 +1,41 @@
+body {
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 18px;
+    width: 1200px;
+    padding: 30px;
+    margin: auto;
+    background: #fff5e6; 
+}
+
+header {
+    height: 120px;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1{
+    font-family: Georgia, serif;
+    font-size: 30px;
+    text-align: center;
+}
+.advice {
+    border: 2px dotted #663d00;
+    margin: 10px;
+    padding: 20px; 
+    width: 300px;
+    float: left;
+    background: #ffffff;
+}
+h4{
+    font-family: Georgia, serif;
+    font-size: 20px;
+    text-align: left;
+    font-style: italic; 
+}
+
+footer {
+    height: 120px;
+    text-align: center;
+    padding: 50px;
+    clear: both;
+}

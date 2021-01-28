@@ -1,0 +1,93 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Raleway', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Marck Script', serif;
+    font-weight: 100;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #cfd0d3;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 72px;
+    margin-bottom: 0;
+    color: #080808;
+}
+
+header h1 span {
+    color: #d9dae9;
+    font-size: larger;
+}
+
+header h2 {
+    font-family: 'Assistant', 'Helvetica', sans-serif;
+    margin-top: 0;
+    margin-left: 20px;
+    color: #d9dae9;
+    letter-spacing: 1px;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #262730;
+    border: 3px solid #262730;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+header a:hover {
+    background-color :#496b52;
+    color: #fff;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #5c9160;
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: #e2e3ec;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice h4 span {
+    color: #e2e3ec;
+}
+
+.advice p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #e2e3ec;
+    font-weight: 200;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #cfd0d3;
+}
+
+footer p {
+    color: #e2e3ec;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

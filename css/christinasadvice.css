@@ -1,0 +1,47 @@
+body {
+  width: 1200px;
+  margin: auto;
+}
+
+.skillcrush-advice {
+  width: 600px;
+}
+
+.intro {
+  background-color: #b30086;
+  padding: 5px;
+  margin: 20px 0px 0px 0px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #ffe6f2;
+  font-size: 20px;
+  font-family: 'Satisfy', cursive;
+}
+
+.advice1 {
+  background-color: #00cccc;
+  padding: 20px;
+}
+
+.advice2 {
+  background-color: #009999;
+  padding: 20px;
+}
+
+h4 {
+text-align: center;
+text-transform: capitalize;
+font-family: 'Lobster', cursive;
+font-size: 20px;
+}
+
+p {
+text-align: center;
+font-family: 'Amatic SC', cursive;
+font-size: 30px;
+}

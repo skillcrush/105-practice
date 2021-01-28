@@ -1,0 +1,38 @@
+body {
+  font-family: 'Questrial', sans-serif;
+  background-color: #F9E79F;
+}
+
+
+
+
+/*****HEADER*****/
+.skillcrush-advice h1 {
+  font-size: 60px;
+  font-variant: small-caps;
+  color: darkgrey;
+  text-align: center;
+}
+
+.skillcrush-advice a {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+/*****ADVICE*****/
+.advice h4 {
+  font-size: 25px;
+  color: lightgrey;
+}
+
+.advice p {
+  font-size: 20px;
+  color: darkgrey;
+  text-align: justify;
+}
+
+/*****FOOTER*****/
+footer p {
+  color: lightgrey;
+  text-align: center;
+}

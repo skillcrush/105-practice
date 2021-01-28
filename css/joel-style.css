@@ -1,0 +1,51 @@
+h1 {
+	font-family: 'Russo One', sans-serif;
+	color: #75480c;
+	width: 600px;
+	text-align: center;
+}
+
+h4 {
+	text-transform: uppercase;
+	font-family: 'Rubik', sans-serif;
+	color: #666c65;
+}
+
+p {
+	font-family: 'PT Sans', sans-serif;
+}
+
+a {
+	font-family: 'Play', sans-serif;
+	padding-left: 30px;
+	text-decoration: none;
+	color: #0f732b;
+}
+
+a:hover {
+	color: #e12c79;
+}
+
+header a {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 12px;
+}
+
+.section-1,
+.section-2 {
+	background: #edeffc;
+	border: #8b8c90 solid 1px;
+	border-radius: 20px;
+	margin-top: 10px;
+	padding: 10px 25px 15px 25px;
+	width: 600px;
+	text-indent: 25px;
+	text-align: justify;
+}
+
+footer {
+	padding-left: 30px;
+	font-size: 14px;
+	color: #9c9a9b;
+}

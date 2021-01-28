@@ -1,0 +1,102 @@
+/* ------------ MOBILE FIRST DESIGN ------------- */
+
+/* Base Styles */
+
+html {
+	font-size: 16px;
+}
+
+body {
+	background-color: black;
+	color: #C5B358;
+	font-family: 'Raleway';
+	font-size: 1em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.skillcrush-advice {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+header, footer {
+	height: auto;
+  	width: 100%;
+  	display: flex;
+  	justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-direction: column;
+}
+
+header {
+	margin: 0 auto;
+}
+
+a {
+	color: #C5B358;
+}
+
+h1, h4 {
+	font-family: 'Dancing Script';	
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h4 {
+	font-size: 1.5em;
+	padding: 0 1.75em;
+}
+
+p {
+	line-height: 1.5em;
+	color: white;
+	padding: 0 2em;
+}
+
+/* Header */
+
+header h1 {
+	padding: .5em .5em;
+}
+
+/* Advice */
+
+.advice {
+	margin: 0 auto;
+	width: 100%;
+}
+
+.advice-1, .advice-2, .advice-3 {
+	border: 5px solid white;
+    height: auto;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.advice-1, .advice-2 {
+	margin-bottom: 2em;
+}
+
+
+
+/**************TABLET STYLES************/
+
+@media screen and (min-width: 768px) {
+	.advice {
+		display: flex;
+		margin-left: 2%;
+		margin-right: 2%;
+	}
+
+	.advice-1, .advice-2, .advice-3 {
+		margin: 0 auto;
+		width: 30%;
+	}
+
+}

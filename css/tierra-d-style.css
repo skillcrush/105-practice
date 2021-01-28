@@ -1,0 +1,36 @@
+
+@font-face{
+	font-family:'Cormorant Garamond', serif;
+	font-family:'Exo 2',sans-serif;
+	font-family:'Satisfy',cursive;
+}
+
+body{
+	background-color: #ffffe6;
+	font-family:'Exo 2',sans-serif;
+}
+
+h1{
+	text-align:center;
+}
+
+h1 span{
+	color:#bf8040;
+	font-famiy:'Satisfy',cursive;
+}
+
+p{
+	font-size:20px;
+}
+
+.advice {
+	border:10px ridge #bf8040;
+	border-size: 50px;
+	background: #ff6699;
+	padding:20px 10px 30px 10px;
+}
+
+.advice h4{
+	font-size:25px;
+	text-align:center;
+}

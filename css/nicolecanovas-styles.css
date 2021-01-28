@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: aliceblue;
+}
+header {
+    display: block;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+h1, h4 {
+    font-family: 'Homemade Apple', cursive;
+    color: mediumorchid;
+    font-size: 32px;
+}
+div {
+    display: block;
+}
+p {
+    display: block;
+    font-size: 20px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+footer {
+    display: block;
+}

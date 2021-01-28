@@ -1,0 +1,41 @@
+body{
+  font-family: monospace;
+
+}
+
+.germaine-advice{
+  width:600px;
+  border-bottom: 1px dotted black;
+  align-self: center;
+}
+
+.germaine-advice header{
+height:100px;
+  background-color: #F2845C;
+}
+
+.advice{
+  background-color: #F2D5E0;
+  float:left;
+}
+
+
+footer{
+  background-color: #02735E;
+  clear:both;
+  height: fit-content;
+
+}
+
+h1{
+  font-size: 25px;
+  color: #02454d;
+}
+
+h4{
+  color:#010708;
+}
+
+p{
+  text-align: justify;
+}

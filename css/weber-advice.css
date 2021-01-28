@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    width: 80%;
+    margin: 0 auto;
+}
+h1{
+    font-family: 'Special Elite', cursive;
+    font-size: 2em;
+    color: midnightblue;
+    padding-top: 20px;
+}
+
+h4 {
+    font-family: 'Special Elite', cursive;
+    font-size: 1.5em;
+    color: darkslateblue;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+    line-height: 1.7;
+}
+
+a {
+    font-family: 'Merriweather', serif;
+    font-size: .5em;
+    color: dimgray;
+}
+
+footer p {
+    font-family: 'Merriweather', serif;
+    font-size: .5em;
+}

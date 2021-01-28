@@ -1,0 +1,52 @@
+/***** BASE STYLES *****/
+.skillcrush-advice {
+    margin: 0, auto;
+    width: 1300px;
+}
+
+
+body {
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #faf5f5;
+}
+
+img {
+    border: solid 10px #fbd2d0;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #666666;
+    margin-top: 1em;
+    text-transform: capitalize;
+}
+
+.advice {
+    background-color: white;
+    padding: 20px;
+    
+}
+
+#first-header {
+    margin-top: 0;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+

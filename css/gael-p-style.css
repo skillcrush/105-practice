@@ -1,0 +1,65 @@
+/***** BASE STYLES *****/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    font-size: 16px;    
+    max-width: 1200px;
+    background-color: #faf5f5;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Abril Fatface';
+}
+
+/* HEADER STYLES */
+header {
+    padding: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+    padding: 15px;
+    border: 3px solid grey;
+}
+
+h1 {
+    font-size: 4em;
+    color: #bb433d;
+    margin-top: 1em;
+    margin-bottom: 0;
+}
+
+/* SECTION STYLES */
+h4 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #493dbb;
+}
+
+.advice {
+    background-color: #f2dfc7;
+    padding: 25px 50px;
+    margin: 100px 50px;
+    position: relative;
+}
+
+.advice h4 {
+    position: absolute;
+    top: -100px;
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #a8dfb3;
+}
+
+
+/* FOOTER STYLES */
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+

@@ -1,0 +1,58 @@
+/*****BASE STYLES*****/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #2B2B2B;
+  background-color: #EBEBEB;
+}
+
+/*****HEADER*****/
+
+header {
+  color: white;
+  height: 600px;
+  background-image: url('https://images.pexels.com/photos/399161/pexels-photo-399161.jpeg?cs=srgb&dl=apple-background-desk-electronics-399161.jpg&fm=jpg');
+  background-size: cover;
+}
+header a {
+  text-decoration: none;
+  color: white;
+}
+#main-menu {
+  width: 160px;
+  text-align: center;
+  padding: 5px;
+}
+#intro {
+  width: 1000px;
+  height: auto;
+  margin: 60px;
+  margin-top: 70px;
+  font-size: 30px;
+  font-weight: light;
+}
+header span {
+  color: #EBEBEB;
+  font-weight: bolder;
+  border: 1px solid white;
+  margin: 10px;
+}
+
+/*****SECTION*****/
+
+section h4 {
+  font-size: 25px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+/*****FOOTER*****/
+
+footer {
+  text-align: center;
+}
+footer span {
+  font-family: 'Shadows Into Light', cursive;
+}

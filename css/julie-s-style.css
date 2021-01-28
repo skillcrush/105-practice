@@ -1,0 +1,88 @@
+/******* GRID ********/
+header {
+    width: 1200px;
+    height: 100px;
+    padding: 20px;
+}
+
+footer {
+    width: 1200px;
+    height: 50px;
+    padding-top: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+/******* BASICS *******/
+body {
+    /*background-image: linear-gradient(red, yellow, blue);*/
+    background: #f7f2f2;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    color: #524e4e;
+    font-size: 18px;
+}
+
+
+/******** HEADER ********/
+
+header h1, h4 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+header a {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #ff7d8a;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 35px;
+    color: #2d2d2e;
+}
+
+h4 {
+    font-size: 30px;  
+    color: #2d2d2e; 
+}
+
+
+
+/******** MAIN SECTION *******/
+#middle .advice p {
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+#middle .advice h4 span {
+    font-family: 'Rock Salt', cursive; 
+    font-size: 25px; 
+}
+
+#middle .advice h4 {
+    text-align: left;
+    padding-left: 50px;
+}
+
+#middle {
+    border: 4px dashed #ff7d8a;
+    margin: 20px;
+}
+
+
+
+/********* FOOTER *********/
+footer {
+    font-weight: bold; 
+    text-align: center;
+    color: #2d2d2e;
+}

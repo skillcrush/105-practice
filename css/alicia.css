@@ -1,0 +1,32 @@
+h1 {
+  font-size: 36px;
+  font-family: 'Special Elite', cursive;
+}
+
+span {
+      font-family: 'Sacramento', cursive;
+      color: deeppink;
+}
+
+section {
+  background-color:  #ffe6f4;
+  margin: 40px;
+  padding: 5px 20px 20px 20px;
+}
+
+h4 {
+  font-size: 28px;
+  text-decoration: underline;
+  font-family: Arial;
+  font-weight: bolder;
+}
+
+p {
+  font-size: 16px;
+  font-family: Arial;
+}
+
+.copyright p{
+  font-family: Serif;
+  font-size: 12px;
+}

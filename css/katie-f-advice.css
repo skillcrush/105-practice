@@ -1,0 +1,29 @@
+body {
+  background: #F0F8FF;
+  font-family: 'Lato', sans-serif;
+  padding: 10px;
+}
+header a {
+  text-decoration: none;
+  color: #8FBC8F;
+}
+h1 {
+  padding: 10px;
+  color: #483D8B;
+  text-align: center; 
+}
+h4 {
+  font-size: 20px;
+}
+#confusion {
+  border: 3px dotted #E9967A;
+  margin: 20px;
+  padding: 10px;
+  text-align: justify;
+}
+#suspend {
+  border: 3px dotted #E9967A;
+  margin: 20px;
+  padding: 10px;
+  text-align: justify;
+}

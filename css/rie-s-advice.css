@@ -1,0 +1,18 @@
+#banner-color{
+    background: #bfbfbf;
+    color: #f7f7f5;
+}
+.advice h4{
+    font-size: 30px;
+    font-weight:700;
+}
+.advice h4, .advice p{
+    padding-left:20px;
+
+}
+.advice p{
+    width: 60%;
+    font-size:24px;
+    line-height: 36px;
+    margin: 0 auto;
+}

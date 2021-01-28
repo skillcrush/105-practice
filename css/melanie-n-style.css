@@ -1,0 +1,42 @@
+body {
+    background-color: #D996BB;
+    font-family: 'Libre Baskerville', serif;
+    border: 5px inset #402C33;
+    border-radius: 15px;
+}
+footer {
+    text-align: center;
+    text-decoration: overline;
+}
+.header {
+    margin: 15px auto;
+    text-align: center;
+}
+img {
+    display: block;
+    border-radius: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+.advice {
+    margin: 35px;
+    background: rgba(255, 255, 255, 0.3);
+    padding: 55px;
+    border-radius: 15%;
+}
+em {
+    text-decoration: underline;
+}
+strong {
+    font-size: 18px;
+}
+.advice h2 {
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+}
+.advice p {
+    font-size: 16px;
+    line-height: 25px;
+}

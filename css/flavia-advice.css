@@ -1,0 +1,45 @@
+html {
+  background: #613647;
+  color: #333;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  text-align: justify;
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: white;
+  padding: 16px;
+}
+
+header #back {
+  text-align: center;
+  font-size: 15px;
+}
+
+h1 {
+  text-align: left;
+  font-family: 'Handlee', cursive;
+}
+
+h4, a {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+  text-align: right;
+  font-size: 15px;
+}
+
+a {
+  color: 	#b96084;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+a:hover {
+  color: #a53242;
+}

@@ -1,0 +1,71 @@
+/***** GRID *****/
+
+.container {
+	width: 1200px;
+        margin: 0 auto;
+}
+
+.section-one,
+.section-two{
+	width: 550px;
+	padding: 45px;
+	float: left; 
+}
+
+
+/***** BASE STYLES *****/
+
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #000000;	
+	background: #ffffcc;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	color: black;
+	text-transform: small-caps;
+	font-weight: 400;
+}
+
+
+p{
+	font-size: 16px; 
+	line-height: 25px;
+	padding: 0 30px;
+}
+
+/***** HEADER *****/
+
+h1{ 
+	font-family: 'Roboto Slab', serif;	
+	text-align: center;
+	text-transform: uppercase;	
+}
+
+
+
+/***** BODY *****/
+
+.section-one h4,
+.section-two h4{
+	font-family: 'Roboto Slab', serif;	
+	font-size: 28px; 
+	font-variant: small-caps;
+}
+
+	
+
+	
+/***** FOOTER *****/
+
+footer{
+	text-align: center;
+	text-transform: lowercase;
+	background: white;
+	padding: 15px;
+	clear: both;
+}
+	

@@ -1,0 +1,25 @@
+header {
+  padding:inherit;
+}
+
+h1 {
+  color: #800000;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'EB Garamond', serif;
+  padding: 0px;
+}
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+footer p{
+  padding: 100px;
+  font-style: italic;
+
+}

@@ -1,0 +1,129 @@
+/*
+Color Palette
+#8C1C71 MIDNIGHT
+#01A2B4 
+#A7BFD4 Purple Taupe
+#230424 Dark Purple
+#39375B Deep Koamaru
+*/
+
+/*-----------------------Grid---------------------*/
+
+.full-width {
+    width: 1300px;
+    margin: 0 auto;
+    padding: 0;
+}
+.half-width {
+    width: 650px;
+    float: left;
+    height: 520px;
+    padding: 0;
+}
+/*----------------------Base-Styles---------------------*/
+
+body{ 
+    background-color: #7F7F7F;
+    color: #412A3C;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#site-image, #about, #work, #contact {
+    height: 725px;
+}
+
+a {
+    text-decoration: none;
+    color: #A7BFD4;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*----------------------Header---------------------*/
+
+
+
+header {
+    text-align:center;
+    font-family: 'Caveat', cursive;
+    font-size: 42px;
+/*    height: 600px;*/
+/*    padding: 25px 0 0 0;*/
+    color: #6F4F96;
+}
+
+section {
+    height: 600px;
+    background: linear-gradient(rgba(53, 42, 69, 0.2),
+                 rgba(53, 42, 69, 0.1)), url(https://live.staticflickr.com/3809/9804790756_7bebef8479_z.jpg) no-repeat fixed;
+    background-size: cover;
+/*    background-position: 1600px 600px;*/
+    background-position: 110% 50%; 
+    }
+
+h1 {
+/*    font-size: 60px;*/
+/*    margin: auto;*/
+/*    padding: 40px 20px;*/
+}
+
+
+/*----------------------Main---------------------*/
+
+.advice {
+    overflow: auto;
+    padding: 50px 0;
+}
+
+aside {
+    border: solid #412A3C 10px;
+    background-color: #6F4F96;
+    border-radius: 50%;
+    color: #412A3C;
+    font-size: 36px;
+    font-style: italic;
+    margin: 0 auto;
+    padding: 40px 0;
+    text-align: center;
+    width: 400px;
+/*    overflow: auto;*/
+    
+  }
+
+h2{
+	font-size: 36px;
+	font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase; 
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    text-align: left;
+    font-weight: bold; 
+    margin: 0 30px;
+        
+}
+
+span {
+    font-size: 32px;
+    font-family: 'Caveat', cursive;
+}
+
+/*----------------------Footer---------------------*/
+
+.copyright {
+    text-align: center;
+    color: #412A3C;
+}
+
+div {font-weight: bold;  
+}
+
+
+
+
+
+
+

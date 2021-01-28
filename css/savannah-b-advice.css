@@ -1,0 +1,56 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Inter', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+     font-family: 'Pacifico', cursive;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #92a8d1;
+    padding: 10px 20px 10px;
+}
+
+header h1 {
+    font-size: 60px;
+    margin-bottom: 10px;
+    color: #161616;
+}
+
+header h1 span {
+    color: #f7cac9;
+    font-size: larger;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 0px 20px 20px;
+    background-color: #f7786b;
+    margin-bottom: 10px;
+
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: #034f84;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice h4 span {
+    color: #f7cac9;
+}
+
+.advice p {
+    font-size: 24px;
+    line-height: 30px;
+    color: #e4e4de;
+    font-weight: 200;
+}

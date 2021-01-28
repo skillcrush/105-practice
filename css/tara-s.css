@@ -1,0 +1,88 @@
+/***** BASE STYLES *****/
+
+body, h1{
+  font-family: 'EB Garamond', serif;
+
+}
+
+a, h4{
+  font-family: 'Nunito Sans', sans-serif;
+
+}
+
+/********* Grid ************/
+.full-width{
+  width: 1200px;
+}
+
+.half-width{
+  width: 600px;
+  float: left;
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+/***** HEADER *****/
+.full-width{
+  padding: 15px 0 0 0;
+}
+
+header{
+  background: darkslategrey;
+}
+
+a:link, a:visited, a:active{
+  font-size: 18px;
+  padding-left: 20px;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:hover{
+  font-size: 18px;
+  padding-left: 20px;
+  text-decoration: underline;
+  color: whitesmoke;
+}
+
+h1{
+  color: whitesmoke;
+  font-size: 45px;
+  padding: 35px;
+}
+
+/***** ADVICE *****/
+.half-width{
+  padding: 20px;
+}
+
+h4{
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+#advice1{
+  padding-right: 30px;
+}
+
+#advice2{
+  padding-left: 30px;
+}
+/***** FOOTER *****/
+footer{
+  background: darkslategrey;
+  clear: both;
+  margin-top: 350px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+footer p{
+  color: whitesmoke;
+  margin-top: -15px;
+  padding: 20px 0;
+}

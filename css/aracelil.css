@@ -1,0 +1,53 @@
+body {
+  background-color: #ffffff;
+  color: #242124;
+  max-width: 900px;
+  margin: 0 auto;
+}
+header {
+  padding: 20px 0 10px 0;
+}
+h1,
+h2 {
+  font-family: 'Abril Fatface', cursive;
+  letter-spacing: 0.1em;
+}
+h1 {
+  font-size: 2em;
+}
+p {
+  font-family: 'Lato', sans-serif;
+}
+#back-btn {
+  margin: 10px 10px 10px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #90A681;
+  color: #FFF;
+  text-decoration: none;
+  font-family: 'Lato', sans-serif;
+  }
+img {
+  border-radius: 34% 66% 64% 36% / 67% 66% 34% 33%;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.advice {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: rgb(200, 199, 195, 0.2);
+  border-radius: 10px;
+}
+.advice-img {
+  float: right;
+}
+.reminder {
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: rgb(144, 166, 129, 0.2);
+  border-radius: 10px;
+}
+#copyright {
+  text-align: center;
+}

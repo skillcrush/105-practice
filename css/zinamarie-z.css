@@ -1,0 +1,46 @@
+/* GENERAL */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: #a6a6a6;
+	font-family: 'Roboto', sans-serif;
+	margin: 0 auto;
+}
+
+.skillcrush-advice {
+	background: #fcfcfc;
+	margin: 20px auto;
+	width: 70%;
+}
+
+h1 {
+	border-bottom: 1px solid #ccc;
+	font-family: 'Rogue Script', cursive;
+	font-size: 1.88em;
+	padding: 5px 0 15px 0;
+	text-align: center;
+}
+
+h1 span,
+h4 {
+	color: #ff5349;
+}
+
+h4 {
+	text-align: justify;
+	font-size: 0.88em;
+	font-variant: small-caps;
+}
+
+a {
+	color: #ff7149;
+	font-size: 0.69em;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+p {
+	line-height: 2;
+}

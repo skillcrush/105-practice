@@ -1,0 +1,41 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    background: #ffffff;
+}
+
+.center {
+    background: #000000;
+    text-align: center;
+    padding: 50px 0;
+}
+
+h1 {
+    text-align: center;
+    width: 500px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Muli', sans-serif;
+    color: #15b101;
+}
+
+a {
+    color: #15b101;
+    font-size: 12px;
+}
+
+a:hover {
+    color: #21ff04;
+    text-shadow: 1px 1px #084101;
+}
+
+section .advice {
+    box-sizing: border-box;
+    float: left;
+    padding: 30px;
+    width: 600px;
+}
+
+footer {
+    clear: both;
+}

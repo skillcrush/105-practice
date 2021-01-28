@@ -1,0 +1,73 @@
+
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    color: #383838;
+}
+
+h1, h4 {
+    color: #000;
+    font-family: 'Galada', cursive;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #ffcccc;
+    padding: 30px 40px;
+}
+
+.back-link {
+    color: #383838;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.back-link a {
+    color: #383838;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1 span {
+    color: #fff;
+    text-shadow: 1px 1px 2px #330000, 0 0 25px #ff0000, 0 0 5px #ff6666;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #fff;
+}
+
+.advice h4 {
+    color: #383838;
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+.advice p {
+        font-size: 18px;
+        line-height: 30px;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #383838;
+}
+
+footer p {
+        color: #fff;
+        text-align: center;
+}

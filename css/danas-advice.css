@@ -1,0 +1,42 @@
+/*This is the CSS for the danas-advice.html webpage*/
+
+/*body*/
+
+body {
+	background:linear-gradient(180deg, #ffd1cc, #ffe4e1, #ffe8e6);
+}
+
+
+/*main heading*/
+
+h1 {
+	color: teal;
+	font-family: Georgia;
+}
+
+
+/*subheading*/
+
+h4 {
+	color: #009999;
+	font-family: Georgia;
+	font-weight: bold;
+}
+
+
+/*paragraphs*/
+
+p {
+	color: darkslategray;
+	font-family: Verdana;
+	font-size: 20px;
+}
+
+/*footer*/
+
+#footer {
+	color: gray;
+	font-family: Georgia;
+	font-size: 10px;
+	text-align: center;
+}

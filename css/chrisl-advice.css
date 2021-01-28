@@ -1,0 +1,78 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    color: #6e6053;
+}
+
+h1, h4 {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #adad85;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 72px;
+    margin-bottom: 0;
+    color: #53616e;
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #53616e;
+    border: 2px solid #53616e;
+    padding: 10px 20px;
+}
+
+header a:hover {
+    background-color :#53616e;
+    color: #fff;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #53616e;
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: #ffffff;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+
+.advice p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #adad85;
+    font-weight: 200;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #adad85;
+}
+
+footer p {
+    color: #53616e;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

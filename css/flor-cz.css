@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 18px;
+    font-family: prompt;
+    padding: 80px;
+    margin: 0 auto;
+    background: #d8d7d5;
+}
+
+h1 {
+    font-size: 40px;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #04797a;
+}
+
+a {
+    text-decoration: none;
+    color: #e0ad04;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+span {
+    font-family: engagement;
+    font-size: 26px;
+
+}
+strong, span {
+    color: #d03c52;
+}
+.mycomment {
+    font-family: cookie;
+    font-size: 40px;
+    color: #e0ad04;
+    text-align: center;
+}
+

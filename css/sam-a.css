@@ -1,0 +1,34 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #d1d1e0;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+a {
+	color: #48486a;
+	text-decoration: none;
+}
+
+
+a:hover {
+	color: #cca300;
+	text-decoration: none;
+}
+
+.sams-advice {
+	color: #000033;
+}
+
+header h1 {
+	color: #cca300;
+}
+
+section h4 {
+	color: #29293d;
+	font-style: italic;
+}
+
+footer {
+	font-size: 10px;
+}

@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h4 {
+    color:#588656;
+}
+
+.back_button {
+    text-decoration: none;
+    background-color: white;
+    color:#588656;
+    border: 2px solid #588656;
+    font-size: 1.2em;
+}
+
+.back_button:hover {
+    background-color: #588656;
+    color: white;
+  }
+
+.hero {
+    background-image: url('https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1522&q=80');
+    height: 800px;
+}
+
+footer{
+    text-align: center;
+}

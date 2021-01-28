@@ -1,0 +1,288 @@
+/****** BASE STYLES ******/
+
+body {
+    font-family: 'Playfair Display', serif;
+    color: #2b2b2b;
+    font-size: 16px;
+    background-color: #e6e6ff
+    
+}
+
+a {
+    text-decoration: none;
+    color: #521818;
+    cursor: pointer;
+    display: block;
+    font-style: italic;
+}
+
+a:hover {
+    color: #7a2424;
+}
+
+h4 {
+    margin: 0;
+    font-size: 1.75em;
+    font-family: 'Bangers', cursive;
+}
+
+.full-width {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+/****** Header ******/
+
+header {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.top-header {
+    background-color: #7a2424;
+}
+
+header .full-width {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    width: 100%;
+    padding: 15px 0;
+    font-size: 1.8em;
+    color: black;
+    text-align: center;
+}
+
+header h1 a {
+    color: #f1e0cb;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #ffffff;
+}
+
+nav {
+    width: 100%;
+    padding: 10px 0;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1em;
+    color: #f1e0cb;
+}
+
+header h2 {
+    width: 1000px;
+    clear: both;
+    padding: 20px 0 20px 25px;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    line-height: 80px;
+    color: #9b9b9b;
+}
+
+header h2 span {
+    color: #2b2b2b;
+}
+
+/****** Resources ******/
+
+#resources {
+    background-color: #ebd6d1;
+    text-align: center;
+}
+
+#resources .full-width {
+    padding: 85px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.resource {
+    width: 100%;
+}
+
+#resources h2 {
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    font-size: 32px;
+    font-family: 'Merriweather', serif;
+    line-height: 32px;
+}
+
+#resources ul {
+    padding: 0;
+}
+
+#resources li {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    line-height: 30px;
+    list-style: none;
+}
+
+/****** Contact ******/
+
+#contact {
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 50px 0 0 0;
+}
+
+#contact .full-width {
+    padding: 110px 0;
+}
+
+#contact h4 {
+    font-family: 'Merriweather', serif;
+    line-height: 44px;
+    padding: 20px 0;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #d89482;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+#contact ul li {
+    display: inline-block;
+    padding: 0 5px;
+}
+
+.copyright {
+    padding-bottom: 20px;
+    font-size: 0.9em;
+}
+
+.credit {
+    color: #9c9797;
+    font-size: 0.8em;
+}
+
+/****** About ******/
+
+#about {
+    background-color: #ebd6d1;
+}
+
+#about .full-width {
+    padding: 60px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.bio-image {
+    width: 75%;
+}
+
+.bio {
+    width: 90%;
+}
+
+.bio p {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 10px 0;
+    list-style: none;
+}
+
+.bio h3 {
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 24px;
+}
+
+
+@media screen and (min-width: 760px) {
+
+    header,
+    footer {
+        font-size: 1.2em;
+    }
+
+    header .full-width {
+        justify-content: space-between;
+    }
+
+    header h1 {
+        width: 45%;
+        padding: 30px 0;
+    }
+
+    header nav {
+        width: 45%;
+    }
+
+    header nav ul {
+        justify-content: space-evenly;
+    }
+
+    nav {
+        padding: 40px 0;
+    }
+
+    #resources .full-width {
+        padding: 85px 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .resource {
+        width: 30%;
+    }
+
+    #about .full-width {
+        justify-content: space-around;
+    }
+
+    .bio-image {
+        width: 45%;
+    }
+
+    .bio {
+        width: 40%;
+    }
+
+    .bio h3 {
+        text-align: left;
+    }
+
+}
+
+@media screen and (min-width: 1000px) {
+    .bio-image {
+        width: 30%;
+    }
+
+    #about p {
+        padding: 20px 0;
+    }
+}

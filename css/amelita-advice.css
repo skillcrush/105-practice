@@ -1,0 +1,55 @@
+/***** BASE STYLES *****/
+
+body {
+    border: 20px solid #ffffff;
+    background-color: rgb(252, 216, 13);
+    background-repeat: no repeat;
+    background-size: cover;
+    font-family: "Lucida Console", Monaco, monospace;
+    padding: 40px;
+    width: 70%;
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+/***** GRID *****/
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+header h1 {
+    padding: auto;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+    width: 700px;
+}
+
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+    text-align: center;
+}
+#advice-1, #advice-2, #advice-3 {
+    font-family: "Lucida Console", Monaco, monospace;
+    padding: auto;
+    text-align: center;
+    width: 700px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    width: 700px;
+}

@@ -1,0 +1,186 @@
+/***** HEAD ****/
+
+.skillcrush-advice{
+  width: auto;
+
+}
+
+
+p{
+  text-align: center;
+}
+header{
+  background-image: url("http://images.sequart.org/images/krazy-kat-brick.jpg");
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  width:auto;
+}
+
+nav{
+
+}
+
+img {
+  height: 200px;
+}
+
+.bar{
+      height: 250px;
+      background: black;
+      margin: 0px;
+}
+
+.words{
+      height: 200px;
+      background: cream;
+
+}
+
+.words h1 {
+      text-align: center;
+      font-family: 'Poiret One', cursive;
+      font-size: 70px;
+
+
+}
+
+.confusion{
+  background: white;
+  height: 400px;
+  width: auto;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 200px 0px;
+}
+
+.confusion h4 {
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    padding: 0px 0px 200px 0px;
+
+
+}
+
+#con{
+    padding-left: 80px;
+    font-size: 120px;
+    text-transform: uppercase;
+
+}
+#fus{
+ padding-right: 140px;
+}
+#you{
+      padding: 0px 0px 50px 600px;
+      float: left;
+
+
+}
+#fri{
+  font-size: 170px;
+  padding: 0px 1050px 0px 0px;
+  font-family: 'Oswald', sans-serif;
+  font-style: italic;
+
+
+}
+
+.p1{
+  width: auto;
+  height: 500px;
+  background-color: #3e3e3e;
+  text-align: center;
+  margin: 0px 0px 20px 0px;
+}
+
+.p1 p{
+    font-family: 'Roboto Condensed', sans-serif;
+    text align: center;
+    font-size: 30px;
+    color: white;
+    width: auto;
+    padding: 35px 0px 0px 0px;
+}
+.susp{
+    height: 1200px;
+    width: auto;
+
+
+}
+.susp h4{
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  width: auto;
+
+}
+
+#sus{
+   font-size: 50px;
+   padding: 0px 0px 0px 0px;
+   text-transform: lowercase;
+   text-align: center;
+   width: auto;
+}
+
+#dis{
+  padding: 0px 600px 0px 0px;
+  text-align: center;
+  width: auto;
+
+}
+
+#bel{
+    padding: 300px 0px 0px 600px;
+    text-align: center;
+    width: auto;
+}
+
+#pla{
+    letter-spacing: 400px;
+    font-size: 170px;
+    padding: 0px 15px 0px 200px;
+    text-align: center;
+    width: auto;
+}
+
+#imp{
+    font-size: 20px;
+    padding: 0px 0px 0px 1000px;
+    text-align: center;
+    width: auto;
+}
+
+.p2{
+  width: auto;
+  height: 600px;
+  background-color: #3e3e3e;
+  text align: center;
+}
+.p2 p{
+  font-family: 'Roboto Condensed', sans-serif;
+  text align: center;
+  font-size: 30px;
+  color: white;
+  width: auto;
+  padding: 35px 0px 0px 0px;
+}
+
+footer{
+        width: auto;
+}
+
+footer p{
+        font-family: 'Roboto Condensed', sans-serif;
+        text align: center;
+        font-size: 24px;
+}
+
+#emblue{
+    color: skyblue;
+}
+
+#emprez{
+    color: red;
+}

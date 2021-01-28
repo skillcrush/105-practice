@@ -1,0 +1,60 @@
+/************************Base style****************************/
+
+body {
+  background-color: #FFAAAA;
+  font-size: 14px;
+  margin: 0 auto;
+font-family: cursive;
+}
+
+h1 {
+  color: #550000;
+  font-size: 32px;
+  text-align: center;
+  font-family: cursive;
+}
+
+h4 {
+  color: #550000;
+  font-size: 24px;
+  font-family: 'Rock Salt', cursive;
+  text-align: center;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+li {
+  padding: 0px 5px 5px 5px;
+}
+
+span {
+  color: crimson;
+  font-weight: 600;
+}
+/*********************************Floating**********************************/
+
+#first-advice {
+  width: 555px;
+  margin: 25px 25px 25px 25px;
+  padding: 10px 10px 10px 10px;
+  float: left;
+}
+
+#second-advice {
+  width: 555px;
+  margin: 25px 25px 25px 25px;
+  padding: 10px 10px 10px 10px;
+  float: left;
+}
+
+#third-advice {
+  margin: 25px 25px 25px 25px;
+  padding: 10px 10px 10px 10px;
+  clear: both;
+}
+
+footer {
+  text-align: center;
+}

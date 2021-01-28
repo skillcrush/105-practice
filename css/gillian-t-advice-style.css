@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,300i,600,600i|Roboto+Slab:300');
+
+div {
+    box-sizing: border-box;
+}
+
+body {
+    background: #eefaf8;
+    color: #333;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+a {
+    color: #f7a9b6;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    color: #f7a9b6;
+}
+
+.container {
+    background: #fff;
+    margin: 20px auto;
+    width: 1000px;
+}
+
+.header {
+    padding: 50px;
+    text-align: center;
+}
+
+
+.site-title {
+    color: #333;
+    font-size: 45px;
+    font-weight: 300;
+    margin: 0;
+}
+
+.site-description {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin: 10px 0 0;
+    text-transform: uppercase;
+}
+
+.nav {
+    border-bottom: 1px solid #fde0e2;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav li a {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+.nav li a:hover {
+    color: #333;
+}
+
+.content-area {
+    clear: both;
+    overflow: hidden;
+    padding: 0 30px;
+}
+
+.content {
+    float: left;
+    padding: 30px 0;
+    width: 620px;
+}
+
+.sidebar {
+    border-left: 1px solid #fde0e2;
+    float: right;
+    padding: 30px 0 30px 30px;
+    width: 300px;
+}
+
+.entry,
+.widget {
+    margin-bottom: 30px;
+}
+
+.entry-title {
+    font-size: 35px;
+}
+
+.widget-title {
+    font-size: 25px;
+}
+
+.footer {
+    border-top: 1px solid #fde0e2;
+    clear: both;
+    overflow: hidden;
+    padding: 15px;
+}
+
+.footer1,
+.footer2 {
+    float: left;
+    padding: 15px;
+    width: 33%;
+}
+
+.footer3 {
+    float: right;
+    padding: 15px;
+    width: 33%;
+}
+
+.credits {
+    border-top: 1px solid #fde0e2;
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+}
+

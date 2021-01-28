@@ -1,0 +1,54 @@
+/**** BASE STYLES *****/
+
+.lindsay-advice{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 72px;
+  font-weight: bold;
+  color: white;
+  font-family:font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  background: teal;
+  border-bottom: solid gray 5px;
+  margin: 0 auto;
+}
+
+h1 span{
+  color: #ff0066;
+}
+
+.advice{
+  background: #b3ffff;
+  margin: 0 auto;
+}
+
+h4{
+  font-family:'Patrick Hand', cursive;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 30px 20px 0;
+}
+
+p{
+  font-family:'Patrick Hand', cursive;
+  font-size: 25px;
+  text-align: justify;
+  margin: 0 auto;
+  padding: 10px 30px;
+}
+
+p span{
+  font-style:italic;
+  font-size: 30px;
+}
+
+footer p{
+  background: #b3ffff;
+  margin: 0 auto;
+  font-size: 12px;
+  text-align: right;
+}

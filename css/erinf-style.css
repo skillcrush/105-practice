@@ -1,0 +1,76 @@
+/***** BASE STYLES *****/
+
+/** source for image: https://www.quantamagazine.org/a-brain-built-from-atomic-switches-can-learn-20170920/ **/
+
+body {
+    background-image: url('https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/09/ArtificialBrain_2880x1620.jpg');
+    background-color: #ece3d1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #002e56;
+    font-family: 'EB Garamond', serif;
+    font-size: 14px;
+    margin: 0px;
+    width: auto;
+}
+
+
+
+/***** HEADER ****/
+
+header #homelink {
+    background-color: #fd9a7b;
+    border: 2px solid #002e56;
+    margin: 20px;
+    padding: 4px;
+    width: 120px;
+}
+header #homelink a {
+    color: #002e56;
+    font-family: 'Assistant', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+header #greeting {
+    background-color: rgba(236, 227, 209, 0.75);
+    margin: 20px 0 20px 0;
+    padding: 8px 90px 8px 90px;
+    width: auto;
+}
+header #greeting span {
+    font-family: 'Assistant', sans-serif;
+    font-size: 12px;
+}
+
+
+
+/***** ADVICE SECTION *****/
+
+section .advice {
+    background-color: rgba(236, 227, 209, .85);
+    margin: 50px 0 0 0;
+    width: auto;
+    padding: 50px 200px 50px 200px;
+}
+section div #point2 {
+margin-top: 40px;
+}
+section .advice h4 {
+    font-size: 20px;
+    line-height: 15px;
+}
+section .advice p {
+    font-family: 'Assistant', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+
+/***** FOOTER *****/
+
+footer {
+    font-family: 'Assistant', sans-serif;
+    font-weight: 200;
+    margin: 60px 0 20px 20px;
+}

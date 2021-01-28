@@ -1,0 +1,48 @@
+hr.rounded {
+  border-top: 20px solid;
+  border-radius: 50px;
+  width: 100px;
+}
+
+.header {
+  padding: 100px;
+  text-align: center;
+}
+
+.section {
+    margin: 50px;
+    padding: 50px;
+    width: 85%;
+}
+
+.h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 3rem;
+    margin: 11.8rem;
+    text-align: center;
+}
+
+.h4 {
+    clear: both;
+    font-family: 'Chelsea Market', cursive;
+    font-size: 2.5rem;
+    margin: 13rem, 0rem, 13rem, 0rem;
+    padding: 50em;
+    text-align: center;
+}
+
+#p {
+    align-content: center;
+    font-family: 'Share', cursive;
+    font-size: 2rem;
+    margin: 1rem 0rem 5rem 3rem;
+    overflow: auto;
+    padding: 2rem;
+    width: 40%;
+}
+    font-size: 14px;
+
+.footer p {
+    clear: both;
+    font-size: 1rem;
+}

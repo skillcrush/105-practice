@@ -1,0 +1,24 @@
+body {
+    font-family: Marcellus;
+    color: 	#585858;
+    font-size: 14px;
+    background-color: WhisteSmoke;
+    text-align: center;
+    justify-content: center;
+    margin: 50px 200px;
+}
+
+.advice h4 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.advice {
+    padding: 30px 100px 0px;
+}
+
+footer {
+    padding: 30px;
+    color: black;
+}
+

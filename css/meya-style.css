@@ -1,0 +1,48 @@
+/*****BODY STYLES*****/
+body {
+font-family: 'Jomolhari', serif;
+font-family: 'Anton', sans-serif;
+font-family: 'Lobster', cursive;
+}
+
+/*****GRID*****/
+
+body {
+width: 950px;
+margin: 0 auto;
+background-color:#c5e8ec;
+}
+
+/*****HEADER*****/
+header {
+height: 150px;
+margin: 0 auto;
+}
+
+header h1 {
+float: left;
+margin: 0 auto;
+padding: 65px 0 65px 25px;
+font-size: 45px;
+font-family: 'Lobster'
+}
+
+section{
+height: 950px;
+}
+
+section h4{
+font-family: 'Lobster';
+font-size: 25px;
+}
+
+section p{
+font-family: 'Jomolhari', serif;
+font-size: 20px;
+
+}
+footer {
+  height: 100px;
+  font-size: 14px;
+  text-align: center;
+}

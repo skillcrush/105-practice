@@ -1,0 +1,12 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: Helvetica, sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    background-color: rgba(95, 158, 160, 0.418);
+}
+
+h2, h3, h4 {
+    font-family: Georgia, serif;
+}

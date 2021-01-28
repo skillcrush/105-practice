@@ -1,0 +1,39 @@
+body {
+  background: #009933;
+}
+
+header img {
+  float: left;
+  width: 250px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  color: #ffff00;
+  text-align: left;
+  padding: 20px 40px 20px 0;
+  margin: 20px 0 100px 200px;
+}
+
+h1 span {
+  font-size: 60px;
+}
+
+h4 {
+  font-family: 'EB Garamond', serif;
+  font-size: 25px;
+  color: black;
+  line-height: 10px;
+  font-variant-caps: small-caps;
+}
+
+p {
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.advice span {
+  color: #ffff00;
+}

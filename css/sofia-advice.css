@@ -1,0 +1,74 @@
+/***BASE STYLES***/
+
+
+
+a{
+	color:#F96666;
+	
+}
+
+body{
+	color:#F96666;
+	text-transform: uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align:center;
+	border-style:solid;
+	padding-bottom:5px;
+}
+
+h1{
+	font-size:50px;
+}
+
+
+hr {
+   width: 90%;
+   height: 5px;
+   border: 0 none;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 20px;
+   margin-bottom:20px;
+   background-color:#5AC9CE ;
+}
+
+
+span{
+	text-transform:uppercase;
+	font-size: 50px;
+}
+
+.advice {
+	padding: 15px;
+}
+
+
+
+
+
+h1{
+	padding:25px;
+}
+
+#advice {
+	height: 450px;
+	width: 300px;
+	
+
+}
+
+
+#sofia-advice {
+	height:450px;
+
+}
+
+p{
+	color: black;
+	font-size:20px;
+}
+
+h4{
+ color:#5AC9CE ;
+ font-size:30px;
+}

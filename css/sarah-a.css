@@ -1,0 +1,21 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h1 {
+	color: darkcyan;
+}
+
+h4 {
+	color: midnightblue;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+p {
+	color: darkslategrey;
+}
+
+.skillcrush-advice {
+	text-align: center;
+}

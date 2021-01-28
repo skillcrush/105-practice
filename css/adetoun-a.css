@@ -1,0 +1,15 @@
+h4{
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 18px;
+}
+body{
+	background-color: #ffe6ff;
+	font-family: 'Chilanka', cursive;
+}
+span{
+	color: #ff6600;
+}
+footer{
+	color:  #000099;
+	font-weight: bold;
+}

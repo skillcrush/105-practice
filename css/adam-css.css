@@ -1,0 +1,27 @@
+body {
+  background-color: #222831;
+  font-family: 'Dosis', sans-serif;
+}
+
+header span {
+  font-family: 'Indie Flower', cursive;
+  font-size: 48px;
+}
+
+section span {
+  text-decoration: underline;
+}
+
+footer a {
+  color: #eeeeee;
+}
+
+.container {
+  background-color: #00adb5;
+  border-radius: 10px;
+  color: #222831;
+  margin: 2.5% auto;
+  padding: 5% 5%;
+  text-align: center;
+  width: 55%;
+}

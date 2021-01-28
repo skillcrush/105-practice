@@ -1,0 +1,45 @@
+/**Base Styles*/
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #2b2b2b;
+  text-align: justify;
+}
+header {
+  float: left;
+  margin: 20px auto;
+  height: 125px;
+  background: lavender;
+  border-bottom: 3px solid purple;
+}
+header h1 {
+  font-family: 'Lora', serif;
+  font-size: 30px
+  color: #bbc085;
+  text-align: left;
+  padding: 0 20px 0 20px;
+}
+h1 span {
+  color: purple;
+}
+.advice h4 {
+  font-family: 'Lora', serif;
+}
+.stephanie-advice {
+  width: 600px;
+  height: auto;
+  margin: 0 auto;
+}
+.advice {
+    padding: 0 20px 0 20px;
+}
+.advice p span {
+  color: purple;
+}
+footer {
+  text-align: center;
+  background: lavender;
+  width: 600px;
+  height: 50px;
+  margin-bottom: 20px;
+  border-top: 3px solid purple;
+}

@@ -1,0 +1,35 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: mintcream;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    text-align: center;
+    border: blueviolet solid 1px;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: lightseagreen;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+footer {
+    text-align: right;
+    padding-top: 1em;
+}
+/***** ADVICE *****/
+.advice {
+    text-align: center;
+}

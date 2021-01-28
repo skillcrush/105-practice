@@ -1,0 +1,50 @@
+/***** BASE STYLES *****/
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    min-width: 100%;
+}
+
+/***** GRID *****/
+.full-width {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 50%;
+    float: left;
+    border-top: 1px dotted #eee;
+}
+
+
+/***** HEADER *****/
+header {
+    height: 110 px;
+}
+
+header h1 {
+    padding: 40px 325px 20px 20px;
+    font-size: 30px;
+    font-family: 'Calligraffitti', cursive;
+}
+
+header h1 span {
+    color: #77a466;
+}
+
+
+/***** BODY *****/
+h4 {
+      font-family: 'Calligraffitti', cursive;
+      font-size: 25px;
+}
+
+/***** FOOTER *****/
+footer {
+      height: 50px;
+      border-top: 1px dotted #eee;
+      margin: 0 auto;
+      clear: both;
+      text-align: center;
+}

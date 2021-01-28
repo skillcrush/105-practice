@@ -1,0 +1,22 @@
+/****BASE STYLES****/
+body{
+	font-family:'PT Sans Narrow', sans-serif;
+	text-align:center;
+}
+p { 
+	color:#003366;
+	font-size:18px;
+ }
+
+ h1 {
+ 	font-family:'PT Sans Narrow', sans-serif;
+ 	color:#3d5c5c;
+ 	font-size:32px;
+ 	font-variant:small-caps;
+ }
+
+ h4{
+ 	font-family:'PT Sans Narrow', sans-serif;
+ 	color:#85adad;
+ 	font-size:24px;
+ }

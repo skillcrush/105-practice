@@ -1,0 +1,32 @@
+/***** BASE STYLES *****/
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+  }
+
+  h1{
+    color: #000099;
+  }
+  h1 #name{
+    font-family: 'League Script', cursive;
+  }
+
+  h4 {
+    color: #009900;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+  }
+
+#phrase {
+    color: #990000;
+    font-family: 'Comic Neue', cursive;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}

@@ -1,0 +1,32 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #FFF2AE;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

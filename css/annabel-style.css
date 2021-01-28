@@ -1,0 +1,48 @@
+body {
+  width: 100%;
+  padding-top: 10px;
+  background-color: #ffff66;
+  text-align: center;
+}
+
+a {
+  text-align: right;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #000066;
+}
+
+h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 50px;
+  text-align: center;
+  color: #cc0099;
+}
+
+h4 {
+  font-family: 'Poiret One', cursive;
+  font-size: 30px;
+  text-align: center;
+  color: #000066;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 30;
+  font-size: 14px;
+  color: #000066;
+}
+
+.p-advice {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.advice {
+  margin: 10px 40px 10px 40px;
+}
+
+footer {
+  margin-top: 40px;
+}

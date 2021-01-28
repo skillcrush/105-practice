@@ -1,0 +1,22 @@
+body {
+  background-color:#ccffcc;
+  font-family: 'Sriracha', cursive;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+
+}
+h1 {
+  font-size: 40px;
+}
+h4 {
+  font-size: 30px;
+  line-height: 0px;
+  margin-bottom: 0px;
+}
+p {
+  font-size: 20px;
+}
+span {
+  font-family: fantasy;
+}

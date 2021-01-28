@@ -1,0 +1,56 @@
+.ypadron-advice {
+  /* display: flex; */
+  max-width: 100%;
+  /* margin: auto; */
+}
+
+header  {
+  display: block;
+}
+
+a {
+}
+
+h1  {
+  display: flex;
+  padding: 2%;
+  border-radius: 25px 50px;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  background-color: lightseagreen;
+  color: white;
+}
+
+section {
+  /* display: flex; */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+}
+
+h4  {
+  font-size: 24px;
+  margin-left: 5%;
+  color: darkorange;
+}
+
+p {
+  display: flex;
+  max-width: 80%;
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  color: darkslategrey;
+}
+
+footer  {
+  display: flex;
+  background-color: lightseagreen;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px 25px;
+}
+
+footer p {
+  color: white;
+}

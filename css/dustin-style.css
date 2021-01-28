@@ -1,0 +1,47 @@
+.dustin-advice {
+	background-color: #333333;
+	color: #fff;
+	margin: 0 15%;
+	padding: 0 5%;
+
+}
+.dustin-advice header a{
+	color: #42ADDE;
+}
+.dusitn-advice header h1{
+	padding: 0;
+	margin: 0;
+}
+
+.dustin-advice header {
+	border-bottom: 2px solid #42ADDE;
+	font-size: 28px;
+	margin: 0;
+	padding: 0 4%;
+}
+.dustin-advice header span {
+	color: #42ADDE;
+}
+.dustin-advice section {
+	margin: 2%:
+	padding: 2%;
+}
+.advice h4 {
+	color: #42ADDE;
+	font-size: 24px;
+}
+.advice p {
+	padding: 0 2%;
+}
+.advice {
+	padding: 0 5%;
+
+}
+
+.dustin-advice footer {
+	margin: 5%;
+	text-align: center;
+	color: #42ADDE;
+	font-size: 14px;
+	border-top: 2px solid #42ADDE;
+}

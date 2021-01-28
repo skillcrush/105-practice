@@ -1,0 +1,181 @@
+body{
+    font-family: 'Fredoka One', cursive;
+    font-size: 16px;
+    background-color: black;
+    
+/**sky-background**/
+    background-image:
+    radial-gradient(white, rgba(255,255,255,.15) 0.05rem, transparent 0.5rem),
+    radial-gradient(white, rgba(255,255,255,.15) 0.15rem, transparent 0.7rem),
+    radial-gradient(white, rgba(255,255,255,.1) 0.12rem, transparent 0.6rem),
+    radial-gradient(white, rgba(255,255,255,.1) 0.15rem, transparent 0.5rem),
+    radial-gradient(white, rgba(255,255,255,.1) 0.16rem, transparent 0.5rem),
+    radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 0.2rem, transparent 0.5rem),
+    radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 0.1rem, transparent 0.5rem);
+    background-size: 10rem 10rem, 12rem 12rem, 13rem 13rem, 14rem 14rem, 15rem 15rem, 16rem 16rem, 8rem 8rem;
+    background-position: 0 0, 10% 20%, 30% 50%, 50% 90%, 80% 100%, 100% 5%;
+}
+
+.circles {
+    border-radius: 50%;
+    box-shadow: 0.05em 0.05em 0.5em #a7a5a5;
+}
+
+                 /***HEADER - title + buttom***/
+.half-width {
+    width: 50%;
+    margin: 0 0 10% 0;
+}
+header {
+    width: 100%;
+    height: 20%;
+}
+/*title*/
+header h1 {
+    color: coral;
+    margin: 1% 1% 5% 2%;
+    text-align: left;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+/*buttom*/
+a {
+    position: absolute;
+    left: 90%;
+    top: 1%;
+    font-size: 1.5rem;
+    border: coral solid 3px;
+    padding: 1%;
+    text-decoration: none;
+    color: coral 
+}
+
+                            /***MAIN***/
+
+/*base confis for paragraphs*/
+p {
+    color: whitesmoke;
+    font-size: 0.90rem;
+    text-align: center;
+    margin: 0;
+    padding: 20% 15% 5% 15%;
+}
+main {
+    width: 100%;
+    overflow: auto;
+}
+/*invisble mask to keep everything together*/
+#base-mask {    
+    width: 16rem;
+    height: 16rem;
+    padding: 3rem;
+    margin: 5rem auto;
+    position: absolute;
+    left: 35%;
+    top: 10%;
+}
+/**page upper planets - one, two, three**/
+#one {
+    background-image: radial-gradient(circle, rgb(0, 213, 255) 0%, black);
+    width: 13rem;
+    height: 13rem;
+    position: absolute;
+    left: -60%;
+    top: -10%;
+}
+#two {
+    background-image: radial-gradient(circle, rgb(255, 3, 159) 0%, black);
+    width: 11rem;
+    height: 11rem;
+    position: absolute;
+    left: 20%;
+    top: -40%;
+}
+/*ring for planet two*/
+#ring {
+    background-image: radial-gradient(circle, rgb(255, 248, 255) 0%, black);
+    width: 17rem;
+    height: 0.5rem;
+    margin: auto;
+    transform: rotate(0.02turn);
+    position: absolute;
+    left: -25%;
+    top: 45%
+}
+#p-above-ring {
+    padding: 15% 15% 10% 15%;
+}
+#p-under-ring {
+    padding: 10%;
+}
+#three {
+    background-image: radial-gradient(circle, rgb(220, 3, 3) 0%, black);
+    width: 12rem;
+    height: 12rem;
+    position: absolute;
+    left: 100%;
+    top: -20%;
+}
+/**SUN**/
+#sun {
+    background-image: radial-gradient(circle, rgb(243, 200, 14) 30%,rgb(243, 102, 2), #040000);
+    width: 16rem;
+    height: 16rem;
+    padding: 3rem;
+    margin: auto;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+#sun p {
+    color: rgb(0, 0, 0);
+    text-shadow: bisque;
+    font-size: 0.80rem;
+    text-align: center;
+    padding: 2% 9% 17% 9%;
+    margin: auto;
+}
+/**page's bottom planets - four, five, six**/
+#four {
+    background-image: radial-gradient(circle, rgb(117, 156, 50) 0%, black);
+    width: 13rem;
+    height: 13rem;
+    position: absolute;
+    left: 100%;
+    top: 50%;
+}
+#five {
+    background-image: radial-gradient(circle, rgb(119, 118, 112) 0%, black);
+    width: 11rem;
+    height: 11rem;
+    position: absolute;
+    left: 30%;
+    top: 97%;
+}
+#six {
+    background-image: radial-gradient(circle, rgb(80, 1, 77) 0%, black);
+    width: 11rem;
+    height: 11rem;
+    position: absolute;
+    left: -45%;
+    top: 70%;
+}
+
+/**FOTTER**/
+footer .full-width{
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    padding: 0;
+    margin: 0;
+}
+footer div p{
+     position: absolute;
+     bottom: 0%;
+     left: 0%;
+     color: coral;
+     padding: 0;
+     margin: 0;
+}

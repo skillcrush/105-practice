@@ -1,0 +1,93 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Futura';
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #f0f8ff;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'rockwell';
+}
+
+/***** HEADER *****/
+
+header {
+    padding: 25px 25px;
+}
+
+header h1 {
+    font-size: 68px;
+    margin-bottom: 25px;
+    color: #778899;
+}
+
+header h1 span {
+    color: #000000;
+    font-size: 72px;
+}
+
+header a {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #000000;
+    border: 3px solid #000000;
+    padding: 10px 10px;
+    margin-top: 25px;
+}
+
+/***** ADVICE *****/
+
+.top {
+    padding: 25px 25px;
+    background-color: #a9a9a9;
+}
+.middle {
+    padding: 25px 25px;
+    background-color: #2f2f4f;
+}
+.bottom {
+    padding: 25px 25px;
+    background-color: #a9a9a9;
+}
+
+.top h4, .bottom h4 {
+    font-size: 60px;
+    color: #2f2f4f;
+    margin-bottom: 0;
+    margin-top: 10px;
+    letter-spacing: 4px;
+}
+.middle h4 {
+  font-size: 60px;
+  color: #a9a9a9;
+  margin-bottom: 0;
+  margin-top: 10px;
+  letter-spacing: 4px;
+}
+
+.top p, .bottom p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #fffacd;
+}
+.middle p {
+  font-size: 32px;
+  line-height: 42px;
+  color: #fffacd;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 25px 25px;
+}
+
+footer p {
+    color: #a8aac0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

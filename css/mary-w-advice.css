@@ -1,0 +1,72 @@
+/***********BASE STYLES*********/
+
+body {
+      font-family: 'Work Sans', sans-serif;
+      color: #000000;
+      background-color: #b3daff;
+      width: 1000px;
+      margin: auto;
+}
+
+/**********HEADER**********/
+
+header a {
+      text-decoration: none;
+      color: #333399;
+      float: right;
+}
+
+header h1 {
+      font-family: 'Poppins', sans-serif;
+      text-align: center;
+      font-size: 50px;
+      color: #002266;
+      padding: 30px auto;
+}
+
+header {
+      margin: 25px auto;
+      overflow: auto;
+}
+
+/**********BODY***********/
+
+.advice {
+      overflow: auto;
+}
+
+.advice h4{
+   font-family: 'Poppins', sans-serif;
+   font-size: 25px;
+   text-transform: uppercase;
+   text-align: center;
+   color: #884dff;
+}
+
+.relax {
+      width: 500px;
+      float: left;
+      padding: 10px;
+      box-sizing: border-box;
+}
+
+.breaks {
+      width: 500px;
+      float: left;
+      padding: 10px;
+      box-sizing: border-box;
+}
+
+.breaks span {
+      font-family: 'Poppins', sans-serif;
+      font-style: italic;
+      color: #002266;
+}
+
+/**********FOOTER**********/
+
+footer {
+      text-align: center;
+      color: #002266;
+      font-size: 12px;
+}

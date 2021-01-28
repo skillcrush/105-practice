@@ -1,0 +1,36 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: mintcream;
+}
+p {
+    line-height: 1.5;
+}
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2.25em;
+    color: purple;
+    margin-top: 1em;
+}
+h4 {
+    font-family: 'Suez One', serif;
+    font-size: 1.5em;
+    font-weight: lighter;
+    color: orchid;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    padding-top: 1em;
+    color: purple;
+}

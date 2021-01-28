@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+}
+
+button {
+    float: left;
+}
+header {
+    color: white;
+    padding-right: 100px;
+}
+
+.quote-block {
+    width: 1200px;
+    color: rgb(153, 153, 153);
+    margin: 20px 100px 50px 100px;
+    border: 2px dotted gray;
+    padding: 20px
+}
+
+p {
+    font-size: 25px;
+    color: gray;
+    padding: 20px
+}
+
+.author {
+    color: rgb(53, 50, 50);
+}

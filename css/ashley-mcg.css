@@ -1,0 +1,64 @@
+/***** BASE STYLES *****/
+body {
+    font-family: 'Comic Neue', cursive;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Cherry Cream Soda', cursive;
+}
+
+/***** HEADER *****/
+header {
+    background-color: #e0ebeb;
+    padding: 20px 40px;
+}
+
+header h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+    color: #000066;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #000066;
+    padding: 20px 6px;
+    margin-top: 20px;
+}
+
+/***** ADVICE *****/
+.advice {
+    padding: 10px 40px;
+    background-color: #ffcccc;
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: #000066;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #000066;
+}
+
+/***** FOOTER *****/
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #e0ebeb;
+}
+
+footer p {
+    color: #000066;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

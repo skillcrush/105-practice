@@ -1,0 +1,50 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: #faf5f5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+h1 {
+    font-size: 30px;
+    color: rosybrown;
+    margin-top: 1em;
+    font-family: 'Sen', sans-serif;
+
+h1 span {
+  color: black;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: tomato;
+    font-family: 'Sen', sans-serif;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+}
+
+section p {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: dimgrey;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 3px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    font-family: 'Montserrat', sans-serif;
+    color: rosybrown;
+}

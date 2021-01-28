@@ -1,0 +1,60 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Raleway', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h2, h3, h4 {
+    font-family: 'Lora', serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #ddccff;
+    padding: 30px 40px;
+}
+
+h1
+{
+    font-size: 78px;
+}
+
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #262730;
+}
+
+    .advice h4 {
+        font-size: 56px;
+        color: #bb99ff;
+        margin: 100px 100px 0 100px;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+
+    .advice p {
+        font-size: 32px;
+        line-height: 42px;
+        color: #e4e4de;
+        font-weight: 200;
+    }
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #f2f2f2;
+}
+
+    footer p {
+        color: black;
+        text-align: center;
+        font-weight: bold;
+    }

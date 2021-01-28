@@ -1,0 +1,42 @@
+body, htmml {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #695976;
+    color: #B3B8D7;
+}
+a {
+    text-transform: uppercase;
+    font-size: .8em;
+    text-decoration: none;
+    color: #B3B8D7;
+    font-weight: bold;
+}
+h1 {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 2em;
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.3em;
+    font-style: italic;
+}
+main {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.kelley-advice {
+    max-width: 90%px;
+    padding: .5em;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    font-weight: 900;
+    margin-top: 30px;
+}
+
+
+

@@ -1,0 +1,128 @@
+
+/*** Google 
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Baskervville', serif; 
+
+Fonts ***/
+
+
+
+body {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Baskervville', serif; 
+}
+
+p, h5, h6, a {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #fff;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 60px;
+    margin-bottom: 0;
+    color: #87a95f;
+}
+
+header h1 span {
+    font-style: italic;
+    font-weight: 700; 
+}
+
+header h2 {
+	font-size: 48px; 
+    margin-top: 0;
+    margin-left: 50px;
+    color: #87a95f;
+}
+
+header h2 span {
+	font-weight: 500;
+	font-style: italic; 
+}
+
+header a {
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #77329f;
+    border-bottom: 1px solid #77329f;
+    padding: 5px;
+    margin-top: 20px;
+	float: right;
+}
+
+header a:hover {
+    background-color :#dad9d8;
+
+}
+
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px 40px 40px;
+    background-color: #a37cb3;  /*** changed background to purple ***/ 
+    width: 100%; 
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: #77329f;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+}
+
+.advice h4 span.quote {
+	display: block;
+    color: #ffffff;
+    font-style: italic;
+    width: 50%; 
+    margin: 0 auto; 
+    text-align: center; 
+}
+
+.advice p {
+    font-size: 28px;
+    line-height: 43px;
+    color: #ffffff;
+    font-weight: 200;
+    width: 80%; 
+    padding-left: 40px;
+    letter-spacing: 1px;
+}
+
+
+.advice .center {
+	text-align: center;
+	width: 100%; 
+	margin-left: 0; 
+	padding-left: 0;
+	color: #77329f; 
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #f2f2f2;
+}
+
+footer p {
+    color: #77329f;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: bold;
+}

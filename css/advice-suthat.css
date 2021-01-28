@@ -1,0 +1,68 @@
+/***** BASE STYLES *****/
+
+body {
+
+font-family: 'Roboto Condensed', sans-serif;
+max-width: 1280px;
+margin: 0 auto;
+
+}
+
+/***** HEADER *****/
+
+header {
+
+background-color: #031424;
+color: #ffffff;
+height: 180px;
+text-align: left;
+padding-left: 20px;
+padding-top: 20px;
+
+}
+
+a {
+
+text-decoration: none;
+color: #ffffff;
+border: 3px solid #ffffff;
+padding: 5px 10px;
+
+}
+
+/***** SECTION ONE *****/
+
+.adviceone {
+
+background-color: #8EAEBD;
+height: 180px;
+color: #ffffff;
+padding-top: 5px;
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+/***** SECTION TWO *****/
+
+.advicetwo {
+
+background-color: #8EAEBD;
+height: 240px;
+color: #ffffff;
+padding-top: 5px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+/***** FOOTER *****/
+
+footer {
+
+background-color: #CF6766;
+height: 60px;
+margin-top: -16px;
+padding-top: 10px;
+padding-left: 20px;
+
+}

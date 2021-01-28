@@ -1,0 +1,108 @@
+
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+    background-image:url("https://images.pexels.com/photos/983830/pexels-photo-983830.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+background-size:cover;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+    width: 100%;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  padding: 14px 10px;
+  text-decoration: none;
+
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ffa0f8;
+  color: white;
+}
+
+header {
+text-align: center;
+height:400px;
+
+}
+
+header h1 { 
+    padding: 65px 0 65px 25px;
+    font-family: 'Lora','serif';
+    font-weight: bolder;
+    font-size: 45px;
+    font-variant: small-caps;
+    color:#e4b8f5;
+        
+}
+
+/* Create three equal columns that floats next to each other */
+.third-width {
+  float: left;
+  width: 32%;
+padding: 10px;
+    margin: 10px;
+    height:300px;
+background-color: #e4b8f5;
+
+}
+
+/* Clear floats after the columns */
+.full-width:after {
+  content: "";
+  display: table;
+  clear: both;
+    align-self: center;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+/* Style the content */
+#advice {
+    margin: auto;
+padding: 10px,10px,10px,10px;
+  
+    overflow:auto;
+
+}
+#advice p{
+    
+    color:black;
+
+}
+#advice .full-width {
+    padding: 50px 0;
+}
+#quote p{
+    font-size: 32px;
+    font-display: block;
+}
+
+/* Style the footer */
+.footer {
+  background-color: #e4b8f5;
+  padding: 10px; 
+      position: fixed;
+  bottom: 0;
+    width:100%;
+}

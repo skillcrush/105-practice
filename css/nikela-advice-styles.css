@@ -1,0 +1,92 @@
+/* body & the parent container of all elements on this webpage*/
+body{
+  max-width: 100%;
+  background-color: #ffe6f9;
+}
+
+.container {
+  width: 100%;
+  margin-top: 75px;
+  overflow: auto;
+}
+
+
+/* header section*/
+header {
+  width: 100%;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #b30089, #ffe6f9);
+  border-bottom: solid;
+  border-top: solid;
+  border-color: white;
+}
+
+a:link {
+  color:white;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+
+/* website's text*/
+h1, h4 {
+  color: #666699;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  text-shadow: 30%;
+}
+
+h4 {
+  font-size: 45px;
+}
+
+p {
+  line-height: 175%;
+  font-family: 'Gayathri', sans-serif;
+  font-weight: bold;
+  color: #666699;
+  font-stretch: expanded;
+  font-size: 25px;
+}
+
+
+/* id's for advice colomn's 1 & 2*/
+#advice-1-margin {
+  margin-top: 0px;
+  padding-bottom: 60px;
+}
+
+#advice-1 {
+  width: 45%;
+  float: left;
+  padding: 70px 5px 249px 5px;
+  margin: 0px 10px 0px 30px;
+  border-style:double;
+  border-color: white;
+  border-width: 5px;
+}
+
+#advice-2 {
+  width: 45%;
+  float: left;
+  padding: 5px;
+  margin: 0px 5px 0px 30px;
+  border-style: double;
+  border-color: white;
+  border-width: 5px;
+}
+
+
+/* copyright*/
+footer {
+  text-align: center;
+  font-weight:bolder;
+  clear:both;
+}
+
+#copyright-color{
+  color: #b30089;
+}

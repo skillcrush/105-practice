@@ -1,0 +1,40 @@
+/*****Base Styles*****/
+body{
+  background-color: #b3d1ff;
+  color: #330033;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 500;
+}
+/*****Header*****/
+header a{
+  color: black;
+  text-decoration: none;
+}
+header h1{
+  font-size: 35px;
+}
+header span{
+  color: purple;
+  text-decoration: underline;
+}
+/*****Body*****/
+.advice{
+  border: 3px dotted #000080;
+  box-sizing: border-box;
+  padding: 0 15px;
+}
+.advice h4{
+  color: purple;
+  font-size: 25px;
+  font-variant: small-caps;
+  text-align: center;
+}
+.advice p{
+  font-size: 20px;
+  text-align: justify;
+}
+/*****Footer*****/
+footer{
+  color: purple;
+  text-align: center;
+}

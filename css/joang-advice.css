@@ -1,0 +1,48 @@
+/*****BASE STYLES*****/
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #E6C18E;
+}
+
+/*****HEADER*****/
+h1 {
+  font-size: 24px;
+  color: #4F1713;
+  font-weight: bold;
+  text-align: center;
+  padding: 25px;
+  clear: both;
+}
+h1 span{
+  font-family: 'Kaushan Script', cursive;
+  color: #D97A73;
+  font-size: 30px;
+}
+a {
+  color: black;
+  float: right;
+  text-decoration: none;
+  padding: 25px;
+}
+
+/*****BODY*****/
+.advice {
+  border: 4px solid #4f1713;
+  padding: 25px;
+  width: 800px;
+  margin-left: 300px;
+}
+h4 {
+  font-size: 18px;
+  color: #78231D;
+}
+p {
+  line-height: 25px;
+}
+
+/*****FOOTER*****/
+footer {
+  text-align: center;
+  font-size: 14px;
+  padding-top: 50px;
+}

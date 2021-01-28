@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: snow;
+}
+
+h1 {
+    color: slategray;
+}
+
+h4 {
+    color: royalblue;
+}
+
+footer p {
+    color: blueviolet;
+}

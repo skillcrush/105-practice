@@ -1,0 +1,44 @@
+header {
+    background-color: darkslateblue;
+}
+
+body {
+    font-family: Georgia, serif;
+}
+
+h1 {
+    font-size: 36px;
+    font-variant: small-caps;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 50px;
+    color: white;
+}
+
+a {
+    border: 2px solid white;
+    padding: 10px;
+    color: white;
+}
+
+h4 {
+    color: slateblue;
+    font-size: 22px;
+    text-align: center;
+}
+
+p {
+    padding-bottom: 20px;
+    margin: 0px 50px;
+}
+
+p.final{
+    border-bottom: 2px solid slateblue;
+}
+
+footer{
+    margin: 20px;
+    text-align: center;
+    color: slateblue;
+    font-weight: bolder;
+}

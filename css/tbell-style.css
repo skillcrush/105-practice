@@ -1,0 +1,95 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Roboto', sans-serif;
+}
+/***** GRID *****/
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+.half-width {
+    width: 600px;
+    float: left;
+}
+/***** HEADER *****/
+header {
+  background: #00008b;
+  overflow-y: auto;
+  clear: both;
+}
+header h1 {
+    font-size: 72px;
+    padding: 20px 25px 20px 25px;
+    line-height: 80px;
+    text-align: center;
+    color: #dcdcdc;
+}
+header h1 span {
+    color: #dcdcdc;
+}
+
+body p{
+  clear: both;
+}
+
+body a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #262730;
+    border: 3px solid #262730;
+    padding: 10px 20px;
+    background: #dcdcdc;
+
+}
+
+body a:hover {
+    background-color:#f2f2f2;
+    color: #dcdcdc;
+}
+
+/***** ADVICE *****/
+#advice .full-width {
+    background: #fc4445;
+    overflow: auto;
+    clear: both;
+}
+#advice h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    padding-left: 49px;
+}
+#advice p {
+    font-size:21;
+    line-height: 30px;
+    padding-left: 49px;
+    padding-right: 58px;
+}
+
+#advice p span {
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #f2f2f2;
+    border-color: #4682b4
+}
+
+footer p {
+    color: #4682b4;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

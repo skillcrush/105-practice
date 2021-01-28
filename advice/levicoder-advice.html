@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<!--
+Created from 1-05-2020 thru 1-06-2020 by Levi Fritsch. No, Coder is not my last name :)
+
+Most rights reserved.
+ -->
+<html lang="en" dir="ltr">
+  <head>
+
+    <!-- loads the fonts and stylesheet -->
+    <link href="https://fonts.googleapis.com/css?family=Lexend+Deca|Ubuntu:500&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="../css/levicoder-style.css">
+
+    <title>LeviCoder's Advice</title>
+  </head>
+  <body class="full-width">
+
+    <!-- back button -->
+    <br>
+    <a id="back-btn" href="../index.html">← Back to Main Page</a>
+    <br>
+    <br>
+    <!-- advice header -->
+    <header id="header" class="full-width">
+      <hr>
+      <h1>My Advice to Programmers</h1>
+      <hr>
+
+    </header>
+
+    <!-- this div contains the most of the content on the site so that the footer stays down at the bottom. There's a lot of 'float'ing in here. -->
+    <div id="content" class="full-width">
+
+      <!-- main article -->
+      <article id="main" class="two-thirds-width">
+
+        <div class="idea">
+        <h2>Stick to it!</h2>
+        <p>Make a commitment to be on the job daily. Even if you only put in five minutes a day, it's still progress, and keeps you in the habit! Many things you learn will be hard at first, but with practice become much easier. So keep up the good work!</p>
+        </div>
+
+        <div class="idea">
+        <h2>Do the research!</h2>
+        <p>If you're stuck or need help, check out sites like the <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a> for helpful tips and tricks. There are also a number of coding forums and blogs around the web. It's helpful to search these since other people might have already solved a similar problem.</p>
+        </div>
+
+        <div class="idea">
+        <h2>Go the extra mile!</h2>
+        <p>Do the best you can every time. Others will know you as someone who takes their idea to the next level. If you have the skills, use them!</p>
+        </div>
+
+      </article>
+
+      <!-- tips collumn to the right of the main article -->
+      <aside id="tips" class="third-width">
+
+        <h2>Hot Tips:</h2>
+        <ul>
+          <li>
+            <h3>1. Content, then styles.</h3>
+            <p>It can be easy to get distracted by styling. But it's more efficient to style <em>after</em> you have the content.</p>
+          </li>
+
+          <li>
+            <h3>2. Comment the code!</h3>
+            <p>Your code may make sense to you right now, but how about a few years into the future? And what if others want to understand it?</p>
+          </li>
+
+          <li>
+            <h3>3. Practice, practice, practice.</h3>
+            <p>When you learn a something new, try it out! Dont't be afraid to mess up. It's also a good idea to make a cheatsheet for ideas and concepts. It will be handy in the future!</p>
+          </li>
+
+          <li>
+            <h3>4. Save it often.</h3>
+            <p>One of the most frustrating scenarios is to make a bunch of progress, but lose it because you didn't save the code. So save it often. (And don't forget about Git and GitHub!)</p>
+          </li>
+
+          <li>
+            <h3>5. Validate your code!</h3>
+            <p>If you have a feeling that something is incorrect, plug the code into a validator like the <a href="https://validator.w3.org/#validate_by_input">W3C HTML Validator</a>. It will catch errors that you might not see.</p>
+          </li>
+
+        </ul>
+
+      </aside>
+
+    </div>
+
+    <!-- footer with some info -->
+    <footer id="footer">
+      <div>
+        <h3 class="float-l">Find me on:</h3>
+        <ul>
+          <!-- find me on GitHub!
+          credit to GitHub for the logo :) -->
+          <li>
+            <a href="https://github.com/LeviCoder"><span class="icon"><svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true" ><path fill="gray" fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></span></a>
+          </li>
+
+          <!-- no more for now -->
+        </ul>
+      </div>
+      <!-- copyright, with a little script so that it displays 2020 thru the current date -->
+      <h5>© Copyright LeviCoder 2020<span id="cur-date"></span>.</h5>
+
+    </footer>
+
+    <!-- here's that script! -->
+    <script type="text/javascript">
+
+      //Credit to a Khan Academy user for the 'returnYear' function.
+      function returnYear(date) {
+        date = date.toString();
+        var spaceCount = 0;
+        var returnVal = "";
+        for (var i = 0; i < date.length; i++) {
+          if (date.charAt(i) === " ") {
+              spaceCount ++;
+          }
+          if (spaceCount === 3 && date.charAt(i) !== " ") {
+              returnVal += date.charAt(i);
+          } else if (spaceCount > 3) {
+              return returnVal;
+          }
+        }
+        return "";
+      };
+
+
+      var curDate = document.getElementById("cur-date");
+      var date = new Date();
+      date = returnYear(date);
+      //checks that another date is needed
+      if(date > 2020) {
+        curDate.innerHTML = " - " + date;
+      }
+    </script>
+
+  </body>
+</html>

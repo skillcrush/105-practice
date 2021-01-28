@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+header {
+    width: 100%;
+}
+
+h1 {
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-size: 80px;
+}
+
+h1 span {
+    color: grey;
+}
+
+section {
+    width: 90%;
+    margin: 0 auto;
+}

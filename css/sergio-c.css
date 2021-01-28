@@ -1,0 +1,31 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    color: green;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: mistyrose;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: gold;
+    border: 13px dotted green;
+    margin-top: 1em;
+}
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: purple;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

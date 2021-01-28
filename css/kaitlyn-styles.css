@@ -1,0 +1,25 @@
+body {
+    font-family: arial, sans-serif;
+    background-color: #ff9999;
+    
+}
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    font-size: 55px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+li {
+    padding: 5px;
+}

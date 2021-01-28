@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: #FAEBD7;
+}
+
+.paragraph{
+  width: 600px;
+  padding-left: 100px;
+  font-size: 25px;
+}
+
+/***** HEADER *****/
+
+header {
+  background-color: #F0F8FF;
+  padding-left: 40px;
+  height: 200px;
+}
+
+header a{
+  text-decoration: none;
+  color: #000000;
+}
+
+header h1 {
+  font-size: 60px;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+/***** ADVICE *****/
+
+h4{
+  font-size: 40px;
+  padding-left: 30px;
+}
+span {
+  font-family:"Lucida Console", Monaco, monospace;
+  color:#8B0000;
+}
+
+footer{
+  padding-left: 500px;
+}

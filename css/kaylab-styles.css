@@ -1,0 +1,24 @@
+h1 {
+  color: #ac3939;
+  font-family: 'Lobster', cursive;
+  font-size: 36px;
+  line-height: 30px;
+}
+h4 {
+  color: #0099cc;
+  text-transform: uppercase;
+  text-size: 22px;
+}
+
+p {
+  color: black;
+  font-size: 18px;
+}
+.kaylab-advice {
+  width: 1200px;
+  background:  #ffe6e6;
+}
+.advice h4 {
+  border-bottom: 1px solid #ac3939;;
+  margin-bottom: 10px;
+}

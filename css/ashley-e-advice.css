@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Montserrat', 'sans-serif';
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Playfair Display', serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #4D6480;
+    padding: 30px 40px;
+}
+
+h1
+{
+    font-size: 78px;
+	color: #D4D2D5;
+}
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #e7c8be;
+}
+
+    .advice h4 {
+        font-size: 56px;
+        color: #4D6480;
+        margin-bottom: 0;
+        letter-spacing: 2px;
+    }
+
+    .advice p {
+        font-size: 32px;
+        line-height: 42px;
+        color: #4D6480;
+        font-weight: 200;
+    }
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px;
+    background-color: #4D6480;
+}
+
+footer p {
+	color: #D4D2D5;
+}

@@ -1,0 +1,73 @@
+/**BASE STYLES**/
+
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    padding: 80px 20px 20px 20px;
+    clear:both;
+}
+
+h1 span {
+    color: coral;
+}
+h4 {
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    line-height: 150%;
+}
+
+.third-width  {
+    float: left;
+    width: 350px;
+    overflow: auto;
+    padding: 0px 20px;
+}
+
+/** HEADER **/
+nav {
+    float:right;
+    text-align: right;
+    padding: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: coral;
+    font-weight: bold;
+}
+
+/** BODY **/
+#advice1 h4 {
+    padding: 20px 5px;
+    border: solid #f2f2f2 2px;
+    margin-bottom: 40px;
+}
+
+#advice2 h4 {
+    padding: 15px 0px;
+    border: solid #f2f2f2 2px;
+}
+
+#advice3 h4 {
+    padding: 20px 5px;
+    border: solid #f2f2f2 2px;
+    margin-bottom: 40px;
+}
+
+/**FOOTER**/
+footer {
+    padding: 20px;
+    clear: both;
+    text-align: center;
+    font-weight: bold;
+}
+

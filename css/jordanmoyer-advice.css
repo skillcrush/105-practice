@@ -1,0 +1,71 @@
+/***** base styles *****/
+
+body{
+	width: 100%%;
+	margin: 0 auto;
+	font-family: 'Lato', sans-serif;
+	border: 25px solid #ff66d9;
+	padding: 3%;
+}
+
+/***** header *****/
+
+header a{
+	text-decoration: none;
+	text-transform: lowercase;
+	font-size: 16px;
+	letter-spacing: 5px;
+	color: #4ddbff;
+}
+
+header a:hover{
+	border-bottom: 2px solid #4ddbff;
+}
+
+h1{
+	font-family: 'Roboto Mono', monospace;
+	font-size: 65px;
+	margin-bottom: 100px;
+}
+
+/***** advice section *****/
+
+h4{
+	color: #ffcc00;
+	background: #ffffcc;
+	font-family: 'Roboto Mono', monospace;
+	padding: 15px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+h4:hover{
+	background: #ffcc00;
+	color: #fff;
+}
+
+section p{
+	font-size: 16px;
+	line-height: 30px;
+	color: rgb(0, 0, 0, 0.5);
+}
+
+#suspended-disbelief{
+	margin-top: 50px;
+}
+
+/***** footer *****/
+
+footer{
+	border-top: 2px solid #88ff4d;
+	border-bottom: 2px solid #88ff4d;
+	margin-top: 50px;
+	padding: 10px 0;
+}
+
+footer p{
+	color: #cc66ff;
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+	letter-spacing: 5px;
+}

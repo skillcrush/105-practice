@@ -1,0 +1,84 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Amatic SC', cursive;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+/***** HEADER *****/
+
+header {
+    background-color: #f2f2f2;
+    padding: 30px 40px;
+}
+
+header h1 {
+    font-size: 72px;
+    margin-bottom: 0;
+    color: #161616;
+    text-align: center;
+}
+
+header h1 span {
+    color: #C71585;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #C71585;
+    border: 3px solid #C71585;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+
+
+/***** ADVICE *****/
+
+.advice {
+    padding: 10px 40px;
+    background-color: #FFF0F5;
+}
+
+.advice h4 {
+    font-size: 56px;
+    color: #FF69B4;
+    margin-bottom: 0;
+    letter-spacing: 2px;
+}
+
+.advice p span {
+    color: #C71585;
+}
+
+.advice p {
+    font-size: 32px;
+    line-height: 42px;
+    color: #008080;
+    font-weight: 200;
+}
+
+/***** FOOTER *****/
+
+footer {
+    margin: 0;
+    padding: 10px 40px; 
+    background-color: #f2f2f2;
+}
+
+footer p {
+    color: #a8aac0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}

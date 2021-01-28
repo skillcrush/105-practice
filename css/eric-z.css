@@ -1,0 +1,50 @@
+body {
+
+	font-family: 'Oxygen', sans-serif;
+}
+
+header {
+
+	height: 400px;
+	background-image: url(https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-994x400.jpg);
+}
+
+#advice {
+
+	background: #ebebeb;
+}
+
+a {
+
+	float: right;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 18px ;
+	color: #828282;
+	padding-left: 80px;
+}
+
+h1{
+
+	clear: both;
+	color: white;
+	font-weight: bold;
+	padding-top: 150px;
+}
+
+h4 {
+	clear: both;
+	font-weight: bold;
+
+	padding-top: 50px;
+}
+
+p {
+
+	font-size: 16px;
+	color: #7f7f7f;
+	line-height: 30px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+

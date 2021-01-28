@@ -1,0 +1,11 @@
+/ ***** BASE STYLES ***** /
+body {
+    font-family: 'Literata', serif;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Literata', serif;
+    background-color: #f8f8f2;
+    padding: 30px 40px;
+}

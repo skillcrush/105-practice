@@ -1,0 +1,32 @@
+ body {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 14px;
+    background-color: #FCF3E3;
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Garamond', serif; 
+ }
+
+ h1 {
+     font-size: 3em;
+     color: #63526E;
+ }
+
+ h4 {
+     font-size: 2em;
+ }
+
+ p {
+     letter-spacing: 2px;
+ }
+ 
+ .skillcrush-advice {
+    width: 1200px;
+     margin: 0 auto;
+ }
+
+ .advice h4 {
+     color: #ED4C87 ;
+ }
+

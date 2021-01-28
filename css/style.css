@@ -1,34 +1,30 @@
+/***** BASE STYLES *****/
 
-body{ text-align:center;
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
 }
 
-
-h1{
-  background-color:#cc66ff;
-  padding:10px;
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
 }
 
-h2{color:#3cb371;
-	font-size: 40px;
-	font-style: italic;
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
 }
 
-p{font-size: 20px;
-text-align: center;
-font-weight: bold; 
+a {
+    text-decoration: none;
+    color: #bb433d;
 }
 
-h3{text-transform: uppercase; 
-color: darkorchid;
+footer {
+    text-align: center;
+    padding-top: 1em;
 }
-
-div{font-weight: bold;
-	color: #663399;
-}
-
-
-
-
-
-
-

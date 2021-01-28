@@ -1,0 +1,57 @@
+body {
+    background-color: #cef5ce;
+    color: #5d0475;
+    font-weight: bold;
+    font-family: Georgia, sans-serif;
+
+}
+
+span {
+    font-weight: bolder;
+    font-size: 125%;
+    text-transform: capitalize;
+    font-style: italic;
+    color: hotpink;
+}
+
+
+#greeting {
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 300%;
+    color: hotpink;
+    margin: 50px 50px 25px 50px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 200%;
+    margin: 20px 50px 25px 50px;
+}
+
+p {
+    line-height: 150%;
+    font-style: italic;
+    margin: 0px 50px 20px 50px;
+
+
+}
+
+h4 {
+    font-weight: 200%;
+    font-size: 150%;
+    margin: 50px 50px 25px 50px;
+    color: #d8388a;
+}
+
+.advice {
+    border: 5px #d8388a double;
+    background-color: #f9d2ee;
+    margin: 10px 50px 0px 50px;
+}
+
+footer {
+    text-align: right;
+    margin: 10px 50px 0px 50px;
+}

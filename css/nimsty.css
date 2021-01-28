@@ -1,0 +1,68 @@
+#disney h4 {
+    font-size: 36px;
+}
+
+h5 {
+    text-align: center;
+    margin-top: auto;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 20px;
+}
+
+h4
+{
+    font-family: 'Cutive', serif;
+    color: #D3D0CB;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+li,p
+{
+    font-family: 'IBM Plex Serif', serif;
+    color: #2A324B ;
+    font-size: 18px;
+}
+
+h1
+{
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+html
+{
+    background-color: #99AFD7;
+}
+
+#confusion p {
+    width: 600px;
+    float: left;
+    padding-right: 22px;
+    padding-left: 20px;
+    padding-bottom: 4px;
+    text-align: justify;
+}
+
+img {
+    border-radius: 50%;
+    width: 82px;
+    padding: 8px;
+    float: left;
+    clear: left;
+    border: 1px white solid;
+}
+
+#disney ul {
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+}
+
+#disney li {
+    padding: 40px;
+    width: 660px;
+    margin-left: 102px;
+}

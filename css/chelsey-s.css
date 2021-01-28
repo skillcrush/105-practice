@@ -1,0 +1,48 @@
+/*** BASE STYLES ***/
+
+body {
+  font-family: 'Averia Sans Libre', cursive;
+  font-size: 20px;
+}
+
+
+/*** HEADER ***/
+
+header {
+  height: 300px;
+  text-align:center;
+  padding-top: 10px;
+  background: url('https://cdn.pixabay.com/photo/2018/05/13/12/53/network-3396348_960_720.jpg');
+  background-size: cover;
+}
+
+header h1 {
+  color: #ffffff;
+  padding-top: 90px;
+}
+
+header nav{
+  float:right;
+}
+
+
+
+/*** MAIN ***/
+main {
+  padding: 40px;
+  background-color: #8c2d64;
+}
+
+main h4 {
+  text-align: center;
+  width: 400px;
+  padding: 7px;
+  border: 4px solid #000000;
+}
+
+
+/*** FOOTER ***/
+footer {
+  padding-top: 40px;
+  text-align: center;
+}

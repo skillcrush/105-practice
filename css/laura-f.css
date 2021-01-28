@@ -1,0 +1,37 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Mulish', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #daf2f3;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #20dde4;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #59eb1f;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+h1 span {
+    font-family: 'Permanent Marker', sans-serif;
+    text-transform: capitalize;
+}
+

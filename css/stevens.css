@@ -1,0 +1,19 @@
+h1 {
+    text-decoration: underline;
+}
+
+/********** base styles ***********/
+
+body [
+    font-family: 'Roboto', serif;
+    margin: 0 auto;
+]
+
+/ ********* HEADER *************** /
+
+header {
+    background-color: red;
+    text-align: left;
+    color: royalblue;
+
+}

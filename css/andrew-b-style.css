@@ -1,0 +1,64 @@
+/****** BASE STYLES ******/
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #2b2b2b;
+}
+
+/****** GRID ******/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+.half-width {
+	width: 600px;
+	float: left;
+	display: inline-block;
+}
+
+/****** HEADER ******/
+
+a {
+	color: #204060;
+	font-size: 14px;
+	text-decoration: none;
+	margin: 0 auto;
+}
+
+header h1 {
+	text-align: center;
+	color: #204060;
+	font-size: 36px;
+	width: 1000px;
+	padding: 0 50px 0 50px;
+	margin: 50px auto;
+}
+
+/****** BODY ******/
+
+#advice h4 {
+	color: #79a6d2;
+	font-size: 18px;
+	text-align: center;
+}
+
+#advice p {
+	padding-left: 50px;
+	padding-right: 50px;
+	line-height: 25px;
+}
+
+/****** FOOTER ******/
+
+footer {
+	clear: both;
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+
+
+
+

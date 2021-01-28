@@ -1,0 +1,150 @@
+/***** BASE STYLES *****/
+
+body { 
+	font-family: 'Roboto', sans-serif;
+	color: #2b2b2b;
+	background: white;
+	padding: 60px 40px 60px 40px;
+}
+
+
+/***** GRID *****/
+
+
+.welcome {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.advice {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.practice {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.motivation {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.clear-fix {
+	clear: both;
+	width: 100%;
+}
+
+/***** HEADER *****/
+
+
+header a {
+	text-decoration: none;
+	font-size: 20px;
+	color: #A0A0A0;
+}	
+	
+
+header h1 { 
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 50px;
+	color: #A0A0A0;
+	text-align: center;
+	text-transform: uppercase;
+	font-style: oblique;
+}
+
+/***** MAIN *****/
+
+#advice h2 {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #A0A0A0;
+	padding: 40px 0 15px 0;
+	font-style: oblique;
+}
+
+#advice p {
+	color: #696969;
+	font-size: 17px;
+}
+
+#advice ul li {
+	color: #696969;
+	font-size: 17px;
+	list-style-type: square;
+	padding: 10px 0 10px 0;
+}
+
+
+#practice h2 {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #A0A0A0;
+	padding: 40px 0 15px 0;
+	font-style: oblique;
+}
+
+#practice p {
+	color: #696969;
+	font-size: 17px;
+}
+
+#practice ul li {
+	color: #696969;
+	font-size: 17px;
+	list-style-type: square;
+	padding: 10px 0 10px 0;
+}
+
+#practice ul li span {
+	font-style: oblique;
+}
+
+#motivation h2 {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #A0A0A0;
+	padding: 40px 0 15px 0;
+	font-style: oblique;
+}
+
+#motivation p {
+	color: #696969;
+	font-size: 17px;
+}
+
+#motivation ul li {
+	color: #696969;
+	font-size: 17px;
+	list-style-type: square;
+	padding: 10px 0 10px 0;
+}
+
+#motivation ul li span {
+	font-style: oblique;
+	font-weight: bold;
+}
+
+#motivation img {
+	padding: 25px 300px 25px 300px;
+}
+
+/***** FOOTER *****/
+
+footer p {
+	text-align: center;
+	color: #696969;
+}
+	
+
+
+
+
+
+
+
+
+	

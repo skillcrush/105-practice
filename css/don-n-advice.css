@@ -1,0 +1,10 @@
+/***** BASE STYLES *****/
+
+body {
+  font-family: 'helvetica', serif;
+  color: #2b2b2b;
+  background-color: powderblue;
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 20px;
+}

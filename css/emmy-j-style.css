@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body {
+    background-color: #faf5f5;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 1em;
+    width: 70%;
+}
+
+h1 {
+    background: #f16059;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.25em;
+    margin-top: 1em;
+    padding: 30px 15px;
+    text-align: right;
+}
+h4 {
+    color: #f16059;
+    font-size: 1.5em;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    text-align: right;
+}
+
+a {
+    color: #bb433d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+    text-decoration: underline;
+}
+
+footer {
+    padding-top: 1em;
+    text-align: center;
+}

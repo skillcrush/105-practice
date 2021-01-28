@@ -1,0 +1,44 @@
+/***** BASE STYLES *****/
+
+
+body {
+    font-size: 10px;
+    margin: 0 auto;
+    background: #444443;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5px 5px 5px 5px;
+}
+
+h1 {
+    font-size: 20px;
+    color: #333;
+    margin: 10px;
+    padding: 1em 1em 1em 1em;
+    border: solid 1px;
+    background-color: aliceblue;
+}
+
+.advice{
+    background-color: rgba(248, 252, 252, 0.918);
+    border: solid 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: bold;
+    color: 	#404040;
+}
+
+a {
+    text-decoration: none;
+    color: 	white;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color: white;
+}

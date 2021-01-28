@@ -1,0 +1,16 @@
+body h1 {
+    font-family: 'Corben', cursive;
+    font-size: 40px;
+    color: blueviolet;
+}
+
+h4 {
+    font-family: 'Baloo Thambi 2', cursive;
+    color: aquamarine;
+    font-size: 20px;
+}    
+
+p {
+    font-size: 12px;
+    color: coral;
+}

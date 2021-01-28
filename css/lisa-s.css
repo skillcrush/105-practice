@@ -1,0 +1,29 @@
+body {
+  width: 1200px;
+  margin: 0 auto;
+}
+#back-link {
+  color: #000000;
+}
+#back-link:hover {
+  color: #e75480;
+}
+h1 {
+  margin-top: 80px;
+}
+h1, h2, h4 {
+  color: #e75480;
+  text-align: center;
+}
+p {
+  color: darkgrey;
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
+.space {
+  margin-bottom: 50px;
+}
+#copyright {
+  text-align: center;
+}

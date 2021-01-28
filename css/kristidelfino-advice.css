@@ -1,0 +1,16 @@
+body {
+    background: lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    color: darkgoldenrod;
+}
+
+h1 {
+    font-size: 50px;
+    color: orangered;
+}
+
+h4 {
+    font-size: 30px;
+    color: orangered;
+}

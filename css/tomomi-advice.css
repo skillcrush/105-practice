@@ -1,0 +1,40 @@
+body {
+  background: #006666;
+}
+header h1 {
+  font-family: 'Satisfy', cursive;
+  font-size: 80px;
+  text-align: center;
+  color: white;
+}
+
+span {
+  font-size: 110px;
+  color: fuchsia;
+}
+
+section {
+  margin: 50px;
+  margin-top: 70px;
+  border: 9px dotted fuchsia;
+}
+
+section h4 {
+  font-family: 'Satisfy', cursive;
+  font-size: 40px;
+  color: fuchsia;
+}
+
+section p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+#confusion {
+  padding: 25px 40px 0px 40px;
+}
+
+#disbelief {
+  padding: 20px 40px 50px 40px;
+}

@@ -1,0 +1,43 @@
+
+body {
+   width: 100%
+   margin: 0 auto;
+   font-family: 'Crimson Text', serif;
+   background: #5f9ea0;
+}
+
+header {
+    text-aling: center
+    padding: 20px 0px;
+    color: #4d004d;
+  }
+
+h1, h4 {
+    color: #4d004d;
+    font-family: 'Rock Salt', cursive;
+    font-size: 40px;
+    padding: 50px 50px;
+    text-align: left;
+}
+
+h4 {
+   font-size: 25px;
+   text-align: left;
+}
+
+section {
+   padding: 100px 100px;
+   line-height: 25px;
+}
+
+p {
+    color: #ffffff;
+    font-size: 22px;
+    font-family: 'Crimson Text', serif;
+    text-align: justify;
+}
+
+footer  {
+  text-align: center;
+  color: #4d004d;
+}

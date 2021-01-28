@@ -1,0 +1,10 @@
+/ ***** MAIN *****/
+background {
+        color: blue;
+}
+
+/ ***** HEADER *****/
+
+header h1 {
+    color: purple;
+}   

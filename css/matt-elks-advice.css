@@ -1,0 +1,36 @@
+/*********** BASE STYLES **************/
+
+.matt-advice{
+    width: auto;
+    text-align: center;
+    background-color: #827081;
+    font-family: 'Bitter', serif;
+}
+
+/********** HEADER *************/
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #E7E6F7;
+}
+
+h1{
+    font-size: 35px;
+    color: #C89FA3;
+    text-decoration: underline;
+}
+
+/********** MAIN ***************/
+
+h4{
+    font-size: 30px;
+    color: #E7E6F7;
+}
+
+p{
+    font-size: 25px;
+    font-style: italic;
+    color: #E3D0D8;
+}
+

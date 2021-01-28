@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	padding: 3em;
+}
+
+h1,
+h4,
+p,
+a {
+	font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	background: green
+	color: white;
+	padding: 0.5em;
+}
+
+a:hover {
+	text-decoration: none;
+	background: black;
+	color: white;
+	padding: 0.5em;
+}
+
+h1 {
+	margin: 2em;
+	padding-bottom: 1em;
+	border-bottom: 2px solid #eeeeee;
+	color: purple;
+}
+
+h4 {
+	font-size: 1.2em;
+	font-weight: 600;
+	color: green;
+}
+
+footer {
+	border-top: 2px solid #eeeeee;
+	padding: 1em;
+	margin: 2em;
+	color: green;
+}

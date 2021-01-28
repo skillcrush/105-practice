@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #BlanchedAlmond;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 300;
+    font-weight: bolder;
+    color: #1f1f14;
+    margin-top: 1em;
+}
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100;
+    font-weight: bold;
+    color: #000000;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

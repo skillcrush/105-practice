@@ -1,0 +1,49 @@
+/*****BASE STYLES*****/
+body {
+    background-color: #E8E9FF;
+    color: darkslategray;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/*****HEADER*****/
+header {
+    padding: 30px 30px 5px 30px;
+    box-sizing: border-box;
+}
+a {
+    color: #660099;
+    cursor: pointer;
+    background: transparent;
+    text-decoration: underline;
+}
+a:hover {
+    font-weight: bold;
+}
+h1 {
+    padding: 20px 0px 0px 0px;
+    color:#660099;
+}
+
+/*****MAIN*****/
+section {
+    padding: 0px 30px 40px 30px;
+}
+h4 {
+    font-size: 22px;
+    color: #660099;
+}
+span {
+    color: #660099;
+    font-weight: bold;
+}
+
+/*****FOOTER*****/
+footer {
+    margin: auto;
+    text-align: center;
+    color: #660099;
+    font-weight: bold;
+}
+

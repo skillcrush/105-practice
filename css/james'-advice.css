@@ -1,0 +1,161 @@
+/******************* Base Styles ***************/
+body {
+ font-family: 'Quantico', sans-serif;
+ color: #3e4444;
+ background: #c6ecc6;
+}
+#intro {
+	height: 50px;
+}
+#advice {
+	height: 900px;
+}
+#copyright {
+	height: 120px;
+}
+/*************** Grid ***************************/
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+.half-width {
+	width: 600px;
+	float: right;
+}
+
+/**************** Header ****************/
+
+header h1{
+	font-size: 35px;
+	font-variant: small-caps;
+}
+header h1 span {
+	color: #cca300;
+	font-family: 'Caveat', cursive;
+	font-weight: bolder;
+}
+
+/*************** Main *****************/
+         /***************** part-1 *************/
+main .full-width-1 {
+	width: 1200px;
+	margin: 0 auto;
+	height: 200px;
+}
+					/************** half-width-1-1 *************/
+main .half-width-1-1 {
+	width: 150px;
+	float: left;
+	padding-left: 25px;
+}
+main .half-width-1-1 h4 {
+	color: #3e4444;
+	font-family: 'Quantico', sans-serif;
+	line-height: 20px;
+}
+main .half-width-1-1 h4 span {
+   font-family: 'Shadows Into Light', cursive;
+	text-transform: uppercase;
+	line-height: 20px;
+ }
+
+					/************* half-width-1-2 ***************/
+main .half-width-1-2 {
+	width: 600px;
+	float: left;
+	padding: 75px 0;
+}
+main .half-width-1-2 p {
+	padding: 0 30px;
+	text-indent: 20px;
+	line-height: 20px;
+	font-family: 'Quantico', sans-serif;
+}
+
+			/******************** part-2 ****************/
+main .full-width-2 {
+	width: 1200px;
+	margin: 0 auto;
+	height: 200px;
+	clear: both;
+}
+					/************  half-width-2-1 ***************/
+main .half-width-2-1 {
+	width: 200px;
+	float: left;
+	padding-left: 100px;
+}
+main .half-width-2-1 h4 {
+	color: #3e4444;
+	font-family: 'Quantico', sans-serif;
+}
+main .half-width-2-1 h4 span {
+	text-transform: uppercase;
+	line-height: 20px;
+	font-family: 'Shadows Into Light', cursive;
+}
+					/*************** half-width-2-2 ************/
+main .half-width-2-2 {
+	width: 600px;
+	float: left;
+	padding: 75px 0;
+}
+main .half-width-2-2 p {
+	padding: 0 30px;
+	text-indent: 20px;
+	line-height: 20px;
+	font-family: 'Quantico', sans-serif;
+}
+			/*************** Part 3 ****************/
+main .full-width-3 {
+	width: 1200px;
+	margin: 0 auto;
+	height: 200px;
+	clear: both;
+}
+					/****************** half-width-3-1 *************/
+main .half-width-3-1 {
+	width: 250px;
+	float: left;
+	padding-left: 200px;
+}
+main .half-width-3-1 h4 {
+	color: #3e4444;
+	font-family: 'Quantico', sans-serif;
+}
+main .half-width-3-1 h4 span {
+	text-transform: uppercase;
+	line-height: 20px;
+	font-family: "Shadows Into Light", cursive;
+}
+
+					/*************** half-width-3-2 ***************/
+main .half-width-3-2 {
+	width: 600px;
+	float: left;
+	padding: 75px 0;
+}
+main .half-width-3-2 p {
+	padding: 0 30px;
+	text-indent: 20px;
+	line-height: 20px;
+	font-family: 'Quantico', sans-serif;
+}
+
+/********************** Footer *************/
+
+footer .full-width-foot {
+	width: 1200px;
+	margin: 0 auto;
+}
+footer p {
+	text-align: right;
+	font-family: 'Quantico', sans-serif;
+	padding-right: 150px;
+}
+footer p span {
+	color: #cca300;
+	font-family: 'Caveat', cursive;
+	font-weight: bolder;
+}

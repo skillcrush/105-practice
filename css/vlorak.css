@@ -1,0 +1,115 @@
+/***** BASE STYLES *****/
+
+body {
+       font-size: 21px;
+       line-height: 23px;
+       padding: 1em;
+       margin: 0 auto;
+       font-family: 'Mallanna', sans-serif;
+       background-image: linear-gradient(90deg, #428e92  38%, #00838f 38%, #00838f 58%, #005662 55%);
+       background-size: 100% 100%;
+       background-repeat: no-repeat;
+       color:#ffffff;
+
+}
+
+/***** GRID *****/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+    }
+
+.half-width {
+  width: 520px;
+  float: left;
+  }
+
+  .third-width {
+    width: 340px;
+    float:left;
+  }
+
+
+
+  a {
+      text-decoration: none;
+      color: #ffffff;
+      float: left;
+      text-transform: lowercase;
+      background-color: #005662;
+      padding: 10px;
+      border: 1px solid gold;
+      border-radius: 10px;
+      font-size: 16px;
+
+
+
+  }
+
+  a:hover {
+    background-color: #4fb3bf;
+  }
+
+  h1 {
+      font-size: 1em;
+      color: #ffffff;
+      font-family: 'Cinzel Decorative', cursive;
+      text-align: center;
+      padding: 0px 0px 0px 300px;
+      width:500px;
+      line-height: 1.50em;
+  }
+
+
+
+  .hi {
+    color: yellow;
+    font-size: 50px;
+  }
+
+
+.advice-info-overload, .advice-info-notes, .advice-info-motivation {
+  padding:0px 20px;
+
+}
+
+
+.advice-number {
+  display: block;
+  font-size: 100px;
+  font-weight: bold;
+  padding-bottom: 50px;
+  color:gold;
+}
+
+
+h4 {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: gold;
+    font-family: 'Cinzel Decorative', cursive;
+    width:400px;
+
+
+}
+
+.save-answers {
+  padding-left: 17px;
+}
+
+
+.save-answers p {
+    border: 1px dotted yellow;
+    padding: 15px;
+    width:700px;
+    background-color: #005662;
+    border-radius: 0px 30px;
+    color:yellow;
+    clear: both;
+}
+
+footer {
+    text-align: center;
+    padding-right: 80px;
+}

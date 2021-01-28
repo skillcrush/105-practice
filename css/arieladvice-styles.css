@@ -1,0 +1,12 @@
+/****** BASE STYLES ******/
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+    align-items: center;
+  }
+  h4 {
+      font-family: 'Nunito', sans-serif;
+      font-size: 36px;
+      padding: 65px 0 65px 25px;
+  }

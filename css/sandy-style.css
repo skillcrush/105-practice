@@ -1,0 +1,61 @@
+section {
+	width: auto;
+	margin: auto;
+
+}
+.container{
+	width: auto;
+	align-self: center;
+}
+header{
+	background-color: #adc2eb;
+	width: 90%;
+	align: auto;
+	padding: 25px;
+	margin-bottom: 1px;
+	border-bottom: 1px solid #2b5688;
+}
+h1 {
+	font-family: "Lora";
+	font-size: 24px;
+	text-align: center;
+	color: #2b5688;
+}
+a{
+	float: right;
+	color: #ffffff;
+	margin-right: 20px;
+}
+section p {
+	text-align: left;
+	color: #2b5688;
+}
+section h1 {
+	font: 24px 'Open Sans';
+	font-weight: normal;
+}
+
+section p {
+	font: 16px 'Open Sans';
+}
+
+h4{
+	text-align: center;
+	color: #2b5688;
+	text-transform: uppercase;
+	padding-top: 2px;
+}
+
+.left, .right {
+	width: 40%;
+	float: left;
+	padding: 0% 3% 3%;
+	margin: 0px 5px;
+	background-color: #ecf2f9;
+}
+
+footer {
+	color: #2b5688;
+	clear: left;
+	text-align: center;
+}

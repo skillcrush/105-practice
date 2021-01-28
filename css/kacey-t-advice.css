@@ -1,0 +1,54 @@
+/*****BASE STYLES*****/
+
+body {
+    font-family: 'Playfair Display', serif;
+    background: #bef2e2;
+}
+
+#back-button {
+    color: #06664d;
+    text-decoration: none;
+    text-transform: lowercase;
+    border: 1px solid #06664d;
+    font-size: 14px;
+    padding: 2px 4px 2px 4px;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: #06664d;
+    border: 5px dotted #033526;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.advice {
+    text-align: center;
+    background: #17c08d;
+    margin: 0px 30px 30px 30px;
+    padding: 2px 10px 10px 10px;
+}
+
+.advice-two {
+    text-align: center;
+    background: #17c08d;
+    margin: 0px 30px 30px 30px;
+    padding: 2px 10px 10px 10px;
+}
+
+h4 {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 10px;
+}
+
+p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+footer {
+    clear: both;
+    color: #06664d;
+}
