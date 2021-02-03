@@ -1,0 +1,105 @@
+/*
+
+h1:
+    font-family: 'Gochi Hand', cursive;
+
+h4:
+    font-family: 'Nunito', sans-serif;
+
+h2:
+    font-family: 'Homemade Apple', cursive;
+
+*/
+/****** responsive ******/
+
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+@-ms-viewport {
+  width: device-width ;
+}
+
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #faf5f5;
+    width: auto;
+}
+
+header {
+    background: rgba(255, 255, 255, 0.75);
+    box-sizing: content-box;
+}
+
+.full-width {
+    margin: 0 auto;
+    overflow: auto;
+    width: 1200px;
+}
+
+.half-width {
+    float: left;
+    width: 600px;
+}
+
+.third-width {
+    float: left;
+    width: 350px;
+}
+
+.box {
+   background: rgba(255, 255, 255, 0.75);
+   width: 600px;
+   padding: 20px;
+   box-sizing: content-box;
+   margin: 10px 250px;
+}
+
+.text-box {
+    width: 600px;
+    overflow: auto;
+}
+
+h1 {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 2.25em;
+    color: #333;
+    margin: 1em;
+    padding-top: 75px;
+    padding-right: 0px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+}
+
+span {
+      font-family: 'Homemade Apple', cursive;
+      padding: 0 10px;
+      color: #f16059;
+}
+
+h2 {
+      font-family: 'Homemade Apple', cursive;
+      padding-left: 50px;
+}
+
+h4 {
+    font-family: 'Rock Salt', cursive;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
