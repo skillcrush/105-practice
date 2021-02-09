@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 1em;
+    margin: 0 auto;
+    background: #095256;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #ffffff;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: #095256;
+}
+span {
+
+    font-size: 24px;
+    font-weight:bold;
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+/***** GRID *****/
+
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+}
