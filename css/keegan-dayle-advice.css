@@ -1,0 +1,33 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #BBDED9;
+    font-family: Open Sans;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #335E58;
+    margin-top: 1em;
+    font-family: Montserrat;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #4F5E5C;
+}
+
+a {
+    text-decoration: underline;
+    color: #90ABA7;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    font-size: 10px;
+}
