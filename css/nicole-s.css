@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1561&q=80");
+}
+
+
+.advice {
+    border: lightgray solid 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h4 {
+    text-transform: capitalize;
+}
+
+
+footer p {
+    color: grey;
+}
