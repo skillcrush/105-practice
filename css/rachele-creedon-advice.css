@@ -1,0 +1,39 @@
+/***** BASE STYLES *****/
+
+.rachele-creedon-advice {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: mistyrose;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    clear: both;
+}
+
+h4 {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #508F32;
+}
+
+p .advice{
+    display: flex;
+    flex: 1 1 200px;
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}

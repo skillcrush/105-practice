@@ -1,0 +1,30 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: lavender;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: purple;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: maroon;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
