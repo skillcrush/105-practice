@@ -1,0 +1,17 @@
+.marisa-advice h1 {
+    text-transform: uppercase;
+    color: orchid;
+
+}
+
+.marisa-advice h4 {
+    color:gold;
+    text-decoration: underline;
+}
+.marisa-advice p {
+    color:white;
+}
+
+.marisa-advice {
+    background: black;
+}
