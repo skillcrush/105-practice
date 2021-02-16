@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: lavender;
+    margin: 0 auto;
+    padding: 10px;
+    width: 950px;
+}
+
+.advice {
+    border: 5px cyan dotted;
+    padding: 15px;;
+}
+
+h1 {
+    font-family: 'Architects Daughter', cursive;
+    color: rebeccapurple;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    color: rebeccapurple;
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
