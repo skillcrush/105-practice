@@ -1,0 +1,25 @@
+body {
+    background-color: mintcream;
+}
+h1 {
+    font-family: helvetica;
+    font-weight: bolder;
+    color: slategrey;
+    text-transform:uppercase;
+    text-align:center;
+    text-decoration: underline;
+}
+h4 {
+    font-family: helvetica;
+    font-size: 22px;
+    font-weight: bold;
+    color: slategrey;
+}
+p {
+    font-family: sans-serif;
+}
+
+footer{
+    font-weight: bold;
+    font-size: 10px;
+}
