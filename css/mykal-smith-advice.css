@@ -1,0 +1,46 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 20px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #004d4d;
+    color: #ffcc99;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #ffffcc;
+    margin-top: 1em;
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+
+}
+
+span {
+  font-family: 'Pacifico', cursive;
+  font-size: 55px;
+
+}
+
+h4 {
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffcc;
+    font-family: 'Zilla Slab', serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: #e6e6e6;
+;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+    color:  #e6e6e6;
+
+}
