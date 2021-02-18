@@ -1,0 +1,50 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  color: #252422;
+  background: #ccc5b9;
+}
+
+a {
+  text-decoration: none;
+  color: #252422;
+}
+
+a:hover {
+  color: #837569;
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: 'Newsreader', serif;
+  font-size: 60px;
+}
+
+h4 {
+  font-size: 24px;
+  text-transform: none;
+  text-align: center;
+}
+
+p {
+  line-height: 24px;
+}
+
+
+.skillcrush-advice {
+  width: 1280px;
+  margin: 15px 50px;
+}
+
+.advice {
+  margin: auto;
+  width: 50%;
+}
+
+footer {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 5px;
+}
