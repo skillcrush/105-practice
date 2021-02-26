@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1467685790346-20bfe73a81f0?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80");
+    background-repeat:  no-repeat;
+    background-size:cover;
+    color: aliceblue;
+    font-weight: normal;
+}
+
+.full-width{
+    width:1200px;
+    margin: 20px auto;
+}
+
+.advice{
+    text-align: center;
+}
+
+h1{
+    margin-top: 100px;
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+
+h2{
+    font-size: 100px;
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Big Shoulders Inline Text', cursive;
+    font-weight: normal;
+}
+
+p{
+    text-align: center;
+}
+
+footer{
+    margin-top: 175px;
+}
