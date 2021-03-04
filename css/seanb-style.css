@@ -1,0 +1,43 @@
+/***** BASE STYLES *****/
+
+body {
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #c7eced;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #333;
+    margin-top: 1em;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f16059;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+
+a {
+    text-decoration: none;
+    color: #bb433d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+/** CLASSES **/
+
+.sean-advice {
+  color: #424345;
+}
